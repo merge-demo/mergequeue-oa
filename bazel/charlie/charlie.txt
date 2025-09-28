@@ -6894,6 +6894,7 @@ celtidaceae
 celtiform
 celtillyrians
 consortiums
+coarb
 celtis
 cowal
 celtish
@@ -17365,7 +17366,6 @@ conclamant
 contrapuntally
 camarada
 coaration
-coarb
 comptonite
 curiosity
 cadis
