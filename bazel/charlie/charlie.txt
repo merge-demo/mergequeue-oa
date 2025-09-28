@@ -13515,7 +13515,6 @@ comitiva
 cylindroid
 consecrater
 caudillos
-cylindromatous
 crosswords
 cylindrometric
 carceration
@@ -19079,6 +19078,7 @@ collectivizing
 collectivum
 cocrucify
 clang
+cylindromatous
 collectorate
 collectors
 circumscissile

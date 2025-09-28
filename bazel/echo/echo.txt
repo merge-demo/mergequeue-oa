@@ -9709,6 +9709,7 @@ extima
 easing
 eventuated
 entoptoscopic
+eudesmol
 essay
 epistomata
 embargo
@@ -12093,7 +12094,6 @@ emasculation
 effervescing
 excruciable
 excruciated
-eudesmol
 enframement
 epicerebral
 egressor
