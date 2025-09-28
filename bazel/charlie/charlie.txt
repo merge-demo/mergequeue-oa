@@ -13410,7 +13410,6 @@ cicurate
 coffered
 cicuta
 competitress
-confessionalist
 calcifying
 classifications
 cicutoxin
@@ -21643,6 +21642,7 @@ chemicoluminescent
 cellarets
 concurrentness
 corsepresent
+confessionalist
 coercer
 cofinal
 concurs
