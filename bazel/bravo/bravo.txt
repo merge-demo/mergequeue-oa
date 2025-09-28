@@ -4502,6 +4502,7 @@ bedaggle
 berrybush
 beday
 barrack
+balarama
 bulbed
 babul
 biddable
@@ -6283,7 +6284,6 @@ benzylic
 bethinking
 benzine
 blackfly
-balarama
 broodily
 bubbliness
 benzocaine

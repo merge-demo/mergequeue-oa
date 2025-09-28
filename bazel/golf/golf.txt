@@ -4707,6 +4707,7 @@ gecks
 garshuni
 gytling
 goniale
+graphometric
 gitonin
 graphitizable
 gratinate
@@ -8217,7 +8218,6 @@ geebung
 giardiasis
 gre
 garamond
-graphometric
 gaseosity
 gara
 galenite
