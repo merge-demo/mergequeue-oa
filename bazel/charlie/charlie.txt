@@ -3924,7 +3924,6 @@ clathrarian
 carcajous
 chelas
 cancrum
-castor
 carcake
 carcanet
 carousel
@@ -8113,6 +8112,7 @@ carnifying
 circumterrestrial
 chafing
 carriage
+castor
 chafted
 chimneylike
 cudgeller
