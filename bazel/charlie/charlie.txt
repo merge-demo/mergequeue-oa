@@ -13690,7 +13690,6 @@ churchgoer
 chagal
 circumventive
 cyanometry
-cynaroid
 cystiferous
 chromatical
 cinch
@@ -31788,6 +31787,7 @@ customshouse
 cartels
 custron
 censoriousness
+cynaroid
 custumal
 cut
 collicle
