@@ -5196,7 +5196,6 @@ fosterlings
 foliaging
 foxiness
 frontierlike
-frivolers
 fiot
 foreclaw
 fuchsia
@@ -7770,6 +7769,7 @@ fieri
 foremother
 frithbot
 flyblew
+frivolers
 flickery
 faint
 fraenum

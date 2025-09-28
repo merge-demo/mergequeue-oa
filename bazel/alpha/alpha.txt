@@ -9287,6 +9287,7 @@ alphonsin
 airproof
 atonalism
 anomoeanism
+armill
 adance
 alphosis
 assessorial
@@ -15791,7 +15792,6 @@ anagram
 allegiant
 antipsalmist
 acidimeter
-armill
 accommodationist
 accidia
 aer
