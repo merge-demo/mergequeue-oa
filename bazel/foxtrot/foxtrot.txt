@@ -8421,6 +8421,7 @@ formalist
 fallibilist
 flurr
 foreboded
+florets
 floweriness
 foppish
 forpine
@@ -9492,7 +9493,6 @@ formaliter
 fissiparousness
 flatbottom
 floatman
-florets
 fibdom
 freeheartedly
 functionalism

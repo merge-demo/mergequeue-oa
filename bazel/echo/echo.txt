@@ -967,6 +967,7 @@ euchrone
 epencephalic
 eodiscid
 erythroblastotic
+ettirone
 eudiagnostic
 eidolology
 effluviable
@@ -10491,7 +10492,6 @@ etta
 endosteally
 equation
 ettercap
-ettirone
 escalan
 ettle
 ecclesiolatry
