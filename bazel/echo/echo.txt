@@ -9369,7 +9369,6 @@ expectedly
 escalator
 excommunicable
 eupepsia
-escalated
 exilition
 eighths
 eucti
@@ -12713,6 +12712,7 @@ epigraphist
 embus
 exopterygotism
 eurypygae
+escalated
 epha
 espressivo
 englishman
