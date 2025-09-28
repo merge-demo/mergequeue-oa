@@ -7632,7 +7632,6 @@ bisellia
 bridewain
 buckshots
 beamfilling
-blastosphere
 bondminder
 bookrack
 bigamized
@@ -14261,6 +14260,7 @@ bursicle
 braggy
 braggier
 bontok
+blastosphere
 bullpates
 bhotiya
 beamsman
