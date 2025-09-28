@@ -5621,7 +5621,6 @@ defrauded
 discouraging
 dei
 desaturation
-depaint
 daying
 demographical
 disorganiser
@@ -7051,6 +7050,7 @@ despondence
 despondencies
 dar
 discrowns
+depaint
 despondentness
 diagnosable
 dogmatical
