@@ -2326,7 +2326,6 @@ decenters
 disaggregation
 digestors
 drags
-decentralising
 decentralize
 daphne
 decoded
@@ -4628,6 +4627,7 @@ doyens
 diaskeuasis
 deforming
 dali
+decentralising
 drabbletail
 decopperization
 domelike
