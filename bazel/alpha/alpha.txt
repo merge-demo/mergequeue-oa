@@ -17412,7 +17412,6 @@ appeal
 appealable
 askance
 attame
-acanthodea
 appealing
 appealingly
 agruif
@@ -24221,6 +24220,7 @@ autophytic
 albespyne
 aberdonian
 acquist
+acanthodea
 aluminographic
 autophytograph
 analgesist
