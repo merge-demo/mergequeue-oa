@@ -9894,7 +9894,6 @@ ambigu
 ambiguity
 arkansite
 ambilateralaterally
-amtrac
 antipatharia
 ambisexuality
 archilute
@@ -20870,6 +20869,7 @@ almshouse
 azygomatous
 amphophilous
 asceticism
+amtrac
 ascetta
 argyll
 acetabula
