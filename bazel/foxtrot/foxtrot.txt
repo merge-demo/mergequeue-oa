@@ -3208,7 +3208,6 @@ feracious
 fusilade
 foredetermination
 flutterers
-flavourer
 flotages
 fringiness
 foods
@@ -9196,6 +9195,7 @@ frija
 flustroid
 fixive
 fanaloka
+flavourer
 fruiterer
 fascinations
 foveoles
