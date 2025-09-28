@@ -2331,6 +2331,7 @@ gibbartas
 galopin
 geldings
 gol
+glucine
 gelated
 gorgets
 gymnics
@@ -5525,7 +5526,6 @@ glaucus
 gorses
 graysbies
 grammel
-glucine
 glochidiate
 gallery
 grained

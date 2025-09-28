@@ -11665,6 +11665,7 @@ activize
 antimoniate
 analysis
 analyst
+archon
 awestricken
 aurei
 amminolytic
@@ -18912,7 +18913,6 @@ adhering
 astronautical
 airmailed
 archocele
-archon
 alarm
 archonship
 autorotation
