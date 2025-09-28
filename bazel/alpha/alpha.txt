@@ -15571,6 +15571,7 @@ addice
 antipasch
 astrogeology
 akmite
+alcatras
 antipastic
 aureolin
 acromania
@@ -22745,7 +22746,6 @@ anodizing
 aniseroot
 ampullate
 aquariist
-alcatras
 adjudger
 archelaus
 atrament
