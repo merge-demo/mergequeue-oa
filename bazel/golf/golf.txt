@@ -2733,6 +2733,7 @@ gunfire
 greenflies
 germanism
 guestchamber
+geognosist
 gorraf
 gipped
 gallused
@@ -5165,7 +5166,6 @@ gumboots
 gonystylaceous
 guativere
 gracility
-geognosist
 gleamily
 gabble
 gharial
