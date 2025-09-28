@@ -7064,7 +7064,6 @@ dareall
 didle
 diorama
 donkeys
-disrespectful
 despose
 dreadfulness
 drearily
@@ -7349,6 +7348,7 @@ decolonization
 depositum
 diphthongia
 diphthongization
+disrespectful
 disaggregated
 diapausing
 determinately
