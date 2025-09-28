@@ -7465,6 +7465,7 @@ flidder
 fawning
 flashpan
 fleyedness
+forklift
 featherwood
 fordoes
 flittingly
@@ -8357,7 +8358,6 @@ flaveria
 forkless
 freedoms
 formicative
-forklift
 flebile
 forklike
 forswornness
