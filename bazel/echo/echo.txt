@@ -7460,7 +7460,6 @@ extraterrestrial
 encyclicals
 ephelcystic
 eunuchizing
-extinguishant
 ephemeralities
 effluvial
 embattling
@@ -13048,6 +13047,7 @@ expellent
 elaidic
 egueiite
 evaluations
+extinguishant
 euphonized
 expermentized
 emus
