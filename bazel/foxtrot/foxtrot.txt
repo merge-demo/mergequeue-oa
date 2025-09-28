@@ -5405,7 +5405,6 @@ fetis
 fragmentize
 forbled
 foremade
-frisado
 factorial
 fledgiest
 floatless
@@ -11509,6 +11508,7 @@ fusariose
 fanfold
 forgettingly
 fusariosis
+frisado
 flypasts
 firebirds
 fidgetation

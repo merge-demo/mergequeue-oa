@@ -6099,7 +6099,6 @@ boskiness
 bloodthirsting
 blueleg
 brassiest
-bailiffry
 bemoaning
 benefit
 boca
@@ -10407,6 +10406,7 @@ baritone
 bribetaking
 beachboy
 beneficium
+bailiffry
 boghole
 bimuscular
 barytostrontianite
