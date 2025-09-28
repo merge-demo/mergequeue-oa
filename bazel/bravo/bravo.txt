@@ -899,6 +899,7 @@ burdies
 balmily
 balewort
 burbush
+boglander
 bimodality
 beaverite
 belanda
@@ -8498,7 +8499,6 @@ brownistical
 blondish
 bumph
 bilking
-boglander
 bubs
 bonny
 bateful
