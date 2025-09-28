@@ -729,7 +729,6 @@ gunner
 giantlikeness
 greenskeeper
 gollywog
-gonoplasm
 galvanoglyph
 gerbillinae
 gummiest
@@ -6150,6 +6149,7 @@ grooves
 gobiesociform
 greenkeeping
 ghosthood
+gonoplasm
 graphoanalytical
 gonococcus
 gargarize

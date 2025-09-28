@@ -4792,6 +4792,7 @@ fissurellidae
 feuillants
 fortunetelling
 flocculable
+freeholding
 feltmonger
 flaunching
 freshened
@@ -7555,7 +7556,6 @@ floggers
 foggier
 fractionise
 forecourts
-freeholding
 fulmen
 furuncles
 faille
