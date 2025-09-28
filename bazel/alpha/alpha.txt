@@ -3698,7 +3698,6 @@ adipocellulose
 adipoceriform
 adipoid
 angiology
-amati
 anthocyan
 airwaves
 antitropous
@@ -22208,6 +22207,7 @@ antirattler
 archae
 antiauthoritarianism
 ammu
+amati
 astrogeologist
 ariadne
 antihypochondriac
