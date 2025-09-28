@@ -20,7 +20,6 @@ fabler
 frankers
 flawy
 fashional
-fanciest
 fractioned
 furiouser
 febricula
@@ -10286,6 +10285,7 @@ fatheadedness
 falernian
 folkmot
 faultless
+fanciest
 fromenty
 fromenties
 fogyishness
