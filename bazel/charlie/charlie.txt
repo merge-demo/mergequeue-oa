@@ -3711,6 +3711,7 @@ caraways
 carbachol
 chirata
 croceines
+chignon
 cryoprotective
 carbamate
 caballeria
@@ -25657,7 +25658,6 @@ computers
 convincers
 cyanogenic
 circumvolant
-chignon
 centals
 constitutive
 committals
