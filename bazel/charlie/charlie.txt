@@ -14487,6 +14487,7 @@ cathay
 citharoedus
 charnel
 cuttanee
+caunus
 concreter
 cirrostratus
 conscription
@@ -14891,7 +14892,6 @@ citrated
 cassandras
 cytomorphological
 cyton
-caunus
 chess
 choreography
 cartmaker
