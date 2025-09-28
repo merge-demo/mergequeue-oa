@@ -6516,7 +6516,6 @@ entail
 ephemeris
 egomaniacal
 enrollment
-essayists
 entrenchments
 entails
 eaglet
@@ -13613,6 +13612,7 @@ extends
 eponychium
 extensibility
 euphemization
+essayists
 epilemma
 extensions
 eggcup

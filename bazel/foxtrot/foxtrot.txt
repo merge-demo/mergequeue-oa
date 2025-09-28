@@ -1984,7 +1984,6 @@ firespout
 fitched
 flossflower
 fortunel
-feelingful
 floative
 fayed
 futiley
@@ -5568,6 +5567,7 @@ flockowner
 fossicking
 firefight
 fader
+feelingful
 fibrinocellular
 flycatchers
 flicflac
