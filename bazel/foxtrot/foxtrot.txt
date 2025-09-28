@@ -3569,7 +3569,6 @@ foggily
 filched
 fellowmen
 frenchism
-fogie
 flamboyance
 fencelet
 foremention
@@ -4907,6 +4906,7 @@ funiculi
 fascial
 fruitfulness
 fireworkless
+fogie
 fulgural
 flourescent
 fino
