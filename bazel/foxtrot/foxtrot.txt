@@ -3743,6 +3743,7 @@ forkiness
 flotilla
 fillipeen
 formanilide
+feuilleton
 flushing
 foregirth
 fangotherapy
@@ -11228,7 +11229,6 @@ ferned
 flemished
 fluorescing
 funked
-feuilleton
 funky
 filter
 functional
