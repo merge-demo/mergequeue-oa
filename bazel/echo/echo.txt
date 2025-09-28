@@ -3663,7 +3663,6 @@ envenom
 eternised
 exergues
 embryological
-endocoeliac
 embosking
 embryologist
 embryonic
@@ -9643,6 +9642,7 @@ enfrai
 esparsette
 encloud
 espartos
+endocoeliac
 enhydritic
 especialness
 esperantido

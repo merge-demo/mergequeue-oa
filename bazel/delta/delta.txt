@@ -11852,7 +11852,6 @@ defendress
 dissociates
 donatress
 discussions
-dogmeat
 dioptomiter
 disdained
 disdainer
@@ -14365,6 +14364,7 @@ dropworm
 demagnetizes
 droving
 divan
+dogmeat
 dewier
 decolouration
 dieselization
