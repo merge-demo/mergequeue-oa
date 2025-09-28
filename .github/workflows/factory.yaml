@@ -36,11 +36,11 @@ jobs:
         id: edits
         run: ./mq generate
         env:
-          GH_TOKEN: ${{ secrets.ELI_MQ_PAT }}
+          GH_TOKEN: ${{ secrets.ELI_MQ }}
 
       - name: run mq
         if: always()
         id: clean
         run: ./mq housekeeping
         env:
-          GH_TOKEN: ${{ secrets.ELI_MQ_PAT }}
+          GH_TOKEN: ${{ secrets.ELI_MQ }}
