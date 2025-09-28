@@ -10355,7 +10355,6 @@ earthed
 endorsement
 englacially
 ethnologically
-excitability
 edgestone
 embezzlements
 exhibitive
@@ -13827,6 +13826,7 @@ euvrou
 euplectella
 enlightener
 extracloacal
+excitability
 expos
 emplanement
 euthenics

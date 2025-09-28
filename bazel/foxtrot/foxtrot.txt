@@ -3939,6 +3939,7 @@ feuilletonism
 fraple
 ferrocyanogen
 falsehearted
+forbears
 furrowed
 fireboxes
 fluoresces
@@ -4892,7 +4893,6 @@ foldedly
 frumpy
 fibrinate
 fellage
-forbears
 freedmen
 fairwater
 forwent
