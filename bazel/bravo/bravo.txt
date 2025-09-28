@@ -6696,6 +6696,7 @@ bolograph
 balize
 berhyme
 bestials
+burden
 bamboos
 belauds
 bert
@@ -8170,7 +8171,6 @@ bluebuck
 biethnic
 beflecking
 baryes
-burden
 byeworkman
 bifaces
 bedrabble

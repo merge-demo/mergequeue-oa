@@ -1817,6 +1817,7 @@ ectogeneous
 explicatory
 ethylamin
 embodiments
+encastrement
 euryprognathous
 eyeglasses
 enginous
@@ -4456,7 +4457,6 @@ eringoes
 enneadianome
 ezekiel
 encastre
-encastrement
 encaustically
 emotionalizing
 efferent
