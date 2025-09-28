@@ -7315,6 +7315,7 @@ beclasps
 betony
 banovina
 berkshire
+bilberries
 biophagous
 bombesin
 beetled
@@ -12479,7 +12480,6 @@ bulkage
 broadness
 broncholith
 bacquet
-bilberries
 bridesman
 blepharedema
 bonnetman
