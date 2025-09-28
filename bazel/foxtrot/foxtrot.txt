@@ -640,7 +640,6 @@ foveolet
 feedbags
 floaty
 falsifying
-falunian
 fertilisation
 fanum
 fauster
@@ -9355,6 +9354,7 @@ fireguard
 foreschool
 flocci
 folcgemot
+falunian
 funambulating
 florilegium
 frying

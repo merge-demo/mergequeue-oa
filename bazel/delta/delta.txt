@@ -8651,6 +8651,7 @@ delfs
 domed
 didactyl
 dissection
+dissembler
 dyassic
 dishevelled
 delousing
@@ -9059,7 +9060,6 @@ demidog
 delia
 dehort
 deaminating
-dissembler
 demerara
 dictaen
 disenchanting
