@@ -1829,6 +1829,7 @@ gouts
 gemmiparity
 guinean
 gullah
+gradiometric
 gingiva
 gatekeeper
 grizel
@@ -7637,7 +7638,6 @@ gardebras
 glozed
 gastropodan
 guardhouses
-gradiometric
 gaup
 gastrophilus
 gnawed

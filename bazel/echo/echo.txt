@@ -11216,6 +11216,7 @@ enkindling
 enthronised
 elohism
 encomimiums
+exortion
 eradiated
 evangeliarium
 enalyron
@@ -12763,7 +12764,6 @@ engold
 earlike
 elsewise
 enterosyphilis
-exortion
 endodontia
 exosmose
 exosmotic
