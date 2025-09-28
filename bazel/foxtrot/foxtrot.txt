@@ -2136,6 +2136,7 @@ fuligulinae
 flaws
 felloe
 finfoots
+fingerbreadth
 fumette
 fameful
 famously
@@ -2569,7 +2570,6 @@ fogramity
 flongs
 ferrocyanate
 ferroelectric
-fingerbreadth
 fouty
 ferrogoslarite
 forcet

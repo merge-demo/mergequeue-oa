@@ -5379,7 +5379,6 @@ decorative
 deambulatories
 dentistry
 dentists
-dentition
 detribalizing
 differing
 decarbonylated
@@ -5889,6 +5888,7 @@ deprecator
 deprecatory
 dioptry
 desensitization
+dentition
 degradingness
 delaines
 dregless
