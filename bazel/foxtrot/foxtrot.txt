@@ -7108,6 +7108,7 @@ famelessness
 feh
 frigid
 foundress
+frigidaire
 feeder
 foreporch
 ferly
@@ -10966,7 +10967,6 @@ fouling
 fallfish
 firmless
 freesias
-frigidaire
 furors
 forgettable
 fumaroidal
