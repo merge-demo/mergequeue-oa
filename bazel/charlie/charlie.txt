@@ -5014,6 +5014,7 @@ catchfly
 competer
 crofterization
 carvage
+crabit
 carval
 culpabilis
 carve
@@ -24916,7 +24917,6 @@ corals
 corymbiferous
 crassitude
 coruscations
-crabit
 coranto
 crazier
 caproate
