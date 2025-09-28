@@ -4497,6 +4497,7 @@ glyptology
 grame
 grindingly
 grizzlies
+grakle
 grandmothers
 grumous
 gypster
@@ -10453,7 +10454,6 @@ gallotannic
 gentleheartedly
 gundalow
 greetings
-grakle
 gummatous
 gneissy
 gerrymandered
