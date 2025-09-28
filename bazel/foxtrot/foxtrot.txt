@@ -191,7 +191,6 @@ forums
 flatfoots
 furnarius
 flier
-factorable
 flimsies
 forcut
 finitary
@@ -8420,6 +8419,7 @@ fades
 formalist
 fallibilist
 flurr
+factorable
 foreboded
 floweriness
 foppish

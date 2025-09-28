@@ -9890,6 +9890,7 @@ electrotelethermometer
 editorial
 eugenicist
 enterohepatitis
+enhydris
 esthiomene
 extenuatingly
 exiles
@@ -12780,7 +12781,6 @@ exospore
 endrumpf
 epeiridae
 endoproct
-enhydris
 excresce
 eurycerotidae
 epomophorus
