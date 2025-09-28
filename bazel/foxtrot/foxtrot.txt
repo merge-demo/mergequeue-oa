@@ -1613,6 +1613,7 @@ frijol
 fervescence
 flannel
 fawkener
+fictionizing
 fawn
 funfair
 fawned
@@ -3244,7 +3245,6 @@ forestay
 forestish
 fictionized
 frankheartness
-fictionizing
 foutre
 forcene
 fireballs
