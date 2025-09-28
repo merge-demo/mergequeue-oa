@@ -8435,7 +8435,6 @@ deliracy
 dialog
 ditties
 defibrinize
-dialogers
 drearihead
 doorway
 droplet
@@ -12621,6 +12620,7 @@ decorament
 duplicidentate
 disjunctively
 detailers
+dialogers
 deseed
 dolefullest
 dibble
