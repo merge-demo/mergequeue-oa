@@ -3155,7 +3155,6 @@ basepoint
 boleros
 boride
 brazen
-blanda
 bayete
 bashers
 bashibazouk
@@ -5837,6 +5836,7 @@ bailiffship
 belongs
 bandcutter
 bakuba
+blanda
 bombycina
 banderillero
 belonidae
