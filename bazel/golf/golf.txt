@@ -9322,7 +9322,6 @@ geophila
 graduate
 galleasses
 goliad
-gunnysacks
 ghaznevid
 goodyish
 gadis
@@ -10519,6 +10518,7 @@ goalee
 gypsous
 grayishness
 garn
+gunnysacks
 goblinry
 gundie
 graspingness

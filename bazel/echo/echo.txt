@@ -11538,6 +11538,7 @@ elenchus
 encodement
 embrittled
 epitrochlea
+etageres
 errantness
 ennoy
 evocator
@@ -12139,7 +12140,6 @@ energise
 elasticin
 exuviating
 exploits
-etageres
 egally
 elasmobranchian
 exiguity
