@@ -3246,6 +3246,7 @@ diatomous
 demijohn
 duet
 dolabre
+disimprovement
 dolliness
 delaying
 deciduary
@@ -10211,7 +10212,6 @@ diphthong
 dirdum
 dynode
 daguilla
-disimprovement
 disfigured
 distresses
 darkling
