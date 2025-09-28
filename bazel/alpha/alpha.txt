@@ -1425,6 +1425,7 @@ absinthian
 acclimatement
 acclimates
 agglutinator
+applicatory
 acclimating
 adaty
 anaesthyl
@@ -17624,7 +17625,6 @@ applications
 annexed
 avigator
 applicatively
-applicatory
 applicators
 appliedly
 akim

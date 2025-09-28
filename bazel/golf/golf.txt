@@ -8431,7 +8431,6 @@ glaze
 glands
 golfing
 graveclod
-genl
 gibaro
 gibblegabbler
 graffias
@@ -10655,6 +10654,7 @@ generalizeable
 gurgitation
 gasolines
 gladius
+genl
 gyric
 goatsbane
 galp

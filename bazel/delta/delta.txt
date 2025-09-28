@@ -14192,7 +14192,6 @@ disvisage
 disyoked
 dungari
 doublet
-dragoons
 disvisor
 disjudication
 disvoice
@@ -16538,6 +16537,7 @@ drad
 dearworth
 dungan
 dradge
+dragoons
 draegermen
 disregards
 dadder
