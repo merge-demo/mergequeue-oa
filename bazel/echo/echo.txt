@@ -2926,7 +2926,6 @@ embank
 evaporatively
 embarrassments
 eyewinks
-elicitation
 elicitor
 equivalvular
 enricher
@@ -6705,6 +6704,7 @@ eulogiser
 ecrevisse
 epulis
 espundia
+elicitation
 endamebiasis
 entertainingly
 entertainingness

@@ -2894,7 +2894,6 @@ farcin
 freighted
 fackins
 firefighters
-footstall
 fettucini
 fungiferous
 fistulate
@@ -10795,6 +10794,7 @@ floundered
 faciendum
 faintful
 fuchsine
+footstall
 flustra
 foveation
 foredestined

@@ -492,6 +492,7 @@ bituminiferous
 breakax
 bismillah
 betweentimes
+babuls
 be
 bridely
 backstitch
@@ -9611,7 +9612,6 @@ bamboozling
 bromids
 burhinus
 bedrolls
-babuls
 beneficing
 bezzled
 battable
