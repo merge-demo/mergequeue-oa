@@ -5823,7 +5823,6 @@ deportment
 desmotropism
 dacker
 draftman
-deepnesses
 dysmetria
 deposer
 deposers
@@ -7386,6 +7385,7 @@ deashed
 disagreed
 determiner
 discographical
+deepnesses
 didine
 duplification
 disgraceful
