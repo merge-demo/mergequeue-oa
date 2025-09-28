@@ -22771,7 +22771,6 @@ columnizes
 conoscopic
 conplane
 centuriation
-counterevidence
 cryosphere
 capitoline
 chartless
@@ -30079,6 +30078,7 @@ crowhop
 cushewbird
 christdom
 crowhopper
+counterevidence
 chadacryst
 circa
 crowingly

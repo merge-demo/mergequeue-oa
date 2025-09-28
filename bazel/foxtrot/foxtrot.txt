@@ -2544,7 +2544,6 @@ forewarningly
 forequarter
 finlandization
 fluvicoline
-fleerer
 flimp
 ferricyanide
 ferrihydrocyanic
@@ -5366,6 +5365,7 @@ floccillation
 ferrocyanide
 faverel
 fluoridise
+fleerer
 frizzes
 foredetermine
 flunkyistic
