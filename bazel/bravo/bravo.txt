@@ -2120,6 +2120,7 @@ bribery
 bathochromy
 bantu
 bladed
+borons
 barbellulae
 birma
 botrychium
@@ -6799,7 +6800,6 @@ bridelope
 bougainvillaeas
 beseemliness
 beseems
-borons
 burtree
 beseen
 burglariously
