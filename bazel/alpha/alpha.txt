@@ -3816,7 +3816,6 @@ asters
 adjustably
 alalia
 armozeen
-adjusting
 akindle
 asymtotically
 adjustment
@@ -11437,6 +11436,7 @@ aproned
 autochthons
 agromania
 anabiotic
+adjusting
 apostils
 aminotransferase
 anamorphose

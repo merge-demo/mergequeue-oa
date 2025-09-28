@@ -4004,7 +4004,6 @@ brutalization
 barms
 beaks
 beala
-burglarproofing
 buchu
 butled
 beambird
@@ -16824,6 +16823,7 @@ bibulosities
 beudanite
 bemeaned
 buginese
+burglarproofing
 bec
 bookmonger
 brassies
