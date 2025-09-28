@@ -1789,7 +1789,6 @@ eyespots
 epexegetically
 eyewaiter
 eogaea
-episepalous
 emanium
 esrogim
 emigrant
@@ -11324,6 +11323,7 @@ eve
 exorcistical
 epixylous
 evea
+episepalous
 electroballistic
 enolization
 eunuch
