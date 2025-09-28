@@ -21802,7 +21802,6 @@ chaffering
 condo
 condoled
 condolence
-calyptro
 condolent
 coaxers
 colonic
@@ -27522,6 +27521,7 @@ clavier
 covariate
 covariates
 covassal
+calyptro
 cove
 coadunate
 coved

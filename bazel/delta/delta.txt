@@ -7914,6 +7914,7 @@ drofland
 disard
 desmocyte
 dispenser
+dalliance
 drysalter
 dihydrogen
 depone
@@ -11879,7 +11880,6 @@ disbecome
 disdiapason
 deerhair
 delphinidae
-dalliance
 disheartenedly
 defrosters
 diamondized
