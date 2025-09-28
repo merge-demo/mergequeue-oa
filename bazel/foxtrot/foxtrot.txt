@@ -1584,6 +1584,7 @@ foresty
 ferrash
 fleecelike
 fourstrand
+fusilade
 falsettist
 fibrinogen
 filespec
@@ -3205,7 +3206,6 @@ fruits
 fiches
 findjan
 feracious
-fusilade
 foredetermination
 flutterers
 flavourer

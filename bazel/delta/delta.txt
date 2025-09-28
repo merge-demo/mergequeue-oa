@@ -2285,7 +2285,6 @@ durian
 demnition
 dowset
 dyewoods
-disburden
 decemfoliate
 dogmas
 dumble
@@ -14947,6 +14946,7 @@ delomorphous
 divata
 deploys
 disanimating
+disburden
 divertimenti
 dictyonina
 dodecanal
