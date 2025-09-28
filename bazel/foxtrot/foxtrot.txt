@@ -4142,6 +4142,7 @@ fireback
 fumeuses
 fundament
 frogleaf
+funicule
 fusilading
 foramina
 freightyard
@@ -11750,7 +11751,6 @@ fuzees
 faultfinders
 fuzzier
 fundholder
-funicule
 fuzziest
 forstraught
 fertilitate
