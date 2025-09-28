@@ -15666,6 +15666,7 @@ doomsday
 dacryocystotome
 doomster
 dapson
+decelerated
 dismissed
 defaulters
 domina
@@ -17577,7 +17578,6 @@ decolour
 dynamiter
 drumliest
 drumlinoid
-decelerated
 dactylate
 drumlins
 dorsiferous

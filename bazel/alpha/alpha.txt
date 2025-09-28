@@ -1072,7 +1072,6 @@ apyrase
 anachronical
 apert
 ageist
-abundantly
 aswarm
 abune
 abura
@@ -6681,6 +6680,7 @@ argue
 airling
 atmospherical
 annoyingness
+abundantly
 abietite
 airmark
 attention
