@@ -4203,6 +4203,7 @@ bless
 begaud
 begat
 beardless
+belonephobia
 benthamic
 bathomania
 bishopbird
@@ -12350,7 +12351,6 @@ belime
 boombox
 bemol
 bedizening
-belonephobia
 benzhydrol
 bergeres
 bluebill
