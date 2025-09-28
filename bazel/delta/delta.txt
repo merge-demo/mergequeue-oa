@@ -4265,7 +4265,6 @@ digitals
 double
 dukeling
 dook
-disputatious
 delthyrial
 disilane
 dialogue
@@ -7702,6 +7701,7 @@ development
 demiurge
 depthlessness
 developmental
+disputatious
 disavowment
 developmentarian
 dustpan
