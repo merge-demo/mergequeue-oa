@@ -6611,7 +6611,6 @@ cedars
 cochairman
 cedarwood
 ceded
-ceders
 copepods
 cummins
 cretinize
@@ -12427,6 +12426,7 @@ carolers
 cartsale
 chromidium
 chromidrosis
+ceders
 cymes
 chromyl
 chroming

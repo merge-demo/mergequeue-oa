@@ -5994,7 +5994,6 @@ excubant
 enjoiners
 encraal
 extravillar
-empresario
 estafa
 exigence
 electrodesiccate
@@ -9830,6 +9829,7 @@ eternise
 ethnolinguistic
 enamelware
 elenchtical
+empresario
 exact
 evolvulus
 etagre
