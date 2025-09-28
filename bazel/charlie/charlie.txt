@@ -3174,7 +3174,6 @@ coarctation
 cystectomy
 capernoited
 cenesthesia
-carapace
 clusters
 coenobiar
 capersome
@@ -8083,6 +8082,7 @@ chaffed
 chaffer
 cymballike
 chafferer
+carapace
 cursively
 cymbalist
 campylospermous
