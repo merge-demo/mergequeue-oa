@@ -1,0 +1,46 @@
+name: PR Factory
+
+on:
+  workflow_dispatch: {}
+  # schedule:
+  #   - cron: 0/30 * * * *
+
+permissions:
+  pull-requests: write
+  contents: write
+
+jobs:
+  create-pr:
+    # needs: merge-pr
+    runs-on: ubicloud-standard-2
+    steps:
+      - name: Checkout code
+        uses: actions/checkout@v4
+        with:
+          ref: main
+
+      - name: trunk install
+        uses: trunk-io/trunk-action/install@v1
+        with:
+          tools: gh
+
+      - uses: robinraju/release-downloader@v1.9
+        with:
+          repository: trunk-io/mergequeue-tool
+          latest: true
+          tarBall: true
+          preRelease: false
+          extract: true
+
+      - name: run mq
+        id: edits
+        run: ./mq generate
+        env:
+          GH_TOKEN: ${{ secrets.ELI_MQ_PAT }}
+
+      - name: run mq
+        if: always()
+        id: clean
+        run: ./mq housekeeping
+        env:
+          GH_TOKEN: ${{ secrets.ELI_MQ_PAT }}
