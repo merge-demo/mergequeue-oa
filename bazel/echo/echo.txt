@@ -8899,7 +8899,6 @@ ergatogyne
 ebrious
 earflaps
 ergatomorphic
-ergo
 extrameridian
 ergodic
 euphoria
@@ -13971,6 +13970,7 @@ eodevonian
 espagnolette
 echinodermic
 extrapolated
+ergo
 eyepoint
 equalising
 enhazard

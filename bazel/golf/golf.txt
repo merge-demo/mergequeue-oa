@@ -6872,7 +6872,6 @@ glyconin
 geochemically
 goodishness
 grallatores
-gastight
 groupthink
 gynecomorphous
 glyoxyl
@@ -8517,6 +8516,7 @@ growths
 gastrocnemius
 glabriety
 griqua
+gastight
 gravity
 gnathostomi
 germinal
