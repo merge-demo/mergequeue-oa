@@ -3317,7 +3317,6 @@ facewise
 ferrohydrocyanic
 fossilologist
 ferretto
-folklorist
 featherlessness
 frustrates
 fioritura
@@ -3947,6 +3946,7 @@ fluoranthene
 foresummon
 fullest
 foeniculum
+folklorist
 fictionmonger
 furcating
 fogyism
