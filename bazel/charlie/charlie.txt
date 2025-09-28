@@ -2540,6 +2540,7 @@ collogued
 coral
 chiropterous
 collywest
+clunch
 cayuses
 candlelight
 candlelighter
@@ -15753,7 +15754,6 @@ clawk
 colobium
 clinks
 couldest
-clunch
 clawker
 clawless
 claws
