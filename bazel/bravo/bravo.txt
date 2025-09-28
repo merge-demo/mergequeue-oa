@@ -4485,7 +4485,6 @@ beglamour
 besmooths
 baptismal
 bahiaite
-banally
 bienness
 biradiated
 bool
@@ -17127,6 +17126,7 @@ brumalia
 bullskin
 bullsucker
 bandman
+banally
 basined
 bullterrier
 bullwhipped

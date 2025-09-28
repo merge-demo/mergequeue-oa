@@ -1195,7 +1195,6 @@ funder
 funaria
 fifths
 fume
-flipper
 forepass
 frighter
 foochowese
@@ -6943,6 +6942,7 @@ fisherpeople
 flaky
 flusherman
 fee
+flipper
 follily
 feeblemindedness
 fumigants
