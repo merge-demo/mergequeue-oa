@@ -9820,7 +9820,6 @@ cheloniidae
 chemehuevi
 cab
 cavalierly
-chemiatric
 chapeless
 complexometric
 chalybean
@@ -19209,6 +19208,7 @@ coedited
 crystallographer
 comparatival
 convenable
+chemiatric
 cauked
 collocating
 carambola
