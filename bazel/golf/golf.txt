@@ -8111,6 +8111,7 @@ granuloblastic
 granulocyte
 gerontal
 galbanum
+gustless
 generalissimo
 gironde
 gordiaceous
@@ -9862,7 +9863,6 @@ growth
 gladdens
 gerygone
 garble
-gustless
 guanin
 gallivants
 gagate
