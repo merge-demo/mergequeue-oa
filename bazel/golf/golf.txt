@@ -5109,6 +5109,7 @@ gregarinous
 glali
 gnatflower
 gallweed
+gurries
 glomera
 gentlehearted
 gnarred
@@ -7507,7 +7508,6 @@ geraniol
 gymnospermae
 gemini
 gillotype
-gurries
 gedeckt
 gelatiniferous
 grounded
