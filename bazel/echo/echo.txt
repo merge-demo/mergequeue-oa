@@ -1825,6 +1825,7 @@ enigmatical
 eared
 extendable
 eighties
+enshrinement
 exhalable
 eightieth
 eightling
@@ -6376,7 +6377,6 @@ ebbed
 episcopize
 eprouvette
 enshrined
-enshrinement
 embars
 enshrinements
 electrotyper
