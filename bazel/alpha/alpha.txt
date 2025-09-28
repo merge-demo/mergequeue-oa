@@ -15794,7 +15794,6 @@ acidimeter
 armill
 accommodationist
 accidia
-aer
 asterozoa
 alchimy
 archdemon
@@ -18047,6 +18046,7 @@ atamans
 arhats
 atwind
 athwart
+aer
 analogically
 advowee
 agronomical
