@@ -1715,7 +1715,6 @@ fashionmonger
 flighted
 fascio
 floats
-filicin
 fomites
 faciend
 fortravail
@@ -9373,6 +9372,7 @@ fraternate
 frayne
 frankish
 flote
+filicin
 functionary
 fummle
 fastenings

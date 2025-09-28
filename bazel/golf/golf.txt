@@ -2499,7 +2499,6 @@ gubbin
 gigacycle
 garlanding
 generally
-gittith
 genderer
 geniohyoglossus
 grenado
@@ -10677,6 +10676,7 @@ gurnard
 gib
 gastroenteroptosis
 grayfish
+gittith
 googol
 grippotoxin
 grayed
