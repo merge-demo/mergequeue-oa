@@ -16957,6 +16957,7 @@ ammoniac
 arefaction
 aerophotography
 agranulocyte
+avalon
 apodal
 anemogram
 apodedeipna
@@ -24529,7 +24530,6 @@ avalanches
 avalanching
 assortive
 avalent
-avalon
 affich
 avance
 adenoses
