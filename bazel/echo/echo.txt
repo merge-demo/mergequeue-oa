@@ -1087,7 +1087,6 @@ edification
 exfigure
 earock
 evaluates
-edificatory
 exasperating
 epimerize
 edificed
@@ -10567,6 +10566,7 @@ elixation
 earthiness
 expectance
 euchrome
+edificatory
 euclideanism
 euclidian
 exhalant
