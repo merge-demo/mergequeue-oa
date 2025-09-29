@@ -1073,7 +1073,6 @@ ead
 ensanguining
 edhs
 esculic
-envergure
 exostotic
 edible
 expeditive
@@ -10976,6 +10975,7 @@ endophasia
 excluder
 eoan
 emydea
+envergure
 estufa
 eupsychics
 eurafric

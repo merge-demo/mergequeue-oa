@@ -4759,6 +4759,7 @@ globes
 garrnishable
 gizz
 grippier
+gobos
 gorgoniaceous
 gavyuti
 gentlewomanly
@@ -5713,7 +5714,6 @@ glockenspiel
 gallopade
 glossohyal
 gaultherase
-gobos
 glossolalia
 gabbroid
 glossolysis
