@@ -8605,7 +8605,6 @@ bemusing
 bourride
 beekite
 billowiest
-baselike
 bounceable
 berairou
 buncoed
@@ -13839,6 +13838,7 @@ bisks
 baptizes
 bastiles
 bundists
+baselike
 byres
 broadtail
 bowerwoman
