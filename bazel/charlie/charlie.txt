@@ -3169,7 +3169,6 @@ caperingly
 cribbiter
 capernaism
 capuchin
-coracohumeral
 capernaitic
 capernaitical
 coarctation
@@ -20344,6 +20343,7 @@ commorse
 commorth
 commot
 cyanformic
+coracohumeral
 commotions
 craziness
 commove

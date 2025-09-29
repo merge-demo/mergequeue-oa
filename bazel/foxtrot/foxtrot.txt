@@ -6586,7 +6586,6 @@ friary
 foam
 flunkeyism
 feltness
-frounce
 fungify
 foamflower
 firework
@@ -8575,6 +8574,7 @@ fungating
 farmsteading
 forninst
 flexor
+frounce
 firedragon
 fornix
 fanegada
