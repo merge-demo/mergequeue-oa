@@ -3447,7 +3447,6 @@ forthward
 frontoethmoid
 fifish
 frazzle
-fantasist
 fifteens
 frauds
 fifties
@@ -7671,6 +7670,7 @@ furriness
 forspeak
 favourers
 forehoofs
+fantasist
 forehooves
 forpit
 foreboding
