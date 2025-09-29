@@ -1964,6 +1964,7 @@ glairs
 garnishments
 glamor
 gallamine
+gosh
 gnomonical
 gimbal
 gas
@@ -2920,7 +2921,6 @@ gyniatry
 goldurnedest
 grazable
 gulph
-gosh
 gastroscopic
 gooseflower
 grotty

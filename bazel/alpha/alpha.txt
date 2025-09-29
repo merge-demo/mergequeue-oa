@@ -18686,7 +18686,6 @@ archetypes
 attributive
 aditus
 agnomical
-awnings
 asymmetrically
 archettos
 assever
@@ -20948,6 +20947,7 @@ adoperation
 ascogone
 abstinency
 adjournment
+awnings
 alabama
 arvos
 avariciously
