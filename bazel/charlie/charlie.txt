@@ -3066,6 +3066,7 @@ curbing
 chiasmodon
 croppa
 cycadeous
+collectanea
 canvasado
 canvasbacks
 canvasers
@@ -14838,7 +14839,6 @@ cappadine
 cerebrotonia
 cippi
 coinferred
-collectanea
 commiseratively
 chondriosphere
 cytogenetic
