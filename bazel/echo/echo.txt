@@ -6604,6 +6604,7 @@ equiponderant
 excluding
 enterococcal
 esperantidist
+erenow
 embryous
 enseam
 expulsatory
@@ -11676,7 +11677,6 @@ exalt
 enfolding
 eventualities
 exaltation
-erenow
 extract
 explanator
 endocarditis
