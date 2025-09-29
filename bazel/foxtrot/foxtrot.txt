@@ -1036,7 +1036,6 @@ fascicles
 filmgoing
 flexuose
 flatlong
-fumosity
 feverweed
 fretful
 filicornia
@@ -9643,6 +9642,7 @@ freen
 featherfoil
 flowerer
 forwardly
+fumosity
 flotations
 freers
 farthest
