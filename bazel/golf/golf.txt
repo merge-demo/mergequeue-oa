@@ -5503,6 +5503,7 @@ griefs
 gauffers
 guttiferous
 gangplanks
+glaucium
 glycidol
 gorsier
 gowning
@@ -10173,7 +10174,6 @@ grovelings
 guido
 gearwheels
 glade
-glaucium
 goalies
 gladiolar
 guetar
