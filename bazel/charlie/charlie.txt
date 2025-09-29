@@ -1863,6 +1863,7 @@ cambiums
 crimble
 corbinas
 camblet
+capsuliferous
 confectory
 cambodian
 camboge
@@ -3484,7 +3485,6 @@ chappow
 collocalia
 caff
 cognizers
-capsuliferous
 cheloniid
 capsuliform
 circumcision
