@@ -6748,7 +6748,6 @@ fibrochondroma
 fleury
 fatheaded
 fingerspin
-frized
 fleece
 feering
 foresworn
@@ -10771,6 +10770,7 @@ fatalism
 feretrum
 fashious
 finials
+frized
 fulgentness
 fanaticize
 flittermice
