@@ -11800,6 +11800,7 @@ baron
 bluefish
 burdeners
 byrl
+bolimba
 behavioristic
 briony
 bock
@@ -18268,7 +18269,6 @@ broadaxe
 boulimy
 beatee
 backsey
-bolimba
 boomeranging
 buffoonism
 bamah
