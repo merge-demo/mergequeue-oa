@@ -9269,6 +9269,7 @@ errhines
 encyclopedize
 extraclassroom
 erron
+enterfeat
 empathies
 electrotellurograph
 externalist
@@ -11983,7 +11984,6 @@ expensed
 eryngium
 enscrolls
 everyone
-enterfeat
 exampleship
 essentials
 eigenspace
