@@ -3741,7 +3741,6 @@ digitoxin
 doggoned
 detectives
 decompensation
-duckweed
 dehumanising
 dynamometers
 diallers
@@ -13437,6 +13436,7 @@ disillusionment
 despotism
 disrobement
 disrober
+duckweed
 douzaine
 daroga
 danseur
