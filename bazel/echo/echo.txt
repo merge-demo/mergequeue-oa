@@ -2149,6 +2149,7 @@ esophagostenosis
 eyestring
 ensorceling
 explicandum
+epicheirema
 electropult
 elation
 enrib
@@ -13791,7 +13792,6 @@ extol
 establishmentarianism
 extortive
 equiped
-epicheirema
 engraftment
 extorts
 esparto
