@@ -4261,6 +4261,7 @@ foreignize
 feverish
 fungose
 flatterers
+flashiest
 frenzying
 fission
 fleckier
@@ -5117,7 +5118,6 @@ flashgun
 fifteenth
 factitive
 fict
-flashiest
 faugh
 flashiness
 famulli
