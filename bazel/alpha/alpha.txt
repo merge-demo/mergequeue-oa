@@ -3619,6 +3619,7 @@ acanthocephalous
 architraved
 alberttype
 astrogeny
+allodelphite
 aggers
 apposes
 adhibition
@@ -16753,7 +16754,6 @@ anymore
 adequation
 ardoise
 apiculate
-allodelphite
 antichristianly
 amyelencephalic
 alls
