@@ -5303,6 +5303,7 @@ foregather
 formaldehyd
 fumarole
 feasts
+furcule
 filial
 fant
 forcepslike
@@ -11452,7 +11453,6 @@ friendlier
 fideles
 flic
 frayedly
-furcule
 flaffer
 furfurylidene
 folliculose
