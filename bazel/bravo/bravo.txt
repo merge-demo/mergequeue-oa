@@ -1200,7 +1200,6 @@ breth
 brothel
 burion
 baked
-blepharydatis
 buildings
 bakeoven
 blennostatic
@@ -8250,6 +8249,7 @@ bovarysm
 bebeerus
 bigamies
 bigamist
+blepharydatis
 boite
 bigamize
 balladical
