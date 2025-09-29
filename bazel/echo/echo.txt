@@ -6083,7 +6083,6 @@ eugenic
 eulachon
 elasmosaur
 ebullience
-evanesce
 epifauna
 epirrhema
 electrocardiography
@@ -9503,6 +9502,7 @@ escrowing
 excitoglandular
 esculents
 esculin
+evanesce
 expansively
 essences
 evangelistically
