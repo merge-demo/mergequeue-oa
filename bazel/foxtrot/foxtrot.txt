@@ -6467,7 +6467,6 @@ ferried
 fumagine
 fouquieriaceous
 flightful
-foulness
 fictor
 fruitages
 fissilingual
@@ -9592,6 +9591,7 @@ feltwork
 facete
 forensic
 floreta
+foulness
 frontopontine
 fizzed
 fichus
