@@ -13884,7 +13884,6 @@ cheaps
 cynics
 cynipidae
 churoya
-cynipoid
 cynism
 cyanocarbonic
 cinnabar
@@ -14445,6 +14444,7 @@ coeminency
 caddoan
 cataphracta
 cirques
+cynipoid
 cupric
 compounds
 centripetal
