@@ -6194,6 +6194,7 @@ gregor
 garrisoned
 gastrimargy
 guillotinade
+ganglioplexus
 gp
 galactophagist
 glucosamine
@@ -7527,7 +7528,6 @@ gaspiness
 geothlypis
 guardless
 grando
-ganglioplexus
 generousness
 gruffer
 gownsmen
