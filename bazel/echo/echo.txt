@@ -5731,6 +5731,7 @@ enigmatization
 engystomatidae
 enatic
 etherol
+escherichia
 extinguish
 ephorus
 enticers
@@ -10118,7 +10119,6 @@ endorses
 ethereally
 entwined
 etherealness
-escherichia
 enculturated
 excused
 extranean
