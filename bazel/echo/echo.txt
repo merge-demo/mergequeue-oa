@@ -3292,6 +3292,7 @@ emanatist
 endoneurial
 epical
 emanativ
+everyness
 erupt
 enwreath
 emasculates
@@ -7731,7 +7732,6 @@ enforcer
 execrably
 epipleurae
 ephapse
-everyness
 erythraea
 epirogeny
 epidermic

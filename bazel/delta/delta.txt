@@ -6261,7 +6261,6 @@ dippy
 dermasurgery
 dermatagra
 dermatophagus
-dermatotropic
 desiccator
 dizaine
 decagon
@@ -16095,6 +16094,7 @@ doubleheartedness
 doubleyou
 doits
 dilettantist
+dermatotropic
 deceive
 disturn
 doublespeak
