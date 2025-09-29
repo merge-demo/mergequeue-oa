@@ -9557,6 +9557,7 @@ decken
 duellos
 diglots
 desmatippus
+dirhinous
 dendritiform
 disenchantment
 diglottist
@@ -16124,7 +16125,6 @@ dartre
 decorability
 doubtous
 doubts
-dirhinous
 darbyism
 douc
 douceness
