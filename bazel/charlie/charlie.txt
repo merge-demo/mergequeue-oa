@@ -16730,7 +16730,6 @@ cercopithecid
 clothe
 costiferous
 curvinervate
-cyanoaurate
 confusional
 calathian
 clothesbag
@@ -26340,6 +26339,7 @@ cotele
 cultrate
 cotemporanean
 cannequin
+cyanoaurate
 condylomas
 cotemporaneously
 cotemporaries
