@@ -1756,7 +1756,6 @@ decumaria
 deathlikeness
 dundees
 deady
-derogation
 disaccord
 deathtime
 diverticular
@@ -17876,6 +17875,7 @@ distractions
 dabb
 dissuader
 drafting
+derogation
 dudgen
 duole
 desubstantialize
