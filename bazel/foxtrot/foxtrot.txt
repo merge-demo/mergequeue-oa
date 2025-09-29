@@ -2372,6 +2372,7 @@ flinting
 flexors
 fricandeau
 folksiness
+fig
 fistulizing
 foredating
 fromfile
@@ -3871,7 +3872,6 @@ farleu
 fimbrillate
 fores
 fany
-fig
 flowerlet
 forfit
 flabbergastingly
