@@ -1414,6 +1414,7 @@ benniseed
 bathofloric
 bisellium
 balebos
+bransle
 baled
 baleen
 bobance
@@ -10564,7 +10565,6 @@ brined
 bicolourous
 binotic
 branchstand
-bransle
 brigandine
 blatting
 beplumed
