@@ -6291,7 +6291,6 @@ embastioned
 eyeholes
 enroll
 enrolle
-enrolled
 enrollee
 extraorbitally
 embryologies
@@ -14034,6 +14033,7 @@ extratellurian
 extrait
 electroergometer
 exch
+enrolled
 ecclesiasticalism
 escoting
 eyeline
