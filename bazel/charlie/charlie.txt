@@ -10714,7 +10714,6 @@ cisgangetic
 companionless
 chin
 colonitis
-complementarism
 chinafy
 cuapinole
 chinalike
@@ -31948,4 +31947,5 @@ cubmaster
 czechization
 caitanyas
 czechoslovak
+complementarism
 curricularization
