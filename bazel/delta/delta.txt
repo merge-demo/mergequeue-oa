@@ -8375,7 +8375,6 @@ deglutination
 dual
 decapodous
 dialectologer
-droopingness
 diplois
 dialectologist
 dargue
@@ -10279,6 +10278,7 @@ dearly
 decalcification
 draftmanship
 dynamogenous
+droopingness
 defeminise
 dighting
 didrachmal
