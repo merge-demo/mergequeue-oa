@@ -14984,7 +14984,6 @@ curver
 cytozzoa
 curucanecan
 coelacanthoid
-chippable
 cambaye
 citramontane
 cothurns
@@ -28730,6 +28729,7 @@ cupeler
 cephaloplegia
 civetone
 crepon
+chippable
 crept
 canters
 circaetus
