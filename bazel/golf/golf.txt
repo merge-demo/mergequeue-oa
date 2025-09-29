@@ -3799,6 +3799,7 @@ glarier
 gonapophysal
 gyropilot
 gesticulate
+geest
 grasps
 gentlemanhood
 gastroenteritic
@@ -7383,7 +7384,6 @@ gastrocolotomy
 gaudery
 gruffiest
 gottfried
-geest
 gadids
 gordolobo
 galbulidae

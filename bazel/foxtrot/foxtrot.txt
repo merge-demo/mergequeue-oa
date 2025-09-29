@@ -4763,7 +4763,6 @@ fasibitikite
 flagellatae
 footlike
 fulmination
-follies
 flagellated
 flagellations
 fieldstrip
@@ -5687,6 +5686,7 @@ feodaries
 funiculi
 forkmen
 federalizing
+follies
 fleckiest
 flipping
 fungitoxicity

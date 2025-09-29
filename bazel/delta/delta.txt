@@ -3302,7 +3302,6 @@ dsect
 defis
 deafness
 dialling
-decolor
 dark
 disrestore
 dynagraph
@@ -8294,6 +8293,7 @@ diagnostical
 disenthroned
 diagnosticate
 denitrating
+decolor
 dinotherium
 dorsiflex
 dehortatory
