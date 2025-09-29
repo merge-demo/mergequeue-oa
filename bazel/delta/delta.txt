@@ -1766,7 +1766,6 @@ deathtrap
 devocalization
 drof
 deathward
-dipteroi
 ductility
 dolldom
 dg
@@ -2819,6 +2818,7 @@ deceitfully
 decuman
 dissuasive
 desensitizations
+dipteroi
 divertissements
 dramatizations
 dynatron
