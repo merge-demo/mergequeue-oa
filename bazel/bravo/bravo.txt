@@ -8848,7 +8848,6 @@ biddings
 briner
 baisakh
 biocycle
-biocycles
 barkle
 biocidal
 bichos
@@ -13405,6 +13404,7 @@ bealach
 bothriocephalus
 brosimum
 bothrium
+biocycles
 batophobia
 bries
 bothrodendron
