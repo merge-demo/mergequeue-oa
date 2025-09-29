@@ -11224,6 +11224,7 @@ chicanos
 chloridate
 cardol
 chloridated
+calcisponge
 consuls
 chloride
 crocodiloid
@@ -31347,7 +31348,6 @@ curiae
 cobwebbing
 curiage
 curialism
-calcisponge
 cabalas
 curialistic
 chinles
