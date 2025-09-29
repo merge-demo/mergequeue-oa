@@ -752,7 +752,6 @@ galvanopuncture
 gummaker
 goutwort
 groupings
-gladsomer
 gawkily
 geometrically
 graywether
@@ -9768,6 +9767,7 @@ gravemaking
 galactopyra
 greatheartedly
 gonadectomizing
+gladsomer
 gruntles
 galley
 galvanotropic
