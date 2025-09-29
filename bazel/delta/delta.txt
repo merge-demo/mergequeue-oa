@@ -6717,7 +6717,6 @@ distributor
 deadhead
 desiderata
 dahabiyas
-demikindred
 diacoustics
 denitrificant
 deathroot
@@ -11036,6 +11035,7 @@ dogmatising
 disanalogy
 dudishness
 deinosauria
+demikindred
 disanalogous
 disanimation
 disentanglements
