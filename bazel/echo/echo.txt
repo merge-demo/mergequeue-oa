@@ -3967,7 +3967,6 @@ evangelian
 estrapade
 enage
 extirpated
-epionychia
 empexa
 emphasize
 emphasized
@@ -7569,6 +7568,7 @@ endomysium
 evaluators
 endovenous
 electrocapillarity
+epionychia
 equivalently
 equalling
 extracostal
