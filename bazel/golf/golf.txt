@@ -6798,6 +6798,7 @@ gastrojejunal
 globosphaerite
 grossirete
 groves
+gekkonoid
 grandpa
 gonorrhoeal
 gremmie
@@ -10083,7 +10084,6 @@ garrulus
 ghostwrote
 galactodensimeter
 grammarian
-gekkonoid
 gonfaloniership
 gasoscope
 glottid
