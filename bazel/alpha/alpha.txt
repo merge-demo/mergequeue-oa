@@ -14094,6 +14094,7 @@ anthroposociologist
 agrobiological
 albs
 anticlnoria
+anthropologic
 antlered
 anthecologist
 antimartyr
@@ -18505,7 +18506,6 @@ archaeostomata
 airbags
 archaeotherium
 archai
-anthropologic
 acing
 anisol
 aquamarines
