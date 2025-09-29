@@ -3895,7 +3895,6 @@ balaniferous
 banksia
 biassedly
 bch
-begins
 borsholder
 brachial
 becoward
@@ -10710,6 +10709,7 @@ backspierer
 bouderie
 bulbose
 bharata
+begins
 budorcas
 barcone
 bangiaceous
