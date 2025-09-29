@@ -5194,6 +5194,7 @@ foxiness
 frontierlike
 frivolers
 fiot
+frankeniaceae
 foreclaw
 fuchsia
 frumpery
@@ -10241,7 +10242,6 @@ frighted
 franconian
 finespun
 formolit
-frankeniaceae
 fruticant
 fleshly
 fadedness
