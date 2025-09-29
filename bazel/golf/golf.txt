@@ -3657,6 +3657,7 @@ grapsus
 ghostfishes
 garrisonism
 gallinae
+gnosticism
 gnathite
 ghostflower
 goalmouth
@@ -8186,7 +8187,6 @@ greenkeeper
 gallingly
 gutturalising
 gorgoniacea
-gnosticism
 greater
 gallowsmaker
 grossers
