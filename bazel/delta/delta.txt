@@ -1338,7 +1338,6 @@ dauding
 desorb
 directest
 dissaved
-diobolons
 dishy
 dolf
 daltonic
@@ -7879,6 +7878,7 @@ devotedness
 dumpy
 dialogistical
 demigauntlet
+diobolons
 defalcator
 deputatively
 dalecarlian

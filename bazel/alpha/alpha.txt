@@ -13423,7 +13423,6 @@ adjourning
 anethole
 armigero
 annulation
-annulations
 abominator
 annulets
 annullate
@@ -18841,6 +18840,7 @@ achyranthes
 affine
 autoschediastically
 ammelin
+annulations
 architectress
 alidade
 amorality
