@@ -595,7 +595,6 @@ flagstaff
 frighteningly
 furmety
 famose
-forelocks
 faufel
 forlornity
 fallowist
@@ -9154,6 +9153,7 @@ feoffees
 flamineous
 fabrications
 fungosity
+forelocks
 freights
 fondue
 formidolous

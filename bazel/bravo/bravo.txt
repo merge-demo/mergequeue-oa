@@ -84,6 +84,7 @@ beknottedness
 bulwarks
 baccarat
 barbwire
+badaxe
 bori
 barkened
 backstretch
@@ -17063,7 +17064,6 @@ broll
 bezaleel
 bombards
 bimetallist
-badaxe
 bullion
 balkanization
 bullyrag
