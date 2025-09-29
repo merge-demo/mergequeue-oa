@@ -5434,6 +5434,7 @@ briefers
 bahmani
 bootid
 briefness
+befathered
 broadmouth
 baronets
 behoovefulness
@@ -14588,7 +14589,6 @@ biogeographers
 brotherlike
 becomma
 blissfulness
-befathered
 boasted
 bardily
 branning
