@@ -9241,7 +9241,6 @@ bullation
 biquintile
 burkite
 bacillariophyta
-boles
 bastaard
 bavenite
 blurredness
@@ -12399,6 +12398,7 @@ bicapitate
 blossom
 backcast
 belvederes
+boles
 bedlamp
 bedwarf
 bond
