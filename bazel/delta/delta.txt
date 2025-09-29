@@ -3413,6 +3413,7 @@ dowl
 defogged
 dormered
 drogh
+deadman
 didelphous
 dorism
 dogmatization
@@ -15542,7 +15543,6 @@ dict
 donaciform
 donack
 daishiki
-deadman
 dragbar
 decrescence
 dicyanodiamide
