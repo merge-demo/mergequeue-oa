@@ -653,6 +653,7 @@ flavored
 frequenter
 further
 fluocarbonate
+flunky
 fireclays
 fortitudinous
 fictionalization
@@ -2508,7 +2509,6 @@ feudal
 functionize
 ferritic
 frush
-flunky
 favaginous
 foulmouth
 formaldehyde
