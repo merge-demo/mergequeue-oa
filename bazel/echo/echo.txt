@@ -4848,6 +4848,7 @@ escapable
 exorciser
 epidermatoid
 embryogenetic
+eserine
 engraven
 eria
 eupepticism
@@ -9528,7 +9529,6 @@ extremities
 educationese
 earthworm
 englutting
-eserine
 erwin
 esexual
 esguard
