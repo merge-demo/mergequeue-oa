@@ -1995,7 +1995,6 @@ fours
 feeze
 fimicolous
 furmity
-funnelled
 feezes
 fath
 forejudge
@@ -2148,6 +2147,7 @@ fraudulently
 fellowships
 ferruginean
 farrowed
+funnelled
 faery
 fondants
 frontpiece
