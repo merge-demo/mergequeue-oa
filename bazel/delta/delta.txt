@@ -2432,6 +2432,7 @@ decimates
 dropkick
 dusken
 demot
+doggereler
 dihydronaphthalene
 depoliticizing
 dacrya
@@ -12580,7 +12581,6 @@ disinter
 decennium
 disinterestedly
 disinterment
-doggereler
 disheaven
 dewatering
 depersonize
