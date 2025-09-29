@@ -6448,7 +6448,6 @@ guanare
 gapeworms
 gurry
 grit
-graduatical
 ghazel
 golgothas
 gliming
@@ -8591,6 +8590,7 @@ greaseproofness
 gastronomical
 geminiform
 gests
+graduatical
 grizzliness
 groynes
 grivets
