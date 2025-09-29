@@ -4824,6 +4824,7 @@ gritter
 gladful
 gunnel
 gnomonics
+gusting
 gleg
 gigantize
 greenings
@@ -5976,7 +5977,6 @@ goldbricker
 gibetting
 grin
 gentry
-gusting
 gazoz
 glossoplasty
 gnar
