@@ -3524,6 +3524,7 @@ adenostoma
 ailanthic
 astrologaster
 attiwendaronk
+antiromanticist
 alphabetist
 anachoret
 alimenting
@@ -19949,7 +19950,6 @@ aromal
 amphigenous
 animalculum
 antihumanist
-antiromanticist
 artus
 azonal
 aculeate
