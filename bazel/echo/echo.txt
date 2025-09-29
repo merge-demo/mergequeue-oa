@@ -2753,7 +2753,6 @@ ecocide
 excuderunt
 elegized
 elegizes
-endosteomas
 euthytropic
 eleidin
 estudy
@@ -9603,6 +9602,7 @@ earthshine
 eremacausis
 entfaoilff
 elaeoblastic
+endosteomas
 epiphenomenalism
 enchiridions
 euphuistically
