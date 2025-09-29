@@ -5612,6 +5612,7 @@ cosmetology
 centenarian
 cataphracted
 cataphractic
+chm
 chechia
 crook
 cataphrenic
@@ -20928,7 +20929,6 @@ clams
 composable
 composant
 composed
-chm
 cacocholia
 canst
 composer
