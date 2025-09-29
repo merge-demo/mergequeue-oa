@@ -7059,6 +7059,7 @@ behave
 briskish
 backless
 bachelorism
+bitterishness
 bloodied
 barefoot
 ballyrags
@@ -9860,7 +9861,6 @@ bulgaric
 birred
 bitterheartedness
 birdlife
-bitterishness
 begulfs
 beggarly
 benzoated
