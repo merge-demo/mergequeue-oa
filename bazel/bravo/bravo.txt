@@ -4096,7 +4096,6 @@ bras
 broozled
 brachycera
 bacterization
-bearhug
 babirousa
 bearhugs
 buccal
@@ -7926,6 +7925,7 @@ bicarburetted
 bewearied
 baptistery
 binucleated
+bearhug
 bicaudate
 baphia
 bicched
