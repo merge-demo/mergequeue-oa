@@ -8891,6 +8891,7 @@ accruing
 allotriophagy
 ambulomancy
 andrite
+alcaide
 allotriophagia
 allotropic
 ampherotokous
@@ -11548,7 +11549,6 @@ actinometry
 allegory
 aucanian
 anticarnivorous
-alcaide
 autoheterodyne
 anaematosis
 arhythmically
