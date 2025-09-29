@@ -3759,6 +3759,7 @@ glucke
 gormands
 gnostical
 galliass
+galvanolysis
 grungier
 gastrosuccorrhea
 gibbons
@@ -6703,7 +6704,6 @@ geneticist
 georgic
 gulash
 graminivorous
-galvanolysis
 giddyberry
 grisled
 glucide
