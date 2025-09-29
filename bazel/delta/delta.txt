@@ -14262,6 +14262,7 @@ dithecal
 dither
 deporter
 deisms
+desmoneoplasm
 defoliator
 desulfur
 decorators
@@ -17603,7 +17604,6 @@ duds
 dromos
 demential
 dippier
-desmoneoplasm
 drumrolls
 drums
 dysarthria
