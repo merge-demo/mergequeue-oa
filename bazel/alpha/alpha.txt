@@ -775,7 +775,6 @@ apptd
 algarot
 auguration
 additur
-assault
 abstruse
 antibank
 abs
@@ -19966,6 +19965,7 @@ auriscopically
 antiparticles
 aromatics
 adscripted
+assault
 aromatitae
 alcoholizing
 amhar
