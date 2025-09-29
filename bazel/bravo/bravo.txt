@@ -7848,7 +7848,6 @@ buckthorn
 biltong
 bibbons
 barbitals
-browser
 boatloading
 biffin
 btu
@@ -15145,6 +15144,7 @@ bentang
 bradycrotic
 brickyard
 brutalized
+browser
 bricking
 brickish
 brewises
