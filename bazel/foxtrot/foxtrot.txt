@@ -744,6 +744,7 @@ fenrir
 frankalmoigne
 frostiness
 fanaticised
+foreseeable
 fruitful
 fanaticizing
 found
@@ -7904,7 +7905,6 @@ foresee
 faitor
 feeblehearted
 frakturs
-foreseeable
 futchel
 footeite
 ferd
