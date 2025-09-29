@@ -4158,7 +4158,6 @@ glaswegian
 gibbeted
 gelofre
 genealogy
-gollar
 germigenous
 gymnorhinal
 gaspergou
@@ -5350,6 +5349,7 @@ gingal
 graph
 gammadion
 gliddery
+gollar
 gourdiness
 gloaters
 gemmary
