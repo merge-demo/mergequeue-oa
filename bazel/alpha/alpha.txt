@@ -11247,7 +11247,6 @@ amphitropous
 amphioxis
 abomasi
 abaff
-anobiidae
 amphora
 austrophilism
 acquainted
@@ -20733,6 +20732,7 @@ apportions
 ascaridol
 amputator
 avenery
+anobiidae
 autographically
 amplifiable
 actium
