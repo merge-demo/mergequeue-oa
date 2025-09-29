@@ -1762,7 +1762,6 @@ featheriness
 frogface
 forsterite
 farsalah
-frize
 farming
 forlorn
 foundery
@@ -11653,6 +11652,7 @@ fibropapilloma
 fust
 federational
 furbishing
+frize
 filamented
 funerealness
 franchiser
