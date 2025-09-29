@@ -544,7 +544,6 @@ galler
 grandsirs
 germanium
 gastraea
-gallera
 gesneriaceae
 gogo
 gonadotrophin
@@ -9414,6 +9413,7 @@ glandulation
 gluttingly
 geonic
 gabelle
+gallera
 gotchy
 groundedly
 gets
