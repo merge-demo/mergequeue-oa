@@ -279,7 +279,6 @@ groser
 gigavolt
 geomagnetism
 gummata
-galiongee
 gainliness
 gamings
 gainsaying
@@ -6391,6 +6390,7 @@ gaudful
 grasswidowhood
 goitrogenic
 galibi
+galiongee
 glossopteris
 golaseccan
 glassman

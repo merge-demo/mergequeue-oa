@@ -9067,7 +9067,6 @@ dichromism
 dicrotal
 dicrotous
 disoccluded
-deva
 dicruridae
 demidog
 delia
@@ -16491,6 +16490,7 @@ dyscrasing
 dozzled
 disassembles
 drabant
+deva
 determinableness
 draughthouse
 dichotomousness
