@@ -10348,7 +10348,6 @@ bergomask
 buncher
 bumbler
 brays
-blanched
 blanches
 bonneted
 buntlines
@@ -15889,6 +15888,7 @@ bocardo
 bellmaster
 bashed
 beignets
+blanched
 bibliophilic
 bronchographic
 blooming

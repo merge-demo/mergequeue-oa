@@ -886,6 +886,7 @@ archecentric
 amphigaea
 apocrine
 absolutory
+astronomer
 absolve
 audad
 aestuary
@@ -22272,7 +22273,6 @@ allegorization
 adlegation
 astrometric
 astronavigator
-astronomer
 arider
 astronomy
 aeschynomene
