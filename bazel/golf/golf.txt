@@ -4955,7 +4955,6 @@ galling
 goodwilled
 grafters
 goldhead
-genealogists
 goofballs
 growled
 guilty
@@ -8262,6 +8261,7 @@ grunzie
 grucche
 government
 greyness
+genealogists
 guha
 gaingiving
 grainers

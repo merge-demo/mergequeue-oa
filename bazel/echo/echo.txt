@@ -11441,7 +11441,6 @@ extrasyllogistic
 erythraeidae
 evictions
 explanatory
-eyebridled
 emboldens
 eleocharis
 escarbuncle
@@ -11931,6 +11930,7 @@ enunciable
 enlisting
 elsehow
 epistemophiliac
+eyebridled
 excises
 excystment
 encinal
