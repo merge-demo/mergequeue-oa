@@ -1175,7 +1175,6 @@ educates
 engrainedly
 egrimony
 entitule
-education
 edulcorating
 enscroll
 ensweep
@@ -13025,6 +13024,7 @@ epinaoi
 eraser
 emrode
 expatriated
+education
 exhibiting
 ebauchoir
 euhemerised
