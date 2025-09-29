@@ -3163,6 +3163,7 @@ bombastically
 balanopsidales
 bubba
 bataleur
+bastion
 bashmuric
 branchiomerism
 bourbonist
@@ -8401,7 +8402,6 @@ biovulate
 blams
 bromoacetone
 bikkurim
-bastion
 brokenness
 boskier
 bibliotherapy
