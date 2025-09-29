@@ -4384,6 +4384,7 @@ galantine
 grevillea
 goozle
 grammatist
+goidel
 gloriam
 gazer
 gorget
@@ -9252,7 +9253,6 @@ gardnap
 gastric
 giltcup
 grockle
-goidel
 gamely
 gemauve
 granitoid
