@@ -767,7 +767,6 @@ fluxions
 fancied
 fetidness
 fezzan
-fibroangioma
 ferv
 frequently
 fanciful
@@ -1265,6 +1264,7 @@ flatten
 filmdom
 frostier
 fasti
+fibroangioma
 filariform
 foreordinated
 flutteringly
