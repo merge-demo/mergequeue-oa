@@ -4056,7 +4056,6 @@ gimcrack
 gynerium
 gleaned
 galictis
-griph
 gastroduodenotomy
 grasshop
 grasped
@@ -6259,6 +6258,7 @@ gerahs
 genistein
 gullable
 gobies
+griph
 guiser
 gallify
 gasogenes
