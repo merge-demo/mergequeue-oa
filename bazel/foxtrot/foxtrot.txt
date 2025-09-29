@@ -6070,6 +6070,7 @@ fanfare
 flauntingly
 forsook
 fiddlerfish
+fundatorial
 foretriangle
 fleyland
 forecome
@@ -9875,7 +9876,6 @@ females
 fricando
 fakement
 funge
-fundatorial
 flavanthrone
 fogeys
 feridgi
