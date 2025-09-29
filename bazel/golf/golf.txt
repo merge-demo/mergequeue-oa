@@ -1998,7 +1998,6 @@ gynaecea
 gyrocompasses
 goosewing
 gaspingly
-galleass
 gud
 goutify
 grubberies
@@ -3850,6 +3849,7 @@ gloweringly
 gigahertzes
 galloperdix
 gigaherz
+galleass
 genips
 gighe
 gramaryes
