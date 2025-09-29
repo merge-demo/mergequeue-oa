@@ -1807,6 +1807,7 @@ gastrostenosis
 gatehouses
 gaskins
 grueler
+goaling
 gastrotomic
 gulsach
 glycine
@@ -10691,7 +10692,6 @@ gildings
 girdlers
 goldbrickers
 grabs
-goaling
 glinted
 greedy
 guaiacolize

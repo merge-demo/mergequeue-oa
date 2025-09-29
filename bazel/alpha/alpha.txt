@@ -912,7 +912,6 @@ altitudinous
 absorpt
 analcites
 aggregate
-anarthria
 atelo
 algific
 adulterately
@@ -9322,6 +9321,7 @@ adenotyphoid
 alsike
 amylome
 avoir
+anarthria
 alsmekill
 alstonia
 absurds

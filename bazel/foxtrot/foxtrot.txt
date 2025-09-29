@@ -2372,7 +2372,6 @@ fenchol
 footganger
 fetial
 fortunetellers
-frondage
 feriation
 falsedad
 flinting
@@ -7884,6 +7883,7 @@ firmaments
 flourishingly
 famines
 fatter
+frondage
 fendillate
 factualist
 florent
