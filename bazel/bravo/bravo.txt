@@ -5510,7 +5510,6 @@ bejewels
 backstamp
 booky
 bontebucks
-basihyoid
 belait
 behaviored
 boxwallah
@@ -18175,6 +18174,7 @@ butlership
 bedebt
 bubingas
 baphomet
+basihyoid
 bipennated
 bichy
 braggadocianism

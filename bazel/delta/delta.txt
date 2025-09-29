@@ -3890,7 +3890,6 @@ dagoes
 deja
 devon
 dielec
-damenization
 decussatively
 delighted
 dejection
@@ -8295,6 +8294,7 @@ disenthroned
 diagnosticate
 denitrating
 dinotherium
+damenization
 dorsiflex
 dehortatory
 demegoric
