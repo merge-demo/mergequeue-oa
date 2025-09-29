@@ -487,6 +487,7 @@ encup
 ecclesioclastic
 expenditure
 expositionary
+eclipse
 exodontics
 estevin
 earshell
@@ -661,7 +662,6 @@ epigonos
 enshrouding
 extracondensed
 emaculate
-eclipse
 exudative
 eclipsed
 equivocacy
