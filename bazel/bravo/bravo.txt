@@ -15987,6 +15987,7 @@ brooder
 binomial
 beardedness
 broodling
+belabour
 broodmare
 bleacher
 bursera
@@ -17861,7 +17862,6 @@ bushelers
 bolshies
 barrulety
 busheling
-belabour
 balt
 bushelling
 boopis
