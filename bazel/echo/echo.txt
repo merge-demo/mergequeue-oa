@@ -9663,7 +9663,6 @@ epilogize
 excitable
 ensearcher
 espingole
-execrative
 equaling
 editchar
 espino
@@ -13075,6 +13074,7 @@ expending
 eleuin
 ejectable
 expenditor
+execrative
 expenditrix
 enfonced
 euclid
