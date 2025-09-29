@@ -599,6 +599,7 @@ fallowist
 fardh
 forerunners
 fivefold
+furls
 floorless
 fourfold
 fellon
@@ -2408,7 +2409,6 @@ fado
 fullhearted
 ferling
 foredooms
-furls
 fortnightly
 fermail
 flabellifoliate
