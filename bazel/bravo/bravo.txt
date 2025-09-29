@@ -1381,7 +1381,6 @@ balder
 baldfaced
 bottoming
 bharal
-bailliage
 bolloxing
 bulbul
 bruisewort
@@ -8591,6 +8590,7 @@ brethel
 bilander
 bonitos
 brightsomeness
+bailliage
 bryales
 benzo
 blechnum
