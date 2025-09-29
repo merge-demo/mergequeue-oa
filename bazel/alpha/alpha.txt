@@ -4342,7 +4342,6 @@ advena
 actuarial
 amaryllid
 ambulatories
-anchylosis
 adventitial
 arquifoux
 aerobiotically
@@ -21988,6 +21987,7 @@ accumulable
 arpeggiando
 autoincrement
 ananaples
+anchylosis
 arrowstone
 acidification
 archeology

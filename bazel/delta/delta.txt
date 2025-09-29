@@ -5486,6 +5486,7 @@ deorsumversion
 diffraction
 diesel
 damoisel
+decreptitude
 disintegrate
 deossification
 drachma
@@ -9257,7 +9258,6 @@ dismerit
 depender
 devolve
 delphacidae
-decreptitude
 debarkation
 disilluded
 disestablishmentarianism
