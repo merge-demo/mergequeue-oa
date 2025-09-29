@@ -7098,6 +7098,7 @@ decreases
 devall
 debatefully
 durst
+disenthralled
 dessus
 doolie
 difficultly
@@ -12061,7 +12062,6 @@ diabetics
 dysenteries
 disenthral
 discoplacentalia
-disenthralled
 disenthrone
 dicalcic
 denizened
