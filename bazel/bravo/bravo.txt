@@ -8399,7 +8399,6 @@ biovulate
 blams
 bromoacetone
 bikkurim
-biosynthetically
 bastion
 brokenness
 boskier
@@ -8762,6 +8761,7 @@ binitarianism
 bubonic
 bink
 binna
+biosynthetically
 bowering
 bakemeats
 binned
