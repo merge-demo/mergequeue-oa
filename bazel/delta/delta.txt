@@ -6775,7 +6775,6 @@ desilicify
 desilicified
 desiliconization
 dribbed
-doubly
 deceased
 duplicidentata
 disregular
@@ -16758,6 +16757,7 @@ destin
 duodiode
 detach
 disjasket
+doubly
 drinking
 denominational
 disturbers
