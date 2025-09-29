@@ -6152,6 +6152,7 @@ buzzed
 benighter
 barked
 beleaguerer
+bede
 basidiolichenes
 breedling
 benin
@@ -6838,7 +6839,6 @@ becudgel
 bismuthinite
 breccia
 begrudges
-bede
 belam
 beslaver
 balmony
