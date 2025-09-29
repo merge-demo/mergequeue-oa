@@ -5441,7 +5441,6 @@ bota
 behooves
 behooving
 basketball
-bacterioprotein
 backiebird
 basting
 bloodwort
@@ -18040,6 +18039,7 @@ bilaminate
 blepharosphincterectomy
 busulfans
 bughouse
+bacterioprotein
 barbedness
 bibliophily
 backspringing
