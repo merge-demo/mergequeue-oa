@@ -410,7 +410,6 @@ bummed
 buffos
 bixbyite
 bhutani
-bellowed
 burgles
 bighorns
 belook
@@ -13089,6 +13088,7 @@ buffeting
 bicorporal
 beryls
 break
+bellowed
 bassarisk
 backfurrow
 baalath
