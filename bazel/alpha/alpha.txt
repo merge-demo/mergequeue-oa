@@ -20632,7 +20632,6 @@ apotelesm
 artificiality
 amesaces
 artilize
-artillery
 atheisms
 artilleries
 avodire
@@ -24173,6 +24172,7 @@ adactyl
 acipenserine
 asemasia
 antepatriarchal
+artillery
 automative
 antronasal
 awardee
