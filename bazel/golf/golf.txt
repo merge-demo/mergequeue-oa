@@ -2341,7 +2341,6 @@ geologist
 gurging
 gymnocerata
 gadinic
-glassy
 gagroot
 greengrocer
 gutturalisation
@@ -9268,6 +9267,7 @@ goyana
 gurge
 gangliate
 gunj
+glassy
 gi
 geodynamicist
 grapeline
