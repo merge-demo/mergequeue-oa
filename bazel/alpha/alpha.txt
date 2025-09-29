@@ -11262,7 +11262,6 @@ asperite
 answerably
 amplectant
 arcuses
-ampler
 aphislion
 amplest
 amplexicaul
@@ -16523,6 +16522,7 @@ arsonation
 anticlassically
 asyndeta
 alternipinnate
+ampler
 apertness
 abnormalism
 apertometer

@@ -7649,7 +7649,6 @@ exocrine
 ellachick
 exhumations
 eventless
-eccentricities
 elapse
 eoliths
 enterohelcosis
@@ -11665,6 +11664,7 @@ ecoid
 entoplastic
 exaggeratively
 exagitate
+eccentricities
 effluence
 electromer
 epiphragmal

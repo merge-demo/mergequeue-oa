@@ -4912,6 +4912,7 @@ fino
 fourscore
 flakiest
 forged
+firebote
 frequentable
 flambeau
 foamier
@@ -6919,7 +6920,6 @@ farthingales
 formication
 formalistically
 follicular
-firebote
 folliculated
 fauna
 fluidifying
