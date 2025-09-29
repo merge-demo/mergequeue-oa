@@ -11834,7 +11834,6 @@ chopines
 carapato
 clarina
 chopins
-colory
 converter
 choplogic
 choplogical
@@ -28190,6 +28189,7 @@ cellulose
 chapelet
 chantefable
 crantara
+colory
 crants
 cardiopathy
 crapehanger
