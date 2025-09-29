@@ -2815,6 +2815,7 @@ florigen
 fretted
 faunae
 faveolate
+flaggelation
 frieseite
 ficus
 functioning
@@ -7668,7 +7669,6 @@ flourishment
 foziest
 fruition
 foreturn
-flaggelation
 flotter
 furriness
 forspeak
