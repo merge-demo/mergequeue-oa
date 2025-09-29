@@ -869,6 +869,7 @@ guerrilla
 gametangia
 gerontomorphosis
 grillwork
+gloaters
 gotha
 gametocyst
 glycoluril
@@ -5351,7 +5352,6 @@ graph
 gammadion
 gliddery
 gourdiness
-gloaters
 gemmary
 gritrock
 guiltless
