@@ -6872,7 +6872,6 @@ entomophobia
 earwaxes
 esthesiography
 essentialize
-epic
 electrochemical
 entomophthorales
 erythrodextrin
@@ -10484,6 +10483,7 @@ ecclesiolatry
 enologies
 exorbitant
 errorist
+epic
 eclectics
 epulary
 exemplifying
