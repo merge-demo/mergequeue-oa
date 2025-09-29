@@ -107,7 +107,6 @@ ganguela
 grammarianism
 girthing
 gadolinia
-gaugers
 gardenership
 grosz
 goatfish
@@ -7782,6 +7781,7 @@ gristmilling
 graphospasm
 gerents
 grumble
+gaugers
 gimirrai
 gurlet
 gasometric
