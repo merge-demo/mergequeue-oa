@@ -728,7 +728,6 @@ francic
 featherlet
 famp
 famuli
-frustrater
 fana
 feoffment
 folklorish
@@ -2378,6 +2377,7 @@ flinting
 flexors
 fricandeau
 folksiness
+frustrater
 fig
 fistulizing
 foredating
