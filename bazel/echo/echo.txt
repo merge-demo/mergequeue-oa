@@ -3396,6 +3396,7 @@ embassy
 eustomatous
 equivocated
 episyllogism
+elpidite
 edeotomy
 eucirripedia
 embogue
@@ -10559,7 +10560,6 @@ enthusing
 entomophily
 epiclidal
 esprits
-elpidite
 euphroes
 elixation
 earthiness
