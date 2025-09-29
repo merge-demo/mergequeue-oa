@@ -4115,6 +4115,7 @@ emplunge
 eccentring
 empodia
 eclegm
+ethysulphuric
 extracranial
 energids
 expungement
@@ -8724,7 +8725,6 @@ experimentee
 equitemporaneous
 eluted
 euphemisms
-ethysulphuric
 embrowd
 explodable
 equities
