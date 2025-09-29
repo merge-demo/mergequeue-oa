@@ -495,7 +495,6 @@ finalisms
 fromwards
 fireflies
 foin
-faker
 flaneries
 formicariidae
 flickered
@@ -10156,6 +10155,7 @@ fissile
 frontlet
 fitter
 fashed
+faker
 fabricant
 falcidian
 foresing
