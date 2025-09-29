@@ -4414,7 +4414,6 @@ canarin
 carl
 caseates
 cert
-carli
 choruslike
 carlylean
 classifiable
@@ -5499,6 +5498,7 @@ catacorner
 catacorolla
 clivers
 catacoustics
+carli
 cwms
 catacromyodian
 conicein
