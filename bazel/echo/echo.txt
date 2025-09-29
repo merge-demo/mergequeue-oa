@@ -7099,6 +7099,7 @@ equiprobability
 enchainments
 epiplankton
 evadible
+enquired
 extemporizing
 envaye
 explainability
@@ -10328,7 +10329,6 @@ euornithic
 ethnohistoric
 equinox
 elephantine
-enquired
 explain
 etwite
 electrometallurgical
