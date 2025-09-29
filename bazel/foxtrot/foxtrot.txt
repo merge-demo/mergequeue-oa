@@ -10881,7 +10881,6 @@ fulgurated
 feebleheartedness
 forgathers
 freedwomen
-finished
 foreteller
 fractural
 ferris
@@ -11560,6 +11559,7 @@ frictionized
 figurations
 feedback
 friskful
+finished
 fusile
 flytier
 fulgurator
