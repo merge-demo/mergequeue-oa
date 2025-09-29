@@ -5152,7 +5152,6 @@ flatman
 foreseeingly
 formnail
 filtering
-frotteur
 frankfurter
 flavanone
 flambes
@@ -6710,6 +6709,7 @@ felted
 fogless
 frounced
 fogo
+frotteur
 frescoists
 fighters
 feast
