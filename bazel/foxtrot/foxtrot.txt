@@ -2585,6 +2585,7 @@ featherlight
 filthy
 feoffed
 fancily
+floccipend
 foresheet
 ferromanganese
 ferrometer
@@ -5855,7 +5856,6 @@ fowlers
 flocced
 frustulose
 footsoldier
-floccipend
 filariae
 fortunite
 film

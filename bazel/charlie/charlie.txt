@@ -2256,6 +2256,7 @@ canafistola
 canafistolo
 canafistulo
 chlorapatite
+chancellorate
 concertgoer
 canaigre
 canailles
@@ -2491,7 +2492,6 @@ candidated
 candidates
 candidatures
 candide
-chancellorate
 churls
 costovertebral
 candidiasis
