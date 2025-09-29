@@ -7703,7 +7703,6 @@ effluxion
 estrus
 esprise
 extruder
-ellipticalness
 epidemically
 escurialize
 evidentiary
@@ -13088,6 +13087,7 @@ epidermose
 elijah
 endromididae
 epidermomycosis
+ellipticalness
 erasement
 expensiveness
 expergefacient
