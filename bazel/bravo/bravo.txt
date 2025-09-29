@@ -17362,7 +17362,6 @@ bunkers
 beard
 blackfellows
 burler
-burgoyne
 balsawood
 bewearying
 banksman
@@ -17861,6 +17860,7 @@ byzantium
 beauship
 bushelers
 bolshies
+burgoyne
 barrulety
 busheling
 balt
