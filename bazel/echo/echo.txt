@@ -8159,6 +8159,7 @@ ethmosphenoid
 episcopized
 eisenhower
 equanimity
+earthdrake
 euchromatin
 expedientist
 evelong
@@ -11137,7 +11138,6 @@ evacuant
 episome
 executing
 evacuants
-earthdrake
 entity
 eadi
 evacuated
