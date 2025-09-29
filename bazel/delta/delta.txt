@@ -317,6 +317,7 @@ degeneracies
 drapability
 distrustfulness
 dahomey
+devouring
 dubash
 diaclasite
 daydawn
@@ -14826,7 +14827,6 @@ dilatancy
 discutable
 dipicrylamin
 docket
-devouring
 doggie
 dogbolt
 dodd
