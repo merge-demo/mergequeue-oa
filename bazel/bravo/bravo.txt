@@ -1821,7 +1821,6 @@ babylonism
 bandanaed
 bollito
 barricos
-besotter
 bilgy
 bearded
 blastospheric
@@ -7144,6 +7143,7 @@ burnettized
 birt
 bluesides
 baulking
+besotter
 blueberry
 bestrides
 boondock
