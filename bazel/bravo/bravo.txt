@@ -9256,7 +9256,6 @@ barringtonia
 bullation
 biquintile
 burkite
-bacillariophyta
 bastaard
 bavenite
 blurredness
@@ -16574,6 +16573,7 @@ bezetta
 brevicipitid
 blackly
 bhokra
+bacillariophyta
 burke
 baronies
 bucharest
