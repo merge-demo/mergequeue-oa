@@ -4321,7 +4321,6 @@ gingersnaps
 gingerspice
 greenable
 garthman
-gleefulness
 girthed
 gingivae
 gauge
@@ -7839,6 +7838,7 @@ grammatistical
 gratinated
 giglots
 grammatite
+gleefulness
 gumbo
 glossotherium
 gelatification

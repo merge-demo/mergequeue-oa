@@ -17693,7 +17693,6 @@ arrearage
 aerotropic
 arras
 amedeo
-apposition
 avouching
 araeosystyle
 amobarbital
@@ -23864,6 +23863,7 @@ autocarpian
 achatinella
 amortized
 apiphobia
+apposition
 attingence
 autocarpic
 antiphthisic
