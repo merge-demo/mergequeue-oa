@@ -8275,7 +8275,6 @@ diadochite
 drawability
 diadochokinesia
 diadoumenos
-drumbeat
 diaeretic
 dubiocrystalline
 diaetetae
@@ -11090,6 +11089,7 @@ doctordom
 deedy
 difluoride
 denumerability
+drumbeat
 dialyser
 decernment
 divisor
