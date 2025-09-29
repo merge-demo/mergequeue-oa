@@ -5786,7 +5786,6 @@ epopees
 explanation
 engouement
 engoument
-entification
 evade
 emulatory
 efficace
@@ -11497,6 +11496,7 @@ erotylid
 exhaling
 eserin
 extractable
+entification
 evincing
 entoblast
 esophagus
