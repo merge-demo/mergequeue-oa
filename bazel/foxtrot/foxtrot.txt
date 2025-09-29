@@ -2624,7 +2624,6 @@ farmyardy
 fabric
 falanaka
 freshes
-fluocerite
 frumpling
 ferrumination
 fluviatic
@@ -10917,6 +10916,7 @@ foilable
 fiscalizing
 fullonian
 ferrying
+fluocerite
 franticness
 fidgeters
 filtration

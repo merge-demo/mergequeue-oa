@@ -2377,7 +2377,6 @@ demibrute
 diluted
 doghead
 diem
-dioscoreaceae
 dustuk
 deafening
 draftable
@@ -7475,6 +7474,7 @@ detractions
 detrainment
 deathsmen
 dikast
+dioscoreaceae
 detrect
 detrench
 demigentleman
