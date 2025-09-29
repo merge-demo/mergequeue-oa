@@ -3145,7 +3145,6 @@ capella
 chelatable
 compacture
 coatimondie
-closemouth
 caper
 caperbush
 crepance
@@ -15790,6 +15789,7 @@ cankeredly
 coiffeuse
 chainlet
 chevalier
+closemouth
 cleanliest
 culottes
 compilatory
