@@ -1880,6 +1880,7 @@ foredoom
 footstep
 fourdrinier
 fundless
+foozling
 flamboyantize
 faradizing
 fenman
@@ -10102,7 +10103,6 @@ fondant
 finger
 fritz
 furnisher
-foozling
 farmhands
 fordam
 faki
