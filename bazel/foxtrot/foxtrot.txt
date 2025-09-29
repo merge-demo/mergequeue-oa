@@ -1411,7 +1411,6 @@ fatsos
 fossils
 factionalist
 femorofibular
-fatted
 formulators
 federacy
 fatbacks
@@ -7558,6 +7557,7 @@ flubs
 fogram
 flambeaus
 filtrate
+fatted
 felicities
 factual
 fleshquake
