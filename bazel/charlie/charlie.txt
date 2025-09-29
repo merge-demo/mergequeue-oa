@@ -2901,6 +2901,7 @@ conceptualistically
 chalcis
 cantabrian
 cantabrigian
+cathexion
 cantaliver
 cantaloup
 careerer
@@ -8743,7 +8744,6 @@ chaparral
 chaparraz
 chaparro
 chapati
-cathexion
 chilindre
 crocker
 chapatties
