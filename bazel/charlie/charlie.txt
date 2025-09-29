@@ -11635,6 +11635,7 @@ cholesteatomatous
 cholesteremia
 charoset
 chowdered
+conspurcate
 clethra
 columbanian
 cholesterol
@@ -13788,7 +13789,6 @@ convoke
 castanets
 cacosplanchnia
 cynegild
-conspurcate
 cedared
 cryptocommercial
 cinemagoers
