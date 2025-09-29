@@ -4982,6 +4982,7 @@ claptrap
 collectarium
 cartwheel
 coannex
+corpselikeness
 couchantly
 cartwheeler
 canopic
@@ -25093,7 +25094,6 @@ combinantive
 cores
 ctenodactyl
 carbonates
-corpselikeness
 cetin
 cardia
 chaulmugra
