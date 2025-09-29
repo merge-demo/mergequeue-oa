@@ -8300,6 +8300,7 @@ cytologist
 courtyard
 chalina
 colonisation
+coracle
 coonskin
 carbro
 complexity
@@ -24838,7 +24839,6 @@ cloverleafs
 charissa
 coracii
 coryzas
-coracle
 cathect
 clipeus
 calcimeter
