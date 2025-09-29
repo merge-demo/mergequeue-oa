@@ -2083,6 +2083,7 @@ gozzard
 gerberia
 geobotanist
 galvanizer
+gurglingly
 gerontes
 ginglmi
 gnomist
@@ -6593,7 +6594,6 @@ glassen
 globulysis
 glycosuria
 gossans
-gurglingly
 gruss
 grittiest
 gyrodyne
