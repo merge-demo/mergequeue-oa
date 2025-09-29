@@ -3552,7 +3552,6 @@ greekling
 glumella
 gourmandize
 galvanisation
-gharnao
 glossa
 gambolled
 goniaster
@@ -4760,6 +4759,7 @@ gizmos
 globes
 garrnishable
 gizz
+gharnao
 grippier
 gobos
 gorgoniaceous
