@@ -3340,7 +3340,6 @@ emasculators
 expressible
 embadomonas
 eupatorin
-eats
 embain
 epanthous
 embays
@@ -7725,6 +7724,7 @@ embreathe
 earache
 equidensity
 ephebic
+eats
 excriminate
 eustacies
 enforcer
