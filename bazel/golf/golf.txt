@@ -130,7 +130,6 @@ gageable
 guerdonable
 geryonid
 guelf
-gadwalls
 gasconism
 girth
 gaelic
@@ -7462,6 +7461,7 @@ grigri
 graypate
 gemstones
 giggling
+gadwalls
 gloomfully
 glossopharyngeal
 glitch
