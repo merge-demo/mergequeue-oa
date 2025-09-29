@@ -8412,7 +8412,6 @@ catchers
 chamecephaly
 chamecephalus
 cannibals
-chameleon
 chameleonlike
 cantilena
 cckw
@@ -21429,6 +21428,7 @@ carbones
 carbonator
 conciliations
 conciliator
+chameleon
 contessa
 cardielcosis
 counterpointing
