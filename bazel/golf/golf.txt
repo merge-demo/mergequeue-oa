@@ -934,7 +934,6 @@ gammoners
 gooseries
 glycyphyllin
 gamogamy
-gitanemuck
 gunstone
 gamophagy
 grave
@@ -4922,6 +4921,7 @@ gladdened
 grouter
 greenbottle
 gestural
+gitanemuck
 glaives
 get
 grulla
