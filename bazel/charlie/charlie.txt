@@ -16210,7 +16210,6 @@ clinchingly
 chargeability
 cathedratical
 counterreligion
-cline
 clines
 caudexes
 crankness
@@ -30664,6 +30663,7 @@ cudgeled
 contribute
 calymene
 cudgelers
+cline
 churlish
 counterwind
 cudgelling
