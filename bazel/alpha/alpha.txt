@@ -11345,7 +11345,6 @@ abmhos
 amsath
 autolysis
 aldosteronism
-atrabilious
 adverbs
 adeodatus
 afterwitted
@@ -11770,6 +11769,7 @@ anammonide
 antecurvature
 asteatosis
 anantherous
+atrabilious
 ananthous
 anapaestically
 apterous
