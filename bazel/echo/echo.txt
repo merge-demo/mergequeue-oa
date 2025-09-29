@@ -3177,7 +3177,6 @@ esperantist
 enamelwork
 emmeleia
 elopes
-elops
 elicit
 emission
 epiphanized
@@ -13490,6 +13489,7 @@ evaporite
 eristic
 endangeitis
 epitomic
+elops
 epigrapher
 elinor
 equipollence
