@@ -1669,7 +1669,6 @@ gommier
 grusian
 garlanded
 gibson
-gros
 gastroenteritis
 glycerolysis
 gunrunning
@@ -2782,6 +2781,7 @@ garblings
 grandisonous
 gathers
 gazettal
+gros
 grigris
 gormless
 gentiobiose
