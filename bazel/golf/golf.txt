@@ -1026,7 +1026,6 @@ garvock
 gerardias
 gorgonin
 gompholobium
-ganglioid
 ganglioma
 gangliomas
 ganglionate
@@ -9421,6 +9420,7 @@ gallybeggar
 gorgeous
 gigues
 gallinulinae
+ganglioid
 groundy
 ganosis
 groundlings

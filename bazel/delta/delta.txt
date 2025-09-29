@@ -3162,7 +3162,6 @@ diabolising
 doftberry
 defencive
 dane
-dents
 defendable
 demimondaine
 dkg
@@ -6619,6 +6618,7 @@ dephlegmated
 desegregated
 dictyota
 decadently
+dents
 draggletailedly
 destroyed
 denumerative
