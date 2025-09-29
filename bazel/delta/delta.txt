@@ -14156,7 +14156,6 @@ dermatomic
 deleter
 doeling
 depolarisation
-depreciatingly
 drolly
 deteriorism
 devilled
@@ -15380,6 +15379,7 @@ dialler
 diffuse
 disposedly
 dendrons
+depreciatingly
 dentirostres
 dolphinlike
 decoloration
