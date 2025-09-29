@@ -3705,7 +3705,6 @@ ghuz
 giant
 griffons
 gasterothecal
-gallein
 glinse
 goonie
 graveldiver
@@ -8543,6 +8542,7 @@ gibbeting
 geothermometer
 gaufrettes
 glucose
+gallein
 geometrizing
 graziers
 gravidate
