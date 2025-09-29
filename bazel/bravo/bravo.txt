@@ -2722,7 +2722,6 @@ bukeyef
 barology
 bombax
 barometers
-beefy
 blam
 bacilary
 beachside
@@ -15403,6 +15402,7 @@ bearskins
 brineless
 bodgie
 berate
+beefy
 bombardment
 bakery
 bratstva
