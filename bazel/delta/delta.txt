@@ -2028,6 +2028,7 @@ dolichocephal
 documentalist
 decadic
 decriminalized
+dasturi
 dawson
 dammara
 driveway
@@ -3462,7 +3463,6 @@ dextrogyratory
 deuterostomata
 deforse
 dinitrotoluene
-dasturi
 defrayable
 dismissable
 digitalizing
