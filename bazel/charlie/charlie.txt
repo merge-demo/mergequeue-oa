@@ -9922,6 +9922,7 @@ clays
 calic
 closkey
 cameograph
+citrometer
 catalogic
 crouch
 chronobiology
@@ -15600,7 +15601,6 @@ clues
 classists
 classmanship
 clive
-citrometer
 classmate
 conima
 curdlers
