@@ -12927,6 +12927,7 @@ churro
 churruck
 churrus
 copiers
+ceraunomancy
 clavus
 carroming
 clodpolls
@@ -20063,7 +20064,6 @@ cassideous
 caburn
 commando
 commandoes
-ceraunomancy
 commandoman
 canfieldite
 commandos
