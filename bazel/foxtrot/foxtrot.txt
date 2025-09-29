@@ -2646,6 +2646,7 @@ foxfishes
 fishhold
 fifty
 frostbow
+fatalisms
 fetish
 flashy
 frump
@@ -5450,7 +5451,6 @@ fusionless
 firefighter
 firearmed
 falsifiable
-fatalisms
 fley
 foxed
 flem
