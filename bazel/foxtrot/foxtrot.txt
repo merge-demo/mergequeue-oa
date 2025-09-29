@@ -530,6 +530,7 @@ flask
 forgivableness
 forepaled
 fetterless
+fangle
 fustigating
 falconinae
 favoredness
@@ -2584,7 +2585,6 @@ fluming
 filicineae
 forsakenly
 fibrillation
-fangle
 fiscality
 featherlight
 filthy
