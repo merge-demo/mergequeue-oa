@@ -15330,7 +15330,6 @@ doddering
 dosimeter
 dollia
 dissociate
-dingmaul
 dedolent
 depressanth
 derotremate
@@ -16910,6 +16909,7 @@ drawoff
 decadent
 doeskins
 dispersible
+dingmaul
 demicaponier
 distomatosis
 discophile
