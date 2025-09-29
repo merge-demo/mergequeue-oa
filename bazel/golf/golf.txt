@@ -3236,7 +3236,6 @@ gauze
 geotropically
 galagala
 gaut
-guarantor
 gossypol
 gyral
 gaelicist
@@ -4342,6 +4341,7 @@ gastrocoloptosis
 ginglymodi
 gaj
 gozill
+guarantor
 gemstone
 gravestead
 glossata
