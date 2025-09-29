@@ -4938,6 +4938,7 @@ aleuronic
 animalness
 aerotonometry
 adularescent
+anaconda
 albruna
 allantoidal
 aerotonometric
@@ -10604,7 +10605,6 @@ asseveratory
 appendicious
 argos
 averting
-anaconda
 archivists
 autoinoculable
 arthropomatous
