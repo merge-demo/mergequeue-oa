@@ -3205,6 +3205,7 @@ greatish
 getatability
 gally
 graffage
+granular
 gazement
 gormandizer
 gynecologists
@@ -8059,7 +8060,6 @@ gristmill
 grantors
 grantsman
 granula
-granular
 girandole
 gulping
 gooky
