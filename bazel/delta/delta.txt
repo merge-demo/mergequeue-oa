@@ -3658,6 +3658,7 @@ dipsetic
 disentitling
 degust
 dasnt
+deke
 divort
 dooja
 disprove
@@ -5721,7 +5722,6 @@ diazotype
 danton
 depletive
 denutrition
-deke
 devolutionist
 desulphurate
 debitor
