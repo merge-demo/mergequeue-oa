@@ -86,7 +86,6 @@ abandon
 androecial
 apetalose
 autarch
-amphipods
 alispheno
 abandoners
 adjutantship
@@ -19810,6 +19809,7 @@ abdaria
 agonized
 anatto
 armyworms
+amphipods
 armlessness
 anchusins
 aiguellette
