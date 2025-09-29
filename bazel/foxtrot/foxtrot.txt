@@ -1144,7 +1144,6 @@ forefends
 flockling
 furmenties
 fimbriodentate
-flagrance
 florulas
 facials
 fiberization
@@ -4781,6 +4780,7 @@ fannings
 filigrain
 flageolets
 flagfishes
+flagrance
 fubsy
 forbiddenness
 figurately
