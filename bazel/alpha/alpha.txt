@@ -5750,6 +5750,7 @@ aarrghh
 agamobium
 aligners
 agglutinogen
+avn
 agglutinoscope
 airlessness
 acclaiming
@@ -19786,7 +19787,6 @@ arrogating
 arsenobenzene
 adsessor
 arming
-avn
 arminianize
 acupuncturists
 atabals
