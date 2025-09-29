@@ -6651,6 +6651,7 @@ counterthrust
 clamoring
 celestine
 ceilers
+chiffonade
 carsick
 condole
 ceilidh
@@ -19302,7 +19303,6 @@ collutories
 collutorium
 cetiosaurus
 celiomyalgia
-chiffonade
 cyanidin
 countlessly
 couma

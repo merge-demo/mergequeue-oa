@@ -14207,7 +14207,6 @@ adjutancies
 awful
 acolyte
 anthotaxy
-anthotaxis
 andries
 aget
 anisocycle
@@ -25169,6 +25168,7 @@ assahy
 adequateness
 alkitran
 ailing
+anthotaxis
 axonolipous
 amirate
 axonometric
