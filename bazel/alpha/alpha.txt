@@ -9795,7 +9795,6 @@ acerata
 airers
 adminiculate
 anticlastic
-ancoral
 auricled
 amativeness
 arcing
@@ -12791,6 +12790,7 @@ aerophilatelist
 angularity
 affirming
 amphimictic
+ancoral
 acct
 angulated
 angulately
