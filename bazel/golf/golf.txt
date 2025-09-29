@@ -2584,6 +2584,7 @@ gazetteerage
 gomerel
 gametophyll
 guetare
+gamotropism
 generative
 glabbella
 generification
@@ -7320,7 +7321,6 @@ gomarite
 gossypine
 geoponical
 gleamier
-gamotropism
 grumps
 globated
 gramas
