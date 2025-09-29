@@ -538,6 +538,7 @@ favoredness
 fleeces
 fresher
 forfeiter
+filariidae
 factitial
 funambulant
 folium
@@ -1565,7 +1566,6 @@ fortyfold
 flights
 farcelike
 frisca
-filariidae
 fissirostres
 facially
 farcetta
