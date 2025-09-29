@@ -3236,7 +3236,6 @@ gossypol
 gyral
 gaelicist
 galvanical
-gustatory
 giddiest
 grades
 grayback
@@ -9479,6 +9478,7 @@ garnisheing
 grisbet
 gecking
 groutier
+gustatory
 gins
 gyving
 gyroscope

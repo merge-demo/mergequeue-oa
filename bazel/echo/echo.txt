@@ -542,7 +542,6 @@ elaborated
 echinacea
 evelina
 eching
-echinidan
 expy
 enzymologist
 eclipsises
@@ -5810,6 +5809,7 @@ embergeese
 eccl
 engramme
 epicarpal
+echinidan
 engrammes
 extensors
 edwardine
