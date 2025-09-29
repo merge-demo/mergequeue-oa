@@ -6673,7 +6673,6 @@ flyblow
 flores
 fogdogs
 frippery
-fairways
 fogdom
 fogfruit
 fruiteress
@@ -9857,6 +9856,7 @@ fricandeaux
 foozlers
 footcloths
 fluellen
+fairways
 foredestine
 foxily
 funnelform
