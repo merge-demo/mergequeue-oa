@@ -6944,7 +6944,6 @@ follily
 feeblemindedness
 fumigants
 furnishing
-fungivorous
 fadeless
 flatcap
 fendy
@@ -7141,6 +7140,7 @@ footfarer
 falsework
 footfault
 fricassees
+fungivorous
 flimflammery
 footfolk
 ferrugineous
