@@ -6549,7 +6549,6 @@ cdf
 cesspool
 celibates
 credulous
-ceanothus
 cearin
 ceaselessness
 cryogenically
@@ -31493,6 +31492,7 @@ cyclar
 currier
 chirivita
 curryfavour
+ceanothus
 campstools
 curriing
 currying
