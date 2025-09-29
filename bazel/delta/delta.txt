@@ -13854,7 +13854,6 @@ distemperoid
 distenant
 dorsicornu
 demodulations
-dolichocephali
 deles
 demolitionist
 descenders
@@ -15536,6 +15535,7 @@ driveways
 daredevil
 doms
 devesting
+dolichocephali
 derve
 drumreads
 don
