@@ -3007,6 +3007,7 @@ fleeciness
 fistmele
 flowers
 filmsets
+freedmen
 fasciate
 fiestas
 featest
@@ -4899,7 +4900,6 @@ frumpy
 fibrinate
 fellage
 forbears
-freedmen
 fairwater
 forwent
 farina
