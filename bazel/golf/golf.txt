@@ -587,7 +587,6 @@ gowan
 gladding
 gallicizer
 galliform
-gomphrena
 gabfest
 gorilloid
 garron
@@ -10553,6 +10552,7 @@ gard
 gunk
 girdering
 geeing
+gomphrena
 grateman
 grilling
 guillemot
