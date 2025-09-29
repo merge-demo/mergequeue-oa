@@ -752,7 +752,6 @@ enclaved
 ecaudate
 echinocaris
 evangelism
-ecotones
 extorsive
 emotive
 enabling
@@ -3102,6 +3101,7 @@ epicalyces
 encomiums
 endogenies
 echinorhinidae
+ecotones
 etheriidae
 entombed
 epitomised
