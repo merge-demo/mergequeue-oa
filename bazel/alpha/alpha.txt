@@ -12491,7 +12491,6 @@ angarep
 angaria
 ambrette
 angariation
-abulias
 angaries
 aeronomist
 alkahestical
@@ -18157,6 +18156,7 @@ achromobacterieae
 anacatharsis
 aloose
 aerospace
+abulias
 apostatising
 aracana
 antefebrile
