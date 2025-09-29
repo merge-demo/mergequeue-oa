@@ -11091,6 +11091,7 @@ cardiologies
 collembolic
 chytridiose
 chytridiosis
+cacomorphosis
 chits
 chittack
 chitter
@@ -22536,7 +22537,6 @@ conjecturably
 condylopoda
 ciconiid
 coronetlike
-cacomorphosis
 cantata
 carotinaemia
 conjecturally

@@ -4562,7 +4562,6 @@ aegophony
 aegrotant
 arboresque
 alphabeted
-azazel
 askile
 aegrotat
 acroterion
@@ -15987,6 +15986,7 @@ annealing
 antisexist
 antiship
 antisialagogue
+azazel
 absorbance
 amphitryon
 antisideric
