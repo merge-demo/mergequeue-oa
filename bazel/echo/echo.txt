@@ -5487,7 +5487,6 @@ elritch
 ectocarpic
 excitate
 equiformity
-enzymosis
 enervation
 ethnically
 enetophobia
@@ -14196,6 +14195,7 @@ endlong
 equidistance
 exportations
 exurge
+enzymosis
 exuscitate
 enlists
 effecters
