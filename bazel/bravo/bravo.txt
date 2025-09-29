@@ -9175,7 +9175,6 @@ bipetalous
 bellic
 biotins
 blockhouse
-bucciniform
 bibliographer
 brended
 bobbinet
@@ -16705,6 +16704,7 @@ benzolate
 bunkhouses
 blockhole
 begari
+bucciniform
 blindfolding
 bondship
 budgerow
