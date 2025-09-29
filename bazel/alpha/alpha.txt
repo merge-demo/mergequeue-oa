@@ -791,7 +791,6 @@ aspersoir
 allergy
 assertors
 acesodyne
-abscissas
 anam
 apachism
 alcohate
@@ -7308,6 +7307,7 @@ albizzias
 albocarbon
 albococcus
 albocracy
+abscissas
 ambuscading
 astroid
 acetalization
