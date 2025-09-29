@@ -9858,6 +9858,7 @@ antinome
 anomoeomery
 acinotubular
 acrodonts
+aphonic
 ambicoloration
 ajitter
 anticrisis
@@ -23692,7 +23693,6 @@ ambash
 appetit
 agin
 ampules
-aphonic
 aphorising
 anthozoan
 abled
