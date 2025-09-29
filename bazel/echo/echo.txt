@@ -5384,7 +5384,6 @@ exuviated
 endovaccination
 ecclesial
 east
-engirdles
 ebonige
 esthesiometer
 enfester
@@ -8759,6 +8758,7 @@ embrue
 erade
 exhedra
 enfeebler
+engirdles
 euphyllite
 erythrorrhexis
 eradicable

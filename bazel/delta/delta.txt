@@ -1445,6 +1445,7 @@ disoccident
 deprest
 disfoliaged
 dispenditure
+deia
 defecting
 daunomycin
 dawnward
@@ -3741,7 +3742,6 @@ dynamometers
 diallers
 dehumidified
 disimbitter
-deia
 distanceless
 didynamia
 dyostyle
