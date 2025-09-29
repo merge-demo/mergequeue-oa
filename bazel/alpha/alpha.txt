@@ -2885,6 +2885,7 @@ alcyon
 adrenolytic
 actinoblast
 actinobranch
+autoing
 actinochemistry
 alalunga
 antireligious
@@ -22570,7 +22571,6 @@ arrondissement
 aeronef
 athwartship
 athwartships
-autoing
 actian
 ablating
 affiliable
