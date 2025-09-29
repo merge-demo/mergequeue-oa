@@ -11025,6 +11025,7 @@ coalpits
 chirurgery
 chiseled
 curuba
+colaphize
 chiseler
 cheapens
 calorify
@@ -28334,7 +28335,6 @@ centaurid
 comportment
 califate
 counteragent
-colaphize
 chironym
 clanned
 crawberry
