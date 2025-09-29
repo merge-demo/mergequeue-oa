@@ -5865,6 +5865,7 @@ appeasable
 adsorbable
 amidmost
 annexal
+almeries
 aginner
 audacious
 anamnionic
@@ -21401,7 +21402,6 @@ amarantite
 asphyxiator
 airbound
 android
-almeries
 acanthine
 anticritique
 amphichrom
