@@ -7771,6 +7771,7 @@ burrow
 ballgames
 batidaceae
 biauricular
+besort
 began
 biaxiality
 buffalos
@@ -9393,7 +9394,6 @@ bacteriostat
 barristership
 babishly
 betassel
-besort
 brucia
 bethank
 bulimulidae
