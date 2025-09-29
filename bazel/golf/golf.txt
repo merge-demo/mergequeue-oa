@@ -1767,7 +1767,6 @@ geminately
 glycolipin
 germinance
 goodless
-golliwogs
 gallic
 gonion
 grx
@@ -8519,6 +8518,7 @@ germinal
 gradually
 gawsy
 gravitic
+golliwogs
 gretchen
 gurgeons
 griped
