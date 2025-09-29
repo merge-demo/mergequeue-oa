@@ -11495,7 +11495,6 @@ discolorment
 discolouring
 decatyl
 discolourization
-discourt
 discombobulate
 disuniform
 disembodiments
@@ -16135,6 +16134,7 @@ douc
 douceness
 defraudation
 disarray
+discourt
 despitous
 douceur
 dakir
