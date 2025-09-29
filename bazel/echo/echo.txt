@@ -3050,7 +3050,6 @@ electrothermostat
 ellenyard
 escribed
 embryographic
-equilater
 emetia
 equated
 excreters
@@ -3644,6 +3643,7 @@ extravert
 exomion
 excogitates
 engarment
+equilater
 emaciated
 erythrons
 everse
