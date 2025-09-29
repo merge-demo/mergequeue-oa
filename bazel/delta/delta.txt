@@ -3470,7 +3470,6 @@ dismissable
 digitalizing
 dodginess
 dartsman
-delft
 defrayed
 dinghies
 defrayers
@@ -8183,6 +8182,7 @@ diacatholicon
 destitution
 dakotan
 divaricated
+delft
 discal
 duellize
 disembodied
