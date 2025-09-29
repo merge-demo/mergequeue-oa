@@ -11415,7 +11415,6 @@ butyraldehyde
 ban
 barad
 babuma
-behoof
 bewelter
 boatheader
 bairnliest
@@ -15674,6 +15673,7 @@ brionine
 brodiaea
 brod
 benchwarmer
+behoof
 bractlet
 bassoon
 berberin
