@@ -3715,6 +3715,7 @@ fillies
 feetless
 firedogs
 foalfoot
+frowns
 flaccidities
 fillings
 furfuryl
@@ -11709,7 +11710,6 @@ frameless
 flaw
 fanfish
 fiancailles
-frowns
 furriered
 forebitter
 ferruled
