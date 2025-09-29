@@ -1395,6 +1395,7 @@ gasified
 gearshift
 gcd
 gangplow
+goo
 gliriformia
 gymnogene
 galvanopsychic
@@ -8719,7 +8720,6 @@ gawkers
 gudefather
 gregarianism
 glommox
-goo
 galyak
 guacharoes
 gymnastically
