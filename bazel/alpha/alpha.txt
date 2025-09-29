@@ -15320,7 +15320,6 @@ antiburgher
 aggravable
 argestes
 anconitis
-archisperm
 angulosity
 antimere
 antimerging
@@ -20096,6 +20095,7 @@ asclepieion
 apothem
 ascogonium
 assiduously
+archisperm
 archducal
 arrearages
 amoles
