@@ -6980,7 +6980,6 @@ graviers
 giddybrain
 gladdener
 gasthauses
-goondie
 goons
 gamostely
 gavel
@@ -10138,6 +10137,7 @@ gasohol
 grazers
 glochideous
 giddyish
+goondie
 garboils
 gal
 gloried
