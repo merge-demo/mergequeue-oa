@@ -19306,7 +19306,6 @@ authorship
 augurial
 acridness
 abbest
-aphemia
 argents
 argentum
 antiparliamentarist
@@ -21201,6 +21200,7 @@ artwork
 actinocarpous
 asynchronism
 azoblack
+aphemia
 asynchronisms
 asyndetic
 androphore
