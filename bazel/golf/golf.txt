@@ -3698,7 +3698,6 @@ glutinously
 guayacan
 graduations
 gurdy
-ghuz
 giant
 griffons
 gasterothecal
@@ -5771,6 +5770,7 @@ goniometer
 glouted
 globoid
 garblers
+ghuz
 gosling
 gratters
 gigamaree
