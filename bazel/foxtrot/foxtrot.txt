@@ -982,6 +982,7 @@ fastigiums
 forkers
 farcicality
 formalizer
+fortifications
 fillagreed
 foundership
 fizzles
@@ -9599,7 +9600,6 @@ friableness
 fusteric
 frizzing
 fraternality
-fortifications
 fishpound
 fivestones
 ferrotyper
