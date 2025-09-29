@@ -249,6 +249,7 @@ gulaman
 gaspereau
 gaiter
 goajiro
+gulch
 groot
 gillers
 gainage
@@ -8047,7 +8048,6 @@ gapeworm
 genuine
 gulo
 gainsome
-gulch
 gastrochaenidae
 guacharo
 grantia
