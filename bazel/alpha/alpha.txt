@@ -17302,7 +17302,6 @@ apothecium
 areologic
 applot
 airship
-antiarchi
 apothegmatically
 apothegmatist
 autojigger
@@ -23169,6 +23168,7 @@ apoapsides
 alloisomer
 antitobacconal
 amoretto
+antiarchi
 atropinization
 analgesia
 audiological
