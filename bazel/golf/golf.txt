@@ -4109,6 +4109,7 @@ gringo
 gnars
 gymnasts
 gibbi
+galactoscope
 grahamism
 gigback
 glottal
@@ -9552,7 +9553,6 @@ galactopoiesis
 geophones
 granted
 gynecologist
-galactoscope
 grind
 gnus
 gingersnap

@@ -2080,6 +2080,7 @@ alcovinometer
 ammobium
 admixing
 anthophyllite
+arborical
 ararao
 achluophobia
 acholia
@@ -18399,7 +18400,6 @@ accounting
 anyplace
 abusee
 antipodism
-arborical
 arboricole
 austrophile
 arboricoline
