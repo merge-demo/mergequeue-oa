@@ -5389,6 +5389,7 @@ emigrants
 eightsman
 example
 elsewhither
+epiprecoracoid
 electronvolt
 endowment
 excantation
@@ -8090,7 +8091,6 @@ epiploitis
 embryoscopic
 enthuse
 expenseful
-epiprecoracoid
 extrude
 elegant
 epipterous
