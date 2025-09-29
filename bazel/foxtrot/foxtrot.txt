@@ -8029,6 +8029,7 @@ fanfoot
 fieldie
 folksay
 fredricite
+fidging
 fourteenthly
 forestation
 fructiculture
@@ -9221,7 +9222,6 @@ facts
 frayedness
 fabulize
 fretter
-fidging
 flagmaking
 flashier
 finnac
