@@ -6427,6 +6427,7 @@ donation
 derotremata
 destinate
 denization
+devaporation
 demarcate
 dewans
 druidic
@@ -18661,7 +18662,6 @@ disseisor
 duvetynes
 deallocation
 desquamate
-devaporation
 dvigu
 debarks
 descendance
