@@ -803,6 +803,7 @@ flea
 figuration
 floosy
 formalistic
+furnishing
 fantasticalness
 forcible
 flautists
@@ -4838,7 +4839,6 @@ festinately
 fructiparous
 feasting
 fascicular
-furnishing
 fodder
 foliums
 froebelism

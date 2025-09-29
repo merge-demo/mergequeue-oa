@@ -3755,7 +3755,6 @@ gibber
 gaslightness
 gibberellin
 grandmotherhood
-gaffing
 greenhew
 goffers
 geodetics
@@ -10332,6 +10331,7 @@ guland
 grubstaking
 gules
 gown
+gaffing
 gonoph
 grot
 glebal
