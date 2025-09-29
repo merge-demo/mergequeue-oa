@@ -3201,7 +3201,6 @@ girtonian
 gap
 ghosty
 gifting
-gilgul
 goldenwing
 galoot
 greatish
@@ -4398,6 +4397,7 @@ gutted
 ghaut
 gluer
 gutting
+gilgul
 graces
 griffinage
 gynodioecious
