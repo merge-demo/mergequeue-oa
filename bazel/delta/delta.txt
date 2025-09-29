@@ -1656,6 +1656,7 @@ dimetrodon
 domesticize
 deodate
 devertebrated
+deaspiration
 daydrudge
 disassembler
 darting
@@ -1734,7 +1735,6 @@ disembed
 decidedly
 defensibility
 dentinalgia
-deaspiration
 dishonest
 daredevilry
 desponsate
