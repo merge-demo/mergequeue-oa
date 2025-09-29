@@ -4177,6 +4177,7 @@ elektra
 egoize
 enwound
 extratheistic
+epollicate
 emptiers
 emptiest
 emptiness
@@ -8421,7 +8422,6 @@ enwrought
 epocha
 embaying
 eumitosis
-epollicate
 ethoses
 eponge
 exhibitioner
