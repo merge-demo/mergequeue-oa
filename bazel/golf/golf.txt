@@ -3229,7 +3229,6 @@ gruellers
 geometrising
 geosynclines
 goetical
-gere
 gereagle
 gleeful
 gauze
@@ -4178,6 +4177,7 @@ geod
 ganef
 grotesquery
 gulflike
+gere
 geniculum
 gossy
 gymnotus
