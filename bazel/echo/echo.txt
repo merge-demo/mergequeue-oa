@@ -726,6 +726,7 @@ enterocoele
 enharmonical
 elucidated
 edifice
+enamors
 extramolecular
 ensamples
 erythropoietin
@@ -1795,7 +1796,6 @@ emigrant
 engraulis
 erodium
 effetely
-enamors
 euectic
 eroding
 encroached
