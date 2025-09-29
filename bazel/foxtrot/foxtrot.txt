@@ -5311,7 +5311,6 @@ furcule
 filial
 fant
 forcepslike
-fibbing
 foulmouthedly
 fiddlebrained
 flimflam
@@ -9869,6 +9868,7 @@ flexanimous
 flinger
 fabianism
 fremt
+fibbing
 fucatious
 fetishmonger
 flashbulbs
