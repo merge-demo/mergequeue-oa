@@ -4442,7 +4442,6 @@ fraiser
 falsary
 fovent
 flogmaster
-fumishly
 fledgier
 floppiest
 fishman
@@ -9285,6 +9284,7 @@ frapler
 forename
 footmenfootpad
 fungologist
+fumishly
 fumarine
 fogrum
 foldboats
