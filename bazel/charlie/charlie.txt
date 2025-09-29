@@ -1743,7 +1743,6 @@ calumniators
 cycads
 cascadian
 calumniously
-canephor
 calusa
 condores
 comporting
@@ -26539,6 +26538,7 @@ coronillin
 commandeered
 concactenated
 coughing
+canephor
 could
 coul
 candleberry
