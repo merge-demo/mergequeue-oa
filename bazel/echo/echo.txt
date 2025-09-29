@@ -4339,6 +4339,7 @@ endoplastule
 enoughs
 euornithes
 enapt
+easts
 ethnog
 elemi
 elatinaceae
@@ -8534,7 +8535,6 @@ emblement
 eeyuck
 ethylenoid
 enorganic
-easts
 epichoristic
 equative
 electre
