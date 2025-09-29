@@ -13324,6 +13324,7 @@ coquito
 chinning
 cyclope
 caroller
+crisset
 churchwarden
 couverte
 cyclopedias
@@ -29403,7 +29404,6 @@ crissal
 chromodiascope
 crisscrossed
 crisscrosses
-crisset
 crystaling
 commentatorially
 cantharis
