@@ -1824,6 +1824,7 @@ fractured
 flabellum
 fating
 flexographic
+fidicinales
 frostnipped
 funambulate
 feazed
@@ -4211,7 +4212,6 @@ featherstitch
 foothold
 flittermmice
 froe
-fidicinales
 fetus
 fructose
 fadding
