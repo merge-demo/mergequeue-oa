@@ -4495,6 +4495,7 @@ glib
 gypsophila
 gypsophily
 glycolipide
+gelatinify
 graddan
 gutters
 gardevisure
@@ -9985,7 +9986,6 @@ gubernatrix
 goodsome
 granada
 graveness
-gelatinify
 grungy
 gaincall
 galago
