@@ -5301,7 +5301,6 @@ ethenyl
 emendicate
 endosmoses
 enjewel
-everglades
 exsertion
 endospore
 exophagous
@@ -11480,6 +11479,7 @@ electromyogram
 emendate
 engouled
 eunuchize
+everglades
 evince
 endlessly
 embryoma
