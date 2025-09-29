@@ -7963,6 +7963,7 @@ algeria
 algerienne
 algerines
 avianized
+absolutize
 algerite
 aciduric
 algernon
@@ -15267,7 +15268,6 @@ affixt
 adjutancy
 antiliturgist
 antilocapra
-absolutize
 aerodermectasia
 appetitost
 akonge
