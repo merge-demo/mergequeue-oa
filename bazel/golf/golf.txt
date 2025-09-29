@@ -6070,7 +6070,6 @@ glengarries
 goosebeak
 gullibly
 gryphosaurus
-gigahertz
 gnessic
 gastromancy
 gypsies
@@ -8186,6 +8185,7 @@ graphitize
 glacioaqueous
 goldbug
 greenkeeper
+gigahertz
 gallingly
 gutturalising
 gorgoniacea
