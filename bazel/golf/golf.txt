@@ -1171,7 +1171,6 @@ gutturalize
 galipine
 gorilla
 guestless
-gaplessness
 gynandrism
 gappier
 gappiest
@@ -9224,6 +9223,7 @@ gritted
 grittie
 gutturality
 grivna
+gaplessness
 galeres
 grizzel
 gibingly
