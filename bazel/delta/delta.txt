@@ -2470,7 +2470,6 @@ destrudo
 diphase
 diplodocus
 docetae
-decision
 dnieper
 dozing
 decisional
@@ -7999,6 +7998,7 @@ dimmy
 distinctly
 dishwashing
 disfranchised
+decision
 dedendum
 decemplicate
 derider
