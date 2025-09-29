@@ -14372,7 +14372,6 @@ anthropomorphisation
 attempters
 anthropomorphised
 arimaspian
-arborean
 amphitricha
 abyssinian
 archiprelatical
@@ -20870,6 +20869,7 @@ asceticism
 amtrac
 ascetta
 argyll
+arborean
 acetabula
 alpasotes
 abstractively

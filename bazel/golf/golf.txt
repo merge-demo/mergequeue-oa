@@ -348,7 +348,6 @@ governingly
 gastrohepatitis
 gofers
 greekless
-galactophoritis
 gutwort
 gingerin
 grade
@@ -2275,6 +2274,7 @@ gonangial
 genettes
 globelike
 garance
+galactophoritis
 geissoloma
 geissolomataceae
 geissolomataceous
