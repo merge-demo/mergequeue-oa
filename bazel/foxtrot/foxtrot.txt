@@ -5509,7 +5509,6 @@ furrower
 fisc
 faked
 filionymic
-forbearingness
 frowzy
 furbelowing
 fankle
@@ -7005,6 +7004,7 @@ fumade
 freespace
 fondus
 feases
+forbearingness
 fluorocarbon
 frigorific
 fermentum
