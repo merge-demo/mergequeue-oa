@@ -9759,7 +9759,6 @@ foredays
 fabrics
 figurability
 factored
-ferash
 fridges
 frequenters
 ferijee
@@ -10543,6 +10542,7 @@ franking
 fluky
 flatus
 fossilised
+ferash
 fauchard
 folklorism
 featherier
