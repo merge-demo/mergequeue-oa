@@ -5794,6 +5794,7 @@ flamb
 flitters
 frequents
 flankwise
+fibroplasia
 froggiest
 frivolize
 ferfet
@@ -10381,7 +10382,6 @@ fireproofness
 farmyards
 fungite
 flusterment
-fibroplasia
 fonctionnaire
 forgivers
 fecundities
