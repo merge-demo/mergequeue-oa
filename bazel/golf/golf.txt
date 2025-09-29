@@ -7412,6 +7412,7 @@ geologising
 gourded
 gospelist
 gourdful
+goldtail
 granuliferous
 gabbler
 guereza
@@ -10811,7 +10812,6 @@ guttulate
 glibbery
 gossipping
 geniolatry
-goldtail
 glaring
 gingellies
 gaus
