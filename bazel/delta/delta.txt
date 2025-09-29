@@ -8281,7 +8281,6 @@ diaetetae
 deervetch
 diageotropic
 dealbation
-diaglyphic
 desmopelmous
 dell
 diatonical
@@ -12951,6 +12950,7 @@ dravya
 ducat
 dolomitized
 dissoconch
+diaglyphic
 downbend
 delusionist
 downfallen
