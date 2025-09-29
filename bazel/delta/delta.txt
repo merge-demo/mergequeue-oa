@@ -5506,6 +5506,7 @@ deoxidative
 deoxidisation
 dsnames
 deadest
+droopingness
 dorsiventrality
 deoxidize
 deoxygenated
@@ -8375,7 +8376,6 @@ deglutination
 dual
 decapodous
 dialectologer
-droopingness
 diplois
 dialectologist
 dargue

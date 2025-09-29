@@ -9154,7 +9154,6 @@ fabrications
 fungosity
 forelocks
 freights
-fondue
 formidolous
 fossorial
 fractionization
@@ -10169,6 +10168,7 @@ femme
 feued
 frizing
 frizzante
+fondue
 finch
 fantad
 fragmentise
