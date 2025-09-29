@@ -5557,7 +5557,6 @@ filamentar
 fiendlike
 flaxlike
 folkvangr
-flockowner
 fossicking
 firefight
 fader
@@ -11208,6 +11207,7 @@ futuric
 fasciolae
 fictil
 frittata
+flockowner
 farads
 firer
 failles
