@@ -500,7 +500,6 @@ eucaryotic
 eccrinology
 epiphylline
 eccrisis
-enregistered
 edifiers
 expellers
 excavations
@@ -7300,6 +7299,7 @@ etherealize
 emulous
 eimeria
 enterpillar
+enregistered
 eat
 enigmatize
 eoghanacht
