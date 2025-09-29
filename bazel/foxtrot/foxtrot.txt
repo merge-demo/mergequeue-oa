@@ -4817,6 +4817,7 @@ fasciolaria
 fancifulness
 flinching
 fashionmonging
+faultfinder
 fingerflower
 fullwords
 faena
@@ -8922,7 +8923,6 @@ fragged
 fossicker
 flueman
 filosus
-faultfinder
 funambulist
 fuddling
 flaggiest
