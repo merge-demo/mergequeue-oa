@@ -3392,7 +3392,6 @@ gyromancy
 gentisate
 giggit
 gerrhosaurid
-glossolaryngeal
 globularia
 gourmets
 gerrymander
@@ -8286,6 +8285,7 @@ gentes
 greeneries
 gladness
 gelation
+glossolaryngeal
 grailing
 gudes
 grandparental
