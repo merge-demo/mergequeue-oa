@@ -939,6 +939,7 @@ ammonitiferous
 anidian
 augural
 anorthographical
+actinopteran
 assis
 astron
 accidies
@@ -2965,7 +2966,6 @@ arsono
 amberous
 antidicomarianite
 acronomy
-actinopteran
 allotment
 autorail
 actinopteri
