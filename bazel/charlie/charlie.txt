@@ -5050,7 +5050,6 @@ cerianthus
 casate
 closemouthed
 cuber
-cellepora
 canaliform
 credensive
 cocaigne
@@ -6942,6 +6941,7 @@ cementoblast
 cementoma
 chord
 commendation
+cellepora
 creamed
 cemetery
 copesettic
