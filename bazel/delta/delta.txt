@@ -11856,6 +11856,7 @@ dioptomiter
 disdained
 disdainer
 deterrable
+diol
 dihelium
 diallagoid
 delations
@@ -17279,7 +17280,6 @@ driver
 dysbulic
 despising
 drivers
-diol
 drivership
 dmarche
 demirobe
