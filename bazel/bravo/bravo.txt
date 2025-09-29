@@ -10271,7 +10271,6 @@ basialveolar
 baconism
 beholden
 biplicate
-begnawn
 boultel
 bogard
 bundlerooted
@@ -13599,6 +13598,7 @@ boughpots
 bibliolatrist
 boughs
 bougie
+begnawn
 benefaction
 bimodulus
 boulanger
