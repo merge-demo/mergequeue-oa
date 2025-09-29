@@ -4025,6 +4025,7 @@ filmlike
 festin
 fluoaluminic
 felicific
+forweary
 facades
 forwean
 forefaces
@@ -6454,7 +6455,6 @@ footbaths
 feneration
 fibromatoid
 fluotantalic
-forweary
 filth
 folkcraft
 frenchize
