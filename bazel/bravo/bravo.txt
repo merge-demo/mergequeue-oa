@@ -9574,7 +9574,6 @@ bummer
 backbeats
 browningesque
 bonete
-bishopdom
 blathers
 biol
 bisyllabism
@@ -9912,6 +9911,7 @@ bipropellant
 bennettitaceae
 bravas
 brian
+bishopdom
 brigantinebrigantines
 bisecting
 beryllate
