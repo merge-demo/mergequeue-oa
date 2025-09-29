@@ -5649,7 +5649,6 @@ algebraic
 affeerment
 appal
 antennal
-adiabatically
 aviation
 acrocephalia
 abranchiata
@@ -11794,6 +11793,7 @@ astrometry
 ancille
 autoschediastical
 anaphylactogenic
+adiabatically
 anaphylatoxin
 auntish
 apectomy
