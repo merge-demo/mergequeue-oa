@@ -2732,7 +2732,6 @@ fessed
 fiercer
 fragmentarily
 fellinic
-fesses
 flaunche
 franciums
 facetiation
@@ -7864,6 +7863,7 @@ facings
 flenses
 franger
 farnesols
+fesses
 floppers
 firestorm
 floretum
