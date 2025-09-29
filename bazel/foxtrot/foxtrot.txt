@@ -2338,6 +2338,7 @@ faultier
 falsetto
 feoffs
 fasciole
+firepan
 fra
 fiftyfold
 footstalk
@@ -4950,7 +4951,6 @@ flamen
 flamandization
 firefanged
 funneling
-firepan
 firmware
 flocking
 fulcraceous

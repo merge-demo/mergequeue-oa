@@ -3015,7 +3015,6 @@ epiphenomenal
 esophagoscope
 epigram
 everich
-eschalot
 epidermis
 experimentalists
 essentialness
@@ -3422,6 +3421,7 @@ embellishers
 enchained
 encolden
 emmer
+eschalot
 edwardeanism
 eyeleteer
 embers
