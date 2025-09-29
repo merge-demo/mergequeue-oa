@@ -4453,7 +4453,6 @@ bedwarfed
 barbarea
 bulbiform
 blastoff
-basellaceous
 burree
 befleaing
 basaltware
@@ -8908,6 +8907,7 @@ byliner
 bioengineering
 basidiomycetes
 bioethic
+basellaceous
 bullishly
 blueberries
 bioethics
