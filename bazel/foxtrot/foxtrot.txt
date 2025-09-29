@@ -6447,7 +6447,6 @@ forweary
 filth
 folkcraft
 frenchize
-fordy
 fellatrix
 flurn
 flurried
@@ -10560,6 +10559,7 @@ fibration
 foreland
 fliping
 foughty
+fordy
 foreloper
 favose
 flatcar
