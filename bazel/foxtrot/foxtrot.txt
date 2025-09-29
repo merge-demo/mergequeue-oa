@@ -5157,7 +5157,6 @@ flustered
 fetalization
 federarie
 favour
-farsakh
 flatulency
 flatulencies
 fictions
@@ -7514,6 +7513,7 @@ foreburton
 fameless
 forecast
 forestarling
+farsakh
 foams
 ferial
 ferrocyanhydric
