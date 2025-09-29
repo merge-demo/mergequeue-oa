@@ -7440,6 +7440,7 @@ gamesmanship
 gymnotidae
 gordon
 gerful
+gorsedd
 geostrategic
 gaet
 gout
@@ -8069,7 +8070,6 @@ guidebooks
 glyoxalin
 gobs
 genically
-gorsedd
 galactic
 grimed
 gibsons
