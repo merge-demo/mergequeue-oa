@@ -1312,7 +1312,6 @@ ameban
 amphicondyla
 ammonolytic
 antimasque
-annealers
 alabamians
 accelerates
 amidases
@@ -4182,6 +4181,7 @@ antialbumid
 autocephalous
 ascript
 adroitly
+annealers
 acetmethylanilide
 arecaine
 atabrine
