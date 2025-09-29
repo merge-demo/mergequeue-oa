@@ -4281,7 +4281,6 @@ germicide
 gynetype
 gymnadenia
 glazieries
-glazings
 grieves
 gippy
 grads
@@ -8475,6 +8474,7 @@ gramineae
 graverobbing
 ghettoization
 gravers
+glazings
 gigsmen
 girliness
 grallatory
