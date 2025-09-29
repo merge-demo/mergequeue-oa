@@ -3641,7 +3641,6 @@ flashing
 fielder
 floatsman
 froglets
-fermatas
 figurate
 facticide
 fretsaws
@@ -8914,6 +8913,7 @@ favorableness
 foundrous
 farhands
 flotative
+fermatas
 fount
 freshener
 flu
