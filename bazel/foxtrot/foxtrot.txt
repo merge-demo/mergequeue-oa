@@ -2743,6 +2743,7 @@ festered
 faliscan
 frizer
 friedelite
+flockier
 foreparts
 fights
 fraternalism
@@ -6556,7 +6557,6 @@ flibbertigibbets
 flysches
 flattened
 feaked
-flockier
 fluxile
 favoured
 faunistical
