@@ -5051,6 +5051,7 @@ gnarr
 griecep
 glassies
 galoisian
+gedeckt
 gillied
 grasni
 guddler
@@ -7513,7 +7514,6 @@ gymnospermae
 gemini
 gillotype
 gurries
-gedeckt
 gelatiniferous
 grounded
 generability
