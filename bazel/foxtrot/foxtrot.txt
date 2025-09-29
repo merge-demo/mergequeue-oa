@@ -2980,6 +2980,7 @@ fewtrils
 flanned
 freethinker
 ferrels
+fourer
 fellies
 fazed
 fezzed
@@ -11254,7 +11255,6 @@ famble
 faciest
 featherwork
 funnels
-fourer
 funny
 fundamentality
 flagellants
