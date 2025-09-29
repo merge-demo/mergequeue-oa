@@ -4988,7 +4988,6 @@ flanch
 formalize
 forwarders
 fictionalized
-foraminate
 fact
 forestcraft
 fadeaway
@@ -8488,6 +8487,7 @@ fondler
 fluidal
 formylal
 fervorless
+foraminate
 farnovian
 frumpishness
 fiuman
