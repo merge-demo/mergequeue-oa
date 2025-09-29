@@ -521,7 +521,6 @@ apocentricity
 autoplasmotherapy
 ablepharon
 adore
-ataraxies
 amidophosphoric
 amyotrophia
 actualize
@@ -16970,6 +16969,7 @@ adverb
 apodyterium
 azotizing
 antipriesthood
+ataraxies
 apofenchene
 apogaeic
 antipopulism
