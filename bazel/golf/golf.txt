@@ -7347,7 +7347,6 @@ gazelles
 ghedda
 greenfish
 gunflints
-gelsemine
 gunnery
 gothish
 globousness
@@ -9305,6 +9304,7 @@ gromia
 gerundially
 gigantostracan
 grinder
+gelsemine
 geomagnetically
 glottalite
 glyptotheca
