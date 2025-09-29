@@ -8664,6 +8664,7 @@ encharging
 encharge
 episcleritis
 earth
+embanking
 epiglottides
 evangelists
 equiperiodic
@@ -11381,7 +11382,6 @@ erpetoichthys
 escaladed
 extrinsical
 eden
-embanking
 evangelising
 eventualize
 eventually

@@ -5172,7 +5172,6 @@ disburdened
 denervation
 denes
 diacetamide
-deny
 deices
 daughterlike
 deading
@@ -18144,6 +18143,7 @@ depetticoat
 dammed
 devisors
 diglottic
+deny
 driveboat
 disemburden
 disacidify
