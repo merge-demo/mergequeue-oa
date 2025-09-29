@@ -1368,7 +1368,6 @@ dompt
 dauntingly
 damagement
 dart
-discerners
 doup
 decipium
 deuced
@@ -2875,6 +2874,7 @@ disyllabizing
 decussoria
 decwriter
 deltoid
+discerners
 divia
 dashel
 dedanite
