@@ -8728,6 +8728,7 @@ arboroid
 artificership
 adaptionism
 alcoves
+archfoe
 allochlorophyll
 antigropelos
 acquaintance
@@ -18696,7 +18697,6 @@ artamidae
 archeus
 archexorcist
 absentmindedly
-archfoe
 ancestresses
 alaudidae
 angloid
