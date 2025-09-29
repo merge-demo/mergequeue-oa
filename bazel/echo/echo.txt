@@ -4334,7 +4334,6 @@ enantiomorph
 encratic
 equinovarus
 electrolyzer
-encephalosclerosis
 embraceor
 enantioses
 endoplastule
@@ -5097,6 +5096,7 @@ embracingness
 encysted
 emanatistic
 epilogic
+encephalosclerosis
 eobiont
 estray
 edentulous
