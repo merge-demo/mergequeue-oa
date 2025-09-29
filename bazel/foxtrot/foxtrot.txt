@@ -1169,7 +1169,6 @@ flowerless
 flouters
 fantasied
 fistulize
-fibularia
 freelovism
 fallals
 fungistatically
@@ -8038,6 +8037,7 @@ foresteep
 flockmaster
 flowerist
 frontward
+fibularia
 fellahs
 flash
 fluidises
