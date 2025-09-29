@@ -9903,7 +9903,6 @@ cycle
 chemoprophylactic
 chickling
 chromosomally
-cocottes
 coaxer
 candent
 chiselmouth
@@ -12043,6 +12042,7 @@ cryptanalytic
 coronene
 choroidocyclitis
 choroids
+cocottes
 chorology
 cynocrambe
 cylloses
