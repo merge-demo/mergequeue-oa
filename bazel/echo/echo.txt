@@ -7575,6 +7575,7 @@ endovenous
 electrocapillarity
 equivalently
 equalling
+extracostal
 electrocoating
 entoproct
 extemporal
@@ -13838,7 +13839,6 @@ electrotypic
 elaeothesia
 extraversively
 extracosmical
-extracostal
 ethnozoological
 equipotentiality
 eelpot
