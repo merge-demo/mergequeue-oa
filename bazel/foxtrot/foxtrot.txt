@@ -1328,6 +1328,7 @@ falser
 fyttes
 factionally
 frantically
+fashiousness
 fluxible
 fatherly
 fartherer
@@ -5891,7 +5892,6 @@ frangent
 flockwise
 ferruginate
 fusibility
-fashiousness
 flocs
 frontomalar
 flatfeet
