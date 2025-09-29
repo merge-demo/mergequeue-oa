@@ -3153,7 +3153,6 @@ fakir
 funduline
 forbearing
 fibromyotomy
-feuding
 fibromuscular
 farmer
 formule
@@ -5605,6 +5604,7 @@ florescent
 flightier
 foppy
 foster
+feuding
 facund
 foetor
 firebolt
