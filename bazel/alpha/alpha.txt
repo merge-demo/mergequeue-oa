@@ -11919,7 +11919,6 @@ anastomus
 advocator
 anapaestical
 activital
-agamogenetically
 anatase
 ardebs
 anatases
@@ -14284,6 +14283,7 @@ anthrenus
 agriculturalists
 anthribidae
 antipharisaic
+agamogenetically
 antimonate
 arunta
 aepyornithidae
