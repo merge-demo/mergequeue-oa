@@ -6586,7 +6586,6 @@ gonaduct
 gena
 glassiness
 guiling
-gonalgia
 gradatively
 galanga
 gruntingly
@@ -10403,6 +10402,7 @@ gourdhead
 gambreled
 granitelike
 gigot
+gonalgia
 geejee
 glareworm
 glucosidal
