@@ -1369,7 +1369,6 @@ garotters
 garnetlike
 gaulin
 groutite
-gastrostegal
 gravitometer
 gibbing
 garnetter
@@ -5862,6 +5861,7 @@ glycosidase
 gawney
 gipsyweed
 glucoses
+gastrostegal
 glances
 glucoside
 goshawk
