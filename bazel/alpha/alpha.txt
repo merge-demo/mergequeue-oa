@@ -7574,7 +7574,6 @@ airward
 adnascence
 angustia
 antum
-alcumy
 ald
 adoors
 alands
@@ -12050,6 +12049,7 @@ anchorets
 acquittals
 amblyopsis
 angiometer
+alcumy
 altruism
 anticourt
 anchorite
