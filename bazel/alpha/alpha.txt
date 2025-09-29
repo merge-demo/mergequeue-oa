@@ -5059,7 +5059,6 @@ annexations
 autochanger
 afetal
 abelian
-affability
 arrisways
 affable
 ambilaevous
@@ -16111,6 +16110,7 @@ actuarian
 anaplasm
 angiomatous
 asservilize
+affability
 attestable
 agenize
 amasser
