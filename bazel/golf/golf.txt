@@ -3212,6 +3212,7 @@ gazement
 gormandizer
 gynecologists
 gastrohysterorrhaphy
+granuliform
 gerasene
 gesturer
 gutti
@@ -9667,7 +9668,6 @@ govt
 gypsophilous
 groundwood
 gidgea
-granuliform
 gruellings
 gruesome
 galeod
