@@ -3767,7 +3767,6 @@ eglandulose
 electroplax
 ethene
 expendables
-emendandum
 extracolumella
 eulogized
 ensindon
@@ -10139,6 +10138,7 @@ extraorbital
 etherialised
 epicrates
 elaborators
+emendandum
 edgier
 emmove
 earlyish
