@@ -8478,7 +8478,6 @@ cesurae
 champak
 chordee
 crinum
-chamfering
 characterstring
 chaussees
 champaka
@@ -28680,6 +28679,7 @@ clung
 crenothrix
 crenula
 clodpated
+chamfering
 crenulate
 crenulation
 creodonta
