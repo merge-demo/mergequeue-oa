@@ -1652,6 +1652,7 @@ deisin
 difficulty
 daylong
 dicers
+dozzled
 dimetrodon
 domesticize
 deodate
@@ -16488,7 +16489,6 @@ deviousness
 darers
 dozzle
 dyscrasing
-dozzled
 disassembles
 drabant
 determinableness
