@@ -25991,7 +25991,6 @@ clipei
 citadels
 cosegment
 cosey
-chimesmaster
 coseiest
 coseism
 coseismal
@@ -29349,6 +29348,7 @@ caddised
 cryptozygous
 crozle
 chanter
+chimesmaster
 chorographic
 cryptozoic
 cryptozoite
