@@ -1209,7 +1209,6 @@ clifts
 calefactor
 carbonised
 clou
-cobaltammine
 cnemic
 chalcidica
 controvertibility
@@ -10226,6 +10225,7 @@ chiao
 capsicum
 chiapanec
 chiapanecan
+cobaltammine
 chamomilla
 chorisepalous
 chiarooscuro

@@ -7580,7 +7580,6 @@ antichresis
 aldebaran
 autoplastic
 arbours
-anticonvulsive
 ariettes
 authoresses
 aldehyde
@@ -7991,6 +7990,7 @@ abrash
 adjuster
 amis
 awabakal
+anticonvulsive
 antimark
 anachronous
 askoi
