@@ -3071,7 +3071,6 @@ barksome
 basale
 berascaling
 bathetic
-beaufet
 baas
 befame
 broadloom
@@ -8496,6 +8495,7 @@ bronchotomist
 behale
 beshield
 brackmard
+beaufet
 bookworm
 birch
 butyryl
