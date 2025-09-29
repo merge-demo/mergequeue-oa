@@ -7673,6 +7673,7 @@ arctia
 abreuvoir
 alea
 aleak
+analcimite
 aleatory
 aleatoric
 aquae
@@ -11629,7 +11630,6 @@ analcimic
 antar
 archpastor
 autonomies
-analcimite
 aggrieved
 algovite
 annidalin
