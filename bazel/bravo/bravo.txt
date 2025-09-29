@@ -628,7 +628,6 @@ blinds
 bringela
 burnoose
 bacteriophages
-bacteriophagy
 bacteriopsonin
 butting
 bellwethers
@@ -5143,6 +5142,7 @@ bejabers
 bathmism
 budgets
 beardfish
+bacteriophagy
 befriender
 berrypicker
 beaconage
