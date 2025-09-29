@@ -19265,7 +19265,6 @@ amuser
 argentan
 anacrisis
 altercations
-argentate
 assortedness
 aseptify
 approvals
@@ -20080,6 +20079,7 @@ acronychous
 amicous
 aiders
 asswages
+argentate
 arranges
 alyssum
 abstricts
