@@ -702,7 +702,6 @@ grossify
 gooranut
 galvanised
 gawn
-gladdest
 gersdorffite
 gunation
 gentianic
@@ -850,6 +849,7 @@ gameless
 gammy
 gynecomazia
 ganglionitis
+gladdest
 gilded
 geranomorphae
 gulinular
