@@ -354,7 +354,6 @@ gisarmes
 gantlets
 gley
 gasogenic
-gorefish
 gangrenous
 gunsmith
 goniometrical
@@ -3977,6 +3976,7 @@ guttula
 gildable
 gentrification
 gesticulated
+gorefish
 grotzen
 gubernacula
 gymnanthous
