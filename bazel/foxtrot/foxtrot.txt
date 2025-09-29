@@ -1303,7 +1303,6 @@ flarfishes
 feminophobe
 falconoid
 fatalists
-fop
 fleeced
 former
 foxtails
@@ -3704,6 +3703,7 @@ firesider
 franchisal
 flannelboard
 fairstead
+fop
 folder
 frownless
 fiercen
