@@ -6323,6 +6323,7 @@ gloriosa
 gippo
 gollywobbler
 gambelli
+gedd
 ganoblast
 garnitures
 gustables
@@ -9925,7 +9926,6 @@ greening
 gathered
 geoglyphic
 grosses
-gedd
 geogenetic
 ghatwal
 glozer
