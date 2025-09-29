@@ -9262,6 +9262,7 @@ docibleness
 dienes
 dobroes
 dier
+denierage
 deaminize
 dementis
 disemic
@@ -15164,7 +15165,6 @@ disfrequent
 decussorium
 dressoirs
 dogmatizer
-denierage
 dowdiness
 desmid
 doctorship
