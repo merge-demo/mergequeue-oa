@@ -6402,6 +6402,7 @@ ensile
 ensiled
 ectophytic
 embezzler
+excussion
 endopod
 engineering
 enlargers
@@ -14132,7 +14133,6 @@ enplanement
 emulates
 enlard
 entocuneiform
-excussion
 endearment
 entrails
 extrudes
