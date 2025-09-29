@@ -10031,7 +10031,6 @@ fruitier
 fringent
 fringetail
 foreplot
-fimbles
 farmerlike
 friendlessness
 frogskin
@@ -10354,6 +10353,7 @@ formicaries
 fibreware
 forswore
 flatmate
+fimbles
 flamiest
 footgeld
 firs
