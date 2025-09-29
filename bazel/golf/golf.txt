@@ -1236,6 +1236,7 @@ gooding
 gonglike
 gooroo
 grassman
+geminid
 garbill
 guyline
 gougers
@@ -2396,7 +2397,6 @@ gentile
 gaulish
 gambadoes
 gobioidei
-geminid
 geminous
 gratinating
 gestating

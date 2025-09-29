@@ -3080,7 +3080,6 @@ esemplastic
 ellipticity
 extemporize
 elliptograph
-elliptoid
 extraparietal
 eke
 elm
@@ -5478,6 +5477,7 @@ elasmosaurus
 esterifiable
 epiploic
 energizes
+elliptoid
 electroscopic
 establismentarianism
 environ
