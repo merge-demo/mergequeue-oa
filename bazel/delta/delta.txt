@@ -10889,7 +10889,6 @@ discontinuous
 doddart
 disculpate
 diruption
-draconically
 dereference
 dysmerogenetic
 disable
@@ -13707,6 +13706,7 @@ disproval
 discoidal
 disrespect
 dolichocephaly
+draconically
 diatoms
 dracma
 doll
