@@ -1247,6 +1247,7 @@ gapping
 gapper
 guib
 grimaces
+gymnocarpous
 galvanologist
 garran
 gaia
@@ -7181,7 +7182,6 @@ grater
 gonial
 gratin
 globosite
-gymnocarpous
 gizzen
 galahad
 gonoblastidial
