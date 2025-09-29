@@ -16663,6 +16663,7 @@ cloques
 cocoawood
 canoodle
 carnivalesque
+contenting
 cathodically
 cimaroon
 clewed
@@ -23551,7 +23552,6 @@ contentation
 contentedly
 counterartillery
 caribbeans
-contenting
 calculator
 caphs
 cryptotaenia

@@ -4170,6 +4170,7 @@ barometric
 beatnik
 bonged
 bayardly
+beslimes
 bixin
 befilleted
 brachet
@@ -6893,7 +6894,6 @@ beslap
 bucolical
 bearherd
 bedsite
-beslimes
 bactetiophage
 besottedly
 backsheesh
