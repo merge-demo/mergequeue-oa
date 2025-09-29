@@ -2543,7 +2543,6 @@ electrometallurgist
 emptiable
 electrometer
 exstrophy
-earthgrubber
 electrometrical
 electromobile
 enchodontidae
@@ -4915,6 +4914,7 @@ endaspidean
 endbrains
 epipodite
 emusify
+earthgrubber
 euhemerize
 entropy
 eyelight
