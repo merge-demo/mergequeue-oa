@@ -3422,7 +3422,6 @@ earlish
 embellishers
 enchained
 encolden
-emmer
 edwardeanism
 eyeleteer
 embers
@@ -9604,6 +9603,7 @@ epiphenomenalism
 enchiridions
 euphuistically
 essenize
+emmer
 esoterist
 evildoers
 expertism
