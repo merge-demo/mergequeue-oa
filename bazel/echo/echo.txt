@@ -4444,6 +4444,7 @@ exaggerator
 extemporaneousness
 encash
 enlightenments
+endopleural
 enquires
 emulsifier
 epiphyllum
@@ -10682,7 +10683,6 @@ extrasyllabic
 enswathe
 ensigning
 embraced
-endopleural
 erebus
 euglenoid
 evenworthy
