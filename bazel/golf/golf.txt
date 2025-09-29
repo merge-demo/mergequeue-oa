@@ -1067,6 +1067,7 @@ gypsums
 glares
 guarding
 graphicness
+gleg
 gowdy
 goularo
 gormandizers
@@ -4828,7 +4829,6 @@ gritter
 gladful
 gunnel
 gnomonics
-gleg
 gigantize
 greenings
 goiterogenic
