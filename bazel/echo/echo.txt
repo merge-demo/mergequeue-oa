@@ -6136,6 +6136,7 @@ enmity
 eparchean
 embattles
 ethicizes
+ethernet
 enmove
 emusified
 ethnomusicological
@@ -10171,7 +10172,6 @@ etherizes
 extraditing
 easeful
 encoders
-ethernet
 extrahazardous
 emancipation
 escrowed
