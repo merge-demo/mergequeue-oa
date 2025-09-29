@@ -4084,6 +4084,7 @@ glutamine
 gastroduodenostomies
 gimleting
 gesnerad
+gunplays
 geotaxes
 gettysburg
 gravelweed
@@ -5336,7 +5337,6 @@ gipsyism
 glycosidically
 gitter
 gelandejump
-gunplays
 glazework
 geckoid
 gravitating

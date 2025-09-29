@@ -10063,6 +10063,7 @@ analyzability
 amable
 agraphias
 ahepatokla
+awhet
 armorless
 avo
 amburbial
@@ -24974,7 +24975,6 @@ abdali
 antheriferous
 anthroic
 alloyage
-awhet
 awhile
 asperation
 atlatls
