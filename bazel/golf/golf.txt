@@ -2880,7 +2880,6 @@ gruesomeness
 gratulant
 gayety
 gadders
-geocentric
 gadwell
 grandnieces
 gerontocracy
@@ -5927,6 +5926,7 @@ gauzier
 gutless
 gestapo
 grayness
+geocentric
 goss
 glumosity
 gondang
