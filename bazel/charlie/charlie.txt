@@ -6436,6 +6436,7 @@ cavefish
 camelus
 cavey
 curassow
+calangay
 chromoscope
 cavekeeper
 cavelet
@@ -9973,7 +9974,6 @@ caseconv
 chaoses
 chenet
 chirotony
-calangay
 climactically
 chenfish
 californiana

@@ -2315,6 +2315,7 @@ galvanography
 graviton
 gravamina
 gamine
+gamopetalae
 grapey
 gradates
 giornatate
@@ -6190,7 +6191,6 @@ gregor
 garrisoned
 gastrimargy
 guillotinade
-gamopetalae
 gp
 galactophagist
 glucosamine
