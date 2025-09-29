@@ -529,7 +529,6 @@ electrosurgeries
 extraphenomenal
 estate
 entosphenal
-exaudi
 echeneidae
 echevaria
 endobiotic
@@ -7312,6 +7311,7 @@ epagomenous
 endeavorer
 electro
 epochism
+exaudi
 exception
 extremital
 epalpebrate

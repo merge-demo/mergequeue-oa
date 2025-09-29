@@ -1132,7 +1132,6 @@ grocer
 gled
 gantleted
 gripier
-genteeler
 grouses
 gastrogastrotomy
 genin
@@ -5850,6 +5849,7 @@ goliards
 glucolipid
 gallinaceous
 graphometrist
+genteeler
 ganglionary
 gallywasp
 gyle
