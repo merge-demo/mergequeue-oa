@@ -7122,7 +7122,6 @@ bur
 bestiarian
 bestiarist
 bestirs
-bestow
 brawlers
 bestowment
 burgee
@@ -12728,6 +12727,7 @@ ballant
 bostangi
 busboys
 beclip
+bestow
 booklear
 brandreth
 busters

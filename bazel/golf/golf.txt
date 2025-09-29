@@ -5389,6 +5389,7 @@ gender
 groovy
 glutenin
 granomerite
+galloglass
 groceress
 gervase
 geared
@@ -7283,7 +7284,6 @@ gossamered
 geodynamical
 galega
 gossamers
-galloglass
 geochronometric
 glareole
 gigantological
