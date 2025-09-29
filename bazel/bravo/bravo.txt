@@ -9518,7 +9518,6 @@ bhutia
 bonfires
 bromides
 barongs
-bronchomycosis
 blastomata
 biscutate
 bisdiapason
@@ -9807,6 +9806,7 @@ buccobranchial
 bilbo
 banderols
 bitmap
+bronchomycosis
 buccaneering
 buttered
 bimbos
