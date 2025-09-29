@@ -65,7 +65,6 @@ fibrolite
 fabulously
 facebar
 facebow
-fenchone
 feudalization
 faceharden
 flagships
@@ -5530,6 +5529,7 @@ fatal
 foraminiferous
 flirtish
 ficklehearted
+fenchone
 flexuously
 fram
 forecited
