@@ -125,7 +125,6 @@ earthboard
 exanthemata
 enigmatized
 ethnological
-exterminable
 evolate
 erosionist
 elocutioner
@@ -748,6 +747,7 @@ epigeic
 ecotypically
 engulfs
 ecotonal
+exterminable
 enclaved
 ecaudate
 echinocaris
