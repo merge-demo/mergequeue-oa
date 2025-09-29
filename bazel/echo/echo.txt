@@ -2997,7 +2997,6 @@ elysiidae
 elisor
 escobedo
 elissa
-expeditor
 eyereach
 edestan
 experimentator
@@ -11436,6 +11435,7 @@ endomictic
 electrotypist
 escapades
 empyreumatize
+expeditor
 electrolytes
 eductions
 extrasyllogistic
