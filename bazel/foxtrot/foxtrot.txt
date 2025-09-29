@@ -7995,7 +7995,6 @@ fumeless
 forespeaking
 flavorer
 feuter
-farfugium
 fletton
 fissipedia
 foredeep
@@ -8066,6 +8065,7 @@ forestries
 firebrats
 furnitures
 fondness
+farfugium
 fumigating
 flecnode
 fiendfully
