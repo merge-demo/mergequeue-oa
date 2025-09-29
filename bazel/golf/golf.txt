@@ -226,6 +226,7 @@ gratiano
 gaiassa
 gifts
 gelasimus
+galopade
 guidman
 grandsir
 globalized
@@ -675,7 +676,6 @@ goneril
 gastronomer
 gallying
 gonfalon
-galopade
 goniotropous
 gratillity
 gynandromorphous
