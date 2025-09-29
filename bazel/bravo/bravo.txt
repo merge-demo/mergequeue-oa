@@ -6646,6 +6646,7 @@ bonneter
 bernicia
 berninesque
 burningly
+bangup
 blousing
 bunnymouth
 begar
@@ -16267,7 +16268,6 @@ bifurcating
 biloculate
 bedew
 bemoaner
-bangup
 bkpt
 bioelectronics
 boltage
