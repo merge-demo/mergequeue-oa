@@ -4152,6 +4152,7 @@ gainful
 geographical
 gaggles
 gundogs
+groundnut
 gauds
 gnathites
 gastroplication
@@ -9905,7 +9906,6 @@ gallop
 gastaldite
 galiots
 glamorizing
-groundnut
 gratulatorily
 growingly
 genevese
