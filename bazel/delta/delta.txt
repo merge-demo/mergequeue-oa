@@ -15934,6 +15934,7 @@ daimyo
 drosometer
 disboweling
 dorsoposterior
+doublelunged
 dishumor
 dorsoscapular
 drawfiling
@@ -16094,7 +16095,6 @@ didunculinae
 dotter
 doubleheartedness
 doubleyou
-doublelunged
 doits
 dilettantist
 deceive
