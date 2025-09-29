@@ -647,7 +647,6 @@ byssoid
 breakshugh
 bacteriostatically
 bivalvia
-bacteriotherapeutic
 bechances
 bungles
 briguing
@@ -6333,6 +6332,7 @@ bivouac
 bairnlier
 blether
 bolts
+bacteriotherapeutic
 benzopyrylium
 breastweed
 bluestem
