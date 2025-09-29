@@ -2907,6 +2907,7 @@ glabreity
 growthiness
 gulley
 growlier
+gog
 glumpish
 gavelkind
 growleries
@@ -6333,7 +6334,6 @@ granolithic
 geotectology
 gunarchy
 gossaniferous
-gog
 gamin
 gugal
 gospelwards
