@@ -4024,7 +4024,6 @@ cestui
 cleronomy
 chanceries
 camomiles
-cardiagram
 cardiagraph
 chiasma
 coevals
@@ -12250,6 +12249,7 @@ chrysophenin
 confitent
 chrysophyte
 crackup
+cardiagram
 cavelike
 chromonemic
 chrysopid
