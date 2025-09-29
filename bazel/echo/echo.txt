@@ -1921,6 +1921,7 @@ estoppal
 eurypterid
 elaphe
 essenical
+ejecta
 ejected
 eupatorine
 epinette
@@ -8677,7 +8678,6 @@ epilepsy
 estheses
 equiponderancy
 equiponderated
-ejecta
 equipotential
 externalize
 exconjugant
