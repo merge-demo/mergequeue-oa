@@ -17999,7 +17999,6 @@ actinocrinidae
 apoise
 aquarelle
 aquarial
-armoring
 adepter
 adversariness
 ambracan
@@ -18852,6 +18851,7 @@ actinine
 amiant
 alday
 alphabetary
+armoring
 architricline
 archaeostomatous
 auxotroph
