@@ -654,7 +654,6 @@ gallantries
 goodheartedly
 goury
 gilour
-galgulidae
 glint
 gallows
 giddify
@@ -7216,6 +7215,7 @@ garlic
 governorate
 gourmands
 glassmaker
+galgulidae
 generosity
 gribble
 gleby
