@@ -2918,7 +2918,6 @@ droil
 deducibility
 dielectrically
 downcastness
-disimprison
 deducibly
 debunking
 deductible
@@ -4581,6 +4580,7 @@ dosimetric
 demifigure
 demigardebras
 decentres
+disimprison
 dunbird
 detroiter
 desugarize
