@@ -3765,7 +3765,6 @@ fortressed
 frizettes
 furoate
 failure
-fibula
 fellmonger
 fulls
 filliped
@@ -11339,6 +11338,7 @@ fermage
 furivae
 furlan
 foreglimpsed
+fibula
 forswat
 foldure
 fellic
