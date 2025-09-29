@@ -4620,6 +4620,7 @@ firked
 factorizations
 fullnesses
 fifers
+fricative
 fittingly
 fanging
 frigidities
@@ -8571,7 +8572,6 @@ fissionable
 fungating
 farmsteading
 forninst
-fricative
 flexor
 firedragon
 fornix
