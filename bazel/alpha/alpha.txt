@@ -7745,7 +7745,6 @@ autoallogamy
 abolishes
 amylolytic
 appmt
-antimedieval
 alembicated
 antetype
 antisyndication
@@ -17143,6 +17142,7 @@ affixion
 ailurophobia
 apophlegm
 appointe
+antimedieval
 aidance
 anaerobic
 ascendency
