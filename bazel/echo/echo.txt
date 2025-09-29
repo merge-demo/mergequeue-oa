@@ -2525,7 +2525,6 @@ elaborations
 endosmose
 egremoigne
 encomiologic
-enacts
 escadrilles
 exorcist
 efficaciousness
@@ -9969,6 +9968,7 @@ eloquently
 estuosity
 edibleness
 endophagy
+enacts
 erythromelalgia
 esugarization
 enneastylos
