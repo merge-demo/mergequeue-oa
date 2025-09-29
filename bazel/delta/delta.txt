@@ -3598,7 +3598,6 @@ depeculate
 demipremise
 disquantity
 deprint
-dermatoxerasia
 decurions
 deglut
 dognaps
@@ -17963,6 +17962,7 @@ dakerhens
 deputationist
 dockage
 dulcin
+dermatoxerasia
 displeasurement
 dufter
 deviative
