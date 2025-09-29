@@ -6713,6 +6713,7 @@ fomalhaut
 folliculin
 fanny
 fuchsinophil
+fibrosis
 fetiferous
 featherbed
 fluorescent
@@ -10060,7 +10061,6 @@ forecasted
 fastigious
 foeish
 fleshling
-fibrosis
 fablemonger
 fait
 flabbiest
