@@ -550,7 +550,6 @@ cadmic
 cateran
 convito
 cadmium
-curetted
 crabsidle
 cadmiumize
 cadmiums
@@ -3818,6 +3817,7 @@ chlorate
 cincha
 coenotype
 carbonemia
+curetted
 chemiphotic
 carse
 cruiserweight
