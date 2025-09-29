@@ -6694,7 +6694,6 @@ flame
 felted
 fogless
 frounced
-fogo
 frotteur
 frescoists
 fighters
@@ -10325,6 +10324,7 @@ fluoridized
 faceman
 fortiori
 flexible
+fogo
 frondless
 ferrado
 fantasized
