@@ -2008,6 +2008,7 @@ generalness
 gambogic
 gums
 gauzewing
+glossematic
 gomorrah
 gnaeus
 galactia
@@ -7808,7 +7809,6 @@ gimberjawed
 ghastliest
 gradualistic
 grimes
-glossematic
 grammalogue
 gastrohysteropexy
 gumby
