@@ -3180,7 +3180,6 @@ frigostable
 federalese
 frithwork
 feazings
-friezes
 fibulae
 ficoides
 fibrocytic
@@ -3423,6 +3422,7 @@ forestate
 fielders
 forset
 furcation
+friezes
 favellilidia
 frankforter
 flatbed
