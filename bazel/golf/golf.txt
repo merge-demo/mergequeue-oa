@@ -5327,7 +5327,6 @@ grandiloquently
 glycopeptide
 gynecomastism
 grandevity
-globuliferous
 gombeenism
 goofer
 gonopod
@@ -7193,6 +7192,7 @@ graminifolious
 guaruan
 gonesome
 grayouts
+globuliferous
 guerickian
 gambeering
 gesticulative
