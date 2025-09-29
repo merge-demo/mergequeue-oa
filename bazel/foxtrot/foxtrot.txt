@@ -10215,6 +10215,7 @@ filite
 floated
 footnote
 froggies
+factorially
 finale
 firetail
 froggish
@@ -11343,7 +11344,6 @@ forswat
 foldure
 fellic
 frightens
-factorially
 footsores
 fluoroid
 ferfel
