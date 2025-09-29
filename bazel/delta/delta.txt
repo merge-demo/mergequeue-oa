@@ -12481,6 +12481,7 @@ dancette
 dishelms
 dexterity
 disilicide
+disport
 deboise
 demesne
 demurring
@@ -16963,7 +16964,6 @@ dreadlocks
 diamonds
 dingeing
 disinherit
-disport
 daydreamy
 demobilizations
 dreamhole
