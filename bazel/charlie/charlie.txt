@@ -10442,6 +10442,7 @@ chiffonnier
 consonantise
 conchinin
 crumply
+corking
 chiffons
 continuable
 ctenoidei
@@ -20148,7 +20149,6 @@ curatorial
 cloistral
 commensurating
 commensurations
-corking
 comment
 chedlock
 commentable
