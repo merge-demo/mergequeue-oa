@@ -6223,7 +6223,6 @@ egophony
 epitapher
 eradiation
 enostosis
-elisions
 erugatory
 espresso
 embattlement
@@ -14186,6 +14185,7 @@ excogitative
 ewound
 excavational
 experrection
+elisions
 explainingly
 eranthis
 enqueues

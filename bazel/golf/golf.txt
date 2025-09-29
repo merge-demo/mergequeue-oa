@@ -2684,7 +2684,6 @@ gallooned
 gripingly
 grissen
 gelidium
-guptavidya
 griquaite
 grippingly
 grabble
@@ -6510,6 +6509,7 @@ granduncles
 grasp
 gromwell
 gamelans
+guptavidya
 gastrologists
 gomer
 gesten
