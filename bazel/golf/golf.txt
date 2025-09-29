@@ -1005,6 +1005,7 @@ gentlewomanliness
 germination
 geologer
 grindstones
+gnatho
 gloriette
 galvanoscopy
 geodist
@@ -2704,7 +2705,6 @@ gusle
 grith
 gemmoid
 genit
-gnatho
 groundmass
 glozing
 gryllidae
