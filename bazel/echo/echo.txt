@@ -354,7 +354,6 @@ empeirema
 epacridaceous
 espying
 epitaphless
-eavedrop
 endophlebitis
 eriophyidae
 eavedropping
@@ -8847,6 +8846,7 @@ enjeopardy
 encrypt
 emptive
 euonymin
+eavedrop
 eremic
 enterocystoma
 egregiousness
