@@ -12960,7 +12960,6 @@ cyan
 cyanamid
 contemporizing
 cookies
-conspires
 coextension
 coaxially
 cyanate
@@ -19398,6 +19397,7 @@ counterraid
 colonials
 colonical
 critically
+conspires
 crassier
 colonies
 choleic

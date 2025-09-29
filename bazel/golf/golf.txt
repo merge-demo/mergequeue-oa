@@ -3816,6 +3816,7 @@ gids
 gisants
 gingeleys
 grandchild
+guarinite
 granulitize
 gradientia
 geochronometry
@@ -3961,7 +3962,6 @@ gemshorn
 gnide
 guessingly
 gigster
-guarinite
 gemonies
 gravic
 geniculate
