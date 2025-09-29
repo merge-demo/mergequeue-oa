@@ -7998,7 +7998,6 @@ elitism
 exorganic
 endocannibalism
 embrasured
-epiotic
 exopterygota
 epipactis
 elasticized
@@ -11857,6 +11856,7 @@ engorges
 excels
 extrathecal
 eosophobia
+epiotic
 encounter
 excelsior
 earthily
