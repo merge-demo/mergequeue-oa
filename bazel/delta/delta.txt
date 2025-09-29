@@ -828,7 +828,6 @@ dysacousia
 discomposedness
 dimmest
 decasyllables
-disannex
 dulcorate
 della
 dalaga
@@ -6015,6 +6014,7 @@ diwata
 disregardance
 depsides
 discommoded
+disannex
 dept
 diaschistic
 dearies
