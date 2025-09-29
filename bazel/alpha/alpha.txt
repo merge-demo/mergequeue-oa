@@ -1276,7 +1276,6 @@ acataleptic
 affrontee
 acatamathesia
 artinskian
-acataphasia
 anesthetic
 acate
 adolescing
@@ -24671,6 +24670,7 @@ acephalia
 arised
 avesta
 artisans
+acataphasia
 avg
 athalamous
 assenting
