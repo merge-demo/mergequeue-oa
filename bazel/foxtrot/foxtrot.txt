@@ -2865,6 +2865,7 @@ flummadiddle
 foozle
 fantasias
 flouter
+formatting
 flatlets
 forestair
 fibrillose
@@ -10374,7 +10375,6 @@ francium
 flashcube
 fletcherite
 fowage
-formatting
 frontierless
 fireproofness
 farmyards
