@@ -2891,6 +2891,7 @@ farcin
 freighted
 fackins
 firefighters
+finfishes
 footstall
 fettucini
 fungiferous
@@ -6574,7 +6575,6 @@ futurism
 firebrand
 forebitten
 filiated
-finfishes
 fortuitist
 flyboats
 falconiform
