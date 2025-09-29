@@ -3436,7 +3436,6 @@ dehydrochlorination
 dorosacral
 decompressed
 demagnetise
-dominoes
 demobilize
 dyscrasite
 deforces
@@ -7150,6 +7149,7 @@ dishabituated
 dhangar
 daitya
 destrer
+dominoes
 daffing
 decalescent
 deputation
