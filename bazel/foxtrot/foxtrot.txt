@@ -2370,7 +2370,6 @@ freeloving
 fenchol
 footganger
 fetial
-fortunetellers
 frondage
 feriation
 falsedad
@@ -9377,6 +9376,7 @@ frayne
 frankish
 flote
 functionary
+fortunetellers
 fummle
 fastenings
 fowk
