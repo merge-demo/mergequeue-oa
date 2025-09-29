@@ -709,7 +709,6 @@ ferromagnetic
 futilitarianism
 fascioloid
 forehard
-fragrancy
 flapperhood
 flair
 foziness
@@ -10885,6 +10884,7 @@ foreteller
 fractural
 ferris
 fullams
+fragrancy
 fulled
 feeing
 fieldwort
