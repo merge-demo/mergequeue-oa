@@ -558,6 +558,7 @@ froggy
 fibrins
 falters
 fronts
+familistery
 formamidoxime
 foresays
 flosculose
@@ -2864,7 +2865,6 @@ finable
 foresails
 figworm
 fungid
-familistery
 fortuned
 fameflower
 fettered
