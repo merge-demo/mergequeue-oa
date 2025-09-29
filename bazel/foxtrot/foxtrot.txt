@@ -2197,7 +2197,6 @@ femorotibial
 flounciest
 facetious
 facilitated
-febricitation
 farraginous
 fantasmagoria
 fixe
@@ -7595,6 +7594,7 @@ freezable
 fervors
 forril
 festino
+febricitation
 fatalize
 farrier
 fossula

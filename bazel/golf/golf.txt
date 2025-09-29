@@ -1335,6 +1335,7 @@ galvanist
 geoside
 glomerulus
 galloner
+gulist
 gleesome
 gangrenes
 garnisheement
@@ -5912,7 +5913,6 @@ glumes
 gesnera
 gaincome
 glummest
-gulist
 gaggled
 generalific
 glumnesses
