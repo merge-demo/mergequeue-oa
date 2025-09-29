@@ -44,6 +44,7 @@ gableboard
 groats
 graperies
 gangue
+glaucosis
 glaucolite
 guemal
 geometrine
@@ -3412,7 +3413,6 @@ geothermic
 girdingly
 guimpes
 goutily
-glaucosis
 gamont
 gelatinizer
 gomerils
