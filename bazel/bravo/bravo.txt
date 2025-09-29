@@ -8183,7 +8183,6 @@ besprinkle
 browpiece
 blewits
 bigwiggery
-bifilar
 bobbery
 brecciating
 biflabellate
@@ -15427,6 +15426,7 @@ biferous
 bytownite
 brinies
 bemuck
+bifilar
 buttwomen
 balut
 boondoggle
