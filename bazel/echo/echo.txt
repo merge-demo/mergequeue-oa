@@ -6181,6 +6181,7 @@ entocondyloid
 elision
 ennoblement
 estuant
+epenetic
 endrins
 ennoblements
 euryhaline
@@ -7406,7 +7407,6 @@ epencephalons
 enskied
 electoral
 echinochloa
-epenetic
 everglade
 ensculpture
 englishness
