@@ -769,7 +769,6 @@ egger
 ecrase
 enclitic
 escort
-extense
 eremophilous
 epitheliliums
 ecroulement
@@ -3278,6 +3277,7 @@ exegetically
 eridanid
 envisions
 enclose
+extense
 euplastic
 emanational
 enrichingly
