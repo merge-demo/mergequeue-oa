@@ -556,6 +556,7 @@ bib
 backwind
 backwinded
 balladmongering
+brabblingly
 brevilingual
 backwood
 burdens
@@ -12585,7 +12586,6 @@ bisector
 bagatelle
 bills
 brainchild
-brabblingly
 bristlemouths
 bludgeoner
 bom
