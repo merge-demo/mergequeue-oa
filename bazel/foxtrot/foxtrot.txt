@@ -5864,7 +5864,6 @@ forehear
 ferrichloride
 furnishings
 flocculent
-flushes
 flaxier
 flocker
 filaree
@@ -7976,6 +7975,7 @@ foreskin
 foveolas
 fluate
 fempty
+flushes
 forecastingly
 floran
 fleying
