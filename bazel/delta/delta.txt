@@ -6213,7 +6213,6 @@ depictured
 discorder
 daubiest
 demising
-ditted
 decemvir
 derivativeness
 dacoit
@@ -7914,6 +7913,7 @@ drysalter
 dihydrogen
 depone
 dicaryophyte
+ditted
 dewberries
 dolichosaur
 dewcap

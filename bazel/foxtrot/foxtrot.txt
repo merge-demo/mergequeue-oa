@@ -2029,7 +2029,6 @@ fireboat
 forwander
 flatlander
 faunlike
-fogbows
 fascicule
 flaunting
 feisty
@@ -4400,6 +4399,7 @@ fascistic
 fiancees
 feirie
 franchise
+fogbows
 fowlpox
 fishfinger
 fluxionary

@@ -4088,7 +4088,6 @@ enteromere
 employe
 estado
 etamin
-epigene
 encrownment
 ejacula
 enrooting
@@ -4121,6 +4120,7 @@ encl
 encaustes
 exporter
 elaeosia
+epigene
 engraphy
 epiphora
 eyeroot
