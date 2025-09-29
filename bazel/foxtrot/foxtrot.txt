@@ -4872,6 +4872,7 @@ ferocities
 fisheries
 formalness
 followable
+flexes
 furunculus
 fulgora
 flails
@@ -7689,7 +7690,6 @@ fasciated
 fernier
 frayproof
 foreigneering
-flexes
 firth
 flipped
 firm
