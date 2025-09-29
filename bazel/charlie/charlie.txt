@@ -6179,7 +6179,6 @@ condoned
 climactery
 caudle
 cameroonian
-caudles
 caudocephalad
 clappering
 covertness
@@ -17890,6 +17889,7 @@ cowpoke
 codetermine
 codetta
 cabook
+caudles
 codette
 codfish
 childbed
