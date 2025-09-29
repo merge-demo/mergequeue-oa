@@ -5154,6 +5154,7 @@ epimeride
 elephants
 electrology
 economists
+ephelis
 entocoele
 ergotist
 epicist
@@ -6492,7 +6493,6 @@ equators
 enswathement
 elementariness
 evidently
-ephelis
 envisaging
 epimere
 evaluating
