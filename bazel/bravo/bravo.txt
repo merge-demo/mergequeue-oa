@@ -3468,6 +3468,7 @@ bankruptlike
 besplash
 barbascoes
 barrages
+banded
 boltonite
 bagworms
 blotlessness
@@ -15752,7 +15753,6 @@ beamishly
 bromacetone
 bromamide
 barrows
-banded
 besomer
 blite
 beelol
