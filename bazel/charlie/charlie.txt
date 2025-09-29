@@ -5260,7 +5260,6 @@ cacological
 cassy
 charabancs
 cassia
-cassicus
 cassidid
 cassidulina
 cohorn
@@ -7924,6 +7923,7 @@ cetera
 cetes
 cetic
 cocytus
+cassicus
 chitinization
 cariform
 cetyl
