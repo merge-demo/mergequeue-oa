@@ -7614,6 +7614,7 @@ gorgonlike
 gool
 geobotanically
 gnathometer
+gnatter
 guachamaca
 germane
 gyppery
@@ -8294,7 +8295,6 @@ grandparental
 genonema
 gasket
 geophytic
-gnatter
 gnarling
 genitalia
 greeniest
