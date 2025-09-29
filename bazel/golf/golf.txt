@@ -2113,6 +2113,7 @@ gawm
 gaining
 gazabo
 guarantors
+goldworker
 galidia
 gaes
 guacharos
@@ -7668,7 +7669,6 @@ galvanized
 globus
 geomyid
 grizzliest
-goldworker
 gamins
 grouf
 glueing
