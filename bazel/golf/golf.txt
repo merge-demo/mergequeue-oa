@@ -4342,6 +4342,7 @@ gashy
 gutlike
 gastrocoloptosis
 ginglymodi
+gaj
 gozill
 gemstone
 gravestead
@@ -8922,7 +8923,6 @@ gridelin
 griding
 gasped
 galvo
-gaj
 greyhens
 greenbul
 glenlivet
