@@ -10891,7 +10891,6 @@ blindfishes
 bluelegs
 bassus
 butterbush
-borating
 basalt
 bemoon
 blinding
@@ -12243,6 +12242,7 @@ brake
 briefless
 byssiferous
 beggarism
+borating
 bolt
 boasters
 bregma
