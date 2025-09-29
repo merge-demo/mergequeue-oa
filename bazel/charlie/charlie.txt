@@ -13507,6 +13507,7 @@ changelessness
 cyanhidrosis
 cylindrodendrite
 cunit
+cotoneaster
 cylindrograph
 compilers
 chisel
@@ -15961,7 +15962,6 @@ clergess
 clergy
 clergyable
 callaloos
-cotoneaster
 clergylike
 clergymen
 chanchito

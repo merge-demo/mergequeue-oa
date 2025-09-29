@@ -5732,6 +5732,7 @@ gloomth
 gradin
 goings
 gleeds
+goorals
 gish
 grimmish
 grumes
@@ -5750,7 +5751,6 @@ germanies
 gade
 graphites
 glycogenolysis
-goorals
 guyandot
 guesstimates
 goldbird
