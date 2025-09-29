@@ -826,7 +826,6 @@ catachthonian
 conchucu
 cayman
 carboniferous
-caymans
 caynard
 carpophyte
 chanticleer
@@ -2349,6 +2348,7 @@ continuously
 canapina
 canards
 canari
+caymans
 canary
 chlorazide
 clothy
