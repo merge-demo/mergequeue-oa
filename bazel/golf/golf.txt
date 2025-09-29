@@ -1548,7 +1548,6 @@ glaik
 glimes
 graphitized
 gonydeal
-gibe
 gaspers
 galliardise
 grassless
@@ -3530,6 +3529,7 @@ gokuraku
 gunslinging
 grinded
 glunched
+gibe
 ghettoizes
 gymkhana
 galloon
