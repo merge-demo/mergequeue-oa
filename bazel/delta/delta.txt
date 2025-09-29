@@ -13059,7 +13059,6 @@ dimethylsulfoxide
 discocarpium
 disagreeably
 dermophobe
-decimalised
 delaw
 daulias
 decapodan
@@ -15556,6 +15555,7 @@ drag
 dauntlessly
 diapery
 donable
+decimalised
 druses
 dethroner
 dracin
