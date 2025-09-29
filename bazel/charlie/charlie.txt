@@ -2635,7 +2635,6 @@ carbylamine
 caneology
 cyanurine
 canephorae
-canephore
 canepin
 cheeseflower
 chevet
@@ -10201,6 +10200,7 @@ chondroadenoma
 chmn
 congealability
 chomping
+canephore
 collectioner
 complaining
 chewing
