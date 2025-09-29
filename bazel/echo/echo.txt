@@ -7920,7 +7920,6 @@ epilogical
 entomophaga
 eurystomatous
 experiment
-eatery
 extrastapedial
 endosmosis
 exudates
@@ -8910,6 +8909,7 @@ eyers
 ergostat
 experimentally
 ergoted
+eatery
 explosible
 encephalomalaxis
 effuses

@@ -9667,7 +9667,6 @@ categoricalness
 cheeseparer
 canaster
 cerebrasthenic
-caravaning
 cheeseparing
 cheesewood
 cheesiest
@@ -23042,6 +23041,7 @@ chili
 cryptic
 cripes
 coracoids
+caravaning
 compline
 consocies
 caustified
