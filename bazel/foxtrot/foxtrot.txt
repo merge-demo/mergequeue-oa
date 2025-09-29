@@ -2187,7 +2187,6 @@ felts
 forthtell
 fishworker
 feltwort
-fastidiosity
 felwort
 fathearted
 faciobrachial
@@ -5788,6 +5787,7 @@ fastigium
 fellowess
 foreswearing
 filmer
+fastidiosity
 flamingly
 flittermouse
 forerecited
