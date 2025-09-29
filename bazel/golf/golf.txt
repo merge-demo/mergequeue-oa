@@ -3146,6 +3146,7 @@ graplin
 glycans
 geraniaceae
 gazon
+glumose
 gabler
 glycyrrhiza
 gingelies
@@ -10608,7 +10609,6 @@ goldenmouth
 greenockite
 goodyish
 gallow
-glumose
 gallinules
 gotraja
 goy

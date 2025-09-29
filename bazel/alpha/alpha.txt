@@ -2755,7 +2755,6 @@ adipose
 acronically
 abarthrosis
 acronychal
-acronichally
 adelocodonic
 apicoectomy
 abvolt
@@ -3936,6 +3935,7 @@ asci
 admissive
 automan
 admissory
+acronichally
 acromion
 asarotum
 antiracially
