@@ -4257,7 +4257,6 @@ caretaker
 caretaking
 chastisers
 caretook
-comfiest
 carets
 caretta
 careworn
@@ -15169,6 +15168,7 @@ copilots
 colchis
 cephalochordate
 cladose
+comfiest
 cartelization
 cladoselachian
 coleosporiaceae
