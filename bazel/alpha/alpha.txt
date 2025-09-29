@@ -12223,6 +12223,7 @@ apophony
 androgenous
 ammochryse
 anisylidene
+aureateness
 androgyn
 androgynal
 arillode
@@ -12430,7 +12431,6 @@ axiomatizations
 anesthesiology
 admirator
 auxetically
-aureateness
 angelophany
 anesthesis
 asarh
