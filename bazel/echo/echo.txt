@@ -2691,6 +2691,7 @@ elderwort
 endomycetaceae
 evanish
 extrasensory
+euryalidan
 evovae
 electiveness
 exogastritis
@@ -6866,7 +6867,6 @@ entrap
 entomologized
 enstatolite
 exaugurate
-euryalidan
 expectative
 engle
 entomophila
