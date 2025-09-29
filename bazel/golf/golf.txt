@@ -1418,7 +1418,6 @@ genipa
 grapenuts
 golfs
 gemologists
-gn
 gargle
 gynoeciumcia
 gelatinising
@@ -4166,6 +4165,7 @@ girsh
 gienah
 gene
 graphomania
+gn
 grandfather
 gnathopod
 gosmore
