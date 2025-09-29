@@ -14530,7 +14530,6 @@ antiatheistic
 anterior
 apepsia
 avos
-archetypic
 antiautolysin
 anchoresses
 abduce
@@ -20343,6 +20342,7 @@ artemisium
 anchoretical
 asslike
 antiskidding
+archetypic
 abusedly
 antimodernness
 antigorite
