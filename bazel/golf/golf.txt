@@ -5156,7 +5156,6 @@ grandioseness
 gaussbergite
 gleamy
 gobbets
-gorer
 gangliglions
 gumboots
 gonystylaceous
@@ -10545,6 +10544,7 @@ gunjah
 gaucheries
 gastriloquism
 genisaro
+gorer
 glyceraldehyde
 gard
 gunk
