@@ -5404,6 +5404,7 @@ endseal
 endshake
 elfishly
 egretta
+evennesses
 easterly
 enfirm
 eaglelike
@@ -11354,7 +11355,6 @@ expensefulness
 eccyesis
 exaristate
 embolism
-evennesses
 eventful
 ethnomusicologist
 endodontics
