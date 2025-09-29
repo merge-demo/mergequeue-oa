@@ -3788,6 +3788,7 @@ agglutinin
 anaphora
 asiaticization
 adjudicatory
+atokous
 aerostats
 akinetic
 adjudicators
@@ -18482,7 +18483,6 @@ archaeographic
 archaeographical
 academial
 antirennet
-atokous
 anemologic
 admedian
 archaeolithic

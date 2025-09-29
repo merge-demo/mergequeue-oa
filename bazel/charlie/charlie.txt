@@ -3477,6 +3477,7 @@ chainomatic
 chawbone
 coccyges
 centinody
+cheth
 countershaft
 chappow
 collocalia
@@ -10118,7 +10119,6 @@ conines
 chestnut
 chestnuts
 chet
-cheth
 communalized
 chetopod
 ceonocyte
