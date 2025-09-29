@@ -15133,7 +15133,6 @@ clade
 casabas
 cladocarpous
 cropped
-cladocera
 clavicornes
 collarband
 commissionerships
@@ -17853,6 +17852,7 @@ corixa
 codeina
 cradletime
 cabrettas
+cladocera
 cakemaking
 cohabits
 carneys
