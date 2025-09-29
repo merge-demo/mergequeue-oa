@@ -14055,7 +14055,6 @@ ascriptitii
 attempting
 allomorph
 agglutinant
-aeroscopic
 arent
 arbuscula
 anteroinferior
@@ -14207,6 +14206,7 @@ adjutancies
 awful
 acolyte
 anthotaxy
+aeroscopic
 anthotaxis
 andries
 aget
