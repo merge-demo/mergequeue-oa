@@ -11655,6 +11655,7 @@ boxhead
 bummerish
 bodywear
 boatless
+butolism
 banjoes
 bewonder
 birimose
@@ -18182,7 +18183,6 @@ besprinkler
 buttonlike
 befraught
 butment
-butolism
 beltway
 butoxy
 bodyguards

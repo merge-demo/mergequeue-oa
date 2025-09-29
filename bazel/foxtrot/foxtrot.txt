@@ -2792,6 +2792,7 @@ flinchingly
 ftncmd
 foxtailed
 fotch
+framers
 filao
 fimbriation
 frazzles
@@ -8371,7 +8372,6 @@ fruitcakes
 felicitating
 filed
 frass
-framers
 federalized
 fiddlerfishes
 fibrillate

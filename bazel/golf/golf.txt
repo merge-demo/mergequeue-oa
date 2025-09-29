@@ -5900,7 +5900,6 @@ gambirs
 glamourizer
 gluepot
 gimballed
-glitzy
 garrison
 gemitorial
 globuliform
@@ -8514,6 +8513,7 @@ gravitative
 glomeli
 gainliest
 growths
+glitzy
 gastrocnemius
 glabriety
 griqua
