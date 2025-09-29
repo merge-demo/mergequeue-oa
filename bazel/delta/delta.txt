@@ -4264,6 +4264,7 @@ dislocate
 deltahedra
 dismaler
 diadrome
+descend
 distensibility
 disbelief
 denunciations
@@ -9173,7 +9174,6 @@ desmopathy
 dramatising
 didynamous
 diffractometer
-descend
 dunnage
 dentinasal
 dunces
