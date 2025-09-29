@@ -8029,6 +8029,7 @@ algorithmically
 acnemia
 alguifou
 antependium
+afterswarming
 alhambra
 asteria
 azoxazole
@@ -14257,7 +14258,6 @@ anthrahydroquinone
 androgynism
 anthramine
 anthranyl
-afterswarming
 anthranilic
 anthranol
 annominate
