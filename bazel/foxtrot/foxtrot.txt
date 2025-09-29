@@ -2389,7 +2389,6 @@ fondlers
 fleer
 fad
 flakelet
-fistularia
 flavous
 filipuncture
 felanders
@@ -6542,6 +6541,7 @@ fleetly
 fluvioterrestrial
 funereal
 foretack
+fistularia
 flamless
 furrings
 flibbertigibbets
