@@ -3141,6 +3141,7 @@ friendlike
 finca
 fidate
 flip
+foreallot
 fences
 fibroins
 founderous
@@ -3521,7 +3522,6 @@ futtock
 fulgorid
 fairness
 fusicladium
-foreallot
 figurer
 fute
 flyweight
