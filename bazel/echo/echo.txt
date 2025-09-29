@@ -3473,7 +3473,6 @@ emblazoned
 emblazoner
 emblazonments
 elastic
-escandalize
 epirotic
 evergreenery
 edwardian
@@ -4388,6 +4387,7 @@ eches
 ebriously
 ectocoelic
 enormities
+escandalize
 encapsulation
 emitted
 encapsuled
