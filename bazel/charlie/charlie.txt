@@ -7634,6 +7634,7 @@ cerebrovascular
 colombian
 collarets
 cucuyo
+csmp
 colinear
 coiffing
 curettes
@@ -30409,7 +30410,6 @@ conveniences
 csect
 cannikins
 cholecystectomies
-csmp
 cankerbird
 crimpled
 csp
