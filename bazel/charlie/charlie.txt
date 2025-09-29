@@ -13847,7 +13847,6 @@ codelinquency
 cognatus
 calamite
 copatrons
-cardshark
 cinephone
 cellarer
 convoy
@@ -23589,6 +23588,7 @@ cervicomuscular
 contestingly
 contestless
 contests
+cardshark
 clodding
 constatations
 cumulose
