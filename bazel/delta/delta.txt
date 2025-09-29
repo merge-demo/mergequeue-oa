@@ -5711,6 +5711,7 @@ ducape
 depleted
 daftlike
 depletions
+diazotype
 danton
 depletive
 denutrition
@@ -18272,7 +18273,6 @@ divot
 desiderating
 dessertspoonful
 dorsimedian
-diazotype
 demonstrationists
 dunitic
 despotic
