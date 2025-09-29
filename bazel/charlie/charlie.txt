@@ -2366,7 +2366,6 @@ cassie
 coordinateness
 canastas
 caqueteuses
-canavali
 canavalia
 cremerie
 crambly
@@ -6627,6 +6626,7 @@ cedrate
 cedrela
 crabbing
 cosovereignty
+canavali
 coustumier
 cedrene
 champaign
