@@ -165,7 +165,6 @@ glassworm
 goliardic
 gerontocratic
 gag
-garoted
 glamour
 greyhen
 gorgoneion
@@ -10075,6 +10074,7 @@ grainland
 gonads
 grub
 guyot
+garoted
 gresil
 galahs
 gastropods
