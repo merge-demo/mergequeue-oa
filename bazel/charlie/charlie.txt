@@ -15388,7 +15388,6 @@ claith
 coran
 chested
 caulkings
-clapnest
 courtroll
 clapnet
 concentered
@@ -16806,6 +16805,7 @@ cuminoin
 clouting
 crabier
 connoisseurship
+clapnest
 cyrillic
 crosswind
 chrysochrous
