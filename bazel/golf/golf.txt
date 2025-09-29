@@ -2787,7 +2787,6 @@ gathers
 gazettal
 gros
 grigris
-gormless
 gentiobiose
 gentle
 guardianess
@@ -4453,6 +4452,7 @@ gypped
 giardia
 gyp
 gundog
+gormless
 generaliter
 greffier
 gipsy
