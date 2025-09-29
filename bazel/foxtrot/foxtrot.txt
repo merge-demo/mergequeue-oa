@@ -5700,7 +5700,6 @@ floodwater
 fitroot
 freshness
 ferrary
-fetor
 flirty
 feculent
 ferulas
@@ -9270,6 +9269,7 @@ fourchet
 friesic
 fayalites
 freckling
+fetor
 fungate
 fazendeiro
 folious
