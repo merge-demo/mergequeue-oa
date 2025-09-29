@@ -945,6 +945,7 @@ fardo
 ferneries
 flyleaf
 foundry
+finickily
 ft
 fasola
 fourchite
@@ -8356,7 +8357,6 @@ forklift
 flebile
 forklike
 forswornness
-finickily
 foundations
 foliage
 fossilological
