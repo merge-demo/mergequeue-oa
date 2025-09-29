@@ -9615,7 +9615,6 @@ asterella
 anticous
 amadelphous
 amadous
-androkinin
 amorino
 ahluwalia
 alethiological
@@ -12643,6 +12642,7 @@ alcedo
 agrogeologically
 armata
 antihysteric
+androkinin
 anatomisation
 acrimony
 athenaea
