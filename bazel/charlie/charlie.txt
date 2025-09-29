@@ -5818,7 +5818,6 @@ catenate
 crooisite
 catenating
 catenation
-capomo
 compositorial
 catenoid
 capuli
@@ -26521,6 +26520,7 @@ chemosis
 conjecturable
 cheverons
 conidium
+capomo
 coucal
 couchancy
 couchant
