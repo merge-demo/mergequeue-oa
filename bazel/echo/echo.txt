@@ -4111,6 +4111,7 @@ extracranial
 energids
 expungement
 eczematous
+eudaimonia
 externum
 encl
 encaustes
@@ -10608,7 +10609,6 @@ encryption
 epimysium
 exodium
 elaterid
-eudaimonia
 eudaimonist
 epirhizous
 eric

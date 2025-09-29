@@ -6677,6 +6677,7 @@ faqirs
 feted
 flyblow
 flores
+forinsec
 fogdogs
 frippery
 fogdom
@@ -8517,7 +8518,6 @@ firehall
 falsie
 flatwise
 foramen
-forinsec
 fream
 fraxetin
 feastly
