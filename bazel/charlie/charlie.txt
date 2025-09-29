@@ -6554,7 +6554,6 @@ cearin
 ceaselessness
 cryogenically
 carditic
-ceases
 ceasing
 conferment
 calamariaceae
@@ -20941,6 +20940,7 @@ compossible
 composted
 composts
 compotationship
+ceases
 carbolineate
 coldheartedness
 comedies
