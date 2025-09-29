@@ -6323,7 +6323,6 @@ emendator
 elenchtic
 ensanguine
 eloquent
-evisite
 enlargingly
 emporium
 ergotin
@@ -12282,6 +12281,7 @@ equilucent
 exerce
 equimultiple
 exceptious
+evisite
 extramarginal
 epanisognathous
 exercising

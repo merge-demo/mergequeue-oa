@@ -4968,6 +4968,7 @@ annotators
 aplacophora
 aesir
 almightiness
+acclimatization
 aesop
 aesopian
 astigmat
@@ -19869,7 +19870,6 @@ asymmetries
 araliophyllum
 applauding
 archdeanery
-acclimatization
 aquatically
 aryballos
 armplate
