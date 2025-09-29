@@ -1213,7 +1213,6 @@ fountainlike
 flangeless
 fastigiately
 fleckled
-fleckiness
 footwarmers
 figury
 fash
@@ -4198,6 +4197,7 @@ flagstones
 flickertail
 fishet
 fibrocaseous
+fleckiness
 fanions
 federals
 ferfathmur
