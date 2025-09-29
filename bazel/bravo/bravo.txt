@@ -8375,7 +8375,6 @@ bijou
 bookism
 bhandar
 bijwoner
-beanie
 bonity
 bothriocidaris
 bauchle
@@ -9893,6 +9892,7 @@ bedivere
 bedrivelling
 bere
 buro
+beanie
 bituminoid
 belsire
 brogueful
