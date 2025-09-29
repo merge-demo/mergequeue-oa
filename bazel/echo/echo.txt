@@ -818,6 +818,7 @@ everliving
 enwrite
 epizoa
 erythrinidae
+estoc
 eral
 extremest
 extradecretal
@@ -11055,7 +11056,6 @@ enlevement
 elargement
 equanimous
 eyeletter
-estoc
 epigoneion
 encomimia
 exuberating
