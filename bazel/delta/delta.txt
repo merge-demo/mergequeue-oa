@@ -4106,6 +4106,7 @@ delimitation
 delimiter
 deviational
 departments
+dialogistical
 diplomyelia
 deline
 dishonourably
@@ -7859,7 +7860,6 @@ devein
 dunst
 discriminativeness
 devotedness
-dialogistical
 demigauntlet
 defalcator
 deputatively
