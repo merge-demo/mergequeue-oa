@@ -5490,7 +5490,6 @@ deossification
 drachma
 downtreading
 dually
-deuterostomatous
 dissipates
 dandically
 disgraced
@@ -10751,6 +10750,7 @@ dips
 dipsacaceous
 deipnosophist
 dipsaceae
+deuterostomatous
 disavow
 dun
 dubiousness

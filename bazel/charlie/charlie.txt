@@ -2966,6 +2966,7 @@ canthathari
 colognes
 cosmopathic
 crystalled
+cyclostylar
 combre
 cristina
 cakile
@@ -7394,7 +7395,6 @@ compute
 clavolae
 cephalomere
 chipling
-cyclostylar
 cephalometric
 cephalonasal
 chiastoneurous
