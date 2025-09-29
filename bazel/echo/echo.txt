@@ -5694,6 +5694,7 @@ engage
 etymologic
 exampless
 engineers
+epimers
 engineless
 engineman
 epitheliolysis
@@ -7950,7 +7951,6 @@ epimerized
 enclisis
 epimeron
 ectozoic
-epimers
 epimysia
 esthesias
 expunger

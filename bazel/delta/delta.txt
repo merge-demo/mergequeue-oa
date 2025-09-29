@@ -6391,6 +6391,7 @@ dominiums
 dermotropic
 dastardliness
 defined
+drawbored
 dissceptered
 drepanis
 djinny
@@ -10886,7 +10887,6 @@ daised
 dirked
 dhabb
 drifted
-drawbored
 dwayne
 defeat
 dematerialize
