@@ -4408,6 +4408,7 @@ demandant
 deinos
 dacryon
 demarcations
+dows
 demarcation
 dolomites
 daphnaceae
@@ -8617,7 +8618,6 @@ dibbuk
 dogcarts
 denatured
 diarrhea
-dows
 dacryolith
 decarchy
 diarrhoeal
