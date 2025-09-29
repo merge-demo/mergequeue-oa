@@ -195,7 +195,6 @@ flier
 factorable
 flimsies
 forcut
-finitary
 factoryship
 floatiness
 factorize
@@ -2421,6 +2420,7 @@ flabellifoliate
 festivities
 fatigate
 freemasons
+finitary
 fractur
 frizzle
 fingered
