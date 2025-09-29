@@ -1475,7 +1475,6 @@ favourable
 friedman
 fiqh
 flamer
-foreshows
 fabulate
 flytes
 feods
@@ -9301,6 +9300,7 @@ foulings
 fertil
 flagons
 fordull
+foreshows
 foregoers
 foremost
 fabrikoid

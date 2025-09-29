@@ -1879,7 +1879,6 @@ eyrant
 erasability
 errata
 eximiousness
-encashes
 enwisen
 evanescency
 eulogically
@@ -10789,6 +10788,7 @@ eumycete
 eulogiums
 elaborating
 emoting
+encashes
 euskera
 esterases
 eluviation
