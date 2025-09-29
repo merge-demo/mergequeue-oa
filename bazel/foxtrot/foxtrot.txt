@@ -7490,6 +7490,7 @@ footpace
 forebay
 fragmentization
 feathering
+foreshadowed
 flocked
 feuilletonist
 fribbles
@@ -7924,7 +7925,6 @@ foreshadow
 filibustering
 frisket
 forgivenesses
-foreshadowed
 flugelman
 featherman
 flammivomous
