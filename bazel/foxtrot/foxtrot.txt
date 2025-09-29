@@ -5268,6 +5268,7 @@ flawedness
 flats
 fishlike
 fourrag
+figged
 flawflower
 frilliest
 fails
@@ -11156,7 +11157,6 @@ fluvio
 fiddly
 force
 foragers
-figged
 frowy
 fungation
 fungia
