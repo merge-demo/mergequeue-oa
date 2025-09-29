@@ -5797,7 +5797,6 @@ glissades
 gloxinia
 greggle
 gedrite
-geocarpic
 gastriloquy
 ginglymoarthrodia
 galumptious
@@ -10255,6 +10254,7 @@ grownup
 gauzelike
 guanases
 globulitic
+geocarpic
 goers
 galeproof
 gregarious
