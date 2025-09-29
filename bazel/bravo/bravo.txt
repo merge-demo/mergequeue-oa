@@ -2483,6 +2483,7 @@ bunkie
 begrease
 blanchingly
 beslash
+bellicosity
 bassetite
 barguest
 battakhin
@@ -13382,7 +13383,6 @@ bothie
 blamed
 beholds
 baggers
-bellicosity
 briefcase
 bitangential
 bunder
