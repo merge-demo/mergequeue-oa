@@ -4020,6 +4020,7 @@ gieaway
 gelatines
 gilliflower
 grocery
+goitres
 gentisein
 gastronome
 glonoine
@@ -9959,7 +9960,6 @@ gomorrean
 gazetted
 gamasoidea
 guaiocums
-goitres
 groset
 guatibero
 grysbok
