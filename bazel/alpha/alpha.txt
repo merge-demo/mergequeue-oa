@@ -6110,6 +6110,7 @@ adiposities
 agrammaphasia
 agrammatica
 accouple
+apikores
 afterpeak
 anaesthetize
 authorized
@@ -16772,7 +16773,6 @@ antienthusiast
 apigenin
 airns
 almondy
-apikores
 apili
 apprehender
 apimanias
