@@ -12204,7 +12204,6 @@ chrismatize
 cryptobatholithic
 chrismatory
 calamistral
-cardiopneumograph
 chrismon
 contractly
 cyanized
@@ -26614,6 +26613,7 @@ coerecting
 countdown
 counted
 copen
+cardiopneumograph
 coalyards
 colourfully
 countenanced
