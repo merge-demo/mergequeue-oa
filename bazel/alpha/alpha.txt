@@ -9423,7 +9423,6 @@ althing
 althionic
 apholates
 ablution
-asterikos
 alticamelus
 altify
 antiparasitical
@@ -23400,6 +23399,7 @@ anamorphous
 anabaptism
 ascescent
 anthracitization
+asterikos
 auklets
 andalusite
 amidocapric
