@@ -2306,6 +2306,7 @@ elfkin
 electroacoustics
 enthetic
 exundation
+epicuticular
 electroanalytic
 electroanesthesia
 eavesdrop
@@ -4266,7 +4267,6 @@ exosmoses
 enflowered
 echiniform
 exospores
-epicuticular
 enacting
 ers
 exercisers
