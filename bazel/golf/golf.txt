@@ -2167,7 +2167,6 @@ grainer
 gaze
 gallerygoer
 genteelly
-glout
 geraldine
 gastrotrichan
 goosegirl
@@ -8101,6 +8100,7 @@ gallies
 granulization
 ghastful
 gleek
+glout
 gallicization
 gauntly
 graftages
