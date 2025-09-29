@@ -7655,7 +7655,6 @@ ceremoniousness
 counterpoint
 congregates
 cereous
-cuddyhole
 cerebellitis
 chark
 cererite
@@ -25306,6 +25305,7 @@ ce
 carcinological
 cynomorphous
 crenology
+cuddyhole
 corncutter
 calapite
 cornea
