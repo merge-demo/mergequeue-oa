@@ -8175,7 +8175,6 @@ cordia
 collocations
 cordaitalean
 chairmaking
-conynge
 crystallogenetic
 chairmaning
 chairmanning
@@ -13944,6 +13943,7 @@ cynomys
 clubmate
 criticizingly
 cynomolgus
+conynge
 cynomoriaceae
 cytosome
 cynomorium
