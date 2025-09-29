@@ -2209,7 +2209,6 @@ golach
 glucosic
 gravific
 genarchship
-galilees
 geoidal
 gemmate
 garmented
@@ -7112,6 +7111,7 @@ giggler
 gastrotaxis
 gabbros
 glistering
+galilees
 geometrise
 guans
 gaffs
