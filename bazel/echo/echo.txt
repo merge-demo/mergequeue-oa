@@ -1153,6 +1153,7 @@ estuaries
 enterobiasis
 edomitish
 expective
+embryogenetic
 eutomous
 exorbitate
 enterograph
@@ -4846,7 +4847,6 @@ eucatropine
 escapable
 exorciser
 epidermatoid
-embryogenetic
 eserine
 engraven
 eria
