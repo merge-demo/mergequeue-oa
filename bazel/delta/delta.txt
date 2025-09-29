@@ -4032,6 +4032,7 @@ dysarthric
 domineeringness
 directitude
 deliberalization
+dextrorotatory
 dejerator
 duiker
 deadened
@@ -17784,7 +17785,6 @@ dartboard
 donnick
 daises
 demiglobe
-dextrorotatory
 diagraph
 dorsigrade
 dwining
