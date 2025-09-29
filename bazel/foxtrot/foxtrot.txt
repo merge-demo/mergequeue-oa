@@ -238,6 +238,7 @@ facultatively
 faculties
 fringy
 functionaries
+fantasts
 fulimart
 frostbound
 fritterer
@@ -2705,7 +2706,6 @@ funnier
 figpecker
 ficche
 fathomer
-fantasts
 fiefs
 fireside
 farcicalness
