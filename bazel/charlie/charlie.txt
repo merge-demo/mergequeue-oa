@@ -5779,7 +5779,6 @@ cultivated
 cochlearia
 chemicopharmaceutical
 cleaves
-categorization
 coryzal
 categorizer
 chlorpicrin
@@ -13639,6 +13638,7 @@ complexionist
 cenacles
 cantankerousness
 chaber
+categorization
 circumnutatory
 cymol
 constructer
