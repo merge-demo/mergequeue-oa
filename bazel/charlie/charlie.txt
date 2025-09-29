@@ -15090,6 +15090,7 @@ chinchasuyu
 chattel
 crocodilia
 civory
+clenchers
 chocalho
 ciwies
 colloquiality
@@ -15937,7 +15938,6 @@ clench
 carbamino
 clenched
 clencher
-clenchers
 clarshech
 clenches
 cleomes
