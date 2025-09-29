@@ -14537,6 +14537,7 @@ accentuate
 autokinesis
 antiputrefaction
 antiatheistic
+anterior
 apepsia
 avos
 archetypic
@@ -15965,7 +15966,6 @@ antisemitism
 astrild
 alkenna
 antisensitivity
-anterior
 ambiances
 ajowans
 albatross

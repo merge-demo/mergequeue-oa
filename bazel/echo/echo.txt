@@ -1863,7 +1863,6 @@ endaseh
 everting
 evechurr
 endocarps
-entomophilous
 einkorn
 einsteinian
 equatability
@@ -10741,6 +10740,7 @@ epizeuxis
 ethylenically
 etrier
 excelled
+entomophilous
 eulimidae
 epicoela
 eulytine
