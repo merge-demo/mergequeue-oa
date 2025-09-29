@@ -8818,7 +8818,6 @@ chappal
 chappies
 cantle
 chappin
-chartlet
 competes
 catchplate
 chapstick
@@ -30280,6 +30279,7 @@ cabinetmakers
 clucks
 crunchy
 counterintuitive
+chartlet
 crunchiest
 crunchiness
 crunching
