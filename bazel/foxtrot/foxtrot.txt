@@ -462,7 +462,6 @@ formulistic
 fulminating
 fluctisonous
 ferk
-faithlessness
 fringeless
 folkmoter
 foliosity
@@ -11531,6 +11530,7 @@ foreremembered
 fab
 furtiveness
 frena
+faithlessness
 foxfeet
 fuselages
 fuselike
