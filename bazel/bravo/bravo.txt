@@ -11196,7 +11196,6 @@ bloodworthy
 blearily
 butenyl
 blooey
-bloomed
 bloomeries
 begash
 brushite
@@ -11637,6 +11636,7 @@ bosket
 breakfasts
 bacterioscopical
 barspoon
+bloomed
 bronchium
 boathook
 bromal
