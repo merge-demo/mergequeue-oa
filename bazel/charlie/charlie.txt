@@ -4589,7 +4589,6 @@ carolinians
 charitable
 carditic
 caoba
-carols
 carolus
 correspondentially
 chemicocautery
@@ -21382,6 +21381,7 @@ centiar
 ceboid
 counterguerrilla
 conchifera
+carols
 conchiferous
 castores
 caldadaria
