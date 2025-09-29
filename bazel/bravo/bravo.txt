@@ -2227,7 +2227,6 @@ begladded
 broma
 blesboks
 blateroon
-bannerwise
 biasing
 bowing
 bats
@@ -7935,6 +7934,7 @@ bribegiving
 blomstrandine
 bicentric
 bancal
+bannerwise
 bicentricity
 baselines
 bardier
