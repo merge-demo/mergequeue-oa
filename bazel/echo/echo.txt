@@ -9401,7 +9401,6 @@ exactus
 entonic
 explainer
 enflagellation
-electroretinographic
 enstool
 echeneid
 escaper
@@ -9966,6 +9965,7 @@ estrums
 extrospection
 englishize
 estuarial
+electroretinographic
 epagogic
 eloquently
 estuosity
