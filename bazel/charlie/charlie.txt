@@ -10523,7 +10523,6 @@ childrenite
 corylin
 chalazogamic
 childridden
-childship
 childward
 childwife
 canities
@@ -20335,6 +20334,7 @@ camias
 commonsense
 carpels
 curiologic
+childship
 commonsensically
 chloroacetate
 commonweals
