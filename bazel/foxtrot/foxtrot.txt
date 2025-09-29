@@ -8718,7 +8718,6 @@ foredecks
 flocculator
 fella
 footlog
-flymen
 faultsman
 finchery
 forehands
@@ -9475,6 +9474,7 @@ femininism
 frameable
 frequenting
 fraudfully
+flymen
 fasciculated
 fyces
 floors
