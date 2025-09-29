@@ -2063,7 +2063,6 @@ exalbuminous
 ethologically
 encumberer
 euthyneural
-elapine
 endysis
 eutectics
 elegiambus
@@ -11259,6 +11258,7 @@ ergometrine
 expirable
 evanishes
 enterostenosis
+elapine
 exsolved
 estrogens
 enmass
