@@ -15101,7 +15101,6 @@ colloquiality
 cixo
 congenially
 combine
-carposperm
 cl
 clabber
 crossover
@@ -17114,6 +17113,7 @@ comptometer
 cater
 crappy
 coachsmith
+carposperm
 caponisation
 coachsmithing
 cumacea
