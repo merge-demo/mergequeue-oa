@@ -3932,6 +3932,7 @@ formalised
 flawedness
 filopodia
 fellowing
+falchion
 false
 filea
 fined
@@ -9768,7 +9769,6 @@ feldspar
 functionalities
 frapp
 fallacies
-falchion
 fessways
 foolhardiest
 fascet
