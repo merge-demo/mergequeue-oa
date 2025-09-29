@@ -4246,7 +4246,6 @@ forebooms
 flots
 floridians
 flaxbird
-fax
 foreignize
 feverish
 fungose
@@ -11465,6 +11464,7 @@ furcately
 fissury
 ferntickle
 furrure
+fax
 foible
 foreglimpse
 fin
