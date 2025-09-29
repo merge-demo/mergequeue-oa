@@ -4244,6 +4244,7 @@ firepink
 firepinks
 fireplace
 fiendishness
+fictioneer
 fussification
 flanky
 frogmouths
@@ -8195,7 +8196,6 @@ furs
 forewritten
 fundamentals
 fatigated
-fictioneer
 flaggelated
 friezing
 forfaulture
