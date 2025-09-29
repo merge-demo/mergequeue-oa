@@ -10034,7 +10034,6 @@ cheries
 cosmotron
 cichoriaceous
 circumhorizontal
-celeries
 cherried
 canna
 cherries
@@ -23379,6 +23378,7 @@ closets
 consultive
 consulto
 consultor
+celeries
 confirmer
 consults
 consumated
