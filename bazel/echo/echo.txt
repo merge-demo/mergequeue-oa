@@ -5371,7 +5371,6 @@ endotheliulia
 eophyte
 eccentrometer
 endothermal
-endothermy
 ectopatagia
 erthling
 echinocactus
@@ -12834,6 +12833,7 @@ evangelistship
 efecks
 exoticist
 eudipleural
+endothermy
 erectly
 encircled
 exoterically
