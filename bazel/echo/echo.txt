@@ -1396,7 +1396,6 @@ epidote
 exterous
 endowing
 erasions
-ericoid
 entosterna
 encashable
 enzymes
@@ -1699,6 +1698,7 @@ earpieces
 echolocate
 endogenicity
 ejaculating
+ericoid
 embolon
 employ
 epistilbite
