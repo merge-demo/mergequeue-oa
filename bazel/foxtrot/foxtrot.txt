@@ -1851,7 +1851,6 @@ fiveling
 fiances
 flabellation
 frutify
-fatuously
 fec
 fight
 fantoddish
@@ -10211,6 +10210,7 @@ farewelling
 fissureless
 fibra
 frankheartedly
+fatuously
 filite
 floated
 footnote
