@@ -4278,7 +4278,6 @@ foreshortens
 foiblesse
 fendable
 fastuous
-firk
 febrifuges
 filacer
 facsimilist
@@ -4613,6 +4612,7 @@ flavory
 fitout
 fitchered
 foolfish
+firk
 fitters
 foxery
 fifo
