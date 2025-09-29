@@ -12586,7 +12586,6 @@ apocenter
 anchitherioid
 anagrammatized
 appellors
-adiathermal
 anthropophagit
 angioblastic
 advenience
@@ -13603,6 +13602,7 @@ apikoros
 anonymously
 anoopsia
 anophele
+adiathermal
 angeldom
 anopheles
 anophelinae
