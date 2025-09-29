@@ -15960,7 +15960,6 @@ antiseismic
 antiselene
 antisemitism
 astrild
-alkenna
 antisensitivity
 ambiances
 ajowans
@@ -16539,6 +16538,7 @@ alioth
 acceder
 aperulosid
 apes
+alkenna
 antiptosis
 apesthetic
 apesthetize
