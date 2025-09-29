@@ -8509,7 +8509,6 @@ dianite
 dianoetically
 deschampsia
 docents
-dianoia
 diurne
 dwarflike
 depigmentate
@@ -15122,6 +15121,7 @@ delightable
 dancetty
 doggish
 deads
+dianoia
 deprivate
 doggishness
 doggle

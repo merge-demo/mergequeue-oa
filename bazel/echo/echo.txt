@@ -3781,7 +3781,6 @@ ekerite
 enterprisingly
 expiratory
 esthetical
-emparl
 ethnohistorical
 extolled
 economic
@@ -8404,6 +8403,7 @@ epizoic
 eudaemonia
 ensigncy
 epizoon
+emparl
 edemic
 emblossom
 exigencies
