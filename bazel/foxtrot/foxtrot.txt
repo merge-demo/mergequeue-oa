@@ -438,7 +438,6 @@ frockmaker
 fairship
 feal
 flitting
-fogmen
 fairway
 fulminate
 fragilariaceae
@@ -5938,6 +5937,7 @@ feretories
 floodlight
 forthinking
 furzes
+fogmen
 fearlessly
 forensal
 favonius

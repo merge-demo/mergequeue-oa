@@ -4716,6 +4716,7 @@ emittent
 elocutive
 entryway
 electrowin
+etherealness
 electroshock
 erythrodegenerative
 eyelets
@@ -10119,7 +10120,6 @@ extrusible
 endorses
 ethereally
 entwined
-etherealness
 escherichia
 enculturated
 excused
