@@ -2021,6 +2021,7 @@ camouflage
 camouflageable
 crossgrainedness
 chirimoya
+covetousness
 contradictorily
 conolophus
 coincidence
@@ -31213,7 +31214,6 @@ curvatures
 complacencies
 convulsible
 chickenhood
-covetousness
 commonplace
 coque
 cupuliferous
