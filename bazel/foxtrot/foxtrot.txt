@@ -6636,7 +6636,6 @@ foehnlike
 foeless
 faulted
 fulguration
-fulgurating
 flossing
 forenotice
 foemanship
@@ -10554,6 +10553,7 @@ firebases
 fresh
 falding
 fibration
+fulgurating
 foreland
 fliping
 foughty
