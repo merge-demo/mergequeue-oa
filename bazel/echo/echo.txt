@@ -3532,6 +3532,7 @@ epididymal
 entocone
 embolomalerism
 enervator
+exostracism
 exceeder
 equoid
 epicureanism
@@ -11194,7 +11195,6 @@ evanescible
 evanescing
 exorbitancy
 expilation
-exostracism
 endover
 epibolies
 evangeliaries
