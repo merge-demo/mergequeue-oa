@@ -13191,7 +13191,6 @@ barded
 broiling
 bridgemaker
 bathylith
-bullhorns
 brightened
 brat
 baronize
@@ -16118,6 +16117,7 @@ broussonetia
 bulimiform
 browbeating
 bathmotropism
+bullhorns
 baiter
 browet
 brander
