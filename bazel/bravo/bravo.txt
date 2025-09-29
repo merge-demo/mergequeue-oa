@@ -2613,6 +2613,7 @@ battening
 barkometer
 bescorch
 batrachite
+bickers
 beeth
 bedtimes
 basilinna
@@ -4359,7 +4360,6 @@ bareheadedness
 bloodstanch
 barrable
 butyrousness
-bickers
 basements
 buttstock
 bathyseism
