@@ -400,6 +400,7 @@ galbula
 gelding
 glidewort
 galaxes
+glowworm
 gispin
 galaxias
 gynecol
@@ -10201,7 +10202,6 @@ gluttei
 globalism
 gladdon
 gimbaljawed
-glowworm
 guarantine
 groundneedle
 ganevs
