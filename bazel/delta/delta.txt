@@ -8620,7 +8620,6 @@ dextrorse
 duckhouse
 dogtoothing
 dyarchies
-dd
 downwards
 drumline
 dinge
@@ -13587,6 +13586,7 @@ dogfall
 dissettle
 dissociality
 diagrydium
+dd
 dracontine
 devilizing
 dissheathed
