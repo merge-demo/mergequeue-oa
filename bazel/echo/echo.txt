@@ -4866,7 +4866,6 @@ exponentiations
 elemental
 effeminateness
 excludible
-explete
 enjamb
 encroachments
 epitaxic
@@ -6011,6 +6010,7 @@ ejects
 earns
 extrapituitary
 emptily
+explete
 extensimeter
 embayment
 endoparasitic
