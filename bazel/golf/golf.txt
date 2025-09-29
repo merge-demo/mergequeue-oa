@@ -3946,7 +3946,6 @@ germinally
 groaner
 graduated
 gastroatrophia
-geoscientist
 gunlaying
 grubbily
 gremial
@@ -4640,6 +4639,7 @@ gl
 glance
 gringophobia
 ghafir
+geoscientist
 geobiology
 gematrical
 galli
