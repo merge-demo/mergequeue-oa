@@ -5321,7 +5321,6 @@ cylindroconical
 cuculi
 chrestomathics
 castanean
-cynarctomachy
 cyrillaceous
 colorimetrics
 crawler
@@ -11376,6 +11375,7 @@ changelessly
 chlorophora
 cameralist
 chloropicrin
+cynarctomachy
 chloroplastic
 chloroplasts
 coenamorment

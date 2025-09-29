@@ -8185,7 +8185,6 @@ antipapistic
 amacrine
 aline
 antimissioner
-abr
 autoelectronic
 assisan
 alineation
@@ -18754,6 +18753,7 @@ adherer
 archidiaconate
 affair
 archididascalos
+abr
 autere
 arouse
 archidome
