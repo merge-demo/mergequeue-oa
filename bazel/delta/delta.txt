@@ -3602,7 +3602,6 @@ dermatoxerasia
 decurions
 deglut
 dognaps
-disarrangement
 decubation
 denounced
 despisement
@@ -10707,6 +10706,7 @@ dryworker
 dowcote
 duplicative
 desertedness
+disarrangement
 dipodomys
 dreamtide
 dyslexics
