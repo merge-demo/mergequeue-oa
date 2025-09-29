@@ -5023,7 +5023,6 @@ functioned
 foremartyr
 fiddlewood
 filet
-fluctuable
 frowsier
 feathers
 faineantise
@@ -7956,6 +7955,7 @@ foreshot
 ficelle
 fumatoriums
 fibrinogenous
+fluctuable
 fitness
 freestones
 foreshow
