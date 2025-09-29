@@ -6743,7 +6743,6 @@ andromedotoxin
 auriphrygiate
 airspace
 airspaces
-antifeudalization
 archetypist
 architectonica
 apostolic
@@ -14648,6 +14647,7 @@ antichamber
 anisidino
 avener
 abbreviations
+antifeudalization
 agaze
 antichance
 antichlorine
