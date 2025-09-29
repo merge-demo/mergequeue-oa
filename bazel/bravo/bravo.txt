@@ -422,7 +422,6 @@ butane
 backouts
 backpacked
 bottomried
-bibliophagic
 brownnose
 blimbing
 balanic
@@ -8870,6 +8869,7 @@ barstool
 biocoenotic
 biodegradability
 biodegradable
+bibliophagic
 becassocked
 burlecue
 blockbusting
