@@ -15394,6 +15394,7 @@ courtroll
 clapnet
 concentered
 cricketed
+crescively
 cen
 clappe
 clapperclaw
@@ -28759,7 +28760,6 @@ chirl
 crescentoid
 crescents
 crescentwise
-crescively
 cantino
 cresegol
 cargo
