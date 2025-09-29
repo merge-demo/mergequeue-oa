@@ -300,7 +300,6 @@ brumbies
 backare
 baal
 backpacker
-burdensomeness
 beaune
 brachiocyllosis
 brahmism
@@ -4304,6 +4303,7 @@ bemercy
 bely
 bonspiels
 bragite
+burdensomeness
 bewigs
 bubbly
 bombola
