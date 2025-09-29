@@ -858,6 +858,7 @@ fervorous
 forebows
 free
 floutingly
+foreannouncement
 fragilities
 fantasying
 falterer
@@ -8456,7 +8457,6 @@ furiant
 foresinger
 formelt
 filmsetter
-foreannouncement
 fortin
 falsiteit
 frondesce
