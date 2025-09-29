@@ -11598,6 +11598,7 @@ bode
 budgeted
 boanergism
 bisontine
+bucculae
 board
 beliers
 boardinghouse
@@ -16567,7 +16568,6 @@ bucconinae
 buccopharyngeal
 brevet
 bugproof
-bucculae
 butyr
 bulanda
 bezetta
