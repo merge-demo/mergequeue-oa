@@ -4317,7 +4317,6 @@ fet
 firmness
 flamethrower
 funditor
-fructiferousness
 fretworked
 foddering
 fauces
@@ -10892,6 +10891,7 @@ fullams
 fulled
 feeing
 fieldwort
+fructiferousness
 fliskier
 forsworn
 falloffs
