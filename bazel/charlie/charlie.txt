@@ -18711,6 +18711,7 @@ chain
 coinhabitor
 chausses
 coinhered
+columbaria
 coinherence
 concubinehood
 cystotomy
@@ -19659,7 +19660,6 @@ columbae
 corinna
 columban
 chaussures
-columbaria
 cloisterlike
 columbarium
 clours
