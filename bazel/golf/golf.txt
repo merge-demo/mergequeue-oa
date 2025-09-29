@@ -3505,7 +3505,6 @@ gunkholed
 gibbsites
 gumbotils
 glucogene
-gilt
 grogginess
 gantangs
 gigtree
@@ -7850,6 +7849,7 @@ gusty
 gramophonic
 gruelling
 gametangium
+gilt
 goi
 gounau
 gourdworm
