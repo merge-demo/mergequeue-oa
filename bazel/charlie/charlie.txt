@@ -2079,7 +2079,6 @@ campanologists
 cytophysics
 ceilingward
 chieftaincies
-centenar
 campanular
 circumvolve
 campanulariae
@@ -25445,6 +25444,7 @@ chrome
 cornucopias
 cornule
 corporatism
+centenar
 cornupete
 chloroleucite
 cornus
