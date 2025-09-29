@@ -3375,7 +3375,6 @@ bynin
 blastodermatic
 bassoonists
 bioelectrogenesis
-brightish
 blemished
 befortune
 blockades
@@ -13373,6 +13372,7 @@ becobweb
 botels
 bradyphagia
 buhlbuhl
+brightish
 bothersome
 banderol
 bothered
