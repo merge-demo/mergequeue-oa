@@ -1748,7 +1748,6 @@ electric
 eer
 eyepiece
 everard
-extg
 embattle
 emule
 exhbn
@@ -7708,6 +7707,7 @@ erythrine
 epidemiography
 ejulation
 elytroplastic
+extg
 epeirogeny
 equilibration
 expendability
