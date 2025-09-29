@@ -10161,7 +10161,6 @@ deathblow
 dues
 diverticulate
 ductal
-defogging
 downy
 doater
 dinged
@@ -13572,6 +13571,7 @@ dissertate
 discerping
 dreariest
 doodia
+defogging
 dithionite
 dissertational
 dentinal
