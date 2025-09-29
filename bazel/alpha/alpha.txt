@@ -5215,6 +5215,7 @@ attaining
 apoop
 aluminosity
 avadavats
+acanthite
 affluence
 affluently
 affluxion
@@ -19728,7 +19729,6 @@ aspires
 adamantness
 armers
 autumnal
-acanthite
 amissibility
 armful
 antigone
