@@ -1630,6 +1630,7 @@ glossophytia
 gastroxynsis
 gourdy
 gunnera
+gluconeogenetic
 geom
 greetingly
 groovier
@@ -6546,7 +6547,6 @@ gruis
 gawkiest
 geldesprung
 graduateship
-gluconeogenetic
 genty
 gallinula
 guesswork
