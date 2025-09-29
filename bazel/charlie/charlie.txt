@@ -5487,7 +5487,6 @@ chancering
 cataclastic
 cataclinal
 cataclysmal
-coumbite
 cataclysmatist
 cataclysmic
 contingently
@@ -20379,6 +20378,7 @@ communicant
 communicate
 czarinian
 consecute
+coumbite
 clutter
 convertibles
 cousinly
