@@ -1657,7 +1657,6 @@ balibuntl
 ballotist
 batell
 ballots
-backlotter
 baronage
 byelorussians
 ballottines
@@ -5163,6 +5162,7 @@ behoove
 befringe
 branchiata
 befringing
+backlotter
 butenes
 breezed
 brontograph
