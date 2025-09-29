@@ -6982,7 +6982,6 @@ benote
 bewhiskered
 barbute
 blaming
-bedazzlement
 bespangling
 bespate
 bridgetin
@@ -9989,6 +9988,7 @@ bywalking
 blackfisher
 bricoles
 bingo
+bedazzlement
 brutisms
 bixaceae
 basidiophore
