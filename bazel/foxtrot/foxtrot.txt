@@ -7025,7 +7025,6 @@ flapmouthed
 foreganger
 fadingly
 feinting
-fontinas
 forepromise
 fonts
 fusula
@@ -7631,6 +7630,7 @@ fritillaries
 footgrip
 floruits
 faeculence
+fontinas
 foreimagination
 flashlike
 fumy
