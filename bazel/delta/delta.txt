@@ -5721,7 +5721,6 @@ dialysed
 dorsobranchiata
 disposit
 deplenish
-dialup
 ducape
 depleted
 daftlike
@@ -14599,6 +14598,7 @@ daunders
 draggily
 deoxyribonucleoprotein
 demodocus
+dialup
 dictyostele
 demureness
 denotive
