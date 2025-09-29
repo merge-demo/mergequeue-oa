@@ -213,7 +213,6 @@ gaudsman
 goldcup
 gametophore
 greys
-gooks
 girdling
 gags
 gonoecium
@@ -5542,6 +5541,7 @@ granuloblast
 globous
 georgical
 girosols
+gooks
 gadus
 goffle
 globular
