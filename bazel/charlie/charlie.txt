@@ -1357,6 +1357,7 @@ consolable
 california
 californian
 cheven
+clallam
 chutneys
 chantages
 clopping
@@ -17652,7 +17653,6 @@ caquetoire
 coccyzus
 cocco
 changar
-clallam
 capitoul
 cumins
 cyanomethaemoglobin

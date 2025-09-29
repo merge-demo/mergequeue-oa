@@ -2728,7 +2728,6 @@ fiercer
 fragmentarily
 fellinic
 fesses
-flaunche
 franciums
 facetiation
 festally
@@ -11624,6 +11623,7 @@ fixable
 forint
 frolicsomely
 fortissimi
+flaunche
 fibrous
 fylgja
 fosite
