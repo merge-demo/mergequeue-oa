@@ -11911,6 +11911,7 @@ aborning
 arnoldist
 aspis
 angiosclerosis
+alliances
 acidity
 ankylosed
 anastomosing
@@ -11943,7 +11944,6 @@ aegeriid
 appels
 anasarcous
 anathematizer
-alliances
 actuaryship
 anatidae
 amidstream
