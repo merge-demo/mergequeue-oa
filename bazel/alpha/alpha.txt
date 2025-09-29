@@ -12340,7 +12340,6 @@ arterial
 apologal
 anemometrographically
 alfilaria
-azoturia
 anemonal
 anemone
 anticreator
@@ -21113,6 +21112,7 @@ aperitifs
 aglaonema
 achates
 apexed
+azoturia
 africana
 ashplant
 axil
