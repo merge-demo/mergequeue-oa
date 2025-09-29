@@ -4975,7 +4975,6 @@ demophilism
 demophobia
 disbursed
 dictators
-demoraliser
 drumler
 defecter
 duffy
@@ -7360,6 +7359,7 @@ deticked
 drownding
 degas
 drippage
+demoraliser
 dolls
 dubious
 denegate
