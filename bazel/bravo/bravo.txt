@@ -3504,7 +3504,6 @@ batete
 balotade
 byroads
 bioecological
-bondholder
 batfowled
 bassists
 batfowls
@@ -3934,6 +3933,7 @@ baizas
 biliment
 bumblekite
 battleward
+bondholder
 bowed
 bogs
 bumpiest
