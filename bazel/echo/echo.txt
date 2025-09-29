@@ -2068,7 +2068,6 @@ entraps
 enchainements
 ecphractic
 epi
-eugene
 epopoean
 earwitness
 epispermic
@@ -3565,6 +3564,7 @@ extravehicular
 emulable
 embowelling
 egocentric
+eugene
 esperantism
 expostulatingly
 epitomically
