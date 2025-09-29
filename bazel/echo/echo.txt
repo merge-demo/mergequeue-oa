@@ -10674,6 +10674,7 @@ eugenie
 eugenism
 epikouros
 elatedness
+exclaimer
 erioglaucine
 eurystheus
 effetmen
@@ -11130,7 +11131,6 @@ exopt
 erne
 eutychian
 everly
-exclaimer
 embanked
 eutrophication
 expiating

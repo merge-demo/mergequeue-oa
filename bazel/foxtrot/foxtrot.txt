@@ -6074,6 +6074,7 @@ forsook
 foretriangle
 fleyland
 forecome
+fissuriform
 floush
 focalisation
 fouls
@@ -8069,7 +8070,6 @@ flecnode
 fiendfully
 ferrochromium
 forests
-fissuriform
 fumer
 forejudged
 forenews
