@@ -1647,6 +1647,7 @@ benzothiodiazole
 burletta
 butyrous
 biocellate
+barbwires
 bestrew
 bilobated
 balloted
@@ -2338,7 +2339,6 @@ barbula
 baho
 barbulate
 blastomycin
-barbwires
 bullpout
 barhopped
 becut
