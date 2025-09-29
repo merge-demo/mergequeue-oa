@@ -5925,6 +5925,7 @@ encoffin
 elains
 effate
 enhuile
+effected
 enhunger
 emissary
 eruc
@@ -8979,7 +8980,6 @@ explorative
 ecumenist
 electrophonic
 epizootiological
-effected
 erysipelatous
 expletively
 erysipeloid

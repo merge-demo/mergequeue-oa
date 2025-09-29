@@ -14295,7 +14295,6 @@ circumnavigates
 circumnavigating
 couvert
 chickaree
-circumnavigator
 cyclometrical
 cymophobia
 coitophobia
@@ -31166,6 +31165,7 @@ cupolated
 chewstick
 covetingly
 contestability
+circumnavigator
 cuppin
 chemonite
 cuppings
