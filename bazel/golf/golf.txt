@@ -5868,7 +5868,6 @@ glucoside
 goshawk
 grandparents
 grantha
-gestening
 gynephobia
 gluttonize
 gomerels
@@ -8145,6 +8144,7 @@ gem
 grapes
 galenical
 grapestalk
+gestening
 groomling
 galeodidae
 gastromycosis
