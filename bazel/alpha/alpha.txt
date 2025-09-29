@@ -2873,6 +2873,7 @@ actiniomorpha
 antineutrality
 actinisms
 arginine
+ascomycetous
 antialbumose
 actinium
 anopias
@@ -10408,7 +10409,6 @@ articled
 armourers
 atmiatrics
 allantoidea
-ascomycetous
 amidol
 amidophenol
 ausones
