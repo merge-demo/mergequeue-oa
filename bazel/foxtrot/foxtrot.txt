@@ -4987,7 +4987,6 @@ focused
 frappeed
 flibbertigibbety
 figbird
-foundationally
 fleetingness
 foliole
 fettle
@@ -9170,6 +9169,7 @@ florification
 feat
 foveole
 folded
+foundationally
 federations
 formalizable
 fooyung
