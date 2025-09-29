@@ -3173,6 +3173,7 @@ gephyrea
 girouettes
 gwendolen
 gular
+gitonin
 gallomania
 gaudiness
 getup
@@ -4711,7 +4712,6 @@ gecks
 garshuni
 gytling
 goniale
-gitonin
 graphitizable
 gratinate
 greenfishes
