@@ -5304,6 +5304,7 @@ displosion
 doctrinairism
 disscepter
 debat
+disapproved
 dissect
 dissatisfied
 desistence
@@ -7478,7 +7479,6 @@ diaphorase
 detoxifier
 draperess
 dissava
-disapproved
 diamicton
 devest
 dukuma
