@@ -1820,6 +1820,7 @@ furrows
 figureheadship
 firebreaks
 feudalize
+falsie
 fractured
 flabellum
 fating
@@ -8514,7 +8515,6 @@ formosity
 fidley
 flailing
 firehall
-falsie
 flatwise
 foramen
 forinsec

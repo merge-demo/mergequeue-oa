@@ -11933,7 +11933,6 @@ becrush
 betutor
 botonn
 binitarian
-bisaxillary
 bogatyr
 bordels
 bogberry
@@ -13443,6 +13442,7 @@ bocaccios
 batonistic
 brannier
 botryomycoma
+bisaxillary
 backcomb
 bonification
 biogenetically
