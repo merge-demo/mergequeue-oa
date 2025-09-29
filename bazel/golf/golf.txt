@@ -3561,7 +3561,6 @@ gregarinaria
 gavial
 glutinose
 granulitization
-galvanic
 gyrocar
 greg
 gleit
@@ -8392,6 +8391,7 @@ gravelroot
 gallstones
 gratiolin
 gentisic
+galvanic
 goldbricks
 glaciarium
 goonch
