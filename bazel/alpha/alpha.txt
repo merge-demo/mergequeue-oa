@@ -7994,7 +7994,6 @@ antimark
 anachronous
 askoi
 analagous
-algological
 acetylsalicylate
 algoman
 and
@@ -23690,6 +23689,7 @@ assuredness
 antihistamine
 ampliation
 austrium
+algological
 antipedobaptism
 ambash
 appetit
