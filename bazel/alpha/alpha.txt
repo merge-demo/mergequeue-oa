@@ -14168,7 +14168,6 @@ antistimulant
 anaphoral
 anthoid
 anthokyan
-anthol
 apiaceous
 androcratic
 aniseikonia
@@ -23139,6 +23138,7 @@ apposed
 attrectation
 araracanga
 azocyclic
+anthol
 azophenol
 aestivate
 archicerebra
