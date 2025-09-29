@@ -3537,7 +3537,6 @@ eponyms
 eyeball
 extreme
 epigonus
-epicyclic
 euphratean
 entrefer
 egyptianism
@@ -5900,6 +5899,7 @@ embuskin
 ewelease
 ephemeron
 excursive
+epicyclic
 ectoproct
 exclave
 eftest
