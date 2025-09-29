@@ -3327,7 +3327,6 @@ cavilling
 cotyledon
 concavely
 calabash
-caponise
 captivate
 chrystocrene
 caltrap
@@ -4881,6 +4880,7 @@ carrousel
 circumfused
 carrousels
 chaetodontid
+caponise
 corallinaceae
 carses
 cogitable
