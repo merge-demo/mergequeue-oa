@@ -5937,6 +5937,7 @@ geodesics
 gazogenes
 galactopathy
 grubs
+grievous
 ginkgoes
 geoemtry
 gastroparesis
@@ -8945,7 +8946,6 @@ grievance
 gantlines
 grievances
 galvanoplastics
-grievous
 gearbox
 germinating
 galingale
