@@ -9218,7 +9218,6 @@ coplanation
 chaster
 crombec
 chastest
-chasteweed
 censurers
 ceduous
 chasty
@@ -24965,6 +24964,7 @@ cordaitaceous
 casamarca
 cordaites
 commission
+chasteweed
 cowperitis
 cordal
 cordate
