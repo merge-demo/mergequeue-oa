@@ -9190,7 +9190,6 @@ fifteenths
 frija
 flustroid
 fixive
-fanaloka
 fruiterer
 fascinations
 foveoles
@@ -10246,6 +10245,7 @@ frond
 fluxmeter
 finickingness
 frust
+fanaloka
 fgrid
 fjarding
 firiness

@@ -11342,7 +11342,6 @@ bakeapple
 bendingly
 blockmaking
 beguiled
-bellote
 bedabbled
 buff
 buntings
@@ -16372,6 +16371,7 @@ besmell
 broidery
 boigid
 bises
+bellote
 bullhorn
 bellwood
 butterers
