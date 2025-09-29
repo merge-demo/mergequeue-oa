@@ -2140,7 +2140,6 @@ gastromenia
 garth
 gastnesses
 galeiform
-gynocratic
 ganglands
 guillermo
 glaucousness
@@ -5998,6 +5997,7 @@ gaidropsaridae
 gnetaceae
 geminative
 gutturonasal
+gynocratic
 gingerly
 goodwilly
 gamier

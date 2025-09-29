@@ -5313,7 +5313,6 @@ ectoethmoid
 epituberculous
 exasperation
 embarrassing
-endosteoma
 essentialism
 exerts
 exosepsis
@@ -10213,6 +10212,7 @@ elaborates
 extruders
 evansite
 epanorthosis
+endosteoma
 errsyn
 experiences
 embedded
