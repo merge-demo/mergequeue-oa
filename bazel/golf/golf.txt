@@ -4741,7 +4741,6 @@ groundwork
 grouseless
 gosther
 giveable
-gederite
 gelidly
 glene
 gaullist
@@ -9670,6 +9669,7 @@ gidgea
 granuliform
 gruellings
 gruesome
+gederite
 galeod
 gasp
 grassworm
