@@ -10437,6 +10437,7 @@ cooncan
 cryptometer
 chaya
 chiffonnier
+consonantise
 conchinin
 crumply
 chiffons
@@ -21186,7 +21187,6 @@ concealable
 chaga
 cadger
 cowy
-consonantise
 concealedly
 costalgia
 concealedness

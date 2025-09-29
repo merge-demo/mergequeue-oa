@@ -582,6 +582,7 @@ enthean
 euglenas
 echitamine
 eccentrical
+eisteddfod
 epigynum
 excision
 eurypelma
@@ -1903,7 +1904,6 @@ ectorhinal
 ernst
 emptional
 electropneumatically
-eisteddfod
 eluting
 endearance
 euhemerized
