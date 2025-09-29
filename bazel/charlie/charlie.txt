@@ -14347,7 +14347,6 @@ condescend
 circumscribed
 collapsed
 crayfish
-circumscriptions
 circumsinous
 circumsolar
 collow
@@ -17680,6 +17679,7 @@ cinchonas
 coccothraustes
 coccothraustine
 capnodium
+circumscriptions
 coccothrinax
 calabozo
 cocculiferous
