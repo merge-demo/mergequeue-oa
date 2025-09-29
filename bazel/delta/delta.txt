@@ -4498,6 +4498,7 @@ demerit
 dotonidae
 disreputable
 demiluster
+demoralize
 discourager
 damoetas
 drones
@@ -13184,7 +13185,6 @@ displayable
 dumaist
 depositive
 driftland
-demoralize
 daunt
 displat
 displeasance
