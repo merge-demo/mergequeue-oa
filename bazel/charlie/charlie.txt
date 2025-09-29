@@ -16595,7 +16595,6 @@ carrigeen
 cloisonnism
 cloistered
 cloisterer
-columellate
 clappermaclaw
 clap
 cloistering
@@ -25338,6 +25337,7 @@ corner
 cornerback
 cornerer
 cornering
+columellate
 crang
 cornerstone
 cornet
