@@ -3624,6 +3624,7 @@ edna
 egads
 eleutherism
 electrocuted
+electropoion
 ennoic
 enwheeled
 embrectomy
@@ -13950,7 +13951,6 @@ endokaryogamy
 eyrar
 enface
 extinguishable
-electropoion
 extraparochial
 equicurve
 endosteal
