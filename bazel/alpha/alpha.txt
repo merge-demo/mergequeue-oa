@@ -7823,7 +7823,6 @@ aleurometer
 archetypal
 absi
 aleurone
-adiposuria
 antimicrobic
 argynnis
 annotto
@@ -7852,6 +7851,7 @@ alexandrina
 abyss
 adenomatome
 aggravations
+adiposuria
 antiexpansionist
 anticynic
 addlepatedness
