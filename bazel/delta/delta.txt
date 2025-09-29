@@ -3039,7 +3039,6 @@ digitizer
 doohickus
 dentaria
 demivambrace
-dentiscalp
 desmosite
 daddock
 degradand
@@ -8849,6 +8848,7 @@ dibothriocephalus
 daughterless
 demobilized
 declivities
+dentiscalp
 didelphid
 dibranch
 defiguration
