@@ -1464,6 +1464,7 @@ growly
 greta
 ghostology
 granolith
+ghostflower
 gaseousness
 grotesque
 garner
@@ -3651,7 +3652,6 @@ garrisonism
 gallinae
 gnosticism
 gnathite
-ghostflower
 goalmouth
 gyrencephalic
 giottesque
