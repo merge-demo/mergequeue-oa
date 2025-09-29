@@ -4160,6 +4160,7 @@ genealogy
 gollar
 germigenous
 gymnorhinal
+gaugeably
 gaspergou
 gluttony
 girsh
@@ -9230,7 +9231,6 @@ gibingly
 guts
 grizzly
 gunsel
-gaugeably
 grizzling
 groaned
 ghosts

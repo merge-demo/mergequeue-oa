@@ -1465,7 +1465,6 @@ electivism
 electroshocks
 exposal
 embolium
-embarrased
 ethicists
 epicene
 empathic
@@ -7566,6 +7565,7 @@ epicheiremata
 executer
 ependyma
 endomysium
+embarrased
 evaluators
 endovenous
 electrocapillarity
