@@ -2908,6 +2908,7 @@ geocerite
 gubernation
 greenheaded
 glabreity
+growthiness
 gulley
 growlier
 glumpish
@@ -9209,7 +9210,6 @@ grahamite
 grist
 guanase
 grumbles
-growthiness
 glucagon
 grumph
 gyroceran
