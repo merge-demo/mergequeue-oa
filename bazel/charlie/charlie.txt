@@ -9464,7 +9464,6 @@ cubits
 characterisation
 collinsonia
 cheater
-cheatery
 campulitropous
 cussword
 cheatry
@@ -16683,6 +16682,7 @@ conglution
 closehanded
 correctory
 cardiodysesthesia
+cheatery
 colombier
 conceitedness
 cedric
