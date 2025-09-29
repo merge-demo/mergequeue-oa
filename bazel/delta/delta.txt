@@ -6306,7 +6306,6 @@ delectible
 dodecylic
 dermatorrhagia
 diolefine
-disinflame
 deliriant
 deemer
 drossy
@@ -14790,6 +14789,7 @@ dinheiro
 denticular
 debatter
 diaphoretical
+disinflame
 dayshine
 doubtlessness
 downcasts
