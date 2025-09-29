@@ -9812,6 +9812,7 @@ ditchwater
 doomstead
 dysoxidize
 decephalize
+docking
 defeminizing
 denudating
 dipsos
@@ -14839,7 +14840,6 @@ depilatories
 dockhouse
 deringers
 dockyards
-docking
 dominica
 dolors
 dagos
