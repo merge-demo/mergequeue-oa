@@ -3741,7 +3741,6 @@ gouvernantes
 giarra
 gherao
 giarre
-gastaldo
 gastroelytrotomy
 governing
 geobios
@@ -7754,6 +7753,7 @@ greeny
 grubworm
 gulleys
 gillstoup
+gastaldo
 gingerwork
 glycolipine
 gargoylish
