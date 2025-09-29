@@ -1094,6 +1094,7 @@ apollinian
 abused
 antilynching
 anagnost
+atonicity
 abusefully
 abusefulness
 abuser
@@ -22731,7 +22732,6 @@ atones
 antipatriarchally
 acotyledon
 argilloid
-atonicity
 ageusia
 alcelaphus
 accosting
