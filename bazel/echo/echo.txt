@@ -2732,7 +2732,6 @@ emetic
 engorge
 eleemosynarily
 elegancy
-egos
 enditing
 erythrocyte
 extubate
@@ -12438,6 +12437,7 @@ explorate
 exfiltrate
 equilibrial
 electrolysing
+egos
 exhuming
 epifaunal
 enthronization

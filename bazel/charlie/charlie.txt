@@ -13930,7 +13930,6 @@ cynodictis
 coreligionist
 costive
 cinofoil
-couvert
 canonistic
 caviars
 cynognathus
@@ -14299,6 +14298,7 @@ champers
 corrade
 circumnavigates
 circumnavigating
+couvert
 chickaree
 circumnavigator
 cyclometrical
