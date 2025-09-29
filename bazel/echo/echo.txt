@@ -9274,7 +9274,6 @@ electrotellurograph
 externalist
 exogamous
 expositional
-error
 ebricty
 euchologia
 eugeosynclinal
@@ -11580,6 +11579,7 @@ end
 evulsions
 ewery
 exciding
+error
 empires
 ewes
 engraphia

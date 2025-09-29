@@ -5406,7 +5406,6 @@ glyphic
 gambist
 gascoign
 gargled
-guran
 girlhood
 gus
 glossoepiglottidean
@@ -9087,6 +9086,7 @@ gavelkinder
 grisounite
 gelong
 gynobase
+guran
 gigful
 gracious
 grinning

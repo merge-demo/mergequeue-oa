@@ -12791,7 +12791,6 @@ aerophilatelist
 angularity
 affirming
 amphimictic
-ancoral
 acct
 angulated
 angulately
@@ -20447,6 +20446,7 @@ assmannshauser
 acousmata
 arthredema
 arrased
+ancoral
 afterswarm
 arthritically
 alphabetising
