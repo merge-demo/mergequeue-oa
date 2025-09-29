@@ -11429,7 +11429,6 @@ anabasse
 aldermanly
 asperously
 astigmism
-ariose
 amnesias
 anabia
 albification
@@ -21382,6 +21381,7 @@ afterhelp
 anticovenanting
 alme
 archeion
+ariose
 adiaphanous
 alluvium
 axolotls
