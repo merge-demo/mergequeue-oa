@@ -2644,7 +2644,6 @@ boyology
 barghest
 basiliscus
 barm
-bawdies
 begrimming
 bututs
 barmaster
@@ -10376,6 +10375,7 @@ bewailer
 balushai
 bookdom
 bowk
+bawdies
 backwoodser
 babyolatry
 birdliming

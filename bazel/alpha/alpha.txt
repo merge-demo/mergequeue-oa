@@ -5884,7 +5884,6 @@ anophthalmos
 agism
 arrowleaf
 akoulalion
-aestuous
 aposaturn
 accreted
 affiances
@@ -13826,6 +13825,7 @@ antarchist
 apnoeic
 antievolutional
 aerosiderite
+aestuous
 auditioning
 antarctical
 aryepiglottic
