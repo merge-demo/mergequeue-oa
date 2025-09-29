@@ -611,7 +611,6 @@ fossilisation
 forints
 feasted
 fade
-featherdom
 finders
 filippic
 fumishness
@@ -3894,6 +3893,7 @@ fortuitously
 fecundating
 fluidness
 ferocactus
+featherdom
 financer
 fripperies
 followers
