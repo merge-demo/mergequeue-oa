@@ -23980,7 +23980,6 @@ cacopharyngia
 cicatricose
 cacological
 conv
-convalescence
 convalescently
 convalescents
 convalesces
@@ -29543,6 +29542,7 @@ cogon
 croaking
 croape
 croat
+convalescence
 carbogelatin
 chimars
 croatan
