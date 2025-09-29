@@ -4112,7 +4112,6 @@ delimiter
 deviational
 departments
 diplomyelia
-deline
 dishonourably
 disparpling
 dorsicolumn
@@ -13907,6 +13906,7 @@ deflagrations
 distillery
 dentaliidae
 dogmatize
+deline
 dynamogeneses
 diacope
 deodand
