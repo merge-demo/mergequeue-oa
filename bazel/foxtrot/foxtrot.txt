@@ -3660,6 +3660,7 @@ flawier
 forelooper
 floorings
 fuzzing
+fissirostral
 followeth
 funnelling
 friskers
@@ -7381,7 +7382,6 @@ flirtigig
 foraramens
 frugs
 funicle
-fissirostral
 ferrarese
 floressence
 fatalistic

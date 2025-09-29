@@ -12607,6 +12607,7 @@ exoculate
 expostulates
 ecclesiasticalness
 exoculation
+entailment
 exoderm
 electrophore
 eranthemum
@@ -13172,7 +13173,6 @@ episcotister
 expiable
 excubitorium
 evenglow
-entailment
 ewer
 embroil
 enties
