@@ -7996,6 +7996,7 @@ clergies
 chabouk
 crankshaft
 chabuk
+carcinophobia
 chac
 complainable
 chimin
@@ -13836,7 +13837,6 @@ cinematographies
 cinematographist
 chords
 cysticercoid
-carcinophobia
 cinene
 cinenegative
 cineol
