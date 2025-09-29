@@ -4643,7 +4643,6 @@ epidermophyton
 enchorial
 echinoderm
 exdelicto
-evolve
 eremiteship
 enchoric
 encyclopedias
@@ -11294,6 +11293,7 @@ ecurie
 englander
 enrank
 entirety
+evolve
 eagles
 evaporimeter
 electrocute
