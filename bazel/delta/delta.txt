@@ -1607,6 +1607,7 @@ dorine
 deadness
 deadnesses
 dairyman
+decenyl
 debused
 diedric
 deadpanned
@@ -12918,7 +12919,6 @@ dowment
 descloizite
 deniability
 dimensionless
-decenyl
 depurative
 disomatic
 digging
