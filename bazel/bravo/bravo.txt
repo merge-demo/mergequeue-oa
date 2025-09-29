@@ -7894,6 +7894,7 @@ bankrupting
 besmirchment
 balsamum
 biblists
+binocs
 bowlders
 bezoar
 blockwood
@@ -16125,7 +16126,6 @@ becrimed
 blastular
 beagle
 bowsery
-binocs
 baritones
 bonaveria
 botonnee
