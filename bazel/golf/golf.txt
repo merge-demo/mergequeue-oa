@@ -460,7 +460,6 @@ greenside
 granadine
 glop
 gearset
-gymnical
 gleewoman
 geranium
 groundward
@@ -640,6 +639,7 @@ guruships
 gerodontia
 gasometry
 gestatorial
+gymnical
 ghostlify
 gnarled
 grueling
