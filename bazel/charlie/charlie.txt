@@ -5245,7 +5245,6 @@ covenanted
 carpophore
 carinule
 cassocked
-carnaubyl
 chlorioninae
 chevrony
 cuculine
@@ -30391,6 +30390,7 @@ crutter
 cowhands
 crabhole
 crux
+carnaubyl
 cranial
 cruxes
 cognominate
