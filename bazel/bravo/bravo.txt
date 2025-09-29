@@ -3550,6 +3550,7 @@ bivalvous
 bathkol
 bipartite
 bathmat
+brumbee
 bathmats
 bygoing
 bereaven
@@ -4980,7 +4981,6 @@ beefily
 balsamic
 backspeer
 beetlike
-brumbee
 bagnut
 bankings
 babism
