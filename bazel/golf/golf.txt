@@ -3099,6 +3099,7 @@ girlhoods
 grudgefully
 geopolitist
 grace
+gullery
 glucina
 geopotential
 gelosin
@@ -10358,7 +10359,6 @@ gnashing
 galactosamine
 gardenly
 gordiid
-gullery
 grasshook
 gingerwort
 grike
