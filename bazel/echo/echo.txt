@@ -1532,6 +1532,7 @@ eggfruit
 easies
 exhale
 emportment
+eland
 ephydra
 euthanasy
 explained
@@ -8333,7 +8334,6 @@ epitheme
 eucleid
 evangelise
 eternizing
-eland
 eucarpic
 endocyemate
 epithetic
