@@ -27618,7 +27618,6 @@ crisping
 covine
 cymatium
 coving
-carapus
 cointension
 covisit
 charioteership
@@ -29608,6 +29607,7 @@ chronol
 counteraffirm
 cuprum
 communalisation
+carapus
 convincedness
 conoidal
 causers
