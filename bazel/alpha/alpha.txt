@@ -4458,7 +4458,6 @@ abrasive
 alchemist
 afficionado
 advocated
-advocates
 afterspeech
 advocating
 amargoso
@@ -16358,6 +16357,7 @@ antioxidant
 ampholyte
 anxiousness
 amoeboid
+advocates
 antifogmatic
 agalactia
 aob
