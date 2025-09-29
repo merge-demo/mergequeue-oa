@@ -2061,7 +2061,6 @@ aviculariidae
 autogamy
 apama
 azobenzol
-arabinose
 achinese
 amortissement
 anemic
@@ -22554,6 +22553,7 @@ amputees
 apaise
 antispadix
 averruncation
+arabinose
 amblygeusia
 aeroliths
 athogen
