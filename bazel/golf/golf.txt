@@ -1792,6 +1792,7 @@ greenovite
 gavelled
 glossolaly
 gutterblood
+geisothermal
 gelatinotype
 grippelike
 ghyll
@@ -4674,7 +4675,6 @@ giansar
 granges
 gibbsite
 gauping
-geisothermal
 glycerate
 gigged
 galchic
