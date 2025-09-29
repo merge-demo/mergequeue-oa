@@ -3705,6 +3705,7 @@ ghuz
 giant
 griffons
 gasterothecal
+gastaldo
 glinse
 goonie
 graveldiver
@@ -3743,7 +3744,6 @@ gouvernantes
 giarra
 gherao
 giarre
-gastaldo
 gastroelytrotomy
 governing
 geobios

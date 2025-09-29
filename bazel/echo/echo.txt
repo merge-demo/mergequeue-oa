@@ -907,6 +907,7 @@ emperies
 extrastate
 electrostrictive
 eugenist
+epulo
 episedia
 encomiastic
 excommunicators
@@ -8478,7 +8479,6 @@ evolutive
 eupyrene
 empties
 enneatical
-epulo
 ecphoriae
 edulcorator
 eurindic
