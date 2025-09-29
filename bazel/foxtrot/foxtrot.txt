@@ -57,7 +57,6 @@ flams
 frab
 fetwa
 ferns
-flauntier
 forebless
 foresight
 friskily
@@ -5330,6 +5329,7 @@ furciform
 fleabags
 federalization
 fireclay
+flauntier
 fluorites
 feoffee
 fleadock
