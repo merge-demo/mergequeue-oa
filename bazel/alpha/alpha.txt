@@ -6862,7 +6862,6 @@ apasttra
 ajuga
 ajutment
 akal
-akalimba
 akamai
 akan
 akania
@@ -23998,6 +23997,7 @@ arrtez
 autogiros
 alencons
 autoette
+akalimba
 accessories
 azimide
 antigenicity
