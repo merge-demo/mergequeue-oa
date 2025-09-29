@@ -1092,6 +1092,7 @@ guillotining
 gwyniad
 grivet
 granet
+gothonic
 giddier
 gesith
 grotesco
@@ -7920,7 +7921,6 @@ grippy
 glandiform
 grandiosity
 gudok
-gothonic
 ganglionectomy
 globing
 glottologies
