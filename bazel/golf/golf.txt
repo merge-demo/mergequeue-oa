@@ -7934,7 +7934,6 @@ gata
 geed
 glouts
 goodhap
-galleyman
 gabblement
 gipper
 geologized
@@ -9521,6 +9520,7 @@ grumbler
 gleaners
 greenlander
 gadaea
+galleyman
 gastrophthisis
 gastrocentrous
 greets
