@@ -679,7 +679,6 @@ goniotropous
 gratillity
 gynandromorphous
 greeters
-gaspereaus
 grunters
 galoshe
 gimmals
@@ -6407,6 +6406,7 @@ grandeeship
 geneses
 gallivanted
 gouger
+gaspereaus
 guineapig
 geswarp
 golden
