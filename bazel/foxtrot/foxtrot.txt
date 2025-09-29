@@ -706,6 +706,7 @@ forenotion
 farcemeat
 ferromagnetic
 futilitarianism
+foreigner
 fascioloid
 forehard
 fragrancy
@@ -4519,7 +4520,6 @@ favissa
 farmlands
 feer
 forheed
-foreigner
 forslake
 flooded
 fountainhead

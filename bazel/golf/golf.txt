@@ -3247,7 +3247,6 @@ grades
 grayback
 gayatri
 gordiacea
-gluteofemoral
 gutty
 ghawazee
 gerfalcon
@@ -9257,6 +9256,7 @@ gamely
 gemauve
 granitoid
 groenendael
+gluteofemoral
 gecko
 gallstone
 graduale
