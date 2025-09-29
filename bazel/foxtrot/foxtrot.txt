@@ -2310,7 +2310,6 @@ forbysen
 fens
 fluctuates
 fritter
-fensive
 fibres
 firebird
 favoring
@@ -2551,6 +2550,7 @@ fanti
 fimbriatum
 flappy
 filicidal
+fensive
 fluidification
 fetishry
 ferryway
