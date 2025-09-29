@@ -5056,6 +5056,7 @@ glassiness
 glasslikeness
 goosefoots
 garrya
+guardianly
 gilled
 gypper
 granza
@@ -10142,7 +10143,6 @@ gloried
 grulla
 glideness
 gashest
-guardianly
 git
 grabby
 grown
