@@ -1094,7 +1094,6 @@ antilynching
 anagnost
 atonicity
 abusefully
-abusefulness
 abuser
 academes
 aminomyelin
@@ -23945,6 +23944,7 @@ autodial
 autodialed
 azathioprine
 adience
+abusefulness
 apophysitis
 amplify
 autodialing
