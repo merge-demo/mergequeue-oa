@@ -7024,6 +7024,7 @@ ascenders
 alabastrums
 alange
 alack
+athermic
 amole
 abrook
 anadromous
@@ -22500,7 +22501,6 @@ assonances
 abeyances
 antihormone
 athermanous
-athermic
 atherogenesis
 agricole
 atheroma

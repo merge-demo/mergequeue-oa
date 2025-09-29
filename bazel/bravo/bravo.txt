@@ -7251,6 +7251,7 @@ balaenoptera
 bocklogged
 bullidae
 barracan
+bakelite
 baculere
 beslobber
 beethoven
@@ -14881,7 +14882,6 @@ badju
 bura
 beflum
 bronchoscopy
-bakelite
 baldie
 burgus
 begulfing
