@@ -315,7 +315,6 @@ filar
 flexuosity
 fraternation
 feints
-fag
 fostell
 fibrillated
 finochio
@@ -1529,6 +1528,7 @@ flippant
 foodless
 fanfaron
 foulish
+fag
 foreshift
 foetuses
 fauterer
