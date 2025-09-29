@@ -5119,7 +5119,6 @@ beggarer
 buccinatory
 bagpod
 beforeness
-baffled
 becket
 bromoprotein
 billable
@@ -9262,6 +9261,7 @@ bruting
 butterwright
 birched
 batteling
+baffled
 bromoiodism
 boyard
 buttle
