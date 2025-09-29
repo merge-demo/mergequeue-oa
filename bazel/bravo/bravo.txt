@@ -549,6 +549,7 @@ blit
 backwardness
 bootboy
 blastema
+balsamum
 biggishness
 batrachium
 bandboxical
@@ -7897,7 +7898,6 @@ butic
 baseline
 bankrupting
 besmirchment
-balsamum
 biblists
 binocs
 bowlders
