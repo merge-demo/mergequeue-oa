@@ -134,7 +134,6 @@ enderonic
 excellency
 epitomatory
 epoxidize
-evaporativity
 economizes
 extravasating
 enchasten
@@ -12696,6 +12695,7 @@ era
 earcockle
 energizing
 exophasic
+evaporativity
 exalted
 exophthalmia
 embloom
