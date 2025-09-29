@@ -2418,6 +2418,7 @@ gonochoristic
 gomukhi
 glariest
 ganton
+gnathometer
 gyrolith
 gazel
 goaled
@@ -7613,7 +7614,6 @@ graded
 gorgonlike
 gool
 geobotanically
-gnathometer
 guachamaca
 germane
 gyppery
