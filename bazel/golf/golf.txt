@@ -7243,7 +7243,6 @@ gerated
 gastraeadae
 glandular
 gunl
-glazed
 goofing
 gamostelic
 garcon
@@ -7645,6 +7644,7 @@ gypsyesque
 gynostemium
 guildic
 glaringness
+glazed
 getter
 gingles
 gynandrophore
