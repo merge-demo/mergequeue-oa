@@ -2479,6 +2479,7 @@ electroing
 electrokinetic
 eluviate
 ecosphere
+evinces
 epicanthic
 exterminative
 electrokinetics
@@ -3437,7 +3438,6 @@ enginemen
 excusative
 embiid
 epistemologist
-evinces
 eductive
 ethnol
 etiquettes
