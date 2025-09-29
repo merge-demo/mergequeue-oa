@@ -534,7 +534,6 @@ discomforter
 denaturalize
 dopesters
 descended
-delegateship
 disguised
 demicadence
 dup
@@ -16749,6 +16748,7 @@ discophoran
 destigmatize
 dabblers
 dodging
+delegateship
 deeny
 deformedly
 deponer

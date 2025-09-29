@@ -5088,7 +5088,6 @@ fibromyectomy
 frother
 fuss
 flanders
-felter
 forvay
 flarer
 fellatee
@@ -10280,6 +10279,7 @@ frolicsome
 fishful
 frammit
 fibrinolysin
+felter
 fatheadedness
 falernian
 folkmot
