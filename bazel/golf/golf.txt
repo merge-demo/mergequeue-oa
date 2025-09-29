@@ -1336,6 +1336,7 @@ galvanist
 geoside
 glomerulus
 galloner
+gleesome
 gangrenes
 garnisheement
 glorifier
@@ -4179,7 +4180,6 @@ gatchwork
 greying
 ges
 geod
-gleesome
 ganef
 grotesquery
 gulflike
