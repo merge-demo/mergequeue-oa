@@ -4403,7 +4403,6 @@ e
 espacement
 ejaculation
 encaptive
-entomion
 exhilarative
 encarnalised
 encarnalize
@@ -12411,6 +12410,7 @@ eyer
 effude
 epapillate
 elengely
+entomion
 electroimpulse
 ea
 eyestalk
