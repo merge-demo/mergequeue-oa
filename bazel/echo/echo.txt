@@ -2291,7 +2291,6 @@ etnas
 espressos
 exurbias
 eternizes
-endocrania
 edana
 expert
 essene
@@ -4030,6 +4029,7 @@ exterminated
 empiricalness
 epibolism
 engorgement
+endocrania
 esquimau
 expositorily
 enforcement
