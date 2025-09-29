@@ -8694,6 +8694,7 @@ cryst
 chronoscope
 chansonette
 chansonniers
+catoptromancy
 chantey
 counterlighted
 chantepleure
@@ -22143,7 +22144,6 @@ colyone
 conred
 canellaceae
 cloacitis
-catoptromancy
 calcinize
 cosuretyship
 comeddle
