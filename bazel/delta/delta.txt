@@ -1262,6 +1262,7 @@ disserve
 deflating
 datelining
 dengue
+decollating
 datemark
 dentalise
 detache
@@ -9594,7 +9595,6 @@ drunks
 dignotion
 dependants
 dyslexias
-decollating
 digoxins
 daimios
 downloadable
