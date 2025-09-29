@@ -7895,7 +7895,6 @@ bearlike
 biggies
 bibliosoph
 bibliothecarian
-bibliotheque
 bungalows
 batoka
 butic
@@ -13266,6 +13265,7 @@ bossage
 bructeri
 bossdoms
 burghal
+bibliotheque
 boanergean
 bulling
 butchered
