@@ -396,6 +396,7 @@ eyeleting
 extraforaneous
 enleaf
 exalte
+exquisitive
 estrepement
 embouchment
 ensear
@@ -7892,7 +7893,6 @@ econ
 endorsation
 epeirid
 extrabuccal
-exquisitive
 experimentation
 epileny
 endopeptidase
