@@ -3542,7 +3542,6 @@ featherhead
 formant
 frightful
 foulsome
-filamentary
 filament
 flannelleaves
 flagrancy
@@ -9040,6 +9039,7 @@ fared
 faultful
 fightwite
 fowlings
+filamentary
 fluvious
 fountained
 flashguns
