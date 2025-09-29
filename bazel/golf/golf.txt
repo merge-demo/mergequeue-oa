@@ -5193,6 +5193,7 @@ gripsacks
 groundsheet
 gale
 gleamless
+galactosidase
 gleed
 gramophone
 glyptologist
@@ -10288,7 +10289,6 @@ galvanomagnet
 gorges
 galliard
 gulpier
-galactosidase
 girasol
 gault
 granulations
