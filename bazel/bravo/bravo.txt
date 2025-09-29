@@ -9540,7 +9540,6 @@ binary
 butat
 bisectors
 bisectrices
-busybodyness
 bullheadedness
 bisects
 bouvardia
@@ -10797,6 +10796,7 @@ brinkless
 blepharomelasma
 bookkeeper
 blepharoncosis
+busybodyness
 brachyceric
 benzylamine
 bellied
