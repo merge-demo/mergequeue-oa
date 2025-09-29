@@ -9103,7 +9103,6 @@ escrowee
 ephors
 equinoxes
 evasion
-embordered
 erythropsia
 electrograving
 entwist
@@ -12794,6 +12793,7 @@ excitomotor
 embryology
 epicystotomy
 equine
+embordered
 exonerators
 emajagua
 evangelicals
