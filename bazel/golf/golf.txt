@@ -6288,7 +6288,6 @@ geophysics
 gruneritization
 grubstaker
 goblins
-goldenpert
 gebang
 gobo
 gobony
@@ -8822,6 +8821,7 @@ gastness
 gypsiologist
 glaury
 gneisses
+goldenpert
 guardfully
 guanos
 greylag
