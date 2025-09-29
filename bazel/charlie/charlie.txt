@@ -1811,7 +1811,6 @@ champerator
 camarera
 camarin
 caama
-camaron
 costata
 cosmetological
 ceyx
@@ -9805,6 +9804,7 @@ cheliped
 chelys
 cydon
 chellean
+camaron
 counterfoil
 cheloids
 chemotaxonomically
