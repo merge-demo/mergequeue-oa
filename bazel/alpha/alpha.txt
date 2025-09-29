@@ -9610,6 +9610,7 @@ amabel
 amabile
 afterheat
 allegatum
+archconfraternity
 amadan
 asterella
 anticous
@@ -18568,7 +18569,6 @@ archbuilder
 altaite
 archcheater
 archchronicler
-archconfraternity
 agilmente
 archcritic
 amblyopia

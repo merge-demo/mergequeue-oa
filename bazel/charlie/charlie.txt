@@ -8777,7 +8777,6 @@ chapelmaster
 chapelry
 combflower
 cytostome
-chapelries
 cinerins
 cataphoresis
 chapels
@@ -15435,6 +15434,7 @@ clarenceux
 commissionaire
 clares
 contentness
+chapelries
 chilipepper
 claret
 cervantes
