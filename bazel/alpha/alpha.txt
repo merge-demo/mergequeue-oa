@@ -7814,6 +7814,7 @@ anthoclinium
 alawi
 algebraical
 anthonin
+avocat
 agglomerates
 amaranths
 altarpiece
@@ -24768,7 +24769,6 @@ anoxic
 avocado
 adaption
 antisurplician
-avocat
 aud
 avocations
 avocet
