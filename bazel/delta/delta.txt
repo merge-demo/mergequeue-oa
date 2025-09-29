@@ -4783,6 +4783,7 @@ dendrolene
 disputatively
 datatypes
 diphenylacetylene
+doggle
 despatching
 disnaturalize
 dolente
@@ -15133,7 +15134,6 @@ deads
 dianoia
 deprivate
 doggishness
-doggle
 doggo
 distinguisher
 dehors
