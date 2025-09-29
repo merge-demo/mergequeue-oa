@@ -3225,7 +3225,6 @@ esophagospasm
 eelgrasses
 embuia
 elute
-elution
 esthesiometric
 enzymatically
 effuso
@@ -5764,6 +5763,7 @@ edeoscopy
 enceintes
 enneacontahedral
 euchre
+elution
 eternising
 encrinal
 encloser
