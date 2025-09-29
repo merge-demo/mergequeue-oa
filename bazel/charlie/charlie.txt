@@ -5054,7 +5054,6 @@ cerianthus
 casate
 closemouthed
 cuber
-cellepora
 canaliform
 credensive
 clons
@@ -6945,6 +6944,7 @@ cementoblast
 cementoma
 chord
 commendation
+cellepora
 creamed
 cemetery
 copesettic
