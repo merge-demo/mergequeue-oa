@@ -3920,6 +3920,7 @@ corrugating
 carburometer
 chinee
 carcajou
+crosscutting
 chopped
 clathrarian
 carcajous
@@ -29848,7 +29849,6 @@ crosscuts
 cytochemistry
 coling
 centrifuges
-crosscutting
 crosse
 crossed
 crossers

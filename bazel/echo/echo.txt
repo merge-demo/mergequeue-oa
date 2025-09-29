@@ -724,6 +724,7 @@ ethide
 enterocoele
 enharmonical
 elucidated
+epitaphs
 edifice
 extramolecular
 ensamples
@@ -8269,7 +8270,6 @@ epitaphist
 euharmonic
 ejection
 expensively
-epitaphs
 ectoplasmic
 ellagate
 endball
