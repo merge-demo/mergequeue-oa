@@ -2853,7 +2853,6 @@ galvvanoscopy
 gummosity
 gentlemanism
 glyptal
-gemsbucks
 golkakra
 gynaeceum
 groggier
@@ -8445,6 +8444,7 @@ geomorphological
 geotectonically
 gravelish
 guardian
+gemsbucks
 geognostical
 gulpers
 genie
