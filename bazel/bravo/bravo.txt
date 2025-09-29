@@ -3562,7 +3562,6 @@ batholithic
 batholiths
 balconet
 beneficently
-barkentine
 bathometer
 brutalizing
 bonagh
@@ -5101,6 +5100,7 @@ brahminist
 backhouse
 bogbean
 becowards
+barkentine
 batoid
 bedless
 bloodthirstiness
