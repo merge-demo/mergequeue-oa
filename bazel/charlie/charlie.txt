@@ -4021,7 +4021,6 @@ camouflagic
 carbosilicate
 cestui
 cleronomy
-cardiagra
 chanceries
 camomiles
 cardiagram
@@ -24886,6 +24885,7 @@ corallic
 corallidae
 corallidomous
 chestful
+cardiagra
 coralliform
 cobreathe
 ciderist
