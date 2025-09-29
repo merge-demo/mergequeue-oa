@@ -658,6 +658,7 @@ extimulate
 epigonos
 enshrouding
 extracondensed
+elaidinic
 emaculate
 eclipse
 exudative
@@ -8144,7 +8145,6 @@ exedra
 enliveningly
 expulsions
 entosphere
-elaidinic
 estacade
 episcopature
 eczemas
