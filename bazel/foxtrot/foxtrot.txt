@@ -8525,7 +8525,6 @@ futuristically
 foreseeing
 foremisgiving
 fard
-fulgid
 farctate
 forks
 flacourtia
@@ -10440,6 +10439,7 @@ foreadvice
 frontotemporal
 forestian
 frontsman
+fulgid
 filicoid
 fluxional
 frontspieces
