@@ -1385,7 +1385,6 @@ embellishes
 emissions
 encycl
 expungeable
-ectogenic
 endomysial
 engrailment
 earl
@@ -12764,6 +12763,7 @@ enterosyphilis
 exortion
 endodontia
 exosmose
+ectogenic
 exosmotic
 explicative
 erotize
