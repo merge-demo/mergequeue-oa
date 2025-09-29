@@ -2986,7 +2986,6 @@ glottidean
 goldenknop
 gorgoniacean
 gaps
-goatherdess
 groutiest
 guildsmen
 geomancy
@@ -4335,6 +4334,7 @@ golfdom
 gravitated
 glittersome
 gateless
+goatherdess
 ganancial
 gigerium
 glycogeny

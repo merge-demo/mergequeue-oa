@@ -10697,7 +10697,6 @@ antirent
 apparentement
 activizing
 acierage
-assized
 acarpous
 aits
 ammodytidae
@@ -24446,6 +24445,7 @@ autovalve
 autovivisection
 autoxidation
 alcine
+assized
 aecidiospore
 autoxidator
 archaeologically
