@@ -609,7 +609,6 @@ foreknows
 forpet
 fuchsone
 fossilisation
-forints
 feasted
 fade
 finders
@@ -7421,6 +7420,7 @@ firefall
 fartlek
 fluorimeter
 floperoo
+forints
 firstship
 forcibility
 forcibleness
