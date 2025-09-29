@@ -4121,6 +4121,7 @@ elaeosia
 engraphy
 epiphora
 eyeroot
+entertains
 escaloped
 enacted
 etuve
@@ -9273,7 +9274,6 @@ exogamous
 expositional
 error
 ebricty
-entertains
 euchologia
 eugeosynclinal
 epitaphize
