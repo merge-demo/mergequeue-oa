@@ -4516,6 +4516,7 @@ graminiform
 globule
 gerbille
 gigantomachia
+gemmaceous
 gmelinite
 gingering
 gyrate
@@ -10464,7 +10465,6 @@ gastroadenitis
 gusset
 guimpe
 guanophore
-gemmaceous
 glossarially
 groupageness
 goatbrush
