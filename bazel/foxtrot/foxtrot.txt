@@ -2038,7 +2038,6 @@ faunlike
 fogbows
 fascicule
 flaunting
-forfouchten
 feisty
 fairyisms
 farl
@@ -4774,6 +4773,7 @@ fellowshipped
 filigera
 flagelliform
 fever
+forfouchten
 fohns
 folie
 flagellula
