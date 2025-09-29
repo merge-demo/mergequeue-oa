@@ -10455,7 +10455,6 @@ diphtheritically
 diphtherotoxin
 diphthongally
 dipneust
-dismortgaged
 dispost
 degeneroos
 diphthongation
@@ -13333,6 +13332,7 @@ disputatiously
 disputatiousness
 dewatered
 disputeful
+dismortgaged
 dacrydium
 diminutional
 dorsally
