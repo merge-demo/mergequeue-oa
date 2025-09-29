@@ -8887,7 +8887,6 @@ ambulomancy
 andrite
 allotriophagia
 allotropic
-architects
 ampherotokous
 ailanthus
 aloyau
@@ -20725,6 +20724,7 @@ aruspex
 aborting
 advisedly
 arteriography
+architects
 abovedeck
 arvejon
 arverni
