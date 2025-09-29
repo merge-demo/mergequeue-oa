@@ -6619,7 +6619,6 @@ blitter
 beeishness
 brontosaurus
 bathe
-bermensch
 bermes
 battens
 benedictive
@@ -8091,6 +8090,7 @@ brattiness
 battiks
 bookkeepers
 beleaguering
+bermensch
 becarpet
 benefices
 barbadian
