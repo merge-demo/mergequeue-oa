@@ -398,7 +398,6 @@ blackfoot
 baseballdom
 bullocky
 beri
-ballium
 bisection
 bermudite
 bewailed
@@ -7062,6 +7061,7 @@ bachelorism
 bitterishness
 bloodied
 barefoot
+ballium
 ballyrags
 boxiana
 berhymes
