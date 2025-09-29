@@ -1683,7 +1683,6 @@ fragmentation
 folioing
 fleshless
 festa
-finishing
 formularies
 falsies
 felonous
@@ -5362,6 +5361,7 @@ fruiteries
 ferulaic
 foldboater
 foreclosed
+finishing
 faconde
 floccillation
 ferrocyanide
