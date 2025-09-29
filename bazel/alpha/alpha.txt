@@ -3322,7 +3322,6 @@ attapulgite
 anamite
 afterwort
 additions
-anthers
 absmho
 aerograph
 additive
@@ -14364,6 +14363,7 @@ antiliberally
 amphrysian
 artifactual
 anthropomorphidae
+anthers
 anthropomorphisation
 attempters
 anthropomorphised

@@ -5327,6 +5327,7 @@ endosteomata
 enwingly
 erpetology
 excarnate
+excystment
 enmagazine
 epanody
 economiser
@@ -11932,7 +11933,6 @@ enlisting
 elsehow
 epistemophiliac
 excises
-excystment
 encinal
 emirs
 ensilages
