@@ -2921,7 +2921,6 @@ gnat
 gorsy
 glideless
 gynaecocracies
-galactogogue
 gunfighters
 geocoronium
 genecological
@@ -7632,6 +7631,7 @@ gladly
 gardebras
 glozed
 gastropodan
+galactogogue
 guardhouses
 gradiometric
 gaup
