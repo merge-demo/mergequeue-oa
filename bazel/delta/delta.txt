@@ -6350,6 +6350,7 @@ dermis
 dermises
 diminuendo
 drawbores
+dunches
 dobla
 dermoblast
 dejectory
@@ -12701,7 +12702,6 @@ disliker
 dubhgall
 dimeter
 depurate
-dunches
 drink
 dacryoadenitis
 dialysing
