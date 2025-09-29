@@ -322,6 +322,7 @@ finochio
 flusker
 futureness
 fagaceae
+fuzzball
 firesafe
 flamingo
 fittage
@@ -5718,7 +5719,6 @@ ferule
 fingerstone
 fleuronnee
 fungous
-fuzzball
 frontlessly
 favorers
 fathoms
