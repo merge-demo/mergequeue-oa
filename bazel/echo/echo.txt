@@ -2657,7 +2657,6 @@ entermise
 epencephal
 exciples
 embiidina
-electrostriction
 epizootiologic
 ejurate
 epitomizing
@@ -4109,6 +4108,7 @@ etymologically
 endurability
 entombments
 eniac
+electrostriction
 emplunge
 eccentring
 empodia
