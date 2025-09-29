@@ -14647,7 +14647,6 @@ croceins
 cystogenesis
 corker
 cogswellia
-cystogram
 cystoid
 cystoidea
 cystoidean
@@ -18321,6 +18320,7 @@ coffer
 corridor
 cofferdam
 claudetite
+cystogram
 chaetophorales
 coombe
 catechetical

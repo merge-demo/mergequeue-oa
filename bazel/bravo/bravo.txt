@@ -1807,7 +1807,6 @@ bancha
 bonhomie
 beslime
 bialystoker
-bayed
 bandaging
 bilamellated
 bowlin
@@ -5285,6 +5284,7 @@ burdalone
 brahmaic
 biannulate
 bigeneric
+bayed
 becurry
 blueheads
 barbacoan
