@@ -6132,7 +6132,6 @@ enlodgement
 enlumine
 entheos
 evelyn
-ergoplasm
 excommunicant
 eschscholtzia
 entozoans
@@ -7377,6 +7376,7 @@ enunciate
 embowerment
 ephesian
 ersatzes
+ergoplasm
 euclases
 eucyclic
 epeirogenesis
