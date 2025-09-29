@@ -13707,7 +13707,6 @@ altiplanicie
 algarrobin
 anoxemias
 ashrams
-allophane
 androgenetic
 adhara
 avicularium
@@ -14205,6 +14204,7 @@ apometabolism
 attractancy
 anthophora
 ancyloceras
+allophane
 adjutancies
 awful
 acolyte
