@@ -27320,7 +27320,6 @@ clerestoried
 coupure
 counterscarp
 courage
-courageous
 catholics
 courager
 cherubs
@@ -29660,6 +29659,7 @@ cromer
 corelational
 cocovenantor
 cromlech
+courageous
 cracowe
 cromme
 calutron
