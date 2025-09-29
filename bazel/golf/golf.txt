@@ -1289,7 +1289,6 @@ guttles
 grump
 gerendum
 goldfields
-government
 gulliver
 geodiatropism
 garganey
@@ -8262,6 +8261,7 @@ guerdons
 gushingly
 grunzie
 grucche
+government
 greyness
 guha
 gaingiving
