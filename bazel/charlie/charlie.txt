@@ -2569,7 +2569,6 @@ cecidiology
 committeewoman
 chinol
 castellanship
-candlewaster
 cambial
 crocoisite
 convertor
@@ -21321,6 +21320,7 @@ crapefish
 concertini
 concertinist
 closeups
+candlewaster
 claustrophobic
 cordiform
 counterfeited
