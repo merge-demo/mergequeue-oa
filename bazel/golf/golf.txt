@@ -7991,6 +7991,7 @@ galempung
 galleries
 gravat
 gastrulas
+glycidic
 gunzian
 gearman
 gleeking
@@ -9780,7 +9781,6 @@ grutch
 galeche
 gumfield
 gitano
-glycidic
 gonothecal
 gobstick
 gewgaw
