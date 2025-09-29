@@ -842,7 +842,6 @@ filigreed
 fannia
 forbecause
 fanon
-fronted
 fantailed
 fingermark
 fermi
@@ -10521,6 +10520,7 @@ flite
 foldstool
 freshet
 floristry
+fronted
 firemen
 frowl
 fierily
