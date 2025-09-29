@@ -662,7 +662,6 @@ barcas
 brockets
 baculoid
 beek
-baculus
 badaga
 borsches
 bumbarge
@@ -7787,6 +7786,7 @@ bewail
 bronzy
 bouet
 bursautee
+baculus
 birdbath
 bibble
 bibbler

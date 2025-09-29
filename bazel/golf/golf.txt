@@ -5006,7 +5006,6 @@ genesiology
 garavance
 glowed
 gelt
-glaum
 gilliflirt
 glariness
 gregarinae
@@ -8453,6 +8452,7 @@ gulpers
 genie
 gabling
 ginglymus
+glaum
 grouchingly
 grownups
 geomedical
