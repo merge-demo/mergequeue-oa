@@ -10167,7 +10167,6 @@ deprecated
 dinophilea
 distillation
 drissel
-desmolase
 dinoflagellida
 dinging
 dingled
@@ -15271,6 +15270,7 @@ directory
 dolefully
 detainment
 drabbest
+desmolase
 drawlier
 dolefulness
 diurna
