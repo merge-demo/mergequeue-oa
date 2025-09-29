@@ -4950,6 +4950,7 @@ foreappoint
 fourflushers
 fedity
 flameouts
+flong
 fictileness
 forbiddingness
 farmhold
@@ -4961,7 +4962,6 @@ fan
 facepiece
 floorages
 flamingant
-flong
 foremarch
 flaminical
 fenks
