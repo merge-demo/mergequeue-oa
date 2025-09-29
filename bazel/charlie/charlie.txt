@@ -6709,7 +6709,6 @@ celebrant
 celebrants
 celebrate
 celebratedly
-clammed
 celebrater
 celebrates
 celebrationis
@@ -16202,6 +16201,7 @@ collodiochloride
 checkroom
 cavus
 clinchers
+clammed
 clinches
 cenanthous
 charmingly
