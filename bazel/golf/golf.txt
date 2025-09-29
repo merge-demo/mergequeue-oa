@@ -5056,7 +5056,6 @@ guddler
 grabbiest
 glassines
 galloping
-glassiness
 glasslikeness
 goosefoots
 garrya
@@ -6583,6 +6582,7 @@ granivorous
 glegnesses
 gonaduct
 gena
+glassiness
 guiling
 gonalgia
 gradatively
