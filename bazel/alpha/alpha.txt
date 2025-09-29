@@ -12049,7 +12049,6 @@ actinodermatitis
 anchoress
 anchoret
 anchorets
-acquittals
 amblyopsis
 angiometer
 altruism
@@ -22236,6 +22235,7 @@ aspidiotus
 acromegalic
 ailurophobic
 assonia
+acquittals
 atechny
 astrolatry
 astrolithology
