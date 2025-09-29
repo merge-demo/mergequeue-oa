@@ -1066,7 +1066,6 @@ groundway
 gypsums
 glares
 guarding
-gainfully
 graphicness
 gowdy
 goularo
@@ -9727,6 +9726,7 @@ genuflector
 gambir
 generalists
 gooder
+gainfully
 gordiidae
 gablewise
 gambes
