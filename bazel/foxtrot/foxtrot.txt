@@ -3421,7 +3421,6 @@ fenestella
 forestate
 fielders
 forset
-furcation
 friezes
 favellilidia
 frankforter
@@ -8488,6 +8487,7 @@ frumpishness
 fiuman
 formyls
 fanaticising
+furcation
 forbearance
 forminate
 forming
