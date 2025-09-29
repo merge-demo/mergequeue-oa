@@ -3823,6 +3823,7 @@ diactinic
 diremption
 dejects
 dentalised
+detorsion
 disappointingly
 didactylism
 demagnetizable
@@ -7377,7 +7378,6 @@ devorative
 daffadilly
 determined
 diphenylenimide
-detorsion
 deashed
 disagreed
 determiner
