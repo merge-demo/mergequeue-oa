@@ -949,6 +949,7 @@ basiophthalmite
 bahaist
 baccalaureus
 bahamian
+barwin
 bahamians
 boated
 blitheness
@@ -13680,7 +13681,6 @@ baklawa
 blenchers
 brashly
 bridged
-barwin
 bullcart
 bindery
 besmottered
