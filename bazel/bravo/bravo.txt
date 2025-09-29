@@ -2938,7 +2938,6 @@ bookable
 barricaders
 boondoggled
 breathing
-biron
 bijection
 boloed
 bailable
@@ -9081,6 +9080,7 @@ bobbers
 bubbybush
 buckone
 banderlog
+biron
 bianchi
 beshag
 badgir
