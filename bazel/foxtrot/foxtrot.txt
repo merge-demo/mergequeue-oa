@@ -5905,6 +5905,7 @@ foveola
 freyr
 factitude
 familic
+fortuneless
 frats
 fructiferous
 flannelflower
@@ -7158,7 +7159,6 @@ fuminess
 fraileros
 fulvescent
 foothot
-fortuneless
 frowstily
 faraon
 fele
