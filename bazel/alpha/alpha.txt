@@ -9001,6 +9001,7 @@ anemometric
 alluvious
 assortative
 allwhere
+antiphonary
 accipitres
 applejack
 allwork
@@ -23785,7 +23786,6 @@ abactinally
 autosomes
 authoritarian
 authoritarians
-antiphonary
 awarn
 authoritative
 announceable
