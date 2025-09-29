@@ -1094,6 +1094,7 @@ edificed
 enlightens
 edified
 essayish
+equisonance
 edifying
 ectoblastic
 egolatrous
@@ -9736,7 +9737,6 @@ entotrophi
 entitles
 eradiates
 enodal
-equisonance
 everyplace
 eddo
 emerick

@@ -4583,7 +4583,6 @@ galbulae
 galipoipin
 gamboge
 gnaphalium
-gymnanthes
 gluttonism
 gyrosyn
 gnathobase
@@ -10694,6 +10693,7 @@ grabs
 goaling
 glinted
 greedy
+gymnanthes
 guaiacolize
 gurshes
 guardhouse
