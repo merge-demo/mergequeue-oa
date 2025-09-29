@@ -19572,6 +19572,7 @@ alertness
 aflower
 aristeia
 aristida
+avshar
 aristides
 aristocracy
 abstainment
@@ -24837,7 +24838,6 @@ avowedly
 apotheosis
 amphithect
 aeronautic
-avshar
 autocoherer
 astrict
 aeolina
