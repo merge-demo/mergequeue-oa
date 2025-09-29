@@ -3328,7 +3328,6 @@ entrep
 eulogic
 electroreceptive
 expresses
-environed
 elegies
 encheer
 emasculatory
@@ -12314,6 +12313,7 @@ emanators
 exerted
 encumbrous
 excepable
+environed
 eaning
 eviscerations
 evectant
