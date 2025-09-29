@@ -6638,6 +6638,7 @@ ecstatical
 excelsitude
 etym
 evictee
+exequatur
 emetocathartic
 elevation
 eched
@@ -10812,7 +10813,6 @@ estivates
 euphemizer
 emanation
 ethicalism
-exequatur
 eighteenth
 exoplasm
 eatableness
