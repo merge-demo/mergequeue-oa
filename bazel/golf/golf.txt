@@ -244,6 +244,7 @@ gestatorium
 germanomaniac
 golpe
 grutching
+germing
 gulaman
 gaspereau
 gaiter
@@ -484,7 +485,6 @@ garroting
 gourdes
 galericulate
 gynandromorphy
-germing
 gess
 gadding
 gasifiers
