@@ -12859,6 +12859,7 @@ disciplinarity
 dacoits
 demerited
 daren
+deviating
 dismissal
 dismissals
 distemperate
@@ -14821,7 +14822,6 @@ dipicrylamin
 docket
 devouring
 doggie
-deviating
 dogbolt
 dodd
 docketing
