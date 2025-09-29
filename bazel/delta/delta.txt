@@ -1220,7 +1220,6 @@ diaphragmal
 dastardly
 demoiselles
 dunts
-datagram
 datagrams
 degging
 dancettee
@@ -16154,6 +16153,7 @@ dematerialising
 dolichosaurus
 dimpliest
 doughbird
+datagram
 dartoid
 desperately
 disorderedly
