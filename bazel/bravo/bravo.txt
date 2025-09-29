@@ -5380,6 +5380,7 @@ behaver
 behaving
 beanshooter
 britishly
+boomerang
 bathylimnetic
 bentlet
 bars
@@ -10014,7 +10015,6 @@ byzants
 bariolage
 bronzify
 bungarus
-boomerang
 burnoused
 bizarreness
 burys
