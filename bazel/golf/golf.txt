@@ -3973,7 +3973,6 @@ galvanograph
 goric
 gteau
 geared
-gilbertian
 girlishness
 guttula
 gildable
@@ -8372,6 +8371,7 @@ guaco
 gelsemium
 grasswidow
 gilten
+gilbertian
 ghetchoo
 girondism
 ganderteeth
