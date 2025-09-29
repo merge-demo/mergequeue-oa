@@ -5096,6 +5096,7 @@ beflour
 brahminist
 backhouse
 bogbean
+becowards
 batoid
 bedless
 bloodthirstiness
@@ -8569,7 +8570,6 @@ breech
 belatedly
 beeswinged
 barleducs
-becowards
 billiards
 billyboy
 bivalved
