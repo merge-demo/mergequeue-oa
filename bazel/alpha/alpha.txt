@@ -13697,7 +13697,6 @@ anour
 altropathy
 asher
 anovesical
-apidae
 aslake
 anoxemia
 antistrophe
@@ -20918,6 +20917,7 @@ arraignment
 asclepiadean
 aff
 asclepiadic
+apidae
 autosender
 asclepian
 asclepidin
