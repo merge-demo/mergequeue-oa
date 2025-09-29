@@ -11182,6 +11182,7 @@ apostolicism
 amphiprostylar
 antiusurious
 andabatarian
+apotelesmatic
 amdahl
 amidoazobenzene
 aminoformic
@@ -23926,7 +23927,6 @@ artiness
 ablations
 autocracy
 autocracies
-apotelesmatic
 aesthetical
 autocraticalness
 autocratrix

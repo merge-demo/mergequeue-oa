@@ -1001,6 +1001,7 @@ explosibility
 encapsules
 euthanasic
 enterocinetic
+ethize
 epoxide
 endearments
 equisetales
@@ -13230,7 +13231,6 @@ explat
 empurples
 exertive
 endemical
-ethize
 engram
 explement
 envine

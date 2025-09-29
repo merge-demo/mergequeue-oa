@@ -73,6 +73,7 @@ cephaeline
 carnegie
 cabbie
 conglutinative
+certes
 crenelate
 cabbies
 cabble
@@ -15064,7 +15065,6 @@ chrysophilist
 choanoid
 countercondemnation
 cipollino
-certes
 crup
 compunctive
 circumtropical
