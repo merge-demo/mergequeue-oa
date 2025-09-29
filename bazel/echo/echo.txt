@@ -980,7 +980,6 @@ edits
 enterococcus
 endosporium
 eastwards
-esoterics
 exhumes
 entera
 expanse
@@ -1118,6 +1117,7 @@ electrotypes
 epicaridea
 edith
 epitrichial
+esoterics
 exsanguinated
 encatarrhaphy
 ejectee
