@@ -6638,7 +6638,6 @@ corticiform
 cloisterless
 cherte
 cedrus
-cathedrallike
 crioceris
 cedula
 curvilineal
@@ -8716,6 +8715,7 @@ canoeload
 connubially
 chantingly
 chantment
+cathedrallike
 carman
 comps
 commonest
