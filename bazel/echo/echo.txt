@@ -4507,6 +4507,7 @@ emancipate
 enactive
 emerita
 ephorate
+emptysis
 encephalopathia
 encephalophyma
 ethynylation
@@ -11848,7 +11849,6 @@ embowing
 enigmatic
 excuseful
 ergonomically
-emptysis
 emptying
 excellence
 euphonizing
