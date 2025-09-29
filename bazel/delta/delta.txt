@@ -882,7 +882,6 @@ dipneumonous
 dannebrog
 diactinism
 deuteronomistic
-decumana
 dibromobenzene
 diagnostication
 dori
@@ -1478,6 +1477,7 @@ daze
 derotrematous
 discerptibility
 doucine
+decumana
 deambulation
 dazed
 deuteroplasm
