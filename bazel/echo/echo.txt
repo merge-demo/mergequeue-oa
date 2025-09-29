@@ -758,7 +758,6 @@ ecaudate
 echinocaris
 evangelism
 extorsive
-enabling
 embryoctony
 equilibrist
 easternizing
@@ -6235,6 +6234,7 @@ eardrops
 exoculating
 endamaged
 enterococci
+enabling
 eidology
 enplane
 electromotor
