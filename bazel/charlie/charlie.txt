@@ -7612,7 +7612,6 @@ chih
 cerebroparietal
 coassuming
 cannibalish
-cerebropedal
 concentre
 coppy
 calade
@@ -26874,6 +26873,7 @@ counterideal
 circumambience
 counterimagination
 counterimpulse
+cerebropedal
 cyclarthrodial
 counterindented
 counterindication
