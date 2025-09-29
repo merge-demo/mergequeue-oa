@@ -2406,6 +2406,7 @@ alcoholizable
 anachronize
 antireduction
 ampyxes
+adenomyoma
 acocotl
 acoela
 accordionist
@@ -3496,7 +3497,6 @@ adenologaditis
 airmonger
 adenological
 adenomyofibroma
-adenomyoma
 adenomyxosarcoma
 adenoneural
 alkalimetrically
