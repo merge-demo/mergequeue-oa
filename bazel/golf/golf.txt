@@ -3744,6 +3744,7 @@ gastroelytrotomy
 governing
 geobios
 gallantry
+gainings
 gastriloquist
 gibber
 gaslightness
@@ -10065,7 +10066,6 @@ gudgeon
 grobianism
 gauntest
 graecize
-gainings
 gramophonically
 gymnoglossate
 guavina
