@@ -13436,6 +13436,7 @@ exencephalous
 endocranial
 euprepia
 echinosphaeritidae
+endlong
 expropriable
 endome
 expropriate
@@ -14192,7 +14193,6 @@ enqueues
 eupanorthus
 exurbs
 ectosome
-endlong
 equidistance
 exportations
 exurge
