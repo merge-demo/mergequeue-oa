@@ -3959,7 +3959,6 @@ blinky
 bugbeardom
 berchta
 bounteousness
-beaconless
 bancales
 bicycles
 buoyancy
@@ -8543,6 +8542,7 @@ billeter
 bilabe
 boweries
 bankrider
+beaconless
 bastinading
 billety
 billets

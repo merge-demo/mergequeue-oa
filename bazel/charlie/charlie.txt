@@ -13453,7 +13453,6 @@ craspedum
 calcomp
 caudatum
 casting
-choloepus
 cautions
 consubstantialism
 cygnid
@@ -22494,6 +22493,7 @@ conimene
 counterpointe
 cottonian
 craniol
+choloepus
 campbell
 cosmopolitic
 calends
