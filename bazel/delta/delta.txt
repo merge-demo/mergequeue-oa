@@ -15750,6 +15750,7 @@ doorposts
 dopy
 dopier
 discoblastic
+dishmaking
 docile
 dunce
 despondency
@@ -18634,7 +18635,6 @@ digitus
 dusun
 dollarwise
 desightment
-dishmaking
 dutchy
 dutching
 dutchmen
