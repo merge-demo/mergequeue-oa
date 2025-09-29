@@ -148,7 +148,6 @@ earthgall
 episcopizing
 entrept
 empight
-expurgations
 etymons
 examining
 enchylema
@@ -4991,6 +4990,7 @@ executional
 escalop
 encapsule
 enfoncee
+expurgations
 encamp
 erogeneity
 eggplants
