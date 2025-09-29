@@ -3701,6 +3701,7 @@ fairstead
 folder
 frownless
 fiercen
+fanjets
 flavorlessness
 featherers
 frail
@@ -5483,7 +5484,6 @@ ferally
 fleshing
 fettuccine
 formatters
-fanjets
 fleshliest
 fiddlies
 faroelite
