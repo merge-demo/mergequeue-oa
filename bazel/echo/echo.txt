@@ -320,7 +320,6 @@ esotericism
 extrema
 ereptic
 eirenarch
-excitement
 ependymal
 ethmopresphenoidal
 elegizing
@@ -11770,6 +11769,7 @@ exasperater
 entomolite
 edematous
 engrid
+excitement
 ewerer
 experimented
 eagerest
