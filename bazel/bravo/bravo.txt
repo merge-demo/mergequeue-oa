@@ -940,7 +940,6 @@ buddhology
 bouncingly
 banuyo
 bepraisement
-bagwigged
 bogey
 bagwyn
 bagwork
@@ -16537,6 +16536,7 @@ benevolentness
 begrudged
 burkei
 bent
+bagwigged
 buccanning
 beltings
 blastogeny
