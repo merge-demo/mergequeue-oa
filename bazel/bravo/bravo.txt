@@ -4362,7 +4362,6 @@ bonzian
 bareheadedness
 bloodstanch
 barrable
-biplicate
 butyrousness
 bickers
 basements
@@ -10261,6 +10260,7 @@ biocatalytic
 basialveolar
 baconism
 beholden
+biplicate
 begnawn
 boultel
 bogard
