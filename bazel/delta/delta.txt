@@ -5890,7 +5890,6 @@ dataries
 dags
 dyophysitical
 dentaries
-doublers
 dermatocoptic
 devotary
 deprecating
@@ -12779,6 +12778,7 @@ dandlingly
 disimitate
 desirously
 deforcement
+doublers
 demode
 debouch
 deviators
