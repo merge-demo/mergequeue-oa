@@ -1707,6 +1707,7 @@ dismissive
 dripstone
 dottard
 dendrobatinae
+depravers
 dearsenicator
 dobl
 dearsenicize
@@ -2646,7 +2647,6 @@ decompoundable
 decompoundly
 decompress
 decompresses
-depravers
 demiplacate
 decompressive
 dogies
