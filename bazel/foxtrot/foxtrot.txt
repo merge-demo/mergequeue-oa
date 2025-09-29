@@ -4755,7 +4755,6 @@ follies
 flagellated
 flagellations
 fieldstrip
-ferrament
 footwalls
 feif
 filipino
@@ -9334,6 +9333,7 @@ ferromagnesian
 frangulic
 flichter
 fishless
+ferrament
 facelessness
 fetichistic
 felinities
