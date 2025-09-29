@@ -18281,7 +18281,6 @@ actions
 awunctive
 antistrophic
 araucarioxylon
-arawa
 arhythmia
 ankh
 anthracomancy
@@ -24332,6 +24331,7 @@ aediles
 acetylcholinic
 autoscope
 autoscopic
+arawa
 atrabiliar
 agathis
 antivivisection
