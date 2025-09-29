@@ -6321,7 +6321,6 @@ ensanguine
 eloquent
 evisite
 enlargingly
-emporium
 ergotin
 eschar
 euchred
@@ -8693,6 +8692,7 @@ escopet
 eked
 epidendral
 equisetaceous
+emporium
 epicondylar
 excelsin
 endothelia
