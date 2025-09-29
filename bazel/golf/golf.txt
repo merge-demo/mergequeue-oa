@@ -741,6 +741,7 @@ gnawer
 greenshank
 gasted
 galvanology
+glabellae
 geomechanics
 gombeen
 goumi
@@ -3702,7 +3703,6 @@ graduations
 gurdy
 ghuz
 giant
-glabellae
 griffons
 gasterothecal
 gallein
