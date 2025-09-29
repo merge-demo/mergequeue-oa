@@ -8603,7 +8603,6 @@ gapers
 gavelet
 gisel
 greaved
-garlopa
 galvaniser
 grossulaceous
 gigartinales
@@ -9446,6 +9445,7 @@ griffonne
 gabled
 genitalial
 gladiate
+garlopa
 gramp
 greekery
 glossy
