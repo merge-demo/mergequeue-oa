@@ -1651,7 +1651,6 @@ fortuitousness
 furbelowed
 focally
 fice
-feaberry
 ferrandin
 forethoughtfulness
 firoloida
@@ -5022,6 +5021,7 @@ flaneur
 functioned
 foremartyr
 fiddlewood
+feaberry
 filet
 fluctuable
 frowsier
