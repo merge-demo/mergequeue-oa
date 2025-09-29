@@ -8263,6 +8263,7 @@ apathistical
 alivincular
 alizarate
 anesthesiant
+ant
 afterloss
 anthrathiophene
 antilipoid
@@ -13753,7 +13754,6 @@ amish
 apophthegmatist
 amorously
 abstrusely
-ant
 ahong
 averageness
 antaean
