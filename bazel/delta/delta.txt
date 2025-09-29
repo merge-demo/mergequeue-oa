@@ -2143,7 +2143,6 @@ diagnostics
 dolomite
 despoilment
 dissyllabize
-decamethonium
 dominator
 decancellated
 dermatalgia
@@ -18101,6 +18100,7 @@ deglaze
 degreeing
 delusional
 derailments
+decamethonium
 drunkelew
 deflexing
 demihearse
