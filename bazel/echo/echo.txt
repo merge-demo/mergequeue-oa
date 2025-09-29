@@ -8329,7 +8329,6 @@ epitheme
 eucleid
 evangelise
 eternizing
-eucarpic
 endocyemate
 epithetic
 effortlessness
@@ -8794,6 +8793,7 @@ eldmother
 equestrial
 elide
 executory
+eucarpic
 ensellure
 eight
 erasmus
