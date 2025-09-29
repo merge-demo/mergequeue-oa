@@ -5011,6 +5011,7 @@ elapsing
 emplace
 elaeomargaric
 endite
+exceptant
 eclairs
 expositoriness
 econometer
@@ -8547,7 +8548,6 @@ excessmen
 ectomeric
 equestrian
 epigeous
-exceptant
 eskimauan
 extraparenchymal
 equiaxed
