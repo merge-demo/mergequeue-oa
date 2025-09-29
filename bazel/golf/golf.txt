@@ -379,6 +379,7 @@ glumpily
 goatskins
 grandmamma
 guisian
+gasteromycetes
 gps
 galant
 galanthus
@@ -8033,7 +8034,6 @@ gratulating
 gads
 gyve
 glink
-gasteromycetes
 grievingly
 groten
 grantees
