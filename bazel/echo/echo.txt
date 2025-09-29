@@ -4894,7 +4894,6 @@ esteemable
 encumbrance
 extrabureau
 english
-evolves
 experientialist
 ephyrula
 eyednesses
@@ -7658,6 +7657,7 @@ esere
 eidouranion
 enterogastritis
 eleutheropetalous
+evolves
 epicotyls
 endoderms
 erasmian
