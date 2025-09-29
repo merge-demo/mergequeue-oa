@@ -3119,6 +3119,7 @@ acupuncturist
 acus
 army
 azimin
+avenge
 ambassadeur
 acutance
 acutances
@@ -24586,7 +24587,6 @@ avenant
 acenaphthylene
 apodeipna
 ailie
-avenge
 alviducous
 actinomycin
 achromatic

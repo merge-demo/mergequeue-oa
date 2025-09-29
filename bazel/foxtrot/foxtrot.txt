@@ -2521,7 +2521,6 @@ foulmouth
 formaldehyde
 feverlike
 frondescent
-ferrelling
 fluorine
 fiatconfirmatio
 fanam
@@ -2679,6 +2678,7 @@ fissipedate
 frogeater
 foundational
 filaze
+ferrelling
 fawner
 frizziness
 fervence
