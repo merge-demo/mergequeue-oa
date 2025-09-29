@@ -6064,6 +6064,7 @@ dulcarnon
 dicliny
 dynamogenously
 dehonestate
+diedral
 depuratory
 depure
 deflocculator
@@ -13604,7 +13605,6 @@ diminishment
 dissimilars
 dorize
 dequantitate
-diedral
 dissimilate
 diduction
 disacquaintance
