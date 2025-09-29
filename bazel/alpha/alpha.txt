@@ -3670,7 +3670,6 @@ amiray
 arcticologist
 acaridea
 adiathetic
-adiating
 aiguelle
 adiation
 adib
@@ -14814,6 +14813,7 @@ antiaristocracy
 arthropterous
 annulled
 antilogy
+adiating
 abwab
 asellidae
 androtauric
