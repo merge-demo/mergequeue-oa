@@ -1990,6 +1990,7 @@ ektenes
 expeditious
 endmatcher
 excitableness
+exundance
 epilate
 ektexine
 elabor
@@ -13960,7 +13961,6 @@ emceed
 embosked
 enwreathed
 endears
-exundance
 echinococcus
 exsuperance
 extraperiosteal
