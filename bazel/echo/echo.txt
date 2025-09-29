@@ -697,6 +697,7 @@ ecraseurs
 esocyclic
 ened
 ecology
+enwove
 eromania
 encephalolith
 employing
@@ -7193,7 +7194,6 @@ elvishly
 enneasyllabic
 epoxying
 equalizer
-enwove
 entender
 epistasis
 euphonym
