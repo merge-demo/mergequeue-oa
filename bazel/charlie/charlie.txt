@@ -11088,7 +11088,6 @@ collembolic
 chytridiose
 chytridiosis
 cacomorphosis
-chits
 chittack
 chitter
 chutney
@@ -30717,6 +30716,7 @@ cuif
 collimation
 cirrigerous
 cuinage
+chits
 cubelium
 cancion
 cuirassed
