@@ -30618,7 +30618,6 @@ casey
 chilidog
 crustosis
 cuculle
-caracoles
 cuculliform
 counterreform
 cucumariidae
@@ -31059,6 +31058,7 @@ certainties
 cimeliarch
 cellulicidal
 cumulation
+caracoles
 cleanlier
 cumulatist
 cumulative
