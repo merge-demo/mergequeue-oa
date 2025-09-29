@@ -7125,6 +7125,7 @@ floodgate
 fairling
 frostlike
 figwort
+fruitage
 fundamentalistic
 foleye
 farinacious
@@ -9849,7 +9850,6 @@ fordicidia
 featherback
 fissileness
 frib
-fruitage
 faden
 fribbler
 friskle
