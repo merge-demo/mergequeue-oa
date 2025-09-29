@@ -14430,7 +14430,6 @@ diversory
 disfiguringly
 dromic
 dressmaker
-doneness
 decenaries
 dourine
 disdiazo
@@ -16278,6 +16277,7 @@ downshift
 driverless
 dislimned
 defats
+doneness
 dialectalize
 dowery
 derailer
