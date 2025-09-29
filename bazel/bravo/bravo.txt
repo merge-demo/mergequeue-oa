@@ -7796,6 +7796,7 @@ bibi
 baniya
 bendways
 bibionid
+bibliognostic
 bewreath
 brad
 burials
@@ -10957,7 +10958,6 @@ batel
 bilharzic
 bonitarian
 blocky
-bibliognostic
 baptistic
 brassage
 brushless
