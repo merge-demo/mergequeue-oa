@@ -1711,7 +1711,6 @@ gallicize
 gamboised
 gulf
 guardrails
-gremmies
 governail
 gastroatonia
 gymnodinium
@@ -10582,6 +10581,7 @@ gatewoman
 grenadiership
 grommets
 goads
+gremmies
 garnisher
 grilly
 geologic
