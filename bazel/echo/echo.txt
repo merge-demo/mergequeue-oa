@@ -4928,7 +4928,6 @@ ephemerally
 endearedness
 enterocele
 endearingness
-epinglette
 eurylaimus
 eyelid
 exactive
@@ -13856,6 +13855,7 @@ engagingness
 euphenic
 emandibulate
 extraparental
+epinglette
 extroverts
 extractively
 encyst
