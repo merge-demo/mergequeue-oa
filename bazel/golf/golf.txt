@@ -5219,7 +5219,6 @@ genuflectory
 glucolipin
 golf
 gab
-gunter
 gorgonzola
 gamecraft
 garten
@@ -9598,6 +9597,7 @@ guarish
 gummite
 grandma
 gatefold
+gunter
 guisarme
 galvanomagnetic
 goodsire
