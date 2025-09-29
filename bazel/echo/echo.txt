@@ -9436,6 +9436,7 @@ enneahedra
 eschew
 exteriorizing
 eschewed
+extenuates
 expand
 echocardiogram
 ecbolics
@@ -13631,7 +13632,6 @@ ecyphellate
 elongating
 escalate
 extenuate
-extenuates
 empicture
 eliminates
 enfurrow
