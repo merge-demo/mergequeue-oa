@@ -17295,6 +17295,7 @@ cynophile
 coalification
 cephalostyle
 clinopinacoidal
+coresign
 capsella
 culices
 coxite
@@ -25109,7 +25110,6 @@ cetin
 cardia
 chaulmugra
 catalects
-coresign
 counterargue
 coresonant
 convento
