@@ -8972,6 +8972,7 @@ charger
 charybdian
 crankman
 conjugacy
+chemotherapist
 charybdis
 chestnutty
 charicleia
@@ -15516,7 +15517,6 @@ cockalan
 caryota
 clarre
 clarseach
-chemotherapist
 corrodes
 clarseth
 clart
