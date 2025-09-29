@@ -2460,7 +2460,6 @@ electrogilt
 ebbing
 ejecting
 electrogram
-endows
 eupolyzoa
 eleve
 exegete
@@ -11006,6 +11005,7 @@ eriometer
 eurypharyngidae
 elfin
 extund
+endows
 endomorph
 encreel
 exceptiveness

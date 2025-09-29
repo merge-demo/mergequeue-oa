@@ -6254,7 +6254,6 @@ ginzoes
 grege
 gerahs
 genistein
-gullable
 gobies
 griph
 guiser
@@ -7026,6 +7025,7 @@ guignardia
 goyle
 gynandrarchy
 gunnage
+gullable
 gliomatous
 guelphic
 glaces
