@@ -19103,7 +19103,6 @@ collegiateness
 collegiation
 czarinas
 concorporating
-clan
 cotylosauria
 craniometric
 cardiometer
@@ -31919,6 +31918,7 @@ cutworms
 coldblooded
 cuvee
 cuvettes
+clan
 cuzceno
 cwierc
 cincher
