@@ -905,6 +905,7 @@ acescency
 afterhold
 azoflavine
 absorbing
+acidite
 altitudinous
 absorpt
 analcites
@@ -2204,7 +2205,6 @@ acieral
 abruptedly
 avgasses
 acidifying
-acidite
 allogamous
 archconspirator
 axminster
