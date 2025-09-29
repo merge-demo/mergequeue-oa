@@ -6503,7 +6503,6 @@ granduncles
 grasp
 gromwell
 gamelans
-gleeman
 gastrologists
 gomer
 gesten
@@ -10382,6 +10381,7 @@ gems
 groans
 girandola
 goujon
+gleeman
 gullying
 gastritic
 gambian
