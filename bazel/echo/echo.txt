@@ -7617,6 +7617,7 @@ epicondyle
 epicondylian
 exspuition
 engraulidae
+exodium
 exintine
 eupatory
 exemplification
@@ -10605,7 +10606,6 @@ embryographer
 epicureans
 encryption
 epimysium
-exodium
 elaterid
 eudaimonia
 eudaimonist
