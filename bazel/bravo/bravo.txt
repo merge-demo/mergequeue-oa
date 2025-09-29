@@ -4149,6 +4149,7 @@ baftah
 beastship
 benches
 beaters
+budger
 beatifically
 baroto
 beatified
@@ -16703,7 +16704,6 @@ bunkhouses
 blockhole
 begari
 blindfolding
-budger
 bondship
 budgerow
 budgetary
