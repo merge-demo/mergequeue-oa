@@ -3296,7 +3296,6 @@ germfree
 geostrophically
 gobio
 glaumrie
-gullion
 genethliacism
 gutterlike
 gang
@@ -10332,6 +10331,7 @@ guland
 grubstaking
 gules
 gown
+gullion
 gaffing
 gonoph
 grot
