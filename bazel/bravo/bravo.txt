@@ -10534,6 +10534,7 @@ butyrone
 beflatter
 blatta
 biostrome
+baritenor
 blatted
 boltheader
 bachelorship
@@ -17110,7 +17111,6 @@ bullpoll
 bemirror
 bullpup
 brughs
-baritenor
 bestarve
 boozy
 balsamical
