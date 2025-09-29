@@ -3268,7 +3268,6 @@ elevatedness
 esophagismus
 eugenols
 eperlan
-embattlement
 elapidae
 eremitish
 effeminization
@@ -6228,6 +6227,7 @@ enostosis
 elisions
 erugatory
 espresso
+embattlement
 editorialize
 excusers
 egrid
