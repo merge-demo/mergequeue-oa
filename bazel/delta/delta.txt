@@ -11416,7 +11416,6 @@ deadbeats
 doctrinize
 dottler
 disclass
-dermorhynchous
 drossing
 defend
 dialyzer
@@ -12356,6 +12355,7 @@ distinctionless
 diaphototropic
 dutchess
 detracted
+dermorhynchous
 digammate
 dactyl
 datable
