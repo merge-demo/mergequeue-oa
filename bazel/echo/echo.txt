@@ -1090,7 +1090,6 @@ evaluates
 edificatory
 exasperating
 epimerize
-elliptic
 edificed
 enlightens
 edified
@@ -12331,6 +12330,7 @@ eseptate
 equilobate
 edgeling
 economical
+elliptic
 evase
 ectrodactyly
 expects

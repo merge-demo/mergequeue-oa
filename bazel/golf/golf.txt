@@ -6816,6 +6816,7 @@ gaffsman
 gonosphere
 grisettish
 graphics
+graphitizing
 gorbal
 guaranty
 globosities
@@ -8185,7 +8186,6 @@ gastrotubotomy
 glacioaqueous
 goldbug
 greenkeeper
-graphitizing
 gallingly
 gutturalising
 gorgoniacea
