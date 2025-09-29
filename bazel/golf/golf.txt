@@ -469,7 +469,6 @@ guardedly
 gymnospore
 genyoplasty
 glossoncus
-give
 gospelize
 gravitationally
 gemmery
@@ -1066,6 +1065,7 @@ ghostliness
 groundway
 gypsums
 glares
+give
 guarding
 graphicness
 gleg
