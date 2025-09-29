@@ -3448,7 +3448,6 @@ gowl
 gelatinated
 gastrologer
 geodynamics
-genoa
 gallanting
 glasgow
 gallophobia
@@ -8413,6 +8412,7 @@ gerontophilia
 glossator
 grinnie
 grufted
+genoa
 galactonic
 gratulation
 garoting
