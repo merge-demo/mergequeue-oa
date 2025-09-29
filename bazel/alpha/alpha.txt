@@ -8990,6 +8990,7 @@ allodium
 abhorring
 alky
 anemometric
+answer
 alluvious
 assortative
 allwhere
@@ -23577,7 +23578,6 @@ auriscopic
 aurited
 ankee
 archimorphic
-answer
 azureous
 aurore
 aurorian
