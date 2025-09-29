@@ -1791,6 +1791,7 @@ gastroscopist
 greenovite
 gavelled
 glossolaly
+glycuronid
 gutterblood
 geisothermal
 gelatinotype
@@ -8930,7 +8931,6 @@ galvo
 greyhens
 greenbul
 glenlivet
-glycuronid
 gachupin
 guaiacums
 gastrocolpotomy
