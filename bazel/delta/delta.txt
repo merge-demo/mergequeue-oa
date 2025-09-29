@@ -5000,6 +5000,7 @@ demospongiae
 desmotropy
 demosthenean
 deckels
+drierman
 demote
 demotes
 disomus
@@ -17155,7 +17156,6 @@ dong
 diphtheriaphor
 dingwall
 dashers
-drierman
 dogma
 davis
 decennials
