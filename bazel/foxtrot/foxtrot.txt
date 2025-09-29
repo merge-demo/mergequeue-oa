@@ -1596,6 +1596,7 @@ fixings
 finer
 florae
 fiddlebow
+forenews
 forereaching
 floppies
 faffle
@@ -8072,7 +8073,6 @@ ferrochromium
 forests
 fumer
 forejudged
-forenews
 faunistic
 foyboat
 fulminated
