@@ -13788,7 +13788,6 @@ cacosplanchnia
 cynegild
 conspurcate
 cedared
-cinemagoer
 cryptocommercial
 cinemagoers
 cinemas
@@ -25505,6 +25504,7 @@ cavitates
 coronagraph
 cataphonics
 controversionalism
+cinemagoer
 confervous
 coronaled
 coronalled
