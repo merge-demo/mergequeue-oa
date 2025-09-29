@@ -3190,7 +3190,6 @@ frigostable
 federalese
 frithwork
 feazings
-fibulae
 ficoides
 fibrocytic
 floodcock
@@ -11716,6 +11715,7 @@ ferruled
 foredesign
 friars
 flighty
+fibulae
 fawnskin
 flagellator
 folkland
