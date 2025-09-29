@@ -5013,6 +5013,7 @@ crofterization
 carvage
 carval
 culpabilis
+claw
 carve
 chiam
 cosmetologists
@@ -24201,7 +24202,6 @@ convictor
 convicts
 crosshatch
 convinced
-claw
 crestless
 collocutory
 cruddy
