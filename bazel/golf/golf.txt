@@ -2003,7 +2003,6 @@ gud
 goutify
 grubberies
 gurjara
-galatian
 gars
 generalness
 gambogic
@@ -10784,6 +10783,7 @@ guttated
 gawky
 gesellschaften
 glycocoll
+galatian
 gutterspout
 ghostlily
 grandfatherhood
