@@ -1897,7 +1897,6 @@ gaucho
 gerbillus
 goodyship
 gamelote
-globetrotter
 germaniums
 groundable
 gowd
@@ -2376,6 +2375,7 @@ greeshoch
 geb
 george
 galloots
+globetrotter
 ghiordes
 gadwall
 greenboard

@@ -1000,6 +1000,7 @@ edaphosaurus
 explosibility
 encapsules
 euthanasic
+electrotropic
 enterocinetic
 ethize
 epoxide
@@ -7213,7 +7214,6 @@ ejidos
 earthshock
 enderon
 erythropoietic
-electrotropic
 ephemeromorphic
 eupnoeas
 exudate
