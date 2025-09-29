@@ -4193,7 +4193,6 @@ cared
 conversant
 copyreaders
 certainer
-conjuncture
 costogenic
 careens
 cryptomonadina
@@ -10625,6 +10624,7 @@ camoca
 choledochotomy
 convivial
 commensalism
+conjuncture
 chilognathous
 chilogrammo
 cubic
