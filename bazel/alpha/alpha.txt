@@ -3236,7 +3236,6 @@ antipope
 adnexa
 arbored
 adapters
-acknowledging
 abelmoschus
 algetic
 aseethe
@@ -21919,6 +21918,7 @@ alphanumerical
 anakinesis
 allelisms
 astricting
+acknowledging
 astatized
 asteep
 asteer

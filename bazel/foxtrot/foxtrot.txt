@@ -2742,6 +2742,7 @@ frizer
 friedelite
 foreparts
 fights
+fraternalism
 festerment
 footway
 feis
@@ -4890,7 +4891,6 @@ forbears
 freedmen
 fairwater
 forwent
-fraternalism
 farina
 federationist
 flakage
