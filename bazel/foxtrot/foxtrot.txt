@@ -1374,6 +1374,7 @@ fruticeous
 flaxdrop
 filecard
 flenser
+fimbrilla
 fatiscent
 fondlings
 fullword
@@ -5342,7 +5343,6 @@ fleadock
 fleahopper
 fructuously
 familyish
-fimbrilla
 finiking
 flouncier
 fuzzines
