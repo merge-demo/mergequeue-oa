@@ -1582,7 +1582,6 @@ gonyoncus
 gallach
 goosegrass
 gunnar
-ghazism
 goldie
 glottalize
 gillygaupus
@@ -3806,6 +3805,7 @@ grasps
 gentlemanhood
 gastroenteritic
 gonadal
+ghazism
 galled
 gryphons
 gameball
