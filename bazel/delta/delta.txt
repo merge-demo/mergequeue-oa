@@ -8358,7 +8358,6 @@ duadic
 draftier
 duim
 darkishness
-documenters
 ditrigonally
 dugal
 dialectical
@@ -14067,6 +14066,7 @@ diplexer
 districting
 disharmonizing
 defoaming
+documenters
 drumbledore
 decarnate
 dishabited
