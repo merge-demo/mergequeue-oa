@@ -178,6 +178,7 @@ diminish
 diphenylmethane
 drachmai
 dopiest
+dig
 damas
 demonstration
 daedaloid
@@ -18289,7 +18290,6 @@ duckboards
 diseuse
 dimication
 demonian
-dig
 discipline
 deformedness
 demodulated
