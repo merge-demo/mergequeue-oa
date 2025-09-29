@@ -12854,6 +12854,7 @@ bacillogenous
 bedarkens
 behorror
 bifoil
+burkha
 bacchiac
 bilders
 brachyural
@@ -17624,7 +17625,6 @@ blooie
 buncos
 barbettes
 biotoxin
-burkha
 baittle
 burkundauze
 badassed
