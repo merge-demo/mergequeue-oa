@@ -327,6 +327,7 @@ bannerless
 beheaded
 bowdlerising
 basal
+biome
 bemirrorment
 batswing
 beacon
@@ -8972,7 +8973,6 @@ babongo
 biomathematics
 bromism
 bets
-biome
 biomechanical
 begrims
 brilliancy

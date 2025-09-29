@@ -2694,7 +2694,6 @@ acrodont
 abalienation
 akroteria
 acrodontism
-agoge
 acrodrome
 acetoacetanilide
 acetum
@@ -17365,6 +17364,7 @@ adsbud
 accidentary
 acinacifoliate
 acrocera
+agoge
 appanaging
 appanagist
 astrographic

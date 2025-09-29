@@ -3261,6 +3261,7 @@ etymologising
 expectations
 elevatedness
 esophagismus
+encharm
 eugenols
 eperlan
 elapidae
@@ -5308,7 +5309,6 @@ exsertion
 endospore
 exophagous
 evidentness
-encharm
 embroiderers
 epiphyte
 ectoethmoid
