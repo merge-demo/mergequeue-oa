@@ -3983,7 +3983,6 @@ finalizes
 fibrinemia
 fiscal
 fulmine
-figurehead
 flanque
 feminisation
 fictionally
@@ -6397,6 +6396,7 @@ flathead
 furanoside
 floatmaker
 fireworm
+figurehead
 fatiguabilities
 fossae
 fluoride

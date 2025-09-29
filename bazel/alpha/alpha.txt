@@ -6283,7 +6283,6 @@ aguirage
 aguise
 antibromic
 aholt
-antimeter
 amyluria
 altitonant
 axanthopsia
@@ -21298,6 +21297,7 @@ atimy
 aspect
 aspectable
 aspectant
+antimeter
 aspects
 aspens
 asper
