@@ -1556,7 +1556,6 @@ geothermally
 gassed
 gypsumed
 grana
-gentlemens
 gasser
 glutelin
 gripe
@@ -2604,6 +2603,7 @@ grisette
 glossolabial
 geiger
 goutte
+gentlemens
 garabato
 galluot
 glisters
