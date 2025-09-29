@@ -2090,7 +2090,6 @@ emblematist
 enclosable
 epilimnia
 enterolysis
-elasmothere
 euphoniously
 ebullioscope
 exciseman
@@ -7406,6 +7405,7 @@ electoral
 echinochloa
 everglade
 ensculpture
+elasmothere
 englishness
 entasia
 exsanguineous
