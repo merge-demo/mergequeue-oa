@@ -5063,6 +5063,7 @@ barkevikite
 bamboo
 binits
 boodlers
+bombe
 basilicon
 broidering
 beflagging
@@ -15290,7 +15291,6 @@ barret
 bulletproofed
 brevete
 basicytoparaplastin
-bombe
 bistros
 baronetcy
 benzylidene
