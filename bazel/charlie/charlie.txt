@@ -923,6 +923,7 @@ consecration
 caking
 collagist
 chazzanut
+centigramme
 cakravartin
 cal
 calaba
@@ -22425,7 +22426,6 @@ casettes
 congresso
 congresswomen
 congridae
-centigramme
 cyclothymia
 cyclopedist
 cistaceous
