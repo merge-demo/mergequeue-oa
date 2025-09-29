@@ -992,7 +992,6 @@ goadlike
 gilse
 granitizing
 gnomons
-geophilous
 gymnure
 guttle
 glanduliferous
@@ -6277,6 +6276,7 @@ guidsire
 gyrons
 guijo
 gastriloquous
+geophilous
 gastrocele
 gymnorhininae
 goblin

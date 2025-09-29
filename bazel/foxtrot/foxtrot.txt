@@ -2490,7 +2490,6 @@ forehatch
 flavic
 fought
 freightage
-fawningness
 fortunize
 frothiest
 fluters
@@ -6850,6 +6849,7 @@ furriner
 flossier
 faradizes
 fierasferidae
+fawningness
 foliose
 flachery
 foliot
