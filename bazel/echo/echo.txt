@@ -569,6 +569,7 @@ echinomys
 entrained
 erythrene
 escolars
+erythrocytometer
 endoperitonitis
 egotist
 effeminating
@@ -6519,7 +6520,6 @@ embarrassedly
 egipto
 ensmall
 encephalorrhagia
-erythrocytometer
 entamoebic
 endostosis
 ephyra
