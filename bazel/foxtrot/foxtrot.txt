@@ -8824,6 +8824,7 @@ firmest
 fettstein
 fieldwork
 flecks
+falconer
 finbone
 fusing
 fossorious
@@ -10449,7 +10450,6 @@ fleet
 fwd
 flche
 frontstall
-falconer
 forstall
 frizes
 fellah
