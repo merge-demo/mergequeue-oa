@@ -5240,7 +5240,6 @@ fishmen
 filippi
 flavorsome
 falda
-fstore
 flot
 fissiped
 figgery
@@ -5985,6 +5984,7 @@ fez
 floorwise
 fleta
 featishness
+fstore
 fusty
 firecracker
 floozy
