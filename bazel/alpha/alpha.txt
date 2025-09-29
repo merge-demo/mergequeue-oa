@@ -30,6 +30,7 @@ assurate
 artemon
 avernus
 assort
+avera
 aikidos
 abac
 ahuehuete
@@ -12354,7 +12355,6 @@ anemoscope
 acquiescer
 antivice
 anticonformities
-avera
 allecret
 affined
 agamemnon
