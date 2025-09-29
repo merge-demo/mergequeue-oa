@@ -599,7 +599,6 @@ graters
 gutierrez
 gyrinidae
 geocronite
-gigue
 guarauno
 galactose
 galbulinae
@@ -4404,6 +4403,7 @@ goosishness
 gradgrind
 geomorphogenist
 gascoyne
+gigue
 gynogenesis
 glidingly
 gonosomal
