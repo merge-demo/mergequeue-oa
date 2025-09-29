@@ -8069,7 +8069,6 @@ bidactylous
 beseam
 bkbndr
 belcher
-biddability
 biddably
 benedict
 bdle
@@ -12007,6 +12006,7 @@ bodingly
 barysphere
 bilinigrin
 blander
+biddability
 bibulousness
 bronchiolus
 blowzing
