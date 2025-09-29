@@ -6819,7 +6819,6 @@ garnets
 gobonee
 gnomonic
 gloryingly
-gypsied
 glauconite
 granulomas
 gaffsman
@@ -7834,6 +7833,7 @@ ghostlikeness
 grammatics
 gastropodous
 galik
+gypsied
 graved
 grammatistical
 gratinated
