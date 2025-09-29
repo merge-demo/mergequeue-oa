@@ -1184,6 +1184,7 @@ enscroll
 ensweep
 educational
 extratracheal
+eidos
 estimation
 eroded
 elenge
@@ -1654,7 +1655,6 @@ elboic
 evectional
 extinguishes
 enlivening
-eidos
 euphuized
 ethylenes
 epiphloedal
