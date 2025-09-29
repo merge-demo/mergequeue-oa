@@ -4662,7 +4662,6 @@ bazoo
 beakiron
 bunted
 blackseed
-barytocalcite
 bord
 basilarchia
 beinked
@@ -6411,6 +6410,7 @@ brachia
 bumbled
 bipyramidal
 beliing
+barytocalcite
 blobbiness
 byeman
 bepart

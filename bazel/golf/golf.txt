@@ -3844,6 +3844,7 @@ gardenwards
 gwely
 gatekeep
 grant
+givingness
 graining
 guls
 groszy
@@ -4749,7 +4750,6 @@ genarch
 glossematics
 glar
 gypsy
-givingness
 gizmos
 globes
 garrnishable
