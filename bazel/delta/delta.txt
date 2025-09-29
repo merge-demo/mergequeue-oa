@@ -2686,6 +2686,7 @@ decor
 diplopic
 docilely
 dappledness
+disports
 decurves
 decorable
 delectable
@@ -16465,7 +16466,6 @@ decolourise
 dozed
 dozens
 dishpan
-disports
 dimetry
 dorsodynia
 doziest
