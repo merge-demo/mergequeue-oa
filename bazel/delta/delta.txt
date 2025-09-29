@@ -15286,7 +15286,6 @@ drawlier
 dolefulness
 diurna
 dinosauric
-delsartian
 dolerophanite
 disproperty
 dado
@@ -16280,6 +16279,7 @@ degras
 downshift
 driverless
 dislimned
+delsartian
 defats
 doneness
 dialectalize
