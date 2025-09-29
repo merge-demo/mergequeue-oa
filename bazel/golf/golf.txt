@@ -1690,7 +1690,6 @@ grandly
 gastrograph
 gamebag
 gazetteerish
-gordioidea
 glories
 gane
 grassquit
@@ -4145,6 +4144,7 @@ goodly
 guaranin
 gemmule
 gaslit
+gordioidea
 gainful
 geographical
 gaggles
