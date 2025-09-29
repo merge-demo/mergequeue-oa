@@ -12152,7 +12152,6 @@ daystreak
 disproven
 dodrantal
 dinergate
-deucing
 dehusk
 doom
 diacetine
@@ -13445,6 +13444,7 @@ demiurgism
 dissertated
 disrooting
 debenture
+deucing
 ditrigonal
 defender
 dizygous
