@@ -11390,7 +11390,6 @@ amulet
 aggravation
 authenticators
 astrologous
-amusette
 amusia
 amusias
 antinatural
@@ -13686,6 +13685,7 @@ anostraca
 anotherguess
 anotia
 antilapsarian
+amusette
 agapemonian
 athletics
 anotta
