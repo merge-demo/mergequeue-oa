@@ -1915,7 +1915,6 @@ glochchidia
 gaudless
 ganglia
 gulped
-gastromycosis
 geal
 garnetwork
 gynecocratic
@@ -8143,6 +8142,7 @@ galenical
 grapestalk
 groomling
 galeodidae
+gastromycosis
 granogabbro
 grapevines
 gentlemanlike
