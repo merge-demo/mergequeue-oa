@@ -4682,7 +4682,6 @@ encyclopedic
 ebauche
 encyclopedical
 etherialisation
-erpetology
 exacerbating
 egence
 ellasar
@@ -5327,6 +5326,7 @@ epicrystalline
 encoring
 endosteomata
 enwingly
+erpetology
 excarnate
 enmagazine
 epanody
