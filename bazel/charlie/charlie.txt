@@ -40,6 +40,7 @@ caballo
 ceratopteridaceous
 caballos
 centillions
+cranic
 cabanas
 cabane
 cabaret
@@ -28079,7 +28080,6 @@ crania
 cancerate
 crocodiline
 cranian
-cranic
 circaeaceae
 cattan
 craniectomy
