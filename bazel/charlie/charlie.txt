@@ -24393,7 +24393,6 @@ capitatum
 calcarium
 clipping
 coolen
-cooler
 coolers
 crimpier
 chemosmosis
@@ -27585,6 +27584,7 @@ covertly
 colloquialist
 cull
 cupmaker
+cooler
 coves
 covet
 cerealin
