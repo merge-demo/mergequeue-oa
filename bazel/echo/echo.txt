@@ -8817,7 +8817,6 @@ eagers
 erechtheum
 erechtites
 euphemist
-episcopes
 exomologesis
 erectable
 earmuffs
@@ -8975,6 +8974,7 @@ erythrocytes
 exhilarant
 explorative
 ecumenist
+episcopes
 electrophonic
 epizootiological
 effected
