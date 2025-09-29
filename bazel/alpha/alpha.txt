@@ -5881,6 +5881,7 @@ antirestoration
 addisonian
 absorptiometer
 agios
+affecters
 agiotage
 azocoralline
 agamas
@@ -25081,7 +25082,6 @@ axilemmas
 androphonomania
 adit
 aa
-affecters
 antiamylase
 alii
 accredited
