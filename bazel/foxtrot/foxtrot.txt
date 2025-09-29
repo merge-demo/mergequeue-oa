@@ -5031,7 +5031,6 @@ flanneling
 fungoidal
 flukiness
 forepaw
-ferries
 forekeel
 faithbreaker
 faconne
@@ -6999,6 +6998,7 @@ fusees
 fichtelite
 floriferousness
 finagled
+ferries
 flagellate
 fumade
 freespace
