@@ -4268,7 +4268,6 @@ double
 dukeling
 dook
 disputatious
-delthyrial
 disilane
 dialogue
 duncan
@@ -16170,6 +16169,7 @@ deathbed
 domesticity
 ditherer
 ducamara
+delthyrial
 defraying
 drily
 doughtier
