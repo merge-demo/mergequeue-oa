@@ -22256,7 +22256,6 @@ crambambuli
 confusability
 circummured
 confusedness
-confuser
 cytomitome
 confuses
 chickee
@@ -27572,6 +27571,7 @@ carbonyl
 coverlets
 circumambiently
 consumation
+confuser
 coverlids
 caller
 clairce
