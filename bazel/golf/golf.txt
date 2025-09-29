@@ -2232,7 +2232,6 @@ grounders
 globetrotting
 grieced
 ghazies
-grisled
 genette
 gekkonid
 gristle
@@ -6707,6 +6706,7 @@ georgic
 gulash
 graminivorous
 giddyberry
+grisled
 glucide
 germproof
 grabbling
