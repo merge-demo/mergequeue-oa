@@ -2,8 +2,8 @@ name: PR Factory
 
 on:
   workflow_dispatch: {}
-  # schedule:
-  #   - cron: 0/15 * * * *
+  schedule:
+    - cron: 0/60 * * * *
 
 permissions:
   pull-requests: write
