@@ -10763,6 +10763,7 @@ extramoralist
 eigenvector
 emer
 expuition
+equiponderating
 endogalvanism
 excursions
 exercitant
@@ -11573,7 +11574,6 @@ eternalising
 expatiate
 enmeshing
 evolver
-equiponderating
 ectolecithal
 exergual
 evonymuses
