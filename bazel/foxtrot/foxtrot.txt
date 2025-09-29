@@ -7413,7 +7413,6 @@ firefang
 footmen
 ferrocerium
 forwarder
-filicides
 fileable
 fillemot
 faience
@@ -7712,6 +7711,7 @@ flyman
 feudality
 fruggin
 flyeater
+filicides
 flaglike
 foreknew
 fiord
