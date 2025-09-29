@@ -664,7 +664,6 @@ dinoflagellata
 deploitation
 dilucidate
 damnify
-dearth
 damnificatus
 disoccupation
 damnifies
@@ -3770,6 +3769,7 @@ devalued
 dauties
 defacingly
 deicides
+dearth
 didymate
 deicing
 dictates
