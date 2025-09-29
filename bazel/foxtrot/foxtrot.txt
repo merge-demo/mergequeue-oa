@@ -5719,6 +5719,7 @@ fungistatic
 frequentation
 fractuosity
 fustier
+fruitist
 fels
 figureheadless
 fisher
@@ -6811,7 +6812,6 @@ feuille
 florula
 fragmentizer
 foretold
-fruitist
 fructifier
 forger
 foliaged
