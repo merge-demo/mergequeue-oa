@@ -1953,6 +1953,7 @@ fernticle
 fibratus
 functionalize
 frigiferous
+fulmicotton
 flchette
 flannelette
 fireball
@@ -11301,7 +11302,6 @@ furcate
 fenagled
 frontingly
 fusspot
-fulmicotton
 fatwa
 feyness
 firedog
