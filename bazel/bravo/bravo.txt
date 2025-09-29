@@ -8204,6 +8204,7 @@ boneache
 bullfist
 bespurt
 biforking
+bashment
 brombenzyl
 browache
 berthage
@@ -12761,7 +12762,6 @@ blowcase
 barracking
 blennemesis
 bullneck
-bashment
 biparous
 broods
 bawly
