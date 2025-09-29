@@ -478,6 +478,7 @@ gynecomasty
 glutoid
 galeorhinidae
 geist
+guanidin
 grouches
 galere
 gridirons
@@ -5376,7 +5377,6 @@ grimmer
 gremmy
 gogglier
 glimmering
-guanidin
 glimmeringly
 ghostdom
 garveys

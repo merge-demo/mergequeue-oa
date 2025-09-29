@@ -258,7 +258,6 @@ bucktail
 bootmaking
 breeched
 beulah
-belleter
 bsh
 bacile
 bacillaceae
@@ -5249,6 +5248,7 @@ bargee
 bellevue
 broadband
 boltonia
+belleter
 biscuitmaker
 bezzants
 bootjacks

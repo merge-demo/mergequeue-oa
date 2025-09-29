@@ -16336,6 +16336,7 @@ antemortal
 anusvara
 aesthesia
 apulmonic
+aryballi
 arle
 almightily
 autolysin
@@ -20795,7 +20796,6 @@ assapan
 anhimae
 amnionate
 asbolite
-aryballi
 anguria
 amorphous
 ascape
