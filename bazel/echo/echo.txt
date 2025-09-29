@@ -3355,6 +3355,7 @@ esquirearchy
 enregistration
 egal
 explorator
+echinospermum
 excursioner
 envelopes
 encyclopaedial
@@ -9576,7 +9577,6 @@ ecphoria
 expressing
 emigrated
 emptory
-echinospermum
 expediente
 excurse
 esculent
