@@ -15543,7 +15543,6 @@ cleistogenous
 clashes
 clashing
 clashingly
-cormlike
 cupel
 clasmatocyte
 ccoya
@@ -26720,6 +26719,7 @@ counterbracing
 counterbranch
 curbstones
 confutable
+cormlike
 counterbuff
 countercause
 counterchanged
