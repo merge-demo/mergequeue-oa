@@ -3872,7 +3872,6 @@ beechnuts
 brevicaudate
 bifidated
 brachyskelic
-bivial
 blottesquely
 boughten
 bonzes
@@ -4132,6 +4131,7 @@ beknot
 beastlike
 bolstering
 buoyantness
+bivial
 brinsell
 beastlily
 beclown
