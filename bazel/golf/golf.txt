@@ -4128,6 +4128,7 @@ generalissimos
 guaniferous
 gramicidin
 gustatorily
+gallantly
 gaitt
 gibleh
 gratewise
@@ -7876,7 +7877,6 @@ grandad
 goggling
 gnomically
 gentilization
-gallantly
 grandads
 goracco
 gerbil
