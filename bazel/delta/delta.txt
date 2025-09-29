@@ -6255,7 +6255,6 @@ duplicator
 denationalisation
 dermatic
 dermatitises
-dyschromatoptic
 dermatodynia
 distrainer
 dermatography
@@ -12279,6 +12278,7 @@ dromedarist
 diminuendos
 disappoint
 disgracer
+dyschromatoptic
 dipicrate
 disenchanted
 delicacies
