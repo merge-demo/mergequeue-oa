@@ -3524,6 +3524,7 @@ gangues
 geostrategy
 garmentworker
 ganglions
+gaseously
 gymnorhina
 geomagnetist
 grugru
@@ -9442,7 +9443,6 @@ gluish
 guaharibo
 gabriella
 glaciate
-gaseously
 griffonne
 gabled
 genitalial
