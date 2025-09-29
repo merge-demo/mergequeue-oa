@@ -2650,6 +2650,7 @@ any
 acroaesthesia
 archives
 acroamatic
+armada
 acyrology
 ammonation
 acroasphyxia
@@ -13358,7 +13359,6 @@ authigenic
 affranchised
 arteriodialysis
 atomical
-armada
 azeotropism
 amputated
 aphidophagous
