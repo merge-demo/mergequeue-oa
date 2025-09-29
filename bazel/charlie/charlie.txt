@@ -3215,7 +3215,6 @@ capillitium
 caping
 curaras
 cauli
-citraconate
 centrotus
 catenated
 cytopathic
@@ -25517,6 +25516,7 @@ coroneted
 cordeliere
 coronetted
 crushability
+citraconate
 coronettee
 confronte
 coronagraphic
