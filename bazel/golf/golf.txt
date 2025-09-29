@@ -3312,7 +3312,6 @@ grooverhead
 glossologies
 gerundial
 growers
-gentlewomanlike
 germier
 goatsfoot
 gaetulian
@@ -7773,6 +7772,7 @@ gestion
 guanche
 gangplank
 graisse
+gentlewomanlike
 gerately
 gook
 goodliness
