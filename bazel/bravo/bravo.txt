@@ -6739,6 +6739,7 @@ bronzelike
 bilic
 berwick
 boldness
+bijugate
 boophilus
 bowditch
 burley
@@ -17210,7 +17211,6 @@ baboonroot
 bleachers
 bedegar
 benzinduline
-bijugate
 bersim
 besuit
 ballistocardiogram
