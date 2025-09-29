@@ -1259,6 +1259,7 @@ frocked
 futteret
 fama
 forevouch
+factitious
 femalize
 fatuate
 forescent
@@ -3306,7 +3307,6 @@ ferrelled
 fortier
 fulgency
 finity
-factitious
 flirtationless
 framed
 fideicommissaries
