@@ -3401,7 +3401,6 @@ flowcharts
 fiascoes
 foretalk
 fiendly
-featurely
 fc
 fetishlike
 firmed
@@ -8335,6 +8334,7 @@ flaff
 fulminates
 forkier
 fumewort
+featurely
 familiars
 foveolated
 faradmeter
