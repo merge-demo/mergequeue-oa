@@ -9007,7 +9007,6 @@ dissolvent
 diageotropism
 dysmenorrheal
 ducker
-dicing
 dhow
 dobule
 dasyprocta
@@ -16705,6 +16704,7 @@ defrays
 dragsters
 defiler
 doctoress
+dicing
 dowily
 drayage
 desmotomy
