@@ -4071,6 +4071,7 @@ eire
 emplectic
 emmets
 ethnographically
+engarrison
 eighthes
 earlships
 ecardinal
@@ -13108,7 +13109,6 @@ extensionality
 ergology
 eudiaphoresis
 ergonovine
-engarrison
 enbaissing
 electrothermotic
 electrochemically
