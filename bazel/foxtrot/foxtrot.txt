@@ -5468,7 +5468,6 @@ foolscap
 flesh
 forbids
 formes
-filchers
 floey
 faured
 fenderless
@@ -7170,6 +7169,7 @@ fele
 fruitions
 footie
 footier
+filchers
 frore
 furcraea
 formedon
