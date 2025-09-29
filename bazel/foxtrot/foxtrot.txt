@@ -9995,6 +9995,7 @@ fibrosities
 fliest
 fossilising
 frijole
+forbidder
 footprint
 frike
 forewarner
@@ -11079,7 +11080,6 @@ footbridge
 footrace
 falconet
 fracturs
-forbidder
 foreknowableness
 functionation
 fane
