@@ -3071,7 +3071,6 @@ finances
 forfeitableness
 festology
 familiarizes
-fooler
 foreclosing
 forerunner
 feroce
@@ -6738,6 +6737,7 @@ flunkers
 forjudged
 fluorescin
 fibrocellular
+fooler
 food
 foliageous
 fineer
