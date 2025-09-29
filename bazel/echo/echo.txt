@@ -3549,6 +3549,7 @@ embossed
 enbibe
 embossing
 emulsifications
+exophthalmic
 embossman
 esophagoplegia
 enchantery
@@ -5686,7 +5687,6 @@ empirism
 euphuistical
 expatiater
 exceptionality
-exophthalmic
 engined
 excusability
 engage
