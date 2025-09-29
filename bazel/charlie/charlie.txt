@@ -202,6 +202,7 @@ cabrilla
 cabrillas
 cabs
 cabstands
+commandments
 cabuya
 crossbolt
 celebrators
@@ -20061,7 +20062,6 @@ chronophotographic
 cozzes
 croquis
 cassideous
-commandments
 caburn
 commando
 commandoes
