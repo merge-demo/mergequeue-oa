@@ -4696,7 +4696,6 @@ genista
 galeae
 gowland
 gitanos
-gite
 gonarthritis
 gnawn
 gitim
@@ -8131,6 +8130,7 @@ gazingstock
 gawkiness
 galeodes
 grapery
+gite
 goaded
 glood
 geniohyoid
