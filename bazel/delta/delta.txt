@@ -10480,6 +10480,7 @@ defyingly
 dunny
 daglock
 diphthongize
+drybrush
 diphthongizing
 doorknob
 discompliance
@@ -12419,7 +12420,6 @@ diplophyte
 durability
 disherited
 deplantation
-drybrush
 desecate
 disheriting
 dulness
