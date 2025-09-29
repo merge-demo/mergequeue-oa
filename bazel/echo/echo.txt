@@ -4623,6 +4623,7 @@ ermelin
 eminence
 engaged
 enhydrite
+epoxies
 extratensive
 erythroxyline
 erethic
@@ -8447,7 +8448,6 @@ encinas
 epitomes
 epizootic
 epoxyed
-epoxies
 employed
 easterlies
 eprise
