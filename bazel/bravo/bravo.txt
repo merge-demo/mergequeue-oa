@@ -6278,7 +6278,6 @@ barani
 bipedal
 blackbirding
 bleep
-birdwise
 blossoming
 beadiness
 blastogranitic
@@ -15443,6 +15442,7 @@ brinksmanship
 backplanes
 bassorin
 batted
+birdwise
 beardlike
 bileve
 bullseye
