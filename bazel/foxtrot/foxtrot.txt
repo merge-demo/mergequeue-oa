@@ -2781,7 +2781,6 @@ flareboard
 floppier
 fiction
 fraze
-festivity
 forker
 feston
 flatly
@@ -8297,6 +8296,7 @@ fusspots
 forenames
 forepole
 foregame
+festivity
 fraternising
 fribbling
 fountaining
