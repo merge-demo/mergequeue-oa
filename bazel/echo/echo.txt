@@ -5189,7 +5189,6 @@ exitus
 endolysin
 eparchy
 esterification
-equipluve
 epistrophic
 endomitosis
 endomorphy
@@ -8010,6 +8009,7 @@ emetin
 envapour
 emigating
 epipanies
+equipluve
 endovasculitis
 exsanguious
 euthenist
