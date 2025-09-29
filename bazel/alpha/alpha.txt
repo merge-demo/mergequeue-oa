@@ -8379,7 +8379,6 @@ alkarsine
 alkatively
 anaphrodisiac
 accismus
-antepredicamental
 alkedavy
 alkekengi
 alkenyl
@@ -11240,6 +11239,7 @@ attaste
 assimilation
 anticodon
 alloquy
+antepredicamental
 anticreeper
 amphitrichate
 amphitropous

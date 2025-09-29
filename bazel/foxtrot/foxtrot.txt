@@ -180,6 +180,7 @@ factiously
 find
 forthought
 feather
+frequentable
 flirtable
 falseface
 fanmaker
@@ -4912,7 +4913,6 @@ fourscore
 flakiest
 forged
 firebote
-frequentable
 flambeau
 foamier
 fixate
