@@ -6228,7 +6228,6 @@ benu
 benumbed
 benumbs
 brigalow
-benzalacetone
 benzalacetophenone
 bonum
 benzalcohol
@@ -11977,6 +11976,7 @@ beckelite
 blastostylar
 baggyrinkle
 bogmire
+benzalacetone
 borine
 besmudged
 boyang
