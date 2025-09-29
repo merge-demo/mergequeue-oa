@@ -3562,7 +3562,6 @@ blowfishes
 basion
 banker
 bratling
-bathoflore
 bibliomaniacal
 blackeye
 batholithic
@@ -5277,6 +5276,7 @@ balaamitical
 bogies
 bosomy
 beglerbeglic
+bathoflore
 blatant
 bakalai
 burdalone
