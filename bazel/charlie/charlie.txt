@@ -8282,6 +8282,7 @@ chalder
 coholder
 chalybeate
 chalice
+curtsies
 cages
 chancelry
 chaliced
@@ -13561,7 +13562,6 @@ cookey
 cymars
 cymation
 cytopathogenic
-curtsies
 confricamenta
 cymba
 cratsmanship
