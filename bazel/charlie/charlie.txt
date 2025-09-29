@@ -24354,6 +24354,7 @@ crowl
 chapeau
 creation
 chuckram
+cyclometer
 crull
 confucianist
 corncutting
@@ -29339,7 +29340,6 @@ cryptoscope
 cryptoscopy
 cryptosplenetic
 cuddleable
-cyclometer
 cofferlike
 cryptous
 cryptovalence
