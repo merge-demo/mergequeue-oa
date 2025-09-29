@@ -12607,6 +12607,7 @@ crom
 citolers
 crimmers
 chirpier
+crumblier
 chronometers
 chronometrically
 chronon
@@ -31279,7 +31280,6 @@ cribbled
 catatonias
 curby
 counterdefender
-crumblier
 curbings
 coelomocoela
 curbline
