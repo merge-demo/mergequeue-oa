@@ -25615,7 +25615,6 @@ cantador
 confinedness
 completed
 corpuscularity
-corpusculous
 contortive
 concedes
 chairlift
@@ -27904,6 +27903,7 @@ crackliest
 copperplated
 capillation
 clockface
+corpusculous
 convergement
 crackmans
 cracknel

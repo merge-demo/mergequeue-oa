@@ -2811,6 +2811,7 @@ firsthand
 falcial
 finlander
 flattops
+floatmaker
 fetas
 fumigatories
 fcomp
@@ -6405,7 +6406,6 @@ fecundatory
 formularization
 flathead
 furanoside
-floatmaker
 fireworm
 figurehead
 fatiguabilities
