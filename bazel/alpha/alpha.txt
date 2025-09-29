@@ -13130,7 +13130,6 @@ addossed
 aurifex
 anisomeric
 autosome
-apoturmeric
 arundinaceous
 aurochses
 antimerger
@@ -22315,6 +22314,7 @@ acetotoluide
 aryanism
 aswash
 abiotic
+apoturmeric
 adyton
 aristarchy
 assailant

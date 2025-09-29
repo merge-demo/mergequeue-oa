@@ -14609,6 +14609,7 @@ cohogs
 catelectrotonus
 chandelling
 cystidea
+clefted
 cystinosis
 carpetbeater
 cotehardie
@@ -18533,7 +18534,6 @@ cohabitate
 cohabitation
 cohabited
 cohabiting
-clefted
 coharmonious
 congressing
 coharmonize
