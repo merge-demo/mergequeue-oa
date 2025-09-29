@@ -3891,6 +3891,7 @@ flashlamps
 finaglers
 finalization
 futile
+formatter
 filleting
 feckless
 figurato
@@ -8461,7 +8462,6 @@ fortin
 falsiteit
 frondesce
 factorized
-formatter
 father
 floridans
 flunkeyite
