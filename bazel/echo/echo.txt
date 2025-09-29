@@ -1793,7 +1793,6 @@ eyespots
 epexegetically
 eyewaiter
 eogaea
-episepalous
 emanium
 esrogim
 emigrant
@@ -13519,6 +13518,7 @@ epiphenomenally
 elopements
 exscissor
 extrafloral
+episepalous
 exscriptural
 execrating
 extemporarily
