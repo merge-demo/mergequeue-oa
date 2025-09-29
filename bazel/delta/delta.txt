@@ -1510,7 +1510,6 @@ dcb
 disservice
 depressure
 demilitarizes
-drawbolt
 dingbats
 dowsets
 deformers
@@ -14324,6 +14323,7 @@ directorially
 damaskeening
 disubstitution
 ditto
+drawbolt
 disperato
 dinnery
 dyad
