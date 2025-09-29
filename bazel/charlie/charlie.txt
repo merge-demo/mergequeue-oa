@@ -7668,6 +7668,7 @@ cowerer
 coes
 cotangent
 cerialia
+cerithiidae
 chuet
 cerianthidae
 convolvulin
@@ -24892,7 +24893,6 @@ corallinaceous
 contrariwise
 coralline
 cuichunchulli
-cerithiidae
 citronalis
 chaptering
 canonizant

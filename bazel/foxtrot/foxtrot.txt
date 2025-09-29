@@ -5245,7 +5245,6 @@ flavourful
 fieldy
 flavourless
 funned
-flavourous
 fideicommissa
 frostbird
 fockle
@@ -11487,6 +11486,7 @@ figural
 finnmarks
 furthest
 flittering
+flavourous
 firmity
 fiercened
 furtively
