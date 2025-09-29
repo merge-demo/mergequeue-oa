@@ -3998,6 +3998,7 @@ beaks
 beala
 burglarproofing
 buchu
+barbs
 butled
 beambird
 beeve
@@ -11532,7 +11533,6 @@ bestows
 breathableness
 behemoths
 bocedization
-barbs
 behemoth
 blurb
 blurbist
