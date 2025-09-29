@@ -2212,7 +2212,6 @@ galas
 gaster
 gingle
 gastrocatarrhal
-goodbyes
 ganefs
 gnomonology
 generosities
@@ -2791,6 +2790,7 @@ gossan
 gybing
 grenadines
 goosehouse
+goodbyes
 genuflection
 gallates
 galactophlysis
