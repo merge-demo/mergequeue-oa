@@ -1107,6 +1107,7 @@ globalization
 ganofs
 geison
 ganoidian
+gastronomes
 graptolitoidea
 gaillardia
 geonyctitropic
@@ -10019,7 +10020,6 @@ gesneriaceous
 genetoid
 geomancies
 gangliac
-gastronomes
 gleans
 gazebos
 glaistig
