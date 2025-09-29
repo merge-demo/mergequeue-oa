@@ -4469,7 +4469,6 @@ coffrets
 caoutchouc
 consented
 carnages
-carnalite
 congoes
 cossette
 culverin
@@ -6534,6 +6533,7 @@ cazique
 cb
 citizens
 coeditorship
+carnalite
 chipchap
 ceruleum
 cachemia
