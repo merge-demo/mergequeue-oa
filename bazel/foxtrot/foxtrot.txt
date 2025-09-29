@@ -671,7 +671,6 @@ forerib
 frissons
 formism
 flan
-folklorish
 fellow
 feijoa
 finenesses
@@ -731,6 +730,7 @@ famuli
 frustrater
 fana
 feoffment
+folklorish
 fluxion
 feministics
 fragmentate
