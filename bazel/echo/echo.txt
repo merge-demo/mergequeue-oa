@@ -7515,7 +7515,6 @@ epibatholithic
 electrodepositor
 ensignhood
 enviously
-estoil
 externate
 encyc
 elevato
@@ -12716,6 +12715,7 @@ epha
 espressivo
 englishman
 exorable
+estoil
 exactingness
 etiolin
 eradication
