@@ -681,7 +681,6 @@ animadversion
 antiaesthetic
 aboulia
 antinomy
-aboulic
 amyloplastic
 abounder
 acrolithic
@@ -25131,6 +25130,7 @@ axises
 ambuscadoed
 alcoholuria
 aceologic
+aboulic
 axite
 allantoides
 axites
