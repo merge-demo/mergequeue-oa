@@ -3421,7 +3421,6 @@ dorism
 dogmatization
 doughbelly
 dorsabdominally
-dorsobranchiata
 dereism
 defoliate
 dichroscope
@@ -5708,6 +5707,7 @@ demigods
 dermoid
 daypeep
 dialysed
+dorsobranchiata
 disposit
 deplenish
 dialup
