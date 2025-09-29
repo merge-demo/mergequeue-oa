@@ -7516,7 +7516,6 @@ englishhood
 everywhence
 ephedras
 equiradial
-epiboulangerite
 efficacity
 entelechial
 extinguised
@@ -13714,6 +13713,7 @@ elatine
 endnote
 extratemporal
 esteemed
+epiboulangerite
 educating
 elfhood
 euphemised
