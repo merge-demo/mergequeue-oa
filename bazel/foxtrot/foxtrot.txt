@@ -4653,7 +4653,6 @@ fulani
 faeroe
 foliar
 ferrotungsten
-fulica
 flewit
 freety
 fayettism
@@ -7116,6 +7115,7 @@ friszka
 footboy
 fossette
 fliskiest
+fulica
 footboys
 floodgate
 fairling
