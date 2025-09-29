@@ -1511,6 +1511,7 @@ ettarre
 emmetropism
 ectosphenoid
 egesta
+esophagometer
 eggberries
 enfranchising
 eurythermal
@@ -9595,7 +9596,6 @@ euryale
 esophago
 esophagogastroscopy
 entrike
-esophagometer
 emotionalized
 eupomatiaceae
 evoked
