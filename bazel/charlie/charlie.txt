@@ -5547,6 +5547,7 @@ counterbarrage
 chillier
 catalyzer
 catchalls
+cotyloidal
 catalyzers
 cheque
 consolers
@@ -5685,7 +5686,6 @@ cakebread
 conicoid
 clerkage
 carolean
-cotyloidal
 cannon
 capitulated
 chinker
