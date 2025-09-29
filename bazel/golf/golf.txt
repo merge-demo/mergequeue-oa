@@ -5788,6 +5788,7 @@ grasshopperish
 gastrodisk
 glowering
 glowingly
+greensward
 glows
 grinny
 gobiesociform
@@ -7307,7 +7308,6 @@ gossiped
 glaive
 gossipee
 griffon
-greensward
 glyoxime
 generalizers
 glomus
