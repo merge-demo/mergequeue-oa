@@ -128,7 +128,6 @@ becard
 boomer
 biriani
 brayer
-babion
 berengarianism
 brimmer
 brabantine
@@ -16647,6 +16646,7 @@ bids
 bistorta
 bedfoot
 bucktooth
+babion
 bronzitite
 beggingwise
 bucktoothed

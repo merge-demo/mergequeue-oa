@@ -402,7 +402,6 @@ galbula
 gelding
 glidewort
 galaxes
-gispin
 galaxias
 gynecol
 gotham
@@ -6927,6 +6926,7 @@ gruppetto
 gamut
 goodwillie
 gilgie
+gispin
 gelatinize
 galoshed
 gorgonise
