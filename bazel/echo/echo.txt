@@ -3621,6 +3621,7 @@ enwheeled
 embrectomy
 emergency
 epiphloedic
+epileny
 embrica
 embryectomy
 essaylet
@@ -7890,7 +7891,6 @@ endorsation
 epeirid
 extrabuccal
 experimentation
-epileny
 endopeptidase
 enkindled
 extensible

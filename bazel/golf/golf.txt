@@ -1667,6 +1667,7 @@ guadua
 gastroduodenostomy
 gastritis
 ganodont
+gallingly
 gamed
 gommier
 grusian
@@ -8185,7 +8186,6 @@ graphitize
 glacioaqueous
 goldbug
 greenkeeper
-gallingly
 gutturalising
 gorgoniacea
 greater
