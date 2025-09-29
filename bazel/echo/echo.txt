@@ -3385,7 +3385,6 @@ embarricado
 embarring
 encomy
 elementoid
-ethnarchy
 enosises
 emetophobia
 ephoral
@@ -7387,6 +7386,7 @@ exuviate
 eurygnathous
 encloses
 exonship
+ethnarchy
 epithetical
 extollment
 enarthrodial

@@ -3563,7 +3563,6 @@ dowers
 dorsomedian
 desiderative
 dibs
-dinornithiformes
 degenerate
 desulphurizer
 diagrammatize
@@ -5436,6 +5435,7 @@ dialysation
 denaturiser
 drongos
 doziness
+dinornithiformes
 dustheaps
 dysphoria
 dowiness
