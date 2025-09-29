@@ -9316,7 +9316,6 @@ dtset
 detersive
 depletable
 dietrichite
-dayglow
 duvetine
 delisted
 dominule
@@ -17058,6 +17057,7 @@ destining
 dunning
 documentarian
 demipillar
+dayglow
 dreiling
 disjoined
 diacritically
