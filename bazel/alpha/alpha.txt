@@ -9177,7 +9177,6 @@ aloin
 aloins
 acidoid
 alois
-aloysia
 apepsy
 aniellidae
 aloisiite
@@ -17895,6 +17894,7 @@ aprickle
 apricot
 antarctica
 ablesse
+aloysia
 anears
 alcoholize
 aesculaceae
