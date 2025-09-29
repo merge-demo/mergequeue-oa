@@ -4917,7 +4917,6 @@ fourscore
 flakiest
 forged
 firebote
-frequentable
 flambeau
 foamier
 fixate
@@ -11423,6 +11422,7 @@ few
 furomethyl
 furcated
 fishings
+frequentable
 furfuraceously
 fingerlike
 furred
