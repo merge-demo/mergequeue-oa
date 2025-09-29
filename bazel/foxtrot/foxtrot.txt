@@ -3982,7 +3982,6 @@ ferthumlungur
 forfends
 fingerer
 flaunch
-fingerers
 feed
 fono
 florissant
@@ -8492,6 +8491,7 @@ fervorless
 farnovian
 frumpishness
 fiuman
+fingerers
 formyls
 fanaticising
 forbearance
