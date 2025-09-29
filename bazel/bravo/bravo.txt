@@ -4423,7 +4423,6 @@ bustling
 becry
 becrime
 bedemen
-betrayment
 bruskness
 beira
 bronchiectatic
@@ -14206,6 +14205,7 @@ brassware
 blacktop
 buttgenbachite
 bobbie
+betrayment
 bradyseismical
 beslave
 badrans

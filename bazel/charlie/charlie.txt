@@ -6893,6 +6893,7 @@ cowal
 celtish
 celtism
 celtium
+cisleithan
 cataphrenia
 cotyla
 clockroom
@@ -14522,7 +14523,6 @@ clonorchis
 courante
 cising
 cisjurane
-cisleithan
 cismontanism
 counterappeal
 cisplatine

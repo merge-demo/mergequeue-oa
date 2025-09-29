@@ -13002,7 +13002,6 @@ dispar
 decanter
 diabolised
 disparagement
-diiodo
 didunculus
 disparagements
 dimberdamber
@@ -16236,6 +16235,7 @@ dhows
 dovehouse
 dovelike
 downers
+diiodo
 dephosphorization
 decadarch
 disconsolacy
