@@ -4515,6 +4515,7 @@ gambrel
 gumwoods
 gills
 graminiform
+globule
 gerbille
 gigantomachia
 gmelinite
@@ -8234,7 +8235,6 @@ grapier
 gasthaus
 gusseting
 glossographer
-globule
 graping
 grappa
 grandaunts
