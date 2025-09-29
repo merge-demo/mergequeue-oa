@@ -3659,7 +3659,6 @@ gnathite
 goalmouth
 gyrencephalic
 giottesque
-gracilariid
 ghostier
 ghebeta
 galah
@@ -7959,6 +7958,7 @@ grapnels
 glaucine
 gunstocking
 gastronomy
+gracilariid
 gastronomics
 gunstock
 gossiper
