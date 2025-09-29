@@ -5155,6 +5155,7 @@ derivatives
 dahabeahs
 dextrosinistral
 diadumenus
+disjunctions
 dionym
 detonated
 disulphoxide
@@ -11782,7 +11783,6 @@ dewily
 depreciatory
 dodecapetalous
 discrested
-disjunctions
 default
 dermutation
 discretion
