@@ -6161,6 +6161,7 @@ flowerwork
 flowing
 fresnel
 fascisticization
+flapped
 flowingness
 forestless
 flowmeter
@@ -8523,7 +8524,6 @@ farctate
 forks
 flacourtia
 fished
-flapped
 foreanswer
 forehatchway
 flusterate
