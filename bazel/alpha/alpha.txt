@@ -6104,7 +6104,6 @@ agraffe
 alimental
 amoebida
 akinesis
-analemmatic
 agral
 adiposities
 agrammaphasia
@@ -22794,6 +22793,7 @@ ashrama
 archpriesthood
 amerinds
 amassments
+analemmatic
 atriopore
 amidward
 atrip
