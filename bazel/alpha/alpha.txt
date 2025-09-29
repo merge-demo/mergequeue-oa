@@ -9857,7 +9857,6 @@ aperu
 agrufe
 albinuria
 amberoid
-antinome
 anomoeomery
 acinotubular
 acrodonts
@@ -18936,6 +18935,7 @@ archpirate
 adactylism
 asinine
 archpolitician
+antinome
 archprelate
 archprelatic
 archprelatical
