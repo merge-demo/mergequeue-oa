@@ -7259,7 +7259,6 @@ epidemiology
 energetics
 eccaleobion
 ensealed
-eonism
 eopalaeozoic
 egocentrically
 erysipelothrix
@@ -14066,6 +14065,7 @@ extracurriculum
 enfect
 errantry
 entoplastral
+eonism
 epigastral
 expanses
 equilibrative
