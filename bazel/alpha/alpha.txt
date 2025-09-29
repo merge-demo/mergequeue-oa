@@ -1055,7 +1055,6 @@ abumbrellar
 ayudante
 anjan
 albertustaler
-amnia
 ancestorial
 autoproteolysis
 abuna
@@ -11098,6 +11097,7 @@ antireforming
 airier
 acold
 ascaricide
+amnia
 amphicarpium
 aluconidae
 arendator
