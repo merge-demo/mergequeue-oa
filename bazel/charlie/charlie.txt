@@ -8223,7 +8223,6 @@ calculated
 consensuses
 counterferment
 coelenterate
-caracoli
 chitties
 chandam
 curatical
@@ -28402,6 +28401,7 @@ cations
 creaght
 crystallized
 creak
+caracoli
 catalecticant
 caesarize
 chirologically
