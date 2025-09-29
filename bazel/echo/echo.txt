@@ -3110,7 +3110,6 @@ externalizing
 eloigned
 euphonetic
 emissive
-empanelled
 endoscopy
 earthsmoke
 eloigning
@@ -6442,6 +6441,7 @@ ecophene
 electromyography
 espave
 espousal
+empanelled
 eventlessness
 expandibility
 errand
