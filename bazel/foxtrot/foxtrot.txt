@@ -3222,7 +3222,6 @@ fougade
 flexibly
 forgoes
 fusicoccum
-ficklest
 ficklety
 forel
 fosterable
@@ -5058,6 +5057,7 @@ frowziness
 fullmouth
 frsiket
 fowler
+ficklest
 fluorescence
 faky
 flapping
