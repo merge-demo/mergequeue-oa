@@ -10158,7 +10158,6 @@ alchemister
 amelcorns
 amelification
 ameliorable
-ameliorableness
 amylocellulose
 auxometer
 anhydrated
@@ -18265,6 +18264,7 @@ anaclinal
 aspredinidae
 arleng
 advises
+ameliorableness
 actinism
 amygdaloidal
 ararobas
