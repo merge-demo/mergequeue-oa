@@ -4935,6 +4935,7 @@ demonography
 demonographies
 deducement
 dosimetrist
+doxa
 dismality
 dishmonger
 dehorting
@@ -16459,7 +16460,6 @@ drolled
 drammed
 diplacanthidae
 draggletailedness
-doxa
 diapsidan
 doxasticon
 demagogs
