@@ -16663,6 +16663,7 @@ clos
 copromisor
 clodknocker
 closable
+coman
 closeable
 closed
 closefistedness
@@ -19764,7 +19765,6 @@ chiliaedron
 comals
 comamie
 carrara
-coman
 comanche
 comanchean
 cohesion
