@@ -15374,7 +15374,6 @@ bereaved
 batonnier
 bystander
 brimly
-bifollicular
 beardtongue
 banshees
 breakdowns
@@ -16418,6 +16417,7 @@ bdellium
 bedlamism
 branchlike
 brutalism
+bifollicular
 bluestockingish
 brutalist
 brutalities
