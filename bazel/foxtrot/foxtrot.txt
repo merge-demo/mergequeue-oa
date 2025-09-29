@@ -1479,7 +1479,6 @@ feods
 frawn
 flaillike
 fissidentaceous
-fibry
 flunkyhood
 floatability
 fungillus
@@ -3966,6 +3965,7 @@ foreshown
 flatbrod
 farcical
 follyproof
+fibry
 farouk
 fossil
 footsteps
