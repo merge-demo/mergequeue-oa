@@ -5524,7 +5524,6 @@ bedframe
 basilican
 bewreak
 bekiss
-bituminize
 barbaric
 bekisses
 bouleuterion
@@ -17359,6 +17358,7 @@ blackouts
 bitume
 boats
 bunkers
+bituminize
 beard
 blackfellows
 burler
