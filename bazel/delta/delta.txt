@@ -476,7 +476,6 @@ discept
 danseuse
 disseats
 doxie
-doers
 demisecond
 daysides
 deprevation
@@ -3633,6 +3632,7 @@ deplorers
 disrupt
 deadheads
 dewal
+doers
 disgracing
 discontinuable
 decimalisation
