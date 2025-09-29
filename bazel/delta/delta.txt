@@ -3616,7 +3616,6 @@ degold
 disleal
 disillusionizer
 decathlon
-disinhibition
 decomposite
 denaturant
 debacles
@@ -11276,6 +11275,7 @@ deposure
 duncishly
 dieretic
 dystrophy
+disinhibition
 disbursing
 dreamworld
 depolymerized
