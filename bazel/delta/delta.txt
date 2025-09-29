@@ -4648,6 +4648,7 @@ dendrolagus
 dustlike
 dolichocrany
 demiox
+daimio
 dithematic
 disenthrall
 dysporomorph
@@ -6770,7 +6771,6 @@ detestably
 diathermic
 decapetalous
 diotocardia
-daimio
 demultiplex
 demonlike
 dendroceratina
