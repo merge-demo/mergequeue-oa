@@ -11888,7 +11888,6 @@ chorale
 choraleon
 chorales
 comradery
-concio
 chorally
 cycloheptane
 chorals
@@ -21712,6 +21711,7 @@ clearwater
 celibataire
 contraindicant
 canvas
+concio
 cancelli
 condescent
 cholelithiasis
