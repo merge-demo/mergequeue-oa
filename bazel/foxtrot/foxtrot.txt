@@ -1608,7 +1608,6 @@ floriage
 frijol
 fervescence
 flannel
-fawkener
 fawn
 funfair
 fawned
@@ -5345,6 +5344,7 @@ fluorites
 feoffee
 fleadock
 fleahopper
+fawkener
 fructuously
 familyish
 finiking
