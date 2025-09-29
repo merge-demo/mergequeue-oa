@@ -513,6 +513,7 @@ distilling
 disvulnerability
 droughtiest
 demonetization
+dereferences
 deepwaterman
 dustblu
 disrupter
@@ -931,7 +932,6 @@ dipnoi
 densus
 dominating
 dodecanesian
-dereferences
 decapsulate
 dromiceius
 dextran
