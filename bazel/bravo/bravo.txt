@@ -1332,7 +1332,6 @@ brothellike
 barbed
 balases
 balat
-bedflower
 bibliophilist
 benzaldiphenyl
 balatte
@@ -2312,6 +2311,7 @@ briber
 barbita
 barbital
 brighteners
+bedflower
 barbituism
 bracero
 bibliopolar
