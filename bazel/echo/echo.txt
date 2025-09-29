@@ -1014,7 +1014,6 @@ euphonism
 educationary
 electropolar
 escargot
-edemas
 exinite
 exclaimingly
 eldership
@@ -1080,6 +1079,7 @@ esculic
 exostotic
 edible
 expeditive
+edemas
 embase
 endothelial
 embeddable
