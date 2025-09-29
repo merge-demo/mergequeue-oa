@@ -17675,6 +17675,7 @@ capnodium
 coccothrinax
 calabozo
 cocculiferous
+craniate
 cost
 corrivals
 chalazogamy
@@ -28266,7 +28267,6 @@ cephalothoracic
 chadors
 cran
 cabotages
-craniate
 crateriform
 cratering
 comatik
