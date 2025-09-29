@@ -13802,7 +13802,6 @@ brewership
 bistratal
 bourbonism
 bemaddening
-buriat
 bedfellowship
 brothy
 bigeminum
@@ -15606,6 +15605,7 @@ bepuzzlement
 broadish
 babool
 badgemen
+buriat
 bulbilis
 bienseance
 bands
