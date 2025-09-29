@@ -9194,7 +9194,6 @@ alop
 alopecias
 accroides
 alopecic
-antifermentative
 antrectomy
 alopeke
 alophas
@@ -12314,6 +12313,7 @@ anematosis
 anemias
 adstringe
 academian
+antifermentative
 adelarthrosomata
 anemically
 arccosine
