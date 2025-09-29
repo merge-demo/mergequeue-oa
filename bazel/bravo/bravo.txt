@@ -5895,7 +5895,6 @@ begirdles
 biskop
 basommatophora
 bunolophodont
-belonoid
 beqwete
 blocs
 belvedere
@@ -16666,6 +16665,7 @@ bucorvus
 bowknots
 billheading
 broomweed
+belonoid
 biconvex
 burrower
 bahama
