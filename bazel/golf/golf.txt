@@ -805,7 +805,6 @@ gravicembali
 gnarring
 gamblesomeness
 greenback
-genseng
 gambogian
 gombroons
 grangerise
@@ -4841,6 +4840,7 @@ gladiator
 guatemalan
 grooviest
 gummiferous
+genseng
 gladiatorial
 gagelike
 gatherer
