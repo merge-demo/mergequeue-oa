@@ -4954,6 +4954,7 @@ dispersive
 dermatopathic
 dovishness
 discompose
+daimonistic
 demonstrated
 dehiscing
 demonstrates
@@ -16164,7 +16165,6 @@ doughiness
 disorganised
 dwindle
 denshire
-daimonistic
 daktylon
 declaimed
 dermathemia
