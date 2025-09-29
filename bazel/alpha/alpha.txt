@@ -14055,7 +14055,6 @@ ascriptitii
 attempting
 allomorph
 agglutinant
-aeroscopic
 arent
 arbuscula
 amberjack
@@ -14208,6 +14207,7 @@ adjutancies
 awful
 acolyte
 anthotaxy
+aeroscopic
 anthotaxis
 andries
 aget

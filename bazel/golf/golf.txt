@@ -986,7 +986,6 @@ gordunite
 ganga
 gangamopteris
 givers
-gangava
 ghassanid
 goadlike
 gilse
@@ -4177,6 +4176,7 @@ greying
 ges
 geod
 ganef
+gangava
 grotesquery
 gulflike
 geniculum
