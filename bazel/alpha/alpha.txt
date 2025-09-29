@@ -12451,7 +12451,6 @@ afterwork
 alleviations
 amissing
 aneuploidy
-amenities
 amah
 aneuric
 avoidance
@@ -19496,6 +19495,7 @@ afghanis
 arousal
 assembly
 apometabolous
+amenities
 airbill
 alchemilla
 antsy

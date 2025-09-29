@@ -7897,7 +7897,6 @@ extensible
 exotospore
 entomeric
 exuccous
-exarchic
 expired
 eidola
 enlargement
@@ -11577,6 +11576,7 @@ exergual
 evonymuses
 electroencephalographically
 end
+exarchic
 evulsions
 ewery
 exciding
