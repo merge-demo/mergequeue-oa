@@ -4251,7 +4251,6 @@ dorsad
 dels
 demast
 djelfa
-dumpy
 diminuendoed
 dislocate
 deltahedra
@@ -7859,6 +7858,7 @@ devein
 dunst
 discriminativeness
 devotedness
+dumpy
 dialogistical
 demigauntlet
 defalcator
