@@ -5610,6 +5610,7 @@ bowssen
 barony
 blasphemousness
 biogeochemical
+bisync
 bibliotaph
 blamability
 bombes
@@ -9587,7 +9588,6 @@ benefactrix
 bermudian
 bandwagons
 borate
-bisync
 bicuspid
 beadhouses
 birthland

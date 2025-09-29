@@ -5005,7 +5005,6 @@ astragalectomy
 aether
 advected
 aseismatic
-allegorister
 ahrimanian
 affrication
 apicad
@@ -19679,6 +19678,7 @@ amphicyonidae
 apocalyptist
 autochthonous
 acutate
+allegorister
 amphibichnite
 armamentarium
 autoskeleton
