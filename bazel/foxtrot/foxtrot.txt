@@ -2272,6 +2272,7 @@ filamentiferous
 fantails
 folktale
 fulmineous
+finableness
 fraischeur
 fragging
 fluorocarbons
@@ -6686,7 +6687,6 @@ foofaraws
 furrier
 flaughtbred
 frequent
-finableness
 forecontrive
 fenner
 flingers
