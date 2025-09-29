@@ -2888,7 +2888,6 @@ decompensated
 doggoner
 deaconry
 drawplate
-digitized
 detains
 divagation
 drossier
@@ -16552,6 +16551,7 @@ docimastic
 dcolletage
 distill
 disdainable
+digitized
 drafter
 diomedes
 deus
