@@ -2116,7 +2116,6 @@ elastivity
 eleusine
 eyeblack
 externat
-erosional
 emperish
 equilibrio
 epipubes
@@ -6148,6 +6147,7 @@ etymologizable
 enrolling
 eyeshades
 endorachis
+erosional
 elephantiac
 enneagons
 enthrallment
