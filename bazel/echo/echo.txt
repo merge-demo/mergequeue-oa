@@ -3495,7 +3495,6 @@ erraticism
 emblemist
 exon
 emblemizing
-electrootiatrics
 exsiccative
 epilogized
 eproboscidea
@@ -12133,6 +12132,7 @@ excurvated
 extrados
 emphysematous
 esclavage
+electrootiatrics
 energise
 elasticin
 exuviating
