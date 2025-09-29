@@ -7880,7 +7880,6 @@ gliriform
 gooseberries
 grandad
 goggling
-gnomically
 gentilization
 grandads
 goracco
@@ -10495,6 +10494,7 @@ gregal
 genizero
 geyserite
 gaggers
+gnomically
 gynecic
 garbardine
 germigene
