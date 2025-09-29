@@ -1169,7 +1169,6 @@ frays
 footfeed
 federalese
 fascinator
-ferous
 flowerless
 flouters
 fantasied
@@ -3462,6 +3461,7 @@ fortunation
 forebowline
 frag
 franklinist
+ferous
 flaccidly
 firmisternial
 figgiest
