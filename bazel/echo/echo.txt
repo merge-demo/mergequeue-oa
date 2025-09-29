@@ -528,6 +528,7 @@ electrosurgeries
 extraphenomenal
 estate
 entosphenal
+exaudi
 echeneidae
 echevaria
 endobiotic
@@ -11791,7 +11792,6 @@ epiphytous
 enrolment
 elaphrium
 euryon
-exaudi
 esselen
 ethenoidal
 exaun
