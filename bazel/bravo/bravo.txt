@@ -3934,6 +3934,7 @@ battleward
 bondholder
 bowed
 bogs
+bituminized
 bumpiest
 bromometrical
 bisulphate
@@ -8070,7 +8071,6 @@ balalaika
 broodiness
 biometrics
 bridecup
-bituminized
 billeters
 bicursal
 broadgage
