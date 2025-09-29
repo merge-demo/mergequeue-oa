@@ -143,6 +143,7 @@ gratelike
 garrot
 geryon
 galipot
+geometrized
 graniteware
 gasthauser
 guarantees
@@ -2887,7 +2888,6 @@ gerontocracy
 gigots
 glycollic
 glints
-geometrized
 gallipots
 glittering
 gledes
