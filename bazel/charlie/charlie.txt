@@ -2551,7 +2551,6 @@ confraternities
 choosable
 candlelighting
 candlelit
-coituses
 cranemen
 candlemas
 childproof
@@ -18250,6 +18249,7 @@ coessentially
 coestablishment
 cephalotome
 coetaneous
+coituses
 coeternity
 crystalize
 crankplate
