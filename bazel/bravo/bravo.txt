@@ -12298,7 +12298,6 @@ betrayer
 bramantesque
 bombline
 bartholomewtide
-bowdrill
 bombast
 bezzi
 boterol
@@ -12915,6 +12914,7 @@ basilect
 broadcasted
 blunging
 bootery
+bowdrill
 booth
 bloodsucking
 bim

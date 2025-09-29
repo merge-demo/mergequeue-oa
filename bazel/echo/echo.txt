@@ -10228,6 +10228,7 @@ excavators
 ethyldichloroarsine
 emphraxis
 ethylenimine
+enliven
 esperanto
 epistolist
 epigenous
@@ -14036,7 +14037,6 @@ exch
 ecclesiasticalism
 escoting
 eyeline
-enliven
 eidolons
 excandescency
 embellishments
