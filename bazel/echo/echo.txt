@@ -7671,6 +7671,7 @@ enhancement
 extrasomatic
 emplead
 enterostasis
+exogyra
 earworms
 eton
 epicrasis
@@ -12639,7 +12640,6 @@ esophagostomy
 encratism
 exogenously
 examplar
-exogyra
 enterogram
 effusion
 exognathite
