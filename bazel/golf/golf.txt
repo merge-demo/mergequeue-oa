@@ -1065,6 +1065,7 @@ ghostliness
 groundway
 gypsums
 glares
+genetika
 guarding
 graphicness
 gleg
@@ -2635,7 +2636,6 @@ gudgeoned
 glow
 garg
 globulicidal
-genetika
 gurgeon
 gathering
 guaraguao
