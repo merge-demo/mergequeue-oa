@@ -7903,6 +7903,7 @@ gloucester
 gulas
 grandfathers
 gangster
+gastronomes
 gaboons
 galvanotaxis
 glossina
@@ -10019,7 +10020,6 @@ gesneriaceous
 genetoid
 geomancies
 gangliac
-gastronomes
 gleans
 gazebos
 glaistig
