@@ -5245,7 +5245,6 @@ covenanted
 carpophore
 carinule
 cassocked
-carnaubyl
 chlorioninae
 chevrony
 cuculine
@@ -15999,6 +15998,7 @@ chlorocarbon
 cervicobuccal
 clerkships
 comrado
+carnaubyl
 clernly
 cramper
 covado
