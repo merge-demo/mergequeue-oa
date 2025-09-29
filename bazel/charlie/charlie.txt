@@ -17521,7 +17521,6 @@ coblentzian
 cobles
 cobleskill
 cobloaf
-cobnuts
 cobola
 coboss
 chitarrone
@@ -28391,6 +28390,7 @@ crystallized
 creak
 caracoli
 catalecticant
+cobnuts
 caesarize
 chirologically
 creaky
