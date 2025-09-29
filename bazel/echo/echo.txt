@@ -10231,7 +10231,6 @@ ethyldichloroarsine
 emphraxis
 ethylenimine
 esperanto
-edituate
 epistolist
 epigenous
 emanationist
@@ -11825,6 +11824,7 @@ excandescent
 explemental
 erythrochroic
 errs
+edituate
 endocrinopathy
 expenders
 excarnificate
