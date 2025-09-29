@@ -5375,6 +5375,7 @@ electively
 evangelium
 envisioned
 endotys
+eudaemonic
 endotracheal
 exuviated
 endovaccination
@@ -13483,7 +13484,6 @@ extraconstitutional
 exsanguinating
 exposing
 ethmoidal
-eudaemonic
 eucalypti
 equianharmonic
 egocentricities
