@@ -3918,7 +3918,6 @@ admirably
 admirals
 admiralty
 admiralties
-actinobacillotic
 atalan
 admiration
 apatheia
@@ -19485,6 +19484,7 @@ aryballus
 arybballi
 argol
 aricin
+actinobacillotic
 archichlamydeous
 arided
 astringing
