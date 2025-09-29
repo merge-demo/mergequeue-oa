@@ -5808,7 +5808,6 @@ catenas
 caudaite
 chincona
 catenate
-crooisite
 catenating
 catenation
 compositorial
@@ -19565,6 +19564,7 @@ coryphodont
 contacted
 compositous
 colostrous
+crooisite
 colostrum
 colotomy
 coemptive
