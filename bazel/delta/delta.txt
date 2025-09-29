@@ -11441,6 +11441,7 @@ discoactine
 degummer
 documentation
 deviations
+dogra
 deedeed
 drungar
 dehaites
@@ -18236,7 +18237,6 @@ disappearances
 debugger
 dzungar
 dhoti
-dogra
 duneland
 dunelike
 derivates
