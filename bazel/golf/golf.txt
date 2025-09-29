@@ -659,7 +659,6 @@ glint
 gallows
 giddify
 geoaesthesia
-gript
 giterne
 grapelet
 gelosine
@@ -6097,6 +6096,7 @@ gastroid
 geissorhiza
 garish
 genep
+gript
 gallbladder
 geitonogamous
 gnomologist
