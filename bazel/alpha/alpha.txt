@@ -6863,7 +6863,6 @@ apasttra
 ajuga
 ajutment
 akal
-akalimba
 akamai
 akan
 akania
@@ -24001,6 +24000,7 @@ apogenous
 arrtez
 autogiros
 autoette
+akalimba
 accessories
 azimide
 antigenicity
