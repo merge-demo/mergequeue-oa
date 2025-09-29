@@ -13874,6 +13874,7 @@ dotardy
 druthers
 demisable
 dolose
+dirtplate
 diagnoses
 deaf
 deckles
@@ -15924,7 +15925,6 @@ detent
 dossman
 deputyship
 dorsopleural
-dirtplate
 doruck
 decatoic
 daimyo

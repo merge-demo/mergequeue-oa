@@ -21683,7 +21683,6 @@ assidual
 advowson
 assiege
 auricula
-assiette
 anticyclical
 agete
 assify
@@ -23577,6 +23576,7 @@ aurir
 auris
 antiboss
 auriscalp
+assiette
 auriscope
 auriscopic
 aurited
