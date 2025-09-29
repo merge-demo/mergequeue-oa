@@ -10882,7 +10882,6 @@ disincrease
 dispermy
 dyslogia
 discontinuous
-denaturise
 doddart
 disculpate
 diruption
@@ -13916,6 +13915,7 @@ dentalising
 dodding
 deutoplasm
 discreating
+denaturise
 dysnomy
 diagonal
 diplococci
