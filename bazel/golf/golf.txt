@@ -3010,7 +3010,6 @@ gyrally
 garboil
 gallicolous
 gulinula
-geminate
 guiding
 geomantically
 garnerage
@@ -8199,6 +8198,7 @@ gyrations
 gram
 graphological
 gluttonising
+geminate
 gastroblennorrhea
 ginmill
 graphologists
