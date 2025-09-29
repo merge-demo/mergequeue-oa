@@ -11409,6 +11409,7 @@ beflout
 brassily
 bemuffle
 butyraldehyde
+ban
 barad
 babuma
 behoof
@@ -16041,7 +16042,6 @@ backspacefile
 beano
 brotany
 blamable
-ban
 bizant
 bloodstain
 bins
