@@ -3096,7 +3096,6 @@ archfire
 antisyndicalism
 anagramming
 atolls
-acclimate
 aready
 abram
 augen
@@ -8593,6 +8592,7 @@ anconad
 aryl
 amanous
 agastreae
+acclimate
 alleve
 alleviate
 acajous
