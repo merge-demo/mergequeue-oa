@@ -3881,6 +3881,7 @@ emmett
 ectromelic
 epilog
 existentialism
+ebracteolate
 ethnic
 engelmann
 explicitly
@@ -9795,7 +9796,6 @@ exponentiate
 eustace
 embog
 espaliering
-ebracteolate
 enhanced
 escapade
 estaminet
