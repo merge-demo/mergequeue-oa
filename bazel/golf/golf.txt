@@ -2262,7 +2262,6 @@ gunroom
 gammoning
 giust
 glazily
-gonofs
 greengage
 geisa
 gadoid
@@ -4149,6 +4148,7 @@ gainful
 geographical
 gaggles
 gundogs
+gonofs
 groundnut
 gauds
 gnathites
