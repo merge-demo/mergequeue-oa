@@ -7459,6 +7459,7 @@ extraterrestrial
 encyclicals
 ephelcystic
 eunuchizing
+electroaffinity
 extinguishant
 ephemeralities
 effluvial
@@ -12241,7 +12242,6 @@ exegetics
 ecphorias
 entoiling
 ensheaths
-electroaffinity
 ensued
 eds
 emarginating
