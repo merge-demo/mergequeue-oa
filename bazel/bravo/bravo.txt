@@ -8832,7 +8832,6 @@ bungaloid
 berakot
 biocenology
 bactriticone
-bewitchedness
 bulgar
 burgraviate
 basoga
@@ -13686,6 +13685,7 @@ boid
 bookplate
 benighten
 bouse
+bewitchedness
 boused
 balija
 bouldery
