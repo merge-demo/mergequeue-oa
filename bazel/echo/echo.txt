@@ -2820,6 +2820,7 @@ electroluminescent
 embosk
 explicans
 enaluron
+endent
 elephantiasis
 elymi
 eliza
@@ -5602,7 +5603,6 @@ excesses
 ejaculator
 egling
 enforces
-endent
 endocentric
 earnings
 encouraging
