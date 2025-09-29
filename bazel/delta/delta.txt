@@ -2814,7 +2814,6 @@ detenus
 dustier
 daur
 desiring
-diaclasis
 decubiti
 ditheism
 dominionism
@@ -12902,6 +12901,7 @@ dicotyledones
 disuniformity
 dognapping
 duply
+diaclasis
 detruncate
 duff
 diligentness
