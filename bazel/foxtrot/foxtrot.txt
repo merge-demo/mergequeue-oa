@@ -2409,7 +2409,6 @@ furls
 fortnightly
 fermail
 flabellifoliate
-fobbed
 festivities
 fatigate
 freemasons
@@ -6178,6 +6177,7 @@ flrie
 frothier
 fluavile
 favoritism
+fobbed
 flubbed
 filmically
 filets
