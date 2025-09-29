@@ -4185,6 +4185,7 @@ emptor
 eggeater
 evagination
 emprizes
+exits
 epicycloid
 erubescite
 ebbs
@@ -13371,7 +13372,6 @@ expositorial
 ephererist
 ethnopsychological
 enfevers
-exits
 expositorially
 expositors
 ebracteate
