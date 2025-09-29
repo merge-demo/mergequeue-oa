@@ -4598,6 +4598,7 @@ causeless
 cementite
 caroluses
 carom
+cott
 carombolette
 caromel
 caroming
@@ -10016,7 +10017,6 @@ chemosorption
 chermish
 cocopans
 chernites
-cott
 chernomorish
 cooried
 chernozem
