@@ -2203,7 +2203,6 @@ baggara
 barbary
 bioecology
 baculiferous
-bast
 bellyfulls
 bridgebote
 barbarianizing
@@ -11565,6 +11564,7 @@ bloodlust
 boatmanship
 boiloffs
 bovinely
+bast
 bedlamite
 broaden
 blurter
