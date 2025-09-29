@@ -4753,7 +4753,6 @@ bedtime
 blameable
 brackens
 bazoos
-buttercups
 bisons
 bath
 brainstorm
@@ -8361,6 +8360,7 @@ beryllia
 babu
 brachygraphic
 bulgier
+buttercups
 bistoury
 bolshevizing
 bismuthal
