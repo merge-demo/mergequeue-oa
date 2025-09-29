@@ -2717,7 +2717,6 @@ agraffee
 acquirer
 acromastitis
 antiscience
-acromelalgia
 acrometer
 ambocoelia
 acromia
@@ -9705,6 +9704,7 @@ amaranthaceae
 anthologist
 azimethylene
 ataraxy
+acromelalgia
 aforeward
 angioglioma
 amaranthus
