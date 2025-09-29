@@ -645,7 +645,6 @@ fertilisation
 fanum
 fauster
 frowstier
-flagmen
 falsity
 freeborn
 faltboat
@@ -9234,6 +9233,7 @@ frillback
 fetuses
 floccus
 ficin
+flagmen
 feminate
 fissioning
 flopped
