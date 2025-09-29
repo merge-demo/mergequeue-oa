@@ -5056,7 +5056,6 @@ cuber
 cellepora
 canaliform
 credensive
-clons
 cocaigne
 crowsteps
 cancriform
@@ -20970,6 +20969,7 @@ cyanamids
 civilise
 catechumen
 compradore
+clons
 compregnate
 crimogenic
 cosmognosis
