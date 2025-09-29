@@ -7609,7 +7609,6 @@ frogging
 foreffelt
 folioed
 flotten
-feminised
 fester
 fabular
 funfest
@@ -11502,6 +11501,7 @@ fastest
 flammable
 flouncy
 fluently
+feminised
 floyd
 fusariose
 fanfold
