@@ -8198,7 +8198,6 @@ encydlopaedic
 enddamaging
 equidominant
 equidistantly
-ergophobia
 euthenic
 eeten
 earlobe
@@ -8587,6 +8586,7 @@ embouchures
 encefalon
 espavel
 edenization
+ergophobia
 equielliptical
 equigranular
 equilateral
