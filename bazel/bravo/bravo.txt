@@ -12600,7 +12600,6 @@ beshake
 bonspell
 buttresses
 barnacling
-balate
 bonteboks
 beatniks
 beggarwise
@@ -15283,6 +15282,7 @@ burial
 bandurrias
 brigatry
 brigetty
+balate
 beliquoring
 burgensic
 barret
