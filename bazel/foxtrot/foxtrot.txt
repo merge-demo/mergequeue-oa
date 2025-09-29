@@ -5600,6 +5600,7 @@ facund
 foetor
 firebolt
 fernery
+funeration
 forepassed
 fireboot
 fuci
@@ -5642,7 +5643,6 @@ fragility
 frumenties
 fibrine
 freckles
-funeration
 forbearant
 finite
 friended
