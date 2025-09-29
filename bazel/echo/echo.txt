@@ -5726,7 +5726,6 @@ engystomatidae
 enatic
 etherol
 escherichia
-extinguish
 ephorus
 enticers
 englacial
@@ -12303,6 +12302,7 @@ exercitation
 elecampane
 effortless
 equilin
+extinguish
 epochal
 elvanitic
 exercitorian
