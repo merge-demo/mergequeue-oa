@@ -3887,6 +3887,7 @@ glamorously
 galleried
 gisla
 guidance
+getmjlkost
 ghat
 geomorphy
 gnoff
@@ -7895,7 +7896,6 @@ gymnurinae
 guesdist
 gymnospermy
 glumness
-getmjlkost
 gametogonium
 glimmerite
 gregaloid
