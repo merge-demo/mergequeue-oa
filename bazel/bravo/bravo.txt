@@ -6907,7 +6907,6 @@ bite
 brisance
 bahera
 bepaid
-beslobber
 bespread
 basilic
 besmile
@@ -7246,6 +7245,7 @@ bocklogged
 bullidae
 barracan
 baculere
+beslobber
 beethoven
 becumber
 brasilia

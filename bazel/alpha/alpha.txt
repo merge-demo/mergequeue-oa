@@ -4480,7 +4480,6 @@ advt
 aurigal
 adward
 apogamy
-adwesch
 aeacides
 aechmophorus
 athenian
@@ -5967,6 +5966,7 @@ aback
 anilidic
 awaken
 alcyones
+adwesch
 albumenizing
 adversaria
 antimachination
