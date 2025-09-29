@@ -21214,7 +21214,6 @@ czardom
 carnify
 chromidae
 chambermaids
-chafflike
 chrysophan
 conceiver
 conceiving
@@ -27973,6 +27972,7 @@ carthusian
 chart
 cessions
 celtic
+chafflike
 craichy
 crayer
 crayfishes
