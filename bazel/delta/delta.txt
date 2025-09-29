@@ -5605,7 +5605,6 @@ dictyosiphonaceae
 dedecoration
 diamine
 doctrinable
-disconvenience
 demonstratability
 desmognathae
 deperdite
@@ -16681,6 +16680,7 @@ deduce
 demesman
 diggings
 distinguishingly
+disconvenience
 dilutant
 diffeomorphic
 demeaning
