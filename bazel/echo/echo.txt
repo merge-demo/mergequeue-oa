@@ -8496,6 +8496,7 @@ ethnologer
 equal
 eosinlike
 equalises
+estriate
 erectness
 executorial
 enwrapping
@@ -9298,7 +9299,6 @@ entomolegist
 erthen
 eumorphous
 erthly
-estriate
 ericaceous
 enticeful
 espieglerie
