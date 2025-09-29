@@ -2023,7 +2023,6 @@ giggly
 gel
 glutethimide
 gelatiniform
-gases
 gaveled
 gibbosities
 gnomologic
@@ -4896,6 +4895,7 @@ griper
 glossotomy
 geodal
 glycerinize
+gases
 gorier
 gavotted
 glaiks
