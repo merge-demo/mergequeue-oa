@@ -7168,6 +7168,7 @@ greenthumbed
 geotectonics
 grassfinch
 geocratic
+grapples
 gape
 gastriloquial
 gorgosaurus
@@ -8241,7 +8242,6 @@ grappa
 grandaunts
 gruff
 gentians
-grapples
 gallah
 grappling
 germanish
