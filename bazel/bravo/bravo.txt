@@ -3338,7 +3338,6 @@ basifies
 bayberries
 breast
 balsam
-bellote
 buoyant
 bren
 bethanks
@@ -11345,6 +11344,7 @@ bakeapple
 bendingly
 blockmaking
 beguiled
+bellote
 bedabbled
 buff
 buntings
