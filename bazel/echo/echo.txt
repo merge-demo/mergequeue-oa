@@ -756,7 +756,6 @@ ecaudate
 echinocaris
 evangelism
 extorsive
-emotive
 enabling
 embryoctony
 equilibrist
@@ -11089,6 +11088,7 @@ eurytus
 erythrolysin
 engagedness
 enlisted
+emotive
 electrocapillary
 energized
 evans
