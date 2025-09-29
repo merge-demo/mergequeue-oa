@@ -21604,6 +21604,7 @@ cheerlessly
 comblike
 concretor
 climes
+crawlerize
 cupuliform
 cupromanganese
 certainest
@@ -28333,7 +28334,6 @@ crawley
 crunch
 chaptalized
 contributing
-crawlerize
 comptible
 crawlers
 creamometer

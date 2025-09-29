@@ -7088,7 +7088,6 @@ epicorolline
 epimer
 ectropionization
 egotisms
-ectocinereal
 ethine
 earbob
 evejar
@@ -13178,6 +13177,7 @@ expiable
 excubitorium
 evenglow
 ewer
+ectocinereal
 embroil
 enties
 expiation
