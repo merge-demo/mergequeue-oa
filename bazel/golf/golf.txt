@@ -611,7 +611,6 @@ glossopalatine
 grieben
 ghostweed
 graveside
-gloryless
 galliots
 goulashes
 gurnets
@@ -720,6 +719,7 @@ gluteal
 gypsydom
 gugglet
 galvanizers
+gloryless
 gujar
 gripple
 galvanizing
