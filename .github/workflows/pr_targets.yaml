@@ -63,7 +63,21 @@ jobs:
           TEMP_FILE=$(mktemp)
           echo '${{ toJSON(github) }}' > $TEMP_FILE
           echo "::endgroup::"
-          ./mq upload-targets --github-json=$TEMP_FILE
+          
+          # Run mq upload-targets and capture the response
+          RESPONSE=$(./mq upload-targets --github-json=$TEMP_FILE 2>&1)
+          echo "Response: $RESPONSE"
+          
+          # Extract status code from the response JSON
+          STATUS_CODE=$(echo "$RESPONSE" | jq -r '.status // empty')
+          
+          # Check if status code exists and is 200
+          if [ -z "$STATUS_CODE" ] || [ "$STATUS_CODE" != "200" ]; then
+            echo "Error: Expected status code 200, but got: $STATUS_CODE"
+            exit 1
+          fi
+          
+          echo "Success: Status code is 200"
         env:
           TRUNK_TOKEN: ${{ secrets.TRUNK_PROD_ORG_API_TOKEN }}
           GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
