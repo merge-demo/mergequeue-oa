@@ -5114,6 +5114,7 @@ disterr
 dolentissimo
 destitute
 densifying
+demonize
 dafla
 duikers
 dendrocoele
@@ -7184,7 +7185,6 @@ desulfurs
 decline
 dentical
 desulphurised
-demonize
 dollyman
 decompose
 derailleurs
