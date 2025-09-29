@@ -6396,7 +6396,6 @@ antiaggressive
 auksinu
 abthain
 apods
-awk
 aidful
 aiding
 adenanthera
@@ -24094,6 +24093,7 @@ artificers
 autoinfusion
 allelocatalytic
 antiritualism
+awk
 autoinoculation
 autointellectual
 athold
