@@ -6312,6 +6312,7 @@ graplines
 gamic
 greentail
 gastrectasis
+grandfilial
 gonake
 gradating
 goethian
@@ -8640,7 +8641,6 @@ gladwin
 glacification
 germanious
 greediest
-grandfilial
 gannetry
 grassily
 gasteromycete
