@@ -2392,7 +2392,6 @@ cancellations
 charitableness
 chutzpadik
 coruminacan
-canceller
 cancellous
 centerfold
 churchill
@@ -7465,6 +7464,7 @@ ceratioid
 caffle
 ceratitoidea
 ceratoblast
+canceller
 ceratobranchial
 ceratodidae
 ceratoduses
