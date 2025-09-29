@@ -3112,7 +3112,6 @@ ferngale
 fipple
 festoon
 fonds
-finned
 fapesmo
 frankfurt
 freres
@@ -9141,6 +9140,7 @@ footropes
 frothi
 flopover
 fluing
+finned
 fuzee
 fruitarian
 fractionalized
