@@ -2558,7 +2558,6 @@ electronervous
 eliasite
 embryonate
 epitomising
-electronically
 exclaimed
 ecad
 electrons
@@ -8658,6 +8657,7 @@ enchondromas
 exfoliate
 encharging
 encharge
+electronically
 episcleritis
 earth
 embanking
