@@ -2953,7 +2953,6 @@ greekism
 graben
 glutinousness
 geyseric
-gastrotheca
 glitterance
 geogeny
 gerara
@@ -5453,6 +5452,7 @@ groundskeep
 glisk
 gapperi
 gastruran
+gastrotheca
 glissader
 grangerising
 greenest
