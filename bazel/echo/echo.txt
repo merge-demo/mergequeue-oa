@@ -3131,6 +3131,7 @@ eloiner
 eloiners
 essentiate
 eburated
+encradle
 eskimoes
 euryphage
 eloining
@@ -10693,7 +10694,6 @@ etiquet
 endfile
 ellan
 elihu
-encradle
 excusable
 eugonic
 eggheaded
