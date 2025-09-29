@@ -2422,7 +2422,6 @@ demiflouncing
 dft
 decimalist
 displeases
-decimalizes
 deceived
 disaffiliation
 devisceration
@@ -13760,6 +13759,7 @@ dysspermatism
 disstate
 dissuaded
 delayed
+decimalizes
 debunk
 dacryadenalgia
 disdodecahedroid

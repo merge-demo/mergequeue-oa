@@ -11364,7 +11364,6 @@ exuvia
 encompass
 eponymist
 eventime
-errant
 entreated
 entosternite
 eventlessly
@@ -11901,6 +11900,7 @@ extraphysical
 endemiology
 eudaemonistically
 excursory
+errant
 equiradical
 excess
 equestrienne
