@@ -4559,7 +4559,6 @@ desiderated
 deception
 diaspora
 demicircular
-divulsor
 doxologies
 defused
 drinkableness
@@ -9572,6 +9571,7 @@ dendritiform
 disenchantment
 diglottist
 duumvir
+divulsor
 disgruntled
 despotisms
 dormin
