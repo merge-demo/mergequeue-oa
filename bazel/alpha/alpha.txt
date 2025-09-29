@@ -8361,6 +8361,7 @@ allomorphism
 alkanet
 allicholly
 alkanethiol
+amphictyons
 albugineous
 ausforming
 anatosaurus
@@ -11121,7 +11122,6 @@ amphictyon
 amphictyony
 amphictyonian
 achaenodon
-amphictyons
 anschauung
 amphid
 amphophile
