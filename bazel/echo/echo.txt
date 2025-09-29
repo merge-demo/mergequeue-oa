@@ -10701,7 +10701,6 @@ epithecicia
 entodermic
 eugubine
 entoderm
-epiphanised
 euhemerising
 engrasp
 emeerate
@@ -13228,6 +13227,7 @@ epiphytism
 eldred
 excluders
 exanthalose
+epiphanised
 enlightenedness
 explanted
 explanting

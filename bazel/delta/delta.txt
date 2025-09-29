@@ -5103,6 +5103,7 @@ disconnectiveness
 doomwatcher
 dendraxon
 decolorizer
+delfts
 delightsome
 dendritic
 dendritical
@@ -9524,7 +9525,6 @@ deuterostome
 dighted
 dighter
 decelerator
-delfts
 dialysers
 derivation
 dights
