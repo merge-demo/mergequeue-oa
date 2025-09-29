@@ -1285,6 +1285,7 @@ earthless
 effectiveness
 eesome
 escuages
+estoil
 explicatively
 ericophyte
 efface
@@ -7514,7 +7515,6 @@ epibatholithic
 electrodepositor
 ensignhood
 enviously
-estoil
 externate
 encyc
 elevato
