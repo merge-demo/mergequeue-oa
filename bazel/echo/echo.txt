@@ -6446,7 +6446,6 @@ eventlessness
 expandibility
 errand
 ensnared
-ensnarer
 echinostoma
 eobionts
 edental
@@ -13299,6 +13298,7 @@ entozoological
 exploratively
 explorement
 ectrogeny
+ensnarer
 eupterotidae
 egency
 estoile
