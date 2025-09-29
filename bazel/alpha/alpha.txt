@@ -12461,7 +12461,6 @@ admeasuring
 aesopic
 advene
 allochroite
-aneurysm
 aeriferous
 algosis
 aneurisms
@@ -24035,6 +24034,7 @@ aureoles
 antiresonator
 acustom
 ammanite
+aneurysm
 autoimmunizing
 acrorrheuma
 aecia
