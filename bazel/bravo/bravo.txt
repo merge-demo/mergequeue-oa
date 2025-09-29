@@ -607,7 +607,6 @@ beggiatoa
 bacteriochlorophyll
 bootprint
 bacteriocin
-bostangi
 bacteriodiagnosis
 bromates
 behearse
@@ -12723,6 +12722,7 @@ barrenwort
 becudgelling
 barging
 ballant
+bostangi
 busboys
 beclip
 booklear
