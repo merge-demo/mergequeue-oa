@@ -3876,6 +3876,7 @@ damone
 denouncers
 deityship
 diduce
+disrepair
 defenseman
 daphnite
 dagoes
@@ -5747,7 +5748,6 @@ desalination
 duals
 dekastere
 drivellers
-disrepair
 deplore
 deplumated
 denunciatively
