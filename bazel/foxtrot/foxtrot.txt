@@ -2778,7 +2778,6 @@ festivity
 forker
 feston
 flatly
-fluorimeter
 forgift
 fistulized
 forbearer
@@ -7413,6 +7412,7 @@ fillemot
 faience
 firefall
 fartlek
+fluorimeter
 floperoo
 firstship
 forcibility
