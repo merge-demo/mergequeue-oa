@@ -1450,7 +1450,6 @@ daunomycin
 dawnward
 dud
 drooliest
-dipropyl
 dawpate
 diminished
 dandruffy
@@ -3005,6 +3004,7 @@ discontinuances
 disemploying
 dinkly
 detailist
+dipropyl
 disgustingly
 deerstalking
 deerweed

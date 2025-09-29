@@ -11698,6 +11698,7 @@ bounders
 benthon
 bucket
 bartlett
+bearlet
 bobby
 bobbin
 bolivias
@@ -17571,7 +17572,6 @@ bequote
 banqueting
 buccolabial
 burring
-bearlet
 brenda
 burglarproofs
 burglars
