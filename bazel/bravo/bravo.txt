@@ -13252,7 +13252,6 @@ barrio
 binocle
 bosporanic
 bossage
-boastful
 bructeri
 bossdoms
 burghal
@@ -17970,6 +17969,7 @@ berettas
 botryopterid
 brutification
 bluehearts
+boastful
 beerily
 barbotte
 babbitt
