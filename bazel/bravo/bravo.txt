@@ -5515,7 +5515,6 @@ broombush
 bejumbling
 byzant
 bunko
-belatedness
 bekah
 buggyman
 bedframe
@@ -15331,6 +15330,7 @@ bixa
 bono
 boatmaster
 benetted
+belatedness
 bifurcations
 bepainting
 boxthorns
