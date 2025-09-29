@@ -2649,6 +2649,7 @@ boyology
 barghest
 basiliscus
 barm
+bawdies
 begrimming
 bututs
 barmaster
@@ -3829,7 +3830,6 @@ baku
 bayou
 backslappers
 bawdier
-bawdies
 brume
 bricklaying
 belvidere
