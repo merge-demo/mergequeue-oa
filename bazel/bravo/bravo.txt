@@ -2711,7 +2711,6 @@ backward
 batterie
 boylas
 bimodal
-beltline
 bullbat
 brigandishly
 bighorn
@@ -5636,6 +5635,7 @@ belie
 bilirubinuria
 baskets
 blatancy
+beltline
 busbar
 bikram
 bahts
