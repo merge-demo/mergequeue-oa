@@ -1277,6 +1277,7 @@ eq
 eeriness
 epithalamion
 encircler
+esthesio
 endogenesis
 eassel
 enteroid
@@ -13898,7 +13899,6 @@ eledoisin
 ephymnium
 engineer
 etheria
-esthesio
 extrameridional
 extrametrical
 extramission

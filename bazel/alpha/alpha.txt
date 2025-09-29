@@ -3429,7 +3429,6 @@ abreaction
 adelphian
 adelphous
 adipsous
-azole
 ascesis
 aleochara
 arabicize
@@ -11794,6 +11793,7 @@ ancille
 autoschediastical
 anaphylactogenic
 adiabatically
+azole
 anaphylatoxin
 auntish
 apectomy
