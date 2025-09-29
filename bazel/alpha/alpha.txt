@@ -10758,7 +10758,6 @@ ammonolitic
 assemblage
 amaritude
 append
-archeological
 aitches
 abstrusion
 argillocalcite
@@ -14650,6 +14649,7 @@ acceptancy
 affectioned
 archgomeral
 anticeremoniously
+archeological
 anticeremoniousness
 antichamber
 anisidino
