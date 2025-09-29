@@ -19604,6 +19604,7 @@ colourifics
 cisterna
 corposant
 colourless
+corsie
 colourman
 colpindach
 canzonets
@@ -28028,7 +28029,6 @@ crambes
 crambos
 crambus
 cramel
-corsie
 crammel
 chromosomal
 consolidating
