@@ -656,7 +656,6 @@ engravings
 establishmentism
 ebriety
 evilness
-exprobration
 extimulate
 epigonos
 enshrouding
@@ -1229,6 +1228,7 @@ equicaloric
 exstemporal
 extremal
 eme
+exprobration
 extrascripturality
 epit
 enneastyle

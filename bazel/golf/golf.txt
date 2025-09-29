@@ -855,7 +855,6 @@ gulinular
 garrooka
 gazi
 gameness
-galvanizes
 gallowsward
 geegaw
 galactan
@@ -4058,6 +4057,7 @@ grasped
 gimel
 gobernadora
 gegenschein
+galvanizes
 gogglebox
 genus
 gelechiid
