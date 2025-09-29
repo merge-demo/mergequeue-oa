@@ -980,6 +980,7 @@ brownier
 bromocresol
 brigand
 bayano
+bidarkee
 birlie
 blabberer
 bourdon
@@ -10556,7 +10557,6 @@ ballahoo
 brockish
 basilard
 bajada
-bidarkee
 bobache
 brined
 bicolourous
