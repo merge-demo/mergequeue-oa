@@ -85,7 +85,6 @@ abandon
 androecial
 apetalose
 autarch
-amphipods
 alispheno
 abandoners
 adjutantship
@@ -19809,6 +19808,7 @@ antiliberalism
 agonized
 anatto
 armyworms
+amphipods
 armlessness
 anchusins
 aiguellette
