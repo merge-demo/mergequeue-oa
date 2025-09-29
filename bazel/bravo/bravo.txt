@@ -1760,6 +1760,7 @@ bullet
 bitripinnatifid
 buses
 biretta
+broomballer
 bedraggling
 baldest
 balustrading
@@ -14413,7 +14414,6 @@ ballistae
 brow
 brachygraphy
 birdshots
-broomballer
 bewailment
 bepimples
 boggled
