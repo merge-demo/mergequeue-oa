@@ -493,7 +493,6 @@ gess
 gadding
 gasifiers
 grunions
-geochronological
 girkin
 gravimetrical
 gelatin
@@ -5809,6 +5808,7 @@ gendarmes
 gruiformes
 ghettoing
 griffins
+geochronological
 geroderma
 graffito
 gedact
