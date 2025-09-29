@@ -2203,7 +2203,6 @@ glucolipide
 gossipiness
 gutturalised
 golach
-glucosic
 gravific
 genarchship
 geoidal
@@ -3284,6 +3283,7 @@ germinant
 gunrunner
 genapped
 gingeley
+glucosic
 grr
 gulps
 gemological
