@@ -5941,6 +5941,7 @@ deozonization
 dextrose
 declass
 defenses
+discerp
 depressingly
 desecrator
 doolee
@@ -17035,7 +17036,6 @@ deoxycorticosterone
 downcurve
 dredgeful
 deltalike
-discerp
 dithery
 disentangler
 depucel
