@@ -9303,7 +9303,6 @@ edited
 entomolegist
 erthen
 eumorphous
-ekistic
 erthly
 estriate
 ericaceous
@@ -10277,6 +10276,7 @@ ethmofrontal
 esquamate
 empemata
 enteromycosis
+ekistic
 escorial
 emulsifiability
 ethylamine
