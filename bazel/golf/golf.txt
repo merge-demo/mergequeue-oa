@@ -223,6 +223,7 @@ gags
 gonoecium
 guarder
 greatens
+gymnetrous
 gradefinder
 gratiano
 gaiassa
@@ -1576,7 +1577,6 @@ gumshoe
 gunlock
 gasterotheca
 gandermooner
-gymnetrous
 glabellar
 gunreach
 grampus
