@@ -4385,6 +4385,7 @@ adverbiation
 adversatively
 ambushed
 appellation
+anhimae
 anthropophysiography
 aphoristical
 adverseness
@@ -20792,7 +20793,6 @@ aldamine
 antidogmatism
 asbestuses
 assapan
-anhimae
 amnionate
 asbolite
 aryballi
