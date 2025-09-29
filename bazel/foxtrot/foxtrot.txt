@@ -5313,7 +5313,6 @@ faitery
 flb
 fimbriate
 fantasque
-frithsoken
 flutey
 foregather
 formaldehyd
@@ -5930,6 +5929,7 @@ freakiness
 fichtean
 foggers
 falstaffian
+frithsoken
 flatwash
 flooders
 foreworld
