@@ -8558,7 +8558,6 @@ attendantly
 aldehydase
 allelotropism
 alleluia
-applesauce
 alleluiah
 amnesiacs
 arcubos
@@ -15575,6 +15574,7 @@ atresias
 amu
 appropriative
 aortarctia
+applesauce
 antipathetical
 autotelism
 atophan
