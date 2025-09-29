@@ -6629,6 +6629,7 @@ gonepoiesis
 gash
 geostatic
 grandioso
+gromyl
 gustoish
 genocides
 gonfalcon
@@ -7222,7 +7223,6 @@ gleby
 gingernut
 gemination
 gammas
-gromyl
 gormand
 gibbus
 gemmingia
