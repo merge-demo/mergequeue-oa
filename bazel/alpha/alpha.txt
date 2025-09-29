@@ -8425,6 +8425,7 @@ antagonize
 abarambo
 antipodagric
 analytical
+acquital
 assise
 amylophagia
 availabile
@@ -15825,7 +15826,6 @@ abettal
 agglutinating
 antiquaries
 antiquartan
-acquital
 athletism
 aliasing
 antiquated
