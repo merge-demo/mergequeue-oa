@@ -2499,6 +2499,7 @@ acoumetry
 adjection
 acouometer
 acousticon
+amphictyon
 acousticophobia
 antihalation
 autotomous
@@ -11117,7 +11118,6 @@ albifying
 amongst
 aspersions
 analabos
-amphictyon
 amphictyony
 amphictyonian
 achaenodon
