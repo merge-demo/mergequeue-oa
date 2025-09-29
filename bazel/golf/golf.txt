@@ -2426,6 +2426,7 @@ gummose
 gratification
 guardship
 gemmological
+goniometrically
 gemmologist
 goalkeeping
 grocers
@@ -9148,7 +9149,6 @@ goatees
 glaucomas
 gastrodiaphanoscopy
 gradine
-goniometrically
 grippiest
 grill
 gloiopeltis
