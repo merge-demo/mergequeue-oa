@@ -6653,7 +6653,6 @@ forenotice
 foemanship
 fripperer
 fecifork
-foemen
 forethoughtfully
 fullered
 frankfold
@@ -11690,6 +11689,7 @@ fusarial
 forelands
 flare
 fagaceous
+foemen
 faced
 flippancy
 fanlights
