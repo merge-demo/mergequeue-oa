@@ -10051,7 +10051,6 @@ apachette
 appendiculate
 appius
 anisogamy
-avulsion
 appropre
 ambulator
 ambulatory
@@ -13677,6 +13676,7 @@ afresh
 achariaceae
 affrontingness
 anoscopy
+avulsion
 adagissimo
 anospinal
 affronter
