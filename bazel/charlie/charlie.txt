@@ -5797,6 +5797,7 @@ chateau
 catel
 catelectrode
 clothesless
+collisional
 cretionary
 colorlessness
 chaffier
@@ -26320,7 +26321,6 @@ cosuffer
 compliantly
 craie
 coleopterous
-collisional
 cotabulate
 carya
 cotarius
