@@ -2932,7 +2932,6 @@ gosh
 gastroscopic
 gooseflower
 grotty
-gunks
 guardingly
 ganymede
 gusts
@@ -4395,6 +4394,7 @@ griddling
 gorgoneum
 guestling
 gutted
+gunks
 ghaut
 gluer
 gutting
