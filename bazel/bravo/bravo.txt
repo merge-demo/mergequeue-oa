@@ -7780,7 +7780,6 @@ bronzy
 bouet
 bursautee
 birdbath
-bibble
 bibbler
 blooms
 bufonite
@@ -8081,6 +8080,7 @@ bulbiferous
 branches
 byronian
 blooper
+bibble
 binous
 berserk
 bedaubs
