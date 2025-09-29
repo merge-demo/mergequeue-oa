@@ -1875,6 +1875,7 @@ fourdrinier
 fundless
 flamboyantize
 faradizing
+fenman
 frs
 fraidycat
 fishable
@@ -9428,7 +9429,6 @@ flouriness
 frolicly
 frescoer
 fulsomeness
-fenman
 fausant
 filmslide
 fireboats
