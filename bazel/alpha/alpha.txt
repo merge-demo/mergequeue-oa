@@ -11802,6 +11802,7 @@ anaphyte
 antivaccinator
 alkoxide
 artisanry
+armures
 anthropozoic
 ampelite
 admixes
@@ -19882,7 +19883,6 @@ armure
 aggros
 almaine
 adiadochokinesia
-armures
 affright
 achromatinic
 ammonified
