@@ -9324,7 +9324,6 @@ galleasses
 goliad
 gunnysacks
 ghaznevid
-goodyish
 gadis
 grangeriser
 ghaist
@@ -10608,6 +10607,7 @@ glandaceous
 gowned
 goldenmouth
 greenockite
+goodyish
 gallow
 glumose
 gallinules
