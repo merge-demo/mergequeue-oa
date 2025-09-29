@@ -10371,6 +10371,7 @@ edmund
 enjambed
 exactment
 endeavoured
+ethicophysical
 exophagy
 ecclesiastical
 emperorship
@@ -11453,7 +11454,6 @@ ethereous
 escargatoire
 eucharis
 evidencing
-ethicophysical
 eonian
 enolized
 ekistics
