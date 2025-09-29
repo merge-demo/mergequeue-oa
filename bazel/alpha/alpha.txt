@@ -3434,6 +3434,7 @@ adelphous
 adipsous
 azole
 ascesis
+aleochara
 arabicize
 akenbold
 amphibion
@@ -25162,7 +25163,6 @@ absolvatory
 angrite
 apparentation
 axonia
-aleochara
 attenuations
 alaihi
 assahy
