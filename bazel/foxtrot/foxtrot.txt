@@ -5400,7 +5400,6 @@ frisado
 factorial
 fledgiest
 floatless
-foisonless
 feasten
 farfet
 forefigure
@@ -8468,6 +8467,7 @@ frontierman
 fumado
 frow
 felling
+foisonless
 figment
 forked
 formica
