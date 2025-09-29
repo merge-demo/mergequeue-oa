@@ -1532,7 +1532,6 @@ gulfiest
 grandiloquence
 gurts
 gasometrical
-gearless
 gurt
 granddaughters
 guara
@@ -10790,6 +10789,7 @@ grandfatherhood
 gadoidea
 geochronologic
 gareth
+gearless
 gynomonoecious
 gader
 gilbert
