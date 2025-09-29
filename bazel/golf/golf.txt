@@ -3358,7 +3358,6 @@ girland
 goniodoris
 germon
 ghostcraft
-germs
 griseous
 gimbri
 graymill
@@ -6691,6 +6690,7 @@ gastronephritis
 gonidic
 genes
 gambled
+germs
 gauges
 googols
 gyrostats
