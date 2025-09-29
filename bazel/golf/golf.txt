@@ -3905,6 +3905,7 @@ garrisons
 glittered
 gynaecocratic
 geneal
+glassmen
 gastrochaena
 gigawatt
 garote
@@ -5306,7 +5307,6 @@ galactosemic
 galactoma
 glycolyl
 gabionade
-glassmen
 galiongee
 glycollate
 glomerulose
