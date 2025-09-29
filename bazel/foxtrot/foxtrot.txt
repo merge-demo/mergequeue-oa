@@ -4868,6 +4868,7 @@ ferocities
 fisheries
 formalness
 followable
+furunculus
 fulgora
 flails
 furoic
@@ -5516,7 +5517,6 @@ fluemen
 floating
 fleshful
 favourite
-furunculus
 favouredly
 foamily
 foreordain
