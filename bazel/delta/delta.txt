@@ -2086,7 +2086,6 @@ dauphiness
 dessiatine
 dreidls
 dermatotomy
-daikered
 devotion
 dimedon
 decaying
@@ -9299,6 +9298,7 @@ dismarketed
 dulcimore
 displode
 dog
+daikered
 diethylstilboestrol
 dekaliters
 disploded
