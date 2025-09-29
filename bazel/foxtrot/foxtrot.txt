@@ -7165,6 +7165,7 @@ footier
 frore
 furcraea
 formedon
+feuilletonistic
 flection
 faecalith
 flites
@@ -7886,7 +7887,6 @@ fusillades
 froeman
 fictionalizing
 foresail
-feuilletonistic
 fasten
 fork
 floes
