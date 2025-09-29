@@ -2787,7 +2787,6 @@ gathers
 gazettal
 grigris
 gormless
-glottalite
 gentiobiose
 gentle
 guardianess
@@ -9303,6 +9302,7 @@ gerundially
 gigantostracan
 grinder
 geomagnetically
+glottalite
 glyptotheca
 grond
 gront
