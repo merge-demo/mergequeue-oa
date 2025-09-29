@@ -3269,6 +3269,7 @@ degeneracy
 duplications
 definitions
 dormant
+dialogistical
 dilatant
 disinterested
 debbies
@@ -7876,7 +7877,6 @@ dunst
 discriminativeness
 devotedness
 dumpy
-dialogistical
 demigauntlet
 defalcator
 deputatively
