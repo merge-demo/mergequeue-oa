@@ -5158,6 +5158,7 @@ affirmable
 asiaticism
 acupress
 anthroposophic
+aquatic
 affirmably
 archean
 arroba
@@ -12127,7 +12128,6 @@ antipestilent
 academised
 andamenta
 allopatric
-aquatic
 astrophotography
 athericeran
 antiposition
