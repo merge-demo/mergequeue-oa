@@ -9032,6 +9032,7 @@ dunned
 doublehanded
 domineerer
 dezinc
+dornocks
 dodecuplet
 dicodeine
 dry
@@ -15857,7 +15858,6 @@ datival
 dawts
 dornock
 drover
-dornocks
 debuted
 desanded
 dumka
