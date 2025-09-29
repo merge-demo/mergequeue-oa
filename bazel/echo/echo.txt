@@ -1797,7 +1797,6 @@ episepalous
 emanium
 esrogim
 emigrant
-exhorters
 engraulis
 erodium
 effetely
@@ -8893,6 +8892,7 @@ ergatogyne
 ebrious
 earflaps
 ergatomorphic
+exhorters
 ergo
 extrameridian
 ergodic
