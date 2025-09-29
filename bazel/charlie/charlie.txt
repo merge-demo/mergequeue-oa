@@ -13956,7 +13956,6 @@ cent
 cadence
 cynophobia
 counterchange
-cynopithecoid
 chlorospinel
 cynorrhoda
 cynosures
@@ -21359,6 +21358,7 @@ concessionaire
 concessional
 chausseemeile
 concessions
+cynopithecoid
 computerite
 concessor
 concessory
