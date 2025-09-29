@@ -11794,7 +11794,6 @@ barnful
 blames
 baglike
 billingsgate
-batrachians
 buckwheat
 bouquets
 backfield
@@ -18296,6 +18295,7 @@ buttocks
 bermuda
 bullockite
 button
+batrachians
 basaltoid
 buttonbush
 borealis

@@ -7334,7 +7334,6 @@ epizoal
 economy
 epanorthidae
 electrojet
-ephorates
 enravishment
 epapophysis
 easeled
@@ -12474,6 +12473,7 @@ electrifying
 electroosmosis
 enomania
 esophagotomy
+ephorates
 enrollees
 exasperated
 eximidus
