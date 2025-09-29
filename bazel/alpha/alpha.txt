@@ -6639,7 +6639,6 @@ airfield
 airflow
 airflows
 antimoralist
-aglipayan
 airfoil
 airfoils
 actualising
@@ -18091,6 +18090,7 @@ aquilinity
 apparats
 aquinist
 allophone
+aglipayan
 aquiver
 architect
 achmetha

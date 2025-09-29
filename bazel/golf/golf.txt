@@ -1364,6 +1364,7 @@ ginners
 garglers
 graplins
 glamorizer
+gnathoplasty
 glyoxylic
 ghastly
 glugglug
@@ -2799,7 +2800,6 @@ gossan
 gybing
 grenadines
 goosehouse
-gnathoplasty
 genuflection
 gallates
 galactophlysis

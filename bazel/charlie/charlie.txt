@@ -1433,6 +1433,7 @@ chalybite
 carnosin
 calisayas
 calistheneum
+cantation
 curupay
 calisthenics
 condurango
@@ -2917,7 +2918,6 @@ concaulescence
 chrysoidine
 calyptoblastic
 cantatas
-cantation
 cantatrice
 coverts
 chorioids
