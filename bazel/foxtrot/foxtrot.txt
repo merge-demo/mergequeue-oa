@@ -6669,6 +6669,7 @@ ferbams
 finewed
 fofarraw
 falderol
+furmenty
 fortifier
 faqirs
 feted
@@ -11361,7 +11362,6 @@ furloughed
 ferlied
 fuchsin
 forfended
-furmenty
 foreassign
 frousier
 flayed
