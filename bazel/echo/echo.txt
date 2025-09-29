@@ -2231,7 +2231,6 @@ ethnal
 electioneer
 elaphurine
 elections
-elevatory
 exocolitis
 effluve
 extemporizes
@@ -8069,6 +8068,7 @@ expositor
 epiglottidean
 epiphloeum
 etherize
+elevatory
 essoign
 exceptive
 empowerment
