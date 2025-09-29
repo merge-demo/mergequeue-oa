@@ -8964,6 +8964,7 @@ fourierism
 fluidifier
 fourneau
 filly
+flustrine
 feltings
 fourpence
 farcist
@@ -11356,7 +11357,6 @@ fiasco
 fannies
 furloughed
 ferlied
-flustrine
 fuchsin
 forfended
 furmenty
