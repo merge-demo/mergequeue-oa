@@ -1482,7 +1482,6 @@ dories
 dunpickle
 dispulp
 dazement
-diaphaneity
 delicatessen
 dazy
 dazzle
@@ -5379,6 +5378,7 @@ disappropriation
 drub
 demonio
 donnees
+diaphaneity
 dalapon
 dwines
 dawned
