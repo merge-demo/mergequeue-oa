@@ -237,7 +237,6 @@ bestraw
 bowmaking
 baccilli
 bilateralism
-baccivorous
 bulbule
 bach
 betonica
@@ -15908,6 +15907,7 @@ bronchophony
 bibionidae
 bronchoplasty
 backstitching
+baccivorous
 blessedly
 bronchos
 basques

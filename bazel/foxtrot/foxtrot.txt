@@ -4318,6 +4318,7 @@ foddering
 fauces
 frailty
 fluorins
+frayings
 fellnesses
 fasteners
 flectional
@@ -6964,7 +6965,6 @@ fondest
 favilla
 fonding
 fondle
-frayings
 fondled
 fondles
 formalazine

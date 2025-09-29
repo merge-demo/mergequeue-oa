@@ -4101,7 +4101,6 @@ delimitating
 drumfire
 delimitation
 delimiter
-deviational
 departments
 diplomyelia
 deline
@@ -13595,6 +13594,7 @@ dialecticism
 dignitarial
 dullishly
 diminishment
+deviational
 dissimilars
 dorize
 dequantitate
