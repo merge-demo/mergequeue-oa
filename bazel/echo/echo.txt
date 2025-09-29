@@ -3610,7 +3610,6 @@ evestar
 enriching
 equaeval
 expositive
-emotionalised
 eudaemonize
 elatinaceous
 elaeocarpaceous
@@ -12195,6 +12194,7 @@ executed
 exospheric
 exceptor
 extravagancies
+emotionalised
 epitrichium
 elachistaceae
 epigraph
