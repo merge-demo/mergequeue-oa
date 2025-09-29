@@ -6039,6 +6039,7 @@ gnathopodite
 gneissic
 gasifying
 gruffiness
+gerusia
 gemuetlich
 grizelin
 guly
@@ -10159,7 +10160,6 @@ genres
 guidepost
 glossophobia
 geostrategist
-gerusia
 gastropathy
 granulated
 greed
