@@ -768,6 +768,7 @@ cahenslyism
 crawled
 cahier
 corniche
+clubs
 chunking
 chandelled
 cristae
@@ -16900,7 +16901,6 @@ criminality
 casebooks
 clubroots
 countervaunt
-clubs
 clubstart
 clubster
 carpogonium
