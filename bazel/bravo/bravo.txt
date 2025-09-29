@@ -773,6 +773,7 @@ bethorn
 becker
 beryllosis
 building
+billfishes
 berserks
 baphometic
 brandenburgh
@@ -7235,7 +7236,6 @@ boyce
 bethel
 befamilied
 bonairness
-billfishes
 blunter
 boletaceous
 bannet

@@ -2525,7 +2525,6 @@ elaborations
 endosmose
 egremoigne
 encomiologic
-enacts
 escadrilles
 exorcist
 efficaciousness
@@ -3359,6 +3358,7 @@ estimator
 equivocally
 exotism
 exurbanite
+enacts
 exacters
 emphase
 egoist
