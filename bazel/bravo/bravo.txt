@@ -2843,6 +2843,7 @@ bugaboo
 bunjara
 bannermen
 barrage
+bogie
 barnmen
 blackcock
 brushland
@@ -15839,7 +15840,6 @@ bursters
 browden
 baham
 bromphenol
-bogie
 bathroomed
 breadman
 blattering
