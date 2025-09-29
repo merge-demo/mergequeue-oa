@@ -4150,6 +4150,7 @@ fireboy
 flying
 fiendishly
 fraticelli
+factioneer
 firebomb
 fakiness
 firebombing
@@ -6201,7 +6202,6 @@ fudder
 fluctuating
 frugalist
 fluctuational
-factioneer
 fluegelhorn
 foalfoot
 forefence
