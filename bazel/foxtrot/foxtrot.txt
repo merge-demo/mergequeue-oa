@@ -521,6 +521,7 @@ fishbone
 fakirs
 falbelo
 fioretti
+frights
 firerooms
 frowny
 foresense
@@ -11735,7 +11736,6 @@ flatland
 futwa
 fete
 floramor
-frights
 fathom
 foliiform
 flneur
