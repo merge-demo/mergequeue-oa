@@ -340,6 +340,7 @@ backchats
 boule
 bermudians
 burg
+beehive
 bkpr
 bewept
 backdates
@@ -566,7 +567,6 @@ bromcresol
 buttonless
 blottingly
 bishoped
-beehive
 bacon
 balkar
 balisaur
