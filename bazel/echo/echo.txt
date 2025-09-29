@@ -2532,6 +2532,7 @@ efficaciousness
 endocritic
 eminency
 eatable
+encurtain
 ezra
 electrometallurgist
 emptiable
@@ -11026,7 +11027,6 @@ elapoid
 euhages
 enisle
 electly
-encurtain
 earings
 euangiotic
 epipial
