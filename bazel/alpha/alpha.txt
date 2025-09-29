@@ -11241,6 +11241,7 @@ assimilation
 anticodon
 alloquy
 anticreeper
+acyanopsia
 amphitrichate
 amphitropous
 amphioxis
@@ -11731,7 +11732,6 @@ antiparliamentary
 analphabete
 adelaster
 angelus
-acyanopsia
 aluminised
 avanguardisti
 ariolate
