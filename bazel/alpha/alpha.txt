@@ -19937,7 +19937,6 @@ agar
 andesinite
 acicularly
 antiscorbutical
-arointing
 aroynting
 aminothiophen
 arteriocapillary
@@ -20487,6 +20486,7 @@ atlantes
 anurous
 arthrodonteae
 actinomere
+arointing
 arthroempyema
 arthrogastran
 aeaean
