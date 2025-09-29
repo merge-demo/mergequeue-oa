@@ -6713,6 +6713,7 @@ glucide
 germproof
 grabbling
 groomy
+geoprumnon
 girlfriends
 gazpacho
 gascheck
@@ -8795,7 +8796,6 @@ gm
 gunne
 gadabout
 greegrees
-geoprumnon
 gooses
 girrit
 gastral
