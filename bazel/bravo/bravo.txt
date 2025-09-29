@@ -11805,6 +11805,7 @@ bluefish
 burdeners
 byrl
 bolimba
+blennoma
 behavioristic
 briony
 bock
@@ -14829,7 +14830,6 @@ breadwinning
 breaghe
 bilith
 battledores
-blennoma
 beluchi
 burning
 baja
