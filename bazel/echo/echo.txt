@@ -1796,6 +1796,7 @@ engraulis
 erodium
 effetely
 enamors
+euectic
 eroding
 encroached
 egotheism
@@ -6098,7 +6099,6 @@ entremets
 enlive
 execeptional
 emboly
-euectic
 exceed
 exossate
 explida
