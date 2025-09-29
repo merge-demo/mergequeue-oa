@@ -7636,7 +7636,6 @@ fumy
 foregift
 forgiveless
 foregleam
-forst
 forego
 feudatory
 fables
@@ -11165,6 +11164,7 @@ frowy
 fungation
 fungia
 fremdness
+forst
 flyblowing
 fungian
 fungibility
