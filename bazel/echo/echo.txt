@@ -7649,6 +7649,7 @@ eoliths
 enterohelcosis
 embusqu
 epiparodos
+ethmoidal
 epicortical
 enterostomy
 esere
@@ -13481,7 +13482,6 @@ exradius
 extraconstitutional
 exsanguinating
 exposing
-ethmoidal
 eudaemonic
 eucalypti
 equianharmonic
