@@ -3718,7 +3718,6 @@ giantkind
 guys
 gastraneuria
 goggle
-gyrostachys
 greenfinch
 greycoat
 giants
@@ -3942,6 +3941,7 @@ genospecies
 gynecocratical
 guano
 guardage
+gyrostachys
 grex
 gluttonousness
 graphometrical
