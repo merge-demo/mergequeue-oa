@@ -5126,7 +5126,6 @@ devitrify
 dispone
 dissipated
 disterr
-dolentissimo
 destitute
 densifying
 demonize
@@ -15963,6 +15962,7 @@ discounts
 doser
 dogproof
 dosinia
+dolentissimo
 detainee
 dehairer
 dobzhansky
