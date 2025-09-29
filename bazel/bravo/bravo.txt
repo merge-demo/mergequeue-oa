@@ -4192,6 +4192,7 @@ baetyl
 beauty
 brachyphalangia
 brutalness
+bepat
 brumstone
 beautydom
 bibliography
@@ -18235,7 +18236,6 @@ butteris
 beekeeper
 bridestake
 blepharospasm
-bepat
 bivouacs
 blackhander
 buttermaker
