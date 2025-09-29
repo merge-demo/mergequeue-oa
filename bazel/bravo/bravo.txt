@@ -5205,6 +5205,7 @@ bullyragged
 bunkmate
 bewired
 bitless
+banagos
 backmost
 bribability
 betrothals
@@ -7475,7 +7476,6 @@ brainworker
 bulkin
 bartended
 breathability
-banagos
 beweeps
 bombilate
 braccio
