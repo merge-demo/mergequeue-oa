@@ -3402,7 +3402,6 @@ adead
 amniac
 asitia
 alguacil
-agnation
 assoc
 adeep
 arpent
@@ -9884,6 +9883,7 @@ ambigenal
 absurdest
 abounded
 automobility
+agnation
 acrogamy
 almira
 americomania
