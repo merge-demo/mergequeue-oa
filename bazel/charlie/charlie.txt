@@ -12854,7 +12854,6 @@ churchy
 churchianity
 crawlways
 corrodible
-catallum
 churchyards
 croupal
 churchier
@@ -30546,6 +30545,7 @@ cubocalcaneal
 cuboctahedron
 cubocube
 crepidula
+catallum
 chiopin
 chryseis
 cubocuneiform
