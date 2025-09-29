@@ -5357,6 +5357,7 @@ embroidered
 endymion
 edges
 ethylidene
+esiphonal
 evicted
 envolupen
 evocatory
@@ -11302,7 +11303,6 @@ evaporitic
 editorializes
 evapotranspiration
 ecaudata
-esiphonal
 ergatoid
 erenach
 eneid
