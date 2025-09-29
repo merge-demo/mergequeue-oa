@@ -5700,6 +5700,7 @@ apiator
 admitty
 adolph
 agenting
+agitant
 agentive
 antimethodical
 agentives
@@ -5899,7 +5900,6 @@ afrite
 agitability
 archilowe
 accouters
-agitant
 agitate
 agitated
 agitation
