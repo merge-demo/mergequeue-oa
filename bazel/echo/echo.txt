@@ -2902,7 +2902,6 @@ exfoliating
 extremity
 enflamed
 extemporise
-electrocardiographically
 elfland
 entelodon
 elflocks
@@ -4793,6 +4792,7 @@ extracapsular
 executioners
 eventides
 encolour
+electrocardiographically
 encolpia
 equilibrator
 entranceway
