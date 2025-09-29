@@ -11236,7 +11236,6 @@ endostraca
 enamor
 emigre
 enthronized
-evangelistic
 epidictical
 exserts
 earthquake
@@ -13200,6 +13199,7 @@ extruded
 earmark
 elicited
 elapinae
+evangelistic
 emphatically
 embale
 expires
