@@ -9668,6 +9668,7 @@ cheeselip
 cryptoglioma
 cephalochorda
 cheesemongery
+chair
 categoricalness
 cheeseparer
 canaster
@@ -23897,7 +23898,6 @@ catalyzed
 charpoy
 cliqueiest
 chewink
-chair
 contributable
 cutins
 chenier
