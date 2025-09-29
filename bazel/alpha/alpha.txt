@@ -11761,7 +11761,6 @@ addable
 ananism
 anelace
 anankastic
-amok
 aqueomercurial
 antimasquerade
 anammonide
@@ -12480,6 +12479,7 @@ apophonic
 antegrade
 anchoretism
 attending
+amok
 adrenalone
 adversely
 azoxyanisole
