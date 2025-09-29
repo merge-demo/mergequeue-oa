@@ -20859,7 +20859,6 @@ compliment
 coenesthesis
 coalyard
 complimental
-complimentarily
 complimentariness
 complimentarity
 calamopitys
@@ -31948,4 +31947,5 @@ czechization
 caitanyas
 czechoslovak
 complementarism
+complimentarily
 curricularization
