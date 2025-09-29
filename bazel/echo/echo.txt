@@ -12194,6 +12194,7 @@ empiriocritical
 ephemera
 execute
 executed
+exospheric
 exceptor
 extravagancies
 epitrichium
@@ -12767,7 +12768,6 @@ endodontia
 exosmose
 exosmotic
 explicative
-exospheric
 erotize
 edaphosaurid
 emblems
