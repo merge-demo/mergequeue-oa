@@ -6121,7 +6121,6 @@ enfacement
 enlodge
 episkotister
 estuary
-endocystitis
 enlodgement
 enlumine
 entheos
@@ -11229,6 +11228,7 @@ earthshakingly
 evangelistary
 enthronements
 evangelistaries
+endocystitis
 earflower
 endostraca
 enamor
