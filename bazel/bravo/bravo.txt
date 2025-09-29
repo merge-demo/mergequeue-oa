@@ -657,6 +657,7 @@ battalions
 barefacedly
 batfowler
 brosot
+bifold
 basos
 brioche
 begall
@@ -7824,7 +7825,6 @@ buphthalmic
 benedicts
 brislings
 beauclerc
-bifold
 bonaught
 bibliologies
 bismuthite
