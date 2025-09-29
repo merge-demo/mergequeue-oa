@@ -3058,7 +3058,6 @@ gaolbird
 gaga
 geadephagous
 glowworms
-gucki
 geocline
 grits
 gipping
@@ -3761,6 +3760,7 @@ gastrosuccorrhea
 gibbons
 gibbosely
 gibboseness
+gucki
 goosepimply
 gibbous
 ganching
