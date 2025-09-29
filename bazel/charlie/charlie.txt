@@ -9490,6 +9490,7 @@ capsulized
 checkback
 checkbite
 checkbits
+cementitious
 checkbook
 chachalaca
 climatically
@@ -18489,7 +18490,6 @@ crescive
 chemisette
 cognizor
 cognomens
-cementitious
 carnally
 chlorhexidine
 chastenment

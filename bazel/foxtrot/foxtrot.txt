@@ -5453,6 +5453,7 @@ funniness
 frequentness
 flemishes
 flensed
+forecool
 frillers
 flensers
 fallation
@@ -11721,7 +11722,6 @@ flagellator
 folkland
 fantastically
 feudalised
-forecool
 futurition
 fratority
 figurational
