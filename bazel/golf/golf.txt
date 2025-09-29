@@ -4858,6 +4858,7 @@ gladier
 guaranteeing
 gleam
 glozes
+gizzen
 gyrotheca
 grandstanding
 gladiola
@@ -7178,7 +7179,6 @@ gonial
 gratin
 globosite
 gymnocarpous
-gizzen
 galahad
 gonoblastidial
 grabbler
