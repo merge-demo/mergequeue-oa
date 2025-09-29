@@ -1425,6 +1425,7 @@ funambulism
 fattest
 floorer
 follow
+footroom
 fattier
 flannelmouths
 fanwork
@@ -1600,7 +1601,6 @@ funambulo
 fallalery
 faniente
 favouring
-footroom
 folkish
 floriage
 frijol
