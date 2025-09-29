@@ -9131,6 +9131,7 @@ adenogenous
 aerophagist
 atomics
 attainments
+askari
 argentamin
 aphony
 aerothermodynamic
@@ -19459,7 +19460,6 @@ aphanitism
 asbestic
 aria
 avellan
-askari
 arianist
 arianistic
 ampullaceous
