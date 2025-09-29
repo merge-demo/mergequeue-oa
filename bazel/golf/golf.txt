@@ -2856,7 +2856,6 @@ generatrices
 gileadite
 galvvanoscopy
 gummosity
-genuflex
 gentlemanism
 glyptal
 gemsbucks
@@ -10599,6 +10598,7 @@ grandame
 glossmeter
 gadidae
 geohydrologist
+genuflex
 gourmetism
 gillion
 glandaceous
