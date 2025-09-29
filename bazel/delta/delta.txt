@@ -5487,6 +5487,7 @@ diffraction
 diesel
 damoisel
 disintegrate
+decrial
 deossification
 drachma
 downtreading
@@ -5777,7 +5778,6 @@ deconsider
 depoh
 decd
 depolarise
-decrial
 delate
 depolarization
 daydreamlike

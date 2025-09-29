@@ -2413,6 +2413,7 @@ ferlying
 foiler
 fado
 fullhearted
+foresee
 ferling
 foredooms
 fortnightly
@@ -7904,7 +7905,6 @@ forewarned
 feiseanna
 forfeitures
 featherworker
-foresee
 faitor
 feeblehearted
 frakturs
