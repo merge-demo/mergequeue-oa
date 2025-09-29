@@ -17377,7 +17377,6 @@ canonizations
 chickory
 coarsening
 cercomonas
-chetrum
 cotransubstantiate
 coarsens
 coarticulate
@@ -17409,6 +17408,7 @@ coastland
 couscouses
 coastlines
 chawdron
+chetrum
 churchmaster
 coastward
 coatdress
