@@ -266,7 +266,6 @@ fawe
 faders
 firedamp
 fadge
-furfuramide
 furniment
 fermery
 flattered
@@ -3392,6 +3391,7 @@ fusilades
 fastigate
 fopling
 fossilification
+furfuramide
 flappering
 fishermen
 frivols
