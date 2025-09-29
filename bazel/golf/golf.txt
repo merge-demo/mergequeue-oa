@@ -8467,7 +8467,6 @@ grues
 gressorious
 glycin
 geisha
-groinery
 gymnoderinae
 gozzan
 gramineae
@@ -10567,6 +10566,7 @@ glyphs
 gunmaking
 gaun
 gerbo
+groinery
 gallivanter
 grasset
 gunmetal
