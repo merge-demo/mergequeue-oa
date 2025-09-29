@@ -12698,7 +12698,6 @@ baianism
 backhander
 brennschluss
 bellowers
-bookcases
 bushmaster
 blastophthoric
 bergsonian
@@ -13721,6 +13720,7 @@ bare
 bircher
 biquarterly
 barbecueing
+bookcases
 banqueted
 benefited
 billetwood

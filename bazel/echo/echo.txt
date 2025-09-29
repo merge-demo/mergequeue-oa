@@ -3616,6 +3616,7 @@ eleutherism
 electrocuted
 electropoion
 ennoic
+excreation
 enwheeled
 embrectomy
 emergency
@@ -11976,7 +11977,6 @@ epitenon
 exclamations
 exclamative
 endolymphic
-excreation
 exclamatory
 exclaves
 expensed
