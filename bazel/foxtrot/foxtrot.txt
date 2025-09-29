@@ -2650,7 +2650,6 @@ fertile
 falsely
 fittonia
 fluoridating
-funerary
 fertilise
 fistular
 fylfots
@@ -6139,6 +6138,7 @@ frequented
 foredoor
 fraughts
 furiosity
+funerary
 ferrums
 fuses
 fewness
