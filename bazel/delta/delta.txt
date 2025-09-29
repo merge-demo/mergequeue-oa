@@ -6370,7 +6370,6 @@ dugong
 dejeune
 damnum
 dominiums
-duodenum
 dermotropic
 dastardliness
 defined
@@ -7432,6 +7431,7 @@ detonating
 detonation
 digest
 disowned
+duodenum
 dissilition
 detonations
 dusking
