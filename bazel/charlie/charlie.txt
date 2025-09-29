@@ -12496,6 +12496,7 @@ chromonematal
 cataphracti
 chromophage
 chromophane
+ciderkin
 chionodoxa
 chromophil
 cenanthy
@@ -13430,7 +13431,6 @@ chints
 courageously
 crossbolted
 ciderish
-ciderkin
 crozzle
 chlorinates
 centrales

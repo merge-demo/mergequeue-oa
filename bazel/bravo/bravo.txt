@@ -485,7 +485,6 @@ beseeched
 betatron
 besottingly
 battarismus
-balaenoidea
 bromios
 backslapper
 bituminiferous
@@ -7977,6 +7976,7 @@ beslipper
 bespatterer
 bitemporal
 byname
+balaenoidea
 brainwashes
 bicycler
 bbls
