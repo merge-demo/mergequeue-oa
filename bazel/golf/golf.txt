@@ -1858,6 +1858,7 @@ geocentrical
 gregory
 grandfer
 gunfighting
+ghanian
 gateposts
 gatewaying
 gatetender
@@ -9615,7 +9616,6 @@ grubbery
 grintern
 garse
 glochidian
-ghanian
 gin
 griffinish
 grubstakes
