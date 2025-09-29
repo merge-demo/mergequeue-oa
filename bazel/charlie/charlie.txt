@@ -12132,6 +12132,7 @@ couture
 chirps
 companionability
 cubans
+cruciate
 cripply
 cyclonoscope
 cackle
@@ -19406,7 +19407,6 @@ cutworm
 colonisationist
 colonise
 colonised
-cruciate
 cyrtidae
 colonizable
 colonize
