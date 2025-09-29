@@ -9865,6 +9865,7 @@ bable
 bitterroot
 backfall
 brutalising
+borough
 bittersweetly
 bittersweets
 bittie
@@ -13164,7 +13165,6 @@ bacillar
 boatmen
 bacteriologists
 blastful
-borough
 biseriate
 busting
 boroughmonger
