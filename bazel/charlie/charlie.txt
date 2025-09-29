@@ -9623,7 +9623,6 @@ cheerfulize
 cheerfuller
 columbier
 combatted
-carceral
 charqued
 cheerfully
 camelliaceae
@@ -18345,6 +18344,7 @@ copper
 coffing
 colpoplastic
 coffinless
+carceral
 consoled
 chalcographer
 countervene
