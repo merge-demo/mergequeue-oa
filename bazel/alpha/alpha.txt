@@ -13306,7 +13306,6 @@ alima
 anneloid
 anticipation
 annerre
-anneslia
 annette
 aragonspath
 attitudist
@@ -17663,6 +17662,7 @@ agapornis
 appointers
 apotropaic
 analysand
+anneslia
 appointing
 augmentation
 appointment

@@ -6828,7 +6828,6 @@ flipjack
 fabled
 furomonazole
 foliary
-flo
 forcy
 frescoers
 flexibleness
@@ -11088,6 +11087,7 @@ factfinder
 flockless
 functionnaire
 functors
+flo
 formational
 foulard
 functus
