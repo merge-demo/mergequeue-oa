@@ -4956,6 +4956,7 @@ galling
 goodwilled
 grafters
 goldhead
+gnarls
 genealogists
 goofballs
 growled
@@ -5991,7 +5992,6 @@ gnarliest
 gnarliness
 grassiness
 graspless
-gnarls
 gaidropsaridae
 gnetaceae
 geminative
