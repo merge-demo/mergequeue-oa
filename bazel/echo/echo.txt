@@ -1232,7 +1232,6 @@ extrascripturality
 epit
 enneastyle
 eel
-escalade
 externity
 eelboat
 eudendrium
@@ -10898,6 +10897,7 @@ exmoor
 endangerer
 equaller
 exothermic
+escalade
 esthete
 eventerate
 electromuscular
