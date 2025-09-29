@@ -4817,6 +4817,7 @@ fellowshipping
 falsen
 forties
 footbath
+feezing
 frostbiter
 fibrinuria
 fumish
@@ -10328,7 +10329,6 @@ faceman
 fortiori
 flexible
 frondless
-feezing
 ferrado
 fantasized
 frondlet

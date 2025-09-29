@@ -8192,7 +8192,6 @@ episodical
 earsh
 episodically
 eviscerates
-exuded
 enchylematous
 empirics
 exigeant
@@ -9293,6 +9292,7 @@ erse
 epoptic
 effusiveness
 escribiente
+exuded
 erection
 enhancer
 engulf
