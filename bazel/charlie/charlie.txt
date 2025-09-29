@@ -22262,7 +22262,6 @@ cytomitome
 confuses
 chickee
 chaptered
-confusion
 confusions
 consummations
 calvaire
@@ -31566,6 +31565,7 @@ curtein
 checkable
 coadunatively
 christianizing
+confusion
 chaperonless
 curteous
 curter
