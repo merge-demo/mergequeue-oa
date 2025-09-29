@@ -6899,7 +6899,6 @@ forswear
 foreignization
 fellest
 fadmonger
-freekirker
 flaxseeds
 fleyedly
 fauves
@@ -9900,6 +9899,7 @@ filibusters
 forgiven
 fastuously
 forcelessness
+freekirker
 flintstone
 fewnesses
 folksey
