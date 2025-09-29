@@ -11764,6 +11764,7 @@ burier
 bathycurrent
 beworry
 bucephala
+blepharadenitis
 beggarwoman
 biology
 bradycauma
@@ -15514,7 +15515,6 @@ berycoidean
 blindfoldedness
 bivector
 bisected
-blepharadenitis
 brigander
 bronchitis
 borer
