@@ -7204,7 +7204,6 @@ guarani
 gimblet
 guarneri
 gavages
-gorillian
 glabella
 gelatinisation
 goriness
@@ -10000,6 +9999,7 @@ gorgonised
 geomys
 gamba
 gumdigger
+gorillian
 garlandwise
 gorgonacean
 geochrony

@@ -6491,7 +6491,6 @@ desentimentalize
 decadenza
 desands
 descale
-decalcomanias
 declericalize
 delignated
 discrepating
@@ -17455,6 +17454,7 @@ dressiness
 derogated
 decennia
 direction
+decalcomanias
 deportation
 dermoneurosis
 disjoinable
