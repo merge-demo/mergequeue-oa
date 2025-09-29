@@ -14606,7 +14606,6 @@ anticalculous
 accurateness
 arachnida
 agnathia
-auricyanic
 anticamera
 anticancer
 attritive
@@ -20022,6 +20021,7 @@ aggur
 alloxy
 auteciousness
 abidance
+auricyanic
 arpeggios
 arterialised
 aleph
