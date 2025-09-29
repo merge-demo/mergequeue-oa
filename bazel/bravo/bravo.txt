@@ -12792,6 +12792,7 @@ byronite
 booting
 basisidia
 booleans
+bombinating
 booly
 betatters
 book
@@ -14199,7 +14200,6 @@ bakerless
 bartered
 brunonian
 bioherm
-bombinating
 boobyalla
 bayhead
 brassware

@@ -1787,7 +1787,6 @@ desmidiologist
 diversions
 doorpost
 deaving
-debacle
 decolorization
 disregardfully
 delegative
@@ -10470,6 +10469,7 @@ divaricating
 dendrodra
 diphthonging
 diphthongisation
+debacle
 demolishes
 deisticalness
 dimiss
