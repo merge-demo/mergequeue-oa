@@ -3744,6 +3744,7 @@ declinations
 defoliage
 dehorted
 digitoxin
+dysaphia
 doggoned
 detectives
 decompensation
@@ -12525,7 +12526,6 @@ denaturizer
 doubtlessly
 dols
 decerns
-dysaphia
 dendron
 dentistical
 decameron
