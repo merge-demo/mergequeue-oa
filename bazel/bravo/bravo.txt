@@ -4835,6 +4835,7 @@ balistarius
 bloodedness
 bistered
 beefalos
+bronchotomy
 bedriveling
 bossship
 bilimbis
@@ -13314,7 +13315,6 @@ beclothing
 botanica
 boweryish
 bandoleered
-bronchotomy
 bitentaculate
 bacteriologically
 bazaar
