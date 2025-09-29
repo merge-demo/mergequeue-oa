@@ -7384,7 +7384,6 @@ greable
 gynecophore
 guanins
 gou
-gyrometer
 goodmen
 glasswork
 germens
@@ -10537,6 +10536,7 @@ gunflint
 griffinhood
 gossipingly
 gudesakes
+gyrometer
 gentamicin
 glavered
 gunge
