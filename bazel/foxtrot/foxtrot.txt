@@ -2435,6 +2435,7 @@ faradize
 falus
 footbridges
 fermentescible
+funorin
 fielding
 falla
 fornax
@@ -5078,7 +5079,6 @@ felter
 forvay
 flarer
 fellatee
-funorin
 flashboard
 fiendliest
 forelay
