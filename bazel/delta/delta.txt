@@ -12909,7 +12909,6 @@ dicotyledones
 disuniformity
 dognapping
 duply
-detruncate
 duff
 diligentness
 dummying
@@ -16247,6 +16246,7 @@ doo
 dovened
 deoxygenize
 drewite
+detruncate
 demicanton
 desireless
 dispreader
