@@ -12854,7 +12854,6 @@ cholesteroluria
 calorifacient
 churchy
 churchianity
-churchyard
 crawlways
 corrodible
 catallum
@@ -19331,6 +19330,7 @@ coning
 certainty
 contemperature
 crista
+churchyard
 ceviches
 colocola
 colodyspepsia
