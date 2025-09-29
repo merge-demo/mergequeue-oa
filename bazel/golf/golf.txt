@@ -2565,6 +2565,7 @@ gristy
 gangliasthenia
 goosefish
 granodiorite
+ginghams
 giltheads
 guillotined
 grassed
@@ -9111,7 +9112,6 @@ gaffers
 grammaticalness
 gazeful
 grusinian
-ginghams
 gearcase
 grooming
 gardant
