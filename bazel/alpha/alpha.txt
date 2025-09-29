@@ -17478,7 +17478,6 @@ ascendency
 appendicectomy
 agonostomus
 appendicectomies
-abay
 appendicial
 appendicostomy
 airpost
@@ -22110,6 +22109,7 @@ aurated
 alcibiades
 american
 antiquates
+abay
 astragalomancy
 addressees
 allolalic
