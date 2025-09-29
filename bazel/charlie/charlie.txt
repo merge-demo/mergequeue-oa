@@ -27851,7 +27851,6 @@ confuters
 craal
 craaling
 craals
-crabbedness
 crescendoed
 crabber
 crabbery
@@ -27924,6 +27923,7 @@ cracksmen
 countercouchant
 chiliagon
 californians
+crabbedness
 cradlechild
 cradled
 cradlefellow
