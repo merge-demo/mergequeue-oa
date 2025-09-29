@@ -5890,7 +5890,6 @@ electrometallurgy
 exocytosis
 endsweep
 enharden
-especially
 eurytopicity
 exoenzymic
 embuskin
@@ -8247,6 +8246,7 @@ ecclesiologic
 erucic
 enjoying
 entozoa
+especially
 epigenist
 exulcerate
 enweave
