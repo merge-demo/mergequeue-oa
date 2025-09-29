@@ -413,7 +413,6 @@ gymmal
 gabion
 glomeration
 greatened
-greatcoated
 gegger
 galbanums
 genophobia
@@ -2434,6 +2433,7 @@ graphotypic
 geologian
 gesticulation
 graduator
+greatcoated
 gype
 grograms
 glutch
