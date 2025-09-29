@@ -2799,6 +2799,7 @@ grenadines
 goosehouse
 goodbyes
 genuflection
+gnathostomi
 gallates
 galactophlysis
 grayhair
@@ -8516,7 +8517,6 @@ gastrocnemius
 glabriety
 griqua
 gravity
-gnathostomi
 germinal
 gradually
 gawsy
