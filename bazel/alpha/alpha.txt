@@ -1266,6 +1266,7 @@ acarus
 aeromedicine
 andantino
 acanthurus
+anocarpous
 acatalectic
 apomicts
 anterevolutional
@@ -22731,7 +22732,6 @@ atones
 antipatriarchally
 acotyledon
 argilloid
-anocarpous
 atonicity
 ageusia
 alcelaphus

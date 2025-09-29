@@ -3797,6 +3797,7 @@ emerge
 ecart
 emerged
 edulcorated
+eruca
 echinostomiasis
 emergentness
 enring
@@ -6907,7 +6908,6 @@ emmental
 eucalyn
 epiblema
 epitrchelia
-eruca
 exudation
 exarchal
 elasticize
