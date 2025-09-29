@@ -5551,6 +5551,7 @@ battlement
 blepharal
 barbitone
 businessmen
+blarneyer
 beladying
 buzzwig
 bayz
@@ -15560,7 +15561,6 @@ belder
 branchage
 briza
 bangiaceae
-blarneyer
 broacher
 batterable
 brinjal
