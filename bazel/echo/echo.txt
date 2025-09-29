@@ -5002,7 +5002,6 @@ enneads
 extorsively
 emplane
 executant
-eumitotic
 endhand
 echinocereus
 epichindrotic
@@ -12669,6 +12668,7 @@ ephemerous
 encephalotomies
 euclase
 episcopicide
+eumitotic
 essays
 eunicidae
 errantries
