@@ -8433,7 +8433,6 @@ carpal
 chamian
 consecrative
 creeshie
-capeskin
 chamise
 ciboule
 chamises
@@ -12760,6 +12759,7 @@ corkiest
 chamaesaura
 crippingly
 cutlass
+capeskin
 cuisinary
 chulpa
 cabassou
