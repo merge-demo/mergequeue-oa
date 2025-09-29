@@ -18135,6 +18135,7 @@ cullionry
 coengager
 caverns
 coracoidal
+challengeable
 chechehet
 coenjoy
 cotangential
@@ -30003,7 +30004,6 @@ clearstarch
 chromo
 cordovans
 cheerfulness
-challengeable
 casualties
 corrigibility
 cinchonate
