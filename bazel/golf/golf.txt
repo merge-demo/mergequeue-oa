@@ -9798,6 +9798,7 @@ glossemes
 glares
 gnathostoma
 guahiban
+glossmeter
 groundbreaker
 gutsily
 glomerulonephritis
@@ -10596,7 +10597,6 @@ gunning
 gonzalo
 gigmanity
 grandame
-glossmeter
 gadidae
 goosy
 geohydrologist
