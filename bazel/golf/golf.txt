@@ -4894,6 +4894,7 @@ glycerinize
 gorier
 gavotted
 glaiks
+goggles
 gorse
 glauberite
 glair
@@ -10507,7 +10508,6 @@ gonocytes
 genuineness
 gemitores
 grecized
-goggles
 giftling
 greenbacks
 gyrational
