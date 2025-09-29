@@ -4876,7 +4876,6 @@ goofy
 globiocephalus
 guapinol
 guardee
-gladwin
 gauffred
 gymnotoka
 globularity
@@ -8630,6 +8629,7 @@ glean
 gynaecoid
 glissading
 gismondite
+gladwin
 glacification
 germanious
 galactophygous
