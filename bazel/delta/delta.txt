@@ -2920,7 +2920,6 @@ depositional
 discrown
 diaphanotype
 describers
-destinezite
 denticeti
 decemfid
 deductio
@@ -6429,6 +6428,7 @@ dactyli
 drung
 decenter
 disencumbered
+destinezite
 doubleton
 draconitic
 debellation
