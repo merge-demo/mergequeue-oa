@@ -19615,6 +19615,7 @@ aristomonarchy
 aristorepublicanism
 arteriorrhexis
 aristotelean
+antedon
 adolescents
 aristotelism
 acicula
@@ -24980,7 +24981,6 @@ asperation
 atlatls
 awhir
 awhirl
-antedon
 academics
 awikiwiki
 asymmetral
