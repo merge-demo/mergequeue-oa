@@ -6384,6 +6384,7 @@ fricasseing
 faence
 forefoot
 fronture
+floorman
 furry
 formalization
 frogspawn
@@ -6554,7 +6555,6 @@ faunistical
 fluxionist
 fluxive
 fouett
-floorman
 footcloth
 fetiales
 fissions
