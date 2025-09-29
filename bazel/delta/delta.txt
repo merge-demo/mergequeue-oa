@@ -12208,7 +12208,6 @@ dodoisms
 drapes
 dottles
 disfranchises
-dumfounds
 deride
 divineress
 diple
@@ -15775,6 +15774,7 @@ doralium
 denazifies
 disfavorer
 discovers
+dumfounds
 doest
 dustcoat
 diabetical
