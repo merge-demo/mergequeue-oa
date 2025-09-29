@@ -12086,7 +12086,6 @@ crossweb
 chophouses
 coursed
 conspirators
-choses
 chunky
 chotts
 chou
@@ -31529,6 +31528,7 @@ cursorary
 cundite
 cursory
 cuproid
+choses
 cursorily
 crystallizability
 cursoriness
