@@ -12266,7 +12266,6 @@ begrave
 blindly
 bonellia
 bondswoman
-budgeteer
 bodkinwise
 blanquillo
 buddles
@@ -13004,6 +13003,7 @@ boracous
 bedur
 bruchidae
 bueno
+budgeteer
 barbecued
 baptismally
 baiginet
