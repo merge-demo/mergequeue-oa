@@ -2854,7 +2854,6 @@ battener
 bravoing
 bowle
 blindingly
-blazonries
 bacchanalianism
 betorn
 barramundies
@@ -17846,6 +17845,7 @@ boatbills
 blotchier
 bearbush
 balaenicipites
+blazonries
 bordered
 bairnishness
 beholders

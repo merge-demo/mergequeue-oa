@@ -10853,6 +10853,7 @@ displaces
 diletant
 diadematoida
 desmidiaceous
+drie
 digit
 dynameter
 dimerized
@@ -13216,7 +13217,6 @@ dendrobe
 drosses
 dronte
 diastrophe
-drie
 dolphinfish
 dyspnea
 dyspneas
