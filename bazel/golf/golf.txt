@@ -897,6 +897,7 @@ gaverick
 geld
 guna
 gelatinate
+gypsyhead
 gambia
 galerite
 garnishable
@@ -4466,7 +4467,6 @@ granules
 gristles
 geophytes
 guacimo
-gypsyhead
 gloeocapsoid
 girlie
 grantiidae

@@ -4267,6 +4267,7 @@ exosmoses
 enflowered
 echiniform
 exospores
+epicuticular
 enacting
 ers
 exercisers
@@ -7680,7 +7681,6 @@ espece
 epicuticle
 elephanticide
 extroversion
-epicuticular
 entomotomist
 exacta
 eustele
