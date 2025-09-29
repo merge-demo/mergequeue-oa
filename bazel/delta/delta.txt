@@ -6010,7 +6010,6 @@ dragons
 diopside
 delictus
 disappoints
-deed
 diwata
 disregardance
 depsides
@@ -14193,6 +14192,7 @@ diazeuxis
 disvisage
 disyoked
 dungari
+deed
 doublet
 dragoons
 disvisor
