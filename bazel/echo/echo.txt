@@ -11342,6 +11342,7 @@ exercises
 exotropic
 electrodesiccation
 evenforth
+excecation
 eryopid
 eruciform
 emanatively
@@ -13435,7 +13436,6 @@ echinosphaeritidae
 expropriable
 endome
 expropriate
-excecation
 endromis
 elem
 equestriennes
