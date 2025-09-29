@@ -801,7 +801,6 @@ flea
 figuration
 floosy
 formalistic
-furnishing
 fantasticalness
 forcible
 flautists
@@ -6934,6 +6933,7 @@ fee
 follily
 feeblemindedness
 fumigants
+furnishing
 fungivorous
 fadeless
 flatcap
