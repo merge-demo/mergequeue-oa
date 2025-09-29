@@ -702,7 +702,6 @@ botherer
 bushmanship
 baikie
 bragas
-boral
 bade
 badness
 baff
@@ -1199,6 +1198,7 @@ brew
 buttonball
 buoys
 brawliest
+boral
 bibliolater
 breth
 brothel
