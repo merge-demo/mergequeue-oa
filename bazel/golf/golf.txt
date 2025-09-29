@@ -2788,7 +2788,6 @@ gazettal
 grigris
 gormless
 glottalite
-gloiopeltis
 gentiobiose
 gentle
 guardianess
@@ -9154,6 +9153,7 @@ gradine
 goniometrically
 grippiest
 grill
+gloiopeltis
 granulating
 grippiness
 gratulatory

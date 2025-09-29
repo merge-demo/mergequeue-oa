@@ -14138,6 +14138,7 @@ daters
 dispellable
 declivent
 dravite
+degasification
 diterpene
 defleaing
 depilated
@@ -14744,7 +14745,6 @@ denudate
 dendroceratine
 disincline
 dimensionality
-degasification
 dogmatisation
 definitiones
 defensibleness
