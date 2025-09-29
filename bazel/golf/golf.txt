@@ -7996,7 +7996,6 @@ gratae
 granite
 gracy
 gypsydoms
-guttulae
 geminiflorous
 gravels
 glenoidal
@@ -10256,6 +10255,7 @@ globulitic
 geocarpic
 goers
 galeproof
+guttulae
 gregarious
 guinness
 greyback
