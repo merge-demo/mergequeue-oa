@@ -6913,7 +6913,6 @@ exarchal
 elasticize
 electrovital
 escudos
-embonpoint
 entoperipheral
 eighteenths
 exuviable
@@ -13251,6 +13250,7 @@ equiliria
 execrable
 explicates
 euglenoidina
+embonpoint
 eyewitness
 encoffinment
 explicator
