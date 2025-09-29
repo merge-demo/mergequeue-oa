@@ -2635,7 +2635,6 @@ estadel
 eiry
 entad
 ethnocentrism
-electrosmosis
 excelling
 exegetist
 enquiries
@@ -5012,6 +5011,7 @@ emplace
 elaeomargaric
 endite
 eclairs
+electrosmosis
 expositoriness
 econometer
 entreasure

@@ -56,7 +56,6 @@ diarchial
 dacryocystoptosis
 dacryocystosyringotomy
 derham
-dacryolithiasis
 desmoma
 danielic
 dedicatedly
@@ -12749,6 +12748,7 @@ drawbars
 dissemblingly
 drivecap
 dodrans
+dacryolithiasis
 dorcas
 dupondii
 duellers
