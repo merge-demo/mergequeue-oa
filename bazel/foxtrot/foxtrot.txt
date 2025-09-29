@@ -2764,7 +2764,6 @@ fuddlebrained
 forgivingness
 featness
 festinated
-festinating
 festination
 fodgel
 forgettery
@@ -6887,6 +6886,7 @@ folklores
 fp
 floatages
 fruity
+festinating
 fifes
 fleme
 felafel

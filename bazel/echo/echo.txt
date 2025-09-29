@@ -8315,7 +8315,6 @@ endogamies
 eriocaulaceae
 electrodeposit
 enciphers
-elev
 expressibly
 endured
 elastases
@@ -12344,6 +12343,7 @@ extradictionary
 eurasian
 exfoliative
 ebbman
+elev
 erodibility
 exhalents
 etude

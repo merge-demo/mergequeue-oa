@@ -6406,6 +6406,7 @@ graduates
 gregorian
 gausterer
 grandeeship
+gimmerpet
 geneses
 gallivanted
 gouger
@@ -6540,7 +6541,6 @@ gesture
 gambeson
 grummets
 girons
-gimmerpet
 gambas
 guazzo
 groyne
