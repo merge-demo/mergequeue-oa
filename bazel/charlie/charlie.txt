@@ -29578,6 +29578,7 @@ craspedal
 crock
 chalazion
 clashy
+carousal
 cantative
 crockard
 caroaches
@@ -30489,7 +30490,6 @@ cavin
 ciphertexts
 codein
 calycli
-carousal
 cubbishness
 cubbyu
 chloric
