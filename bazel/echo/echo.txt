@@ -907,7 +907,6 @@ enures
 emperies
 extrastate
 electrostrictive
-eugenist
 episedia
 encomiastic
 excommunicators
@@ -6963,6 +6962,7 @@ earwig
 entrainment
 entrains
 emissaryship
+eugenist
 entrancedly
 epicentrums
 entrancement
