@@ -4517,7 +4517,6 @@ fusser
 fissura
 frugal
 forwardsearch
-fractionized
 felinophile
 fissured
 feasters
@@ -6123,6 +6122,7 @@ fulminations
 forlana
 fishtailed
 fretish
+fractionized
 fontinalaceae
 foxfish
 frustration
