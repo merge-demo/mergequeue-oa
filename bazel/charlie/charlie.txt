@@ -12385,6 +12385,7 @@ cinchonia
 contrastably
 conquerable
 chromatolytic
+chersonese
 chromatologies
 chromatopathy
 cakebox
@@ -22605,7 +22606,6 @@ cooperates
 corngrower
 chargehouse
 conjunctively
-chersonese
 chimbleys
 conjuncts
 conjunctur
