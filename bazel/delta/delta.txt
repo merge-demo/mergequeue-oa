@@ -6238,7 +6238,6 @@ discontentment
 dawed
 derma
 damascened
-digametic
 dermabrasion
 dithyramb
 dements
@@ -9658,6 +9657,7 @@ dihydronicotine
 discomfortably
 dihydrotachysterol
 dhaks
+digametic
 dihydroxyacetone
 dihydroxysuccinic
 dosshouse

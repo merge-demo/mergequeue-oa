@@ -615,7 +615,6 @@ bacterid
 boatels
 backen
 brilliants
-birdcages
 baraka
 barytosulphate
 bullated
@@ -7606,6 +7605,7 @@ bezoars
 bewared
 bobbed
 bread
+birdcages
 bezpopovets
 barged
 boatbuilder
