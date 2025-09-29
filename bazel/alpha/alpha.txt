@@ -18510,7 +18510,6 @@ anthropologic
 antiochene
 acing
 anisol
-apogaic
 aquamarines
 acalepha
 available
@@ -20179,6 +20178,7 @@ alluvio
 anauxite
 atelic
 atrabile
+apogaic
 avicide
 androecium
 arrivistes
