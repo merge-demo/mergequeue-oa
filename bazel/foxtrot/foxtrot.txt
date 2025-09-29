@@ -404,7 +404,6 @@ fister
 fairkeeper
 fronde
 farcy
-ficoes
 frislet
 faq
 facie
@@ -10622,6 +10621,7 @@ fleeting
 flatnesses
 frugalities
 farrandly
+ficoes
 frugalness
 freck
 fetiches
