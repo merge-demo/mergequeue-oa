@@ -6922,7 +6922,6 @@ cementatory
 castrati
 chlorobromomethane
 curvirostres
-charros
 cackler
 compilations
 coursey
@@ -14912,6 +14911,7 @@ cytophagic
 cytophagous
 callous
 calcines
+charros
 cytopharynx
 coldturkey
 cytophil

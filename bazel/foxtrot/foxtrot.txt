@@ -6335,6 +6335,7 @@ fullback
 finessed
 fixtureless
 fourb
+floressence
 flunkyish
 flunkyize
 fuzziness
@@ -7385,7 +7386,6 @@ foraramens
 frugs
 funicle
 ferrarese
-floressence
 fatalistic
 feminologist
 forbow
