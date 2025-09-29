@@ -9645,6 +9645,7 @@ epicycles
 espy
 earhead
 espial
+ezba
 electrocoagulation
 escrows
 espinal
@@ -13015,7 +13016,6 @@ epopee
 endochondral
 espiegle
 embryonal
-ezba
 entastic
 extravagant
 esophagectomy
