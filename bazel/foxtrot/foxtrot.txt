@@ -158,6 +158,7 @@ favus
 falls
 fulfillers
 factionalism
+feistier
 factualness
 fow
 fullbodied
@@ -4235,7 +4236,6 @@ fallotomy
 firelight
 flab
 frigorifico
-feistier
 felicide
 footsies
 fowls
