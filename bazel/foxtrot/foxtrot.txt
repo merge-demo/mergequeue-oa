@@ -4648,7 +4648,6 @@ filmgoer
 faust
 fulani
 faeroe
-foliar
 ferrotungsten
 flewit
 freety
@@ -8169,6 +8168,7 @@ foederatus
 fingerprinted
 florulent
 fruitfullest
+foliar
 fluffily
 fishpond
 ferula
