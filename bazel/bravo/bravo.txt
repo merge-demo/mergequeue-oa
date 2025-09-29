@@ -1837,7 +1837,6 @@ brainish
 behatted
 blet
 bindings
-brigading
 banders
 broadlings
 breastbone
@@ -10727,6 +10726,7 @@ blandishes
 behusband
 bebatter
 braeside
+brigading
 brags
 blennosis
 bankroll
