@@ -17739,6 +17739,7 @@ decanonization
 decolouriser
 defer
 disennoble
+durani
 dicarbonate
 demography
 dubio
@@ -18522,7 +18523,6 @@ duramens
 duffer
 durances
 downcast
-durani
 duraspinalis
 derrick
 discreetness

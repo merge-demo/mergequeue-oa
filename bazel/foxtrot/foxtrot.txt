@@ -1091,6 +1091,7 @@ farreachingly
 fernleaf
 federates
 farrel
+foretold
 figuresome
 flameproofer
 faculae
@@ -6815,7 +6816,6 @@ fikery
 feuille
 florula
 fragmentizer
-foretold
 fructifier
 forger
 foliaged
