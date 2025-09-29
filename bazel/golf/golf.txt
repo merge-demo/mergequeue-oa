@@ -58,7 +58,6 @@ gluemaking
 gablewindowed
 gogga
 gabon
-gonidiophore
 galeenies
 garoo
 gentlemanize
@@ -8597,6 +8596,7 @@ groynes
 grivets
 gapeseed
 gazetteership
+gonidiophore
 greatness
 greave
 gapers
