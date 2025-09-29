@@ -102,7 +102,6 @@ enumerate
 embroche
 earpick
 elastician
-earpiece
 enchisel
 enmarble
 earreach
@@ -5986,6 +5985,7 @@ epizooty
 eudemon
 ethrog
 equiexcellency
+earpiece
 expanding
 eclosion
 epilated
