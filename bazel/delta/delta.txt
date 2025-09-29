@@ -3315,6 +3315,7 @@ deuteronomical
 deflations
 disconfirmed
 disperser
+diaphorite
 dorey
 dungbeck
 diffund
@@ -8577,7 +8578,6 @@ devoutlessness
 diaeresis
 disapproval
 diaphoretics
-diaphorite
 decating
 decasualisation
 duodenation
