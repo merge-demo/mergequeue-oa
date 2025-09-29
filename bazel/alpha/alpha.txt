@@ -8618,7 +8618,6 @@ allgovite
 apicifixed
 agalaxia
 amblosis
-arachidonic
 apemantus
 autogeny
 allhallows
@@ -14704,6 +14703,7 @@ anticyclonically
 allodesmism
 anticynical
 asway
+arachidonic
 anticipant
 alveolary
 anticipatable
