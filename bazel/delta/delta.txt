@@ -10755,7 +10755,6 @@ daguerrean
 dips
 dipsacaceous
 deipnosophist
-dipsaceae
 disavow
 dun
 dubiousness
@@ -14047,6 +14046,7 @@ deglute
 distributing
 doohickey
 distribution
+dipsaceae
 deliberations
 dehematize
 docksides
