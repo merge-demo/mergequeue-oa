@@ -9570,7 +9570,6 @@ catechize
 capacitively
 checkwork
 cosmologist
-checkwriter
 concurrence
 cascading
 cheventayn
@@ -28795,6 +28794,7 @@ colima
 coffee
 cressiest
 coauthor
+checkwriter
 crest
 confiserie
 clinostat
