@@ -3137,7 +3137,6 @@ dandiest
 defectoscope
 dorsers
 dulciana
-deflagrable
 defectum
 diplostemony
 dummkopf
@@ -15366,6 +15365,7 @@ deallocated
 discovery
 derries
 dolomitic
+deflagrable
 descriptives
 diatomiferous
 dorididae
