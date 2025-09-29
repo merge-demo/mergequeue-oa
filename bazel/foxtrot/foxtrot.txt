@@ -5460,6 +5460,7 @@ fellside
 fidelities
 feignedness
 feus
+fecundify
 foolscap
 flesh
 forbids
@@ -7781,7 +7782,6 @@ facingly
 forjudges
 formosan
 fluorescigenic
-fecundify
 fleaweed
 forenight
 flogger
