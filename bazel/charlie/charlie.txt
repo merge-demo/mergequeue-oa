@@ -4066,7 +4066,6 @@ copydesks
 claimed
 cardiform
 cardigan
-cardin
 croslet
 cancans
 capabilities
@@ -22108,6 +22107,7 @@ congenialize
 chookies
 confiscates
 confiscation
+cardin
 cacajao
 confiscations
 confiscators

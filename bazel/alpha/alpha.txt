@@ -11317,7 +11317,6 @@ amputates
 alternatively
 adespota
 amputating
-amputation
 aboding
 amputational
 anisotropous
@@ -17526,6 +17525,7 @@ apperceptionist
 annihilatory
 appersonification
 appert
+amputation
 armorplated
 appertain
 accosts
