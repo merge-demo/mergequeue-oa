@@ -5397,7 +5397,6 @@ fennel
 friending
 frigefact
 futurity
-fleabiting
 fledgeling
 fiendhead
 foxfinger
@@ -6349,6 +6348,7 @@ furcraeas
 favela
 fluoboride
 fumerel
+fleabiting
 fiking
 feyest
 flashingly

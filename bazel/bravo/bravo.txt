@@ -6250,7 +6250,6 @@ braze
 biblic
 billbroking
 barrer
-baikerite
 brike
 benzanthracene
 bitore
@@ -17126,6 +17125,7 @@ bromine
 baizes
 brahmanaspati
 bulls
+baikerite
 boondoggler
 braeface
 baccillum
