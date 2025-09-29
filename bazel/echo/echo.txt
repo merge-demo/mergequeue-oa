@@ -1341,6 +1341,7 @@ earthiest
 effendis
 empty
 efferently
+encephalitis
 efferents
 enallage
 effervescency
@@ -11588,7 +11589,6 @@ envenomous
 everywhereness
 expatiation
 emergent
-encephalitis
 ewte
 exacerbated
 explicit
