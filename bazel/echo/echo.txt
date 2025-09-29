@@ -3212,6 +3212,7 @@ equant
 eludes
 educive
 eludible
+evocations
 eluding
 enswathes
 enfollow
@@ -6922,7 +6923,6 @@ erythrocytic
 entopic
 endiablee
 elling
-evocations
 entoplasm
 estreats
 exiled
