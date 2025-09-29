@@ -9958,7 +9958,6 @@ baramika
 burrhel
 bargainor
 biverb
-bedfast
 blinkering
 bivocal
 bicylindrical
@@ -18286,6 +18285,7 @@ buttled
 bonspells
 balachan
 buprestid
+bedfast
 buttocked
 buttocker
 bagobo
