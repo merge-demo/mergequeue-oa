@@ -4258,7 +4258,6 @@ dumpy
 diminuendoed
 dislocate
 deltahedra
-dismayed
 dismaler
 diadrome
 distensibility
@@ -4741,6 +4740,7 @@ deputize
 duello
 demitted
 dilutive
+dismayed
 dedecorous
 duties
 demiurgeous
