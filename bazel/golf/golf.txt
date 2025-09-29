@@ -4915,7 +4915,6 @@ gallimatia
 gradational
 gaucheness
 grasping
-gynecocentric
 gapingly
 gladdened
 grouter
@@ -9900,6 +9899,7 @@ galloons
 guaranine
 gaveling
 greith
+gynecocentric
 gormandized
 gravelly
 grander
