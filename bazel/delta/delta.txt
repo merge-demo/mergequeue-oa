@@ -12045,6 +12045,7 @@ ditheist
 diachoresis
 dijudicated
 deathweed
+dorask
 disensure
 disentangle
 dentine
@@ -15774,7 +15775,6 @@ discovers
 doest
 dustcoat
 diabetical
-dorask
 dorbeetle
 discombobulating
 deflectors
