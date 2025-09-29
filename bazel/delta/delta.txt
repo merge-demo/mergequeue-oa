@@ -16549,6 +16549,7 @@ disregards
 dadder
 diadrom
 dihely
+ditetragonal
 decoctum
 deeply
 darii
@@ -18220,7 +18221,6 @@ deedful
 depersonalize
 delights
 delinquently
-ditetragonal
 dentatocostate
 dermatorrhoea
 despatchers
