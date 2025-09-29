@@ -6078,7 +6078,6 @@ fissuriform
 floush
 focalisation
 fouls
-foudroyant
 flossiest
 filibusterism
 flossiness
@@ -7435,6 +7434,7 @@ forcipation
 flutelike
 francophile
 forcipressure
+foudroyant
 frigidoreceptor
 foy
 fossick
