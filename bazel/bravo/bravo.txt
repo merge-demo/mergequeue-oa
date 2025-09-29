@@ -1765,7 +1765,6 @@ buses
 biretta
 broomballer
 bedraggling
-baldest
 balustrading
 balzarine
 blockhead
@@ -18241,6 +18240,7 @@ bivouacs
 blackhander
 buttermaker
 byordinary
+baldest
 bootblacks
 brachymetropia
 buttermilk
