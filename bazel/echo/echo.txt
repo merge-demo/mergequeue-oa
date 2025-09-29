@@ -9517,7 +9517,6 @@ evenhead
 entrust
 eugenesis
 epimorphism
-extrasolar
 exempt
 envois
 esuriently
@@ -13554,6 +13553,7 @@ ectadenia
 egeria
 emulation
 epikeia
+extrasolar
 egoism
 encryptions
 esoteric
