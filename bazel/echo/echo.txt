@@ -8341,6 +8341,7 @@ epithets
 enterocolostomy
 exuvial
 eyetooth
+eskuara
 enthrallments
 educative
 excitomotory
@@ -12212,7 +12213,6 @@ entally
 erodable
 edriasteroidea
 ergotine
-eskuara
 ecclesiolater
 eternalization
 equipment

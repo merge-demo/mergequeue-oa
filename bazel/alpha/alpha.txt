@@ -1162,6 +1162,7 @@ acalephoid
 arow
 acalyculate
 asterixis
+anthropomorphical
 apheliotropic
 acalyptratae
 antihemagglutinin
@@ -6699,7 +6700,6 @@ aimara
 airmobile
 anecdotage
 airn
-anthropomorphical
 aloadae
 airplay
 anacardiaceous
