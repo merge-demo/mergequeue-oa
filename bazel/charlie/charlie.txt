@@ -8151,7 +8151,6 @@ chainmen
 capitare
 cultists
 castalian
-chainsman
 caponising
 capetian
 cleanups
@@ -30218,6 +30217,7 @@ cordaitaceae
 cucurbit
 cruets
 conservational
+chainsman
 controllers
 caquetoires
 cruises
