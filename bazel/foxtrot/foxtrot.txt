@@ -2361,7 +2361,6 @@ floatstone
 flytings
 fegs
 frolicky
-ferforth
 frapped
 forz
 falconiformes
@@ -11303,6 +11302,7 @@ fatwa
 feyness
 firedog
 formatted
+ferforth
 feverfew
 firesides
 fraternize
