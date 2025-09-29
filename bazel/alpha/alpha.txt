@@ -2378,6 +2378,7 @@ americana
 affinitative
 adipic
 argumentum
+activable
 adiaphoral
 anomalistically
 acnes
@@ -6041,7 +6042,6 @@ agoniada
 antiparabema
 atellan
 avirulent
-activable
 audile
 alchemise
 aegerian
