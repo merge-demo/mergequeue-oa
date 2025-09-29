@@ -3501,7 +3501,6 @@ formuliser
 forpined
 finnic
 fluctuated
-fended
 federary
 figurable
 fixture
@@ -6060,6 +6059,7 @@ fetterbush
 faba
 flavoring
 floristically
+fended
 feringhee
 ferrivorous
 funker
