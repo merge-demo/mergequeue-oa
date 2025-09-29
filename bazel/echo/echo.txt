@@ -4630,6 +4630,7 @@ enhydrite
 extratensive
 erythroxyline
 erethic
+esophagomalacia
 endarchies
 exuberantness
 epimerase
@@ -5737,7 +5738,6 @@ enticers
 englacial
 expose
 embossments
-esophagomalacia
 emaciation
 eddying
 endozoic
