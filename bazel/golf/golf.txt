@@ -8071,6 +8071,7 @@ granulary
 guidebooks
 glyoxalin
 gobs
+gabled
 genically
 galactic
 grimed
@@ -9444,7 +9445,6 @@ gabriella
 glaciate
 gaseously
 griffonne
-gabled
 genitalial
 gladiate
 garlopa
