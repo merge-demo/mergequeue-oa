@@ -6400,6 +6400,7 @@ demeanour
 derogate
 denuclearization
 derogates
+disarranges
 diglyceride
 dreint
 derogatory
@@ -11116,7 +11117,6 @@ diachronicness
 disarrays
 decamp
 desilicated
-disarranges
 do
 discernibility
 dendroctonus
