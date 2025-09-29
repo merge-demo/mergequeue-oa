@@ -1491,6 +1491,7 @@ garners
 garotted
 goutish
 gaolage
+ganefs
 gardenhood
 groose
 guaxima
@@ -2214,7 +2215,6 @@ galas
 gaster
 gingle
 gastrocatarrhal
-ganefs
 gnomonology
 generosities
 galactohemia
