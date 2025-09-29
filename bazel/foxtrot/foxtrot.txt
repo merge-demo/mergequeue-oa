@@ -641,7 +641,6 @@ feedbags
 floaty
 falsifying
 falunian
-fertilisation
 fanum
 fauster
 frowstier
@@ -1433,6 +1432,7 @@ follow
 footroom
 fattier
 flannelmouths
+fertilisation
 fanwork
 fall
 fiddled
