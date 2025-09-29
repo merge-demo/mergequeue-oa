@@ -2623,7 +2623,6 @@ gonocalyx
 goodness
 gynecia
 galores
-grayware
 graal
 glims
 gymnosophist
@@ -7745,6 +7744,7 @@ guapena
 grayling
 galivanted
 guessers
+grayware
 girnal
 glacial
 gunung
