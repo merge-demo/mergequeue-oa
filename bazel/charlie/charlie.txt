@@ -15628,7 +15628,6 @@ carpogenous
 clattered
 coxcombries
 clatterer
-crucifier
 clattery
 captainly
 clattering
@@ -27108,6 +27107,7 @@ crance
 counterindicate
 crustal
 concurringly
+crucifier
 cemental
 countersign
 calfbound
