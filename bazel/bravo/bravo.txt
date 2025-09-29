@@ -4736,6 +4736,7 @@ brazenface
 bikh
 broletto
 bradypodoid
+byssogenous
 bedstraw
 bushgoats
 bookholder
@@ -12914,7 +12915,6 @@ bump
 bursectomy
 brachigerous
 blanketing
-byssogenous
 boatyard
 boot
 bifoliolate

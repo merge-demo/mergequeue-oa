@@ -3167,7 +3167,6 @@ guardant
 glossolabiolaryngeal
 gametoid
 ganglial
-gooier
 guerdoning
 gephyrea
 girouettes
@@ -5119,6 +5118,7 @@ glaucophanite
 goldcrest
 gimpiest
 gallinaginous
+gooier
 guerdon
 gammick
 geologised

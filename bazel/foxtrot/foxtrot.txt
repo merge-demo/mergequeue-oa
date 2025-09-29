@@ -3304,7 +3304,6 @@ flounces
 ferrelled
 fortier
 fulgency
-finity
 factitious
 flirtationless
 framed
@@ -5849,6 +5848,7 @@ farthingale
 forestem
 formidableness
 furanes
+finity
 filanders
 feminology
 fastigia
