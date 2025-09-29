@@ -318,7 +318,6 @@ flexuosity
 fraternation
 feints
 fag
-feint
 fostell
 fibrillated
 finochio
@@ -2217,6 +2216,7 @@ focometry
 fikie
 firebombs
 fuliguline
+feint
 flatcars
 fructosan
 ferrara
