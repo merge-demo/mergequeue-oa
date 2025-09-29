@@ -4602,7 +4602,6 @@ causeless
 cementite
 caroluses
 carom
-carombolette
 caromel
 caroming
 centriscid
@@ -16449,6 +16448,7 @@ clo
 cosherer
 cloaca
 cloacae
+carombolette
 cents
 connellite
 celliform
