@@ -229,7 +229,6 @@ flatway
 facular
 fruitworm
 feverroot
-fluorotype
 faculous
 firelock
 filibranch
@@ -1091,6 +1090,7 @@ flameproofer
 faculae
 fontinalaceous
 fam
+fluorotype
 finkel
 fellatrixes
 fudgy
