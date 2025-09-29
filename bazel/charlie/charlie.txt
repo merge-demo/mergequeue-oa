@@ -4327,6 +4327,7 @@ chloroamine
 crisper
 catholical
 counterslope
+chass
 caricologist
 carucage
 cowlstaff
@@ -9196,7 +9197,6 @@ catalyst
 chasmophyte
 chirruped
 constipating
-chass
 chasse
 chassed
 catastrophism
