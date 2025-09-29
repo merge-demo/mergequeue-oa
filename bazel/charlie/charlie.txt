@@ -16969,7 +16969,6 @@ clupanodonic
 chappaul
 chirognomic
 clupeid
-cahot
 clupeids
 creatureliness
 centrechinoida
@@ -26951,6 +26950,7 @@ chromeplated
 conceded
 clockhouse
 calabaza
+cahot
 ciceronianism
 counterobjection
 counterobligation
