@@ -8882,7 +8882,6 @@ ethnohistorically
 espontoon
 extenuating
 embowel
-elfdom
 exp
 estrangement
 ergative
@@ -11322,6 +11321,7 @@ eunuch
 eugenics
 eolienne
 estrildine
+elfdom
 eth
 eveline
 even
