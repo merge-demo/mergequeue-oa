@@ -10466,7 +10466,6 @@ attomy
 anorthographically
 amylase
 anastasimos
-amylate
 aglyphodontia
 amildar
 angelicas
@@ -10709,6 +10708,7 @@ ascertains
 amani
 artcraft
 anemopathy
+amylate
 ammonia
 ammoniacs
 acrisius
