@@ -5229,7 +5229,6 @@ dellenite
 dsp
 dryopes
 disseminated
-dioscorein
 distortedness
 distemperature
 diaphote
@@ -8936,6 +8935,7 @@ dichloroacetic
 dichlorodifluoromethane
 densher
 domiciling
+dioscorein
 discitis
 dumpishness
 deboshment
