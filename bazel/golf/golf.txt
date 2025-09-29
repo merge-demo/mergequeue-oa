@@ -2679,7 +2679,6 @@ gastroenterologists
 globoids
 geoteuthis
 genioglossus
-genitocrural
 grout
 gallooned
 gripingly
@@ -5906,6 +5905,7 @@ gemitorial
 globuliform
 gaylussacia
 gluishness
+genitocrural
 geonyctinastic
 germy
 glumes

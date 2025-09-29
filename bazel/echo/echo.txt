@@ -3191,7 +3191,6 @@ elt
 elaters
 eluant
 engendure
-eluating
 enteritis
 ernesse
 elucidator
@@ -6345,6 +6344,7 @@ eulamellibranchiate
 enseem
 exuberant
 environic
+eluating
 enserfed
 ekamanganese
 enshade
