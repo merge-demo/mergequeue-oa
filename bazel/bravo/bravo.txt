@@ -3732,6 +3732,7 @@ blastomeric
 batwing
 bucchero
 baysmelt
+bakerdom
 betatrons
 busing
 barfly
@@ -9493,7 +9494,6 @@ birthwort
 blatancies
 bitnet
 breviger
-bakerdom
 bluebills
 bachelorize
 besputter
