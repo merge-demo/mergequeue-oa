@@ -4633,7 +4633,6 @@ cronying
 cholecystoduodenostomy
 carotinoid
 corespondency
-carotol
 caroubier
 culled
 conjurership
@@ -8164,6 +8163,7 @@ chairing
 carpetbagging
 clinanthium
 chairladies
+carotol
 coccionella
 cerote
 cordia
