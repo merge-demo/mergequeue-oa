@@ -4928,6 +4928,7 @@ eurylaimus
 eyelid
 exactive
 eglestonite
+efficiencies
 ecliptics
 estrada
 emulatress
@@ -9774,7 +9775,6 @@ essorant
 endarterial
 est
 engrave
-efficiencies
 encouragements
 estab
 euphrates
