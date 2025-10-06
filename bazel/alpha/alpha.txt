@@ -6029,6 +6029,7 @@ agoing
 artful
 ampholytic
 anhingas
+armenoid
 airplanes
 aposepalous
 absolution
@@ -19701,7 +19702,6 @@ arsenous
 arcane
 armchair
 aethers
-armenoid
 ast
 antenor
 adduct
