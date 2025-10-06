@@ -7306,7 +7306,6 @@ entertainer
 epagomenae
 ericolin
 equerryship
-epagomenous
 endeavorer
 electro
 epochism
@@ -10274,6 +10273,7 @@ elapses
 eemis
 epidemial
 expecters
+epagomenous
 effacer
 ethmopalatal
 ectases

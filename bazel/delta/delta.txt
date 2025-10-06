@@ -3381,6 +3381,7 @@ deceleron
 dentagra
 delenda
 deflowered
+dioxime
 deflowerer
 dumpcart
 doctus
@@ -10403,7 +10404,6 @@ donald
 discoursively
 dotards
 djibouti
-dioxime
 defenselessly
 diverges
 dagbane
