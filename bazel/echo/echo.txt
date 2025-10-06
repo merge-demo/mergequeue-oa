@@ -618,6 +618,7 @@ eciton
 eversions
 entertained
 eclaircissement
+evangelicality
 epeus
 echeneidoid
 enchant
@@ -6928,7 +6929,6 @@ entoptical
 entoptically
 entoptics
 evections
-evangelicality
 enjoyableness
 entosternal
 erick
