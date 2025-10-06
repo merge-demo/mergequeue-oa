@@ -11554,7 +11554,6 @@ diallist
 defeats
 discommodities
 discommoned
-dissyllabise
 direst
 dextrinase
 detective
@@ -13767,6 +13766,7 @@ dacryadenalgia
 disdodecahedroid
 dissuades
 devitalized
+dissyllabise
 dehorning
 determinations
 defections
