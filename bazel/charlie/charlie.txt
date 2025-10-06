@@ -1448,7 +1448,6 @@ coecal
 continents
 capstones
 careening
-calkers
 chowse
 coviello
 congelative
@@ -31384,6 +31383,7 @@ curiologics
 comparability
 colophon
 colubaria
+calkers
 curios
 cheminee
 cottonwoods
