@@ -2134,7 +2134,6 @@ camphorates
 camphory
 camphoryl
 ceratothecae
-camphoroyl
 clerkliest
 camporee
 camphorone
@@ -22185,6 +22184,7 @@ conformed
 conformer
 coercibleness
 cumbered
+camphoroyl
 curvate
 conformingly
 confusably
