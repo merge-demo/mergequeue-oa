@@ -3315,6 +3315,7 @@ eulogic
 electroreceptive
 expresses
 elegies
+egocentristic
 encheer
 emasculatory
 ermit
@@ -9566,7 +9567,6 @@ emptory
 expediente
 excurse
 esculent
-egocentristic
 enchasers
 esoethmoiditis
 exornation
