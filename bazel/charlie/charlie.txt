@@ -8095,7 +8095,6 @@ climatical
 camelion
 cattle
 chaffman
-codiniac
 coracosteon
 continent
 countryfied
@@ -28368,6 +28367,7 @@ chlorosilicate
 crazing
 crazingmill
 cuisses
+codiniac
 crazyweed
 crc
 canzo
