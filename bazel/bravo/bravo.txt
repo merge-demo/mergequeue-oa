@@ -1,6 +1,7 @@
 belledom
 bedaff
 braille
+barhop
 baalize
 browning
 bullying
@@ -13564,7 +13565,6 @@ beatermen
 beggarlice
 brunel
 biennale
-barhop
 bouffant
 brontesque
 barristers
