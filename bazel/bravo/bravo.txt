@@ -5420,7 +5420,6 @@ bountied
 biological
 booing
 beehouse
-borotungstic
 bromopicrin
 behymn
 bruit
@@ -17795,6 +17794,7 @@ berkowitz
 bunkerman
 beglerbegluc
 bursiculate
+borotungstic
 bovey
 bursitis
 bestialise
