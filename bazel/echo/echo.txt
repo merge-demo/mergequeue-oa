@@ -2664,6 +2664,7 @@ epicalyx
 electrotechnician
 exports
 enfant
+ervum
 extendibility
 engenderment
 electrotelegraphy
@@ -12017,7 +12018,6 @@ episcias
 extra
 entackle
 expense
-ervum
 excommunicative
 excommunicator
 expetible
