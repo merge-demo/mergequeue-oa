@@ -6669,7 +6669,6 @@ celtophil
 ceratosaurus
 coathangers
 cuscus
-colligation
 ceja
 charcia
 ciceronic
@@ -31927,6 +31926,7 @@ channeller
 czardas
 czardoms
 czarevitch
+colligation
 czarevna
 czarevnas
 czaric
