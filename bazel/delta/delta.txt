@@ -8379,6 +8379,7 @@ dourly
 drawcard
 decreers
 disunites
+downfield
 deglutination
 dual
 decapodous
@@ -16271,7 +16272,6 @@ droseras
 dominic
 draconic
 dialector
-downfield
 dourest
 deerskins
 dizens
