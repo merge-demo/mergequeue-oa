@@ -9865,6 +9865,7 @@ discouragingness
 diluvia
 disarmament
 deviancies
+dwarfs
 dissected
 deadlines
 dissertation
@@ -18680,5 +18681,4 @@ darwinically
 debe
 detersively
 designation
-dwarfs
 deports
