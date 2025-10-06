@@ -7997,7 +7997,6 @@ exorganic
 endocannibalism
 embrasured
 epiotic
-exopterygota
 epipactis
 elasticized
 enneateric
@@ -9419,6 +9418,7 @@ enfeoff
 eschatological
 enaliosauria
 epistemonical
+exopterygota
 exogamy
 effeminised
 ersar
