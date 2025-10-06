@@ -741,7 +741,6 @@ extoled
 effaces
 endermatic
 effascinate
-exuvium
 ecotype
 ecotypes
 ecotipically
@@ -11093,6 +11092,7 @@ emotive
 electrocapillary
 energized
 evans
+exuvium
 expiate
 endolumbar
 eusthenopteron
