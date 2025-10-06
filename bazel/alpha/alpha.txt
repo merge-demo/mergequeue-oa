@@ -9244,7 +9244,6 @@ alphabetical
 akontae
 alphabetically
 anthoecology
-artillerymen
 abbotships
 adenolymphoma
 autophytography
@@ -19079,6 +19078,7 @@ ardellae
 annelida
 abdominohysterectomy
 aloewood
+artillerymen
 ardent
 assiduity
 arder
