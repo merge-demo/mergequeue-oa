@@ -4943,7 +4943,6 @@ detecting
 demonography
 demonographies
 deducement
-dosimetrist
 doxa
 dismality
 dishmonger
@@ -6204,6 +6203,7 @@ deutschland
 derelinquish
 decrepitness
 differencing
+dosimetrist
 demihigh
 desperation
 doubtless
