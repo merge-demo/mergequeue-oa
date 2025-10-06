@@ -4103,7 +4103,6 @@ clamative
 conformable
 chiropractor
 cardiodynia
-calfret
 cardiographer
 crenulated
 cardiographic
@@ -12068,6 +12067,7 @@ coll
 cymbalo
 cytokinesis
 cerfoil
+calfret
 casula
 crossweb
 chophouses
