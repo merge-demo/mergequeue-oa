@@ -4666,7 +4666,6 @@ demineralizes
 debasement
 demineralizing
 demiofficial
-demiorbit
 dendrolagus
 dustlike
 dolichocrany
@@ -7941,6 +7940,7 @@ drysalter
 dihydrogen
 depone
 dicaryophyte
+demiorbit
 dewberries
 dolichosaur
 dewcap
