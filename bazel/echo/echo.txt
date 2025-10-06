@@ -3128,7 +3128,6 @@ eskimoes
 euryphage
 eloining
 endobronchial
-expurgators
 extinguishment
 eloinment
 eloins
@@ -9111,6 +9110,7 @@ embordered
 erythropsia
 electrograving
 entwist
+expurgators
 etruscan
 erythropsin
 eltrot
