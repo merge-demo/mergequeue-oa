@@ -4697,7 +4697,6 @@ diphylla
 deflea
 demonastery
 diddle
-dermohemal
 dogplate
 dived
 demisangue
@@ -18285,6 +18284,7 @@ deanery
 decipher
 deformation
 diagrammeter
+dermohemal
 dabchick
 dinaric
 dissepimental
