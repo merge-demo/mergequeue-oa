@@ -4255,6 +4255,7 @@ deuteride
 damiana
 dermatopsy
 decoherer
+dard
 dorsad
 dels
 demast
@@ -12475,7 +12476,6 @@ dagon
 dephlogistication
 diseuses
 doglegged
-dard
 disoccupying
 deracinate
 dirigible
