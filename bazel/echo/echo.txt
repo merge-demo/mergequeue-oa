@@ -1318,7 +1318,6 @@ effectuating
 effervesced
 exuberate
 effectuous
-endostracum
 epigastrical
 effeir
 eumoiriety
@@ -3682,6 +3681,7 @@ embrittling
 embryulcia
 embryulculci
 exercitorial
+endostracum
 extravagantness
 enfranchise
 erodability
