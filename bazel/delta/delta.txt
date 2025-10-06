@@ -6973,7 +6973,6 @@ dioptre
 desperados
 disedge
 dorsointercostal
-dichasial
 drayages
 didgeridoo
 derangement
@@ -10824,6 +10823,7 @@ diluteness
 diseur
 directionalize
 directionally
+dichasial
 dhan
 directly
 dijudicating
