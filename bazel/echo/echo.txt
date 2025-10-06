@@ -2713,7 +2713,6 @@ eleemosinar
 ebons
 equipotent
 electees
-edentate
 envoi
 eleemosynary
 etymology
@@ -12558,6 +12557,7 @@ eating
 epistolet
 epaenetic
 embezzlement
+edentate
 exochorion
 epistylar
 enterocolitis
