@@ -11893,7 +11893,6 @@ chordal
 cosharer
 cathedrated
 congenitalness
-chordamesoderm
 chordamesodermal
 chordamesodermic
 chordate
@@ -28337,6 +28336,7 @@ captaining
 crawlsome
 crawlspace
 chickenpox
+chordamesoderm
 cliented
 compulsoriness
 chiave
