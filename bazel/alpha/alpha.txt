@@ -23078,6 +23078,7 @@ abstracts
 attitudinizer
 attitudinizes
 acorea
+astraeid
 attn
 avunculate
 antiscii
@@ -23646,7 +23647,6 @@ atheistic
 austereness
 asks
 apposite
-astraeid
 austral
 arabine
 auxetical
