@@ -18367,7 +18367,6 @@ cystidia
 cogencies
 catadromous
 centena
-cleansed
 cogently
 cogged
 cisoceanic
@@ -29005,6 +29004,7 @@ crimping
 crimps
 cracovienne
 cantatory
+cleansed
 corbans
 crimson
 credendum
