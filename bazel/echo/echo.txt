@@ -749,6 +749,7 @@ ecotypically
 engulfs
 ecotonal
 exterminable
+entertainable
 enclaved
 ecaudate
 echinocaris
@@ -2563,7 +2564,6 @@ encyclopaedian
 electrodiagnoses
 entrenched
 electrobrasser
-entertainable
 etua
 enantioblastous
 eruginous
