@@ -516,7 +516,6 @@ disvulnerability
 droughtiest
 demonetization
 dereferences
-deepwaterman
 dustblu
 disrupter
 daleths
@@ -1141,6 +1140,7 @@ dermopathy
 dermogastric
 diazotization
 drummed
+deepwaterman
 drawnet
 dumpfile
 dreamful
