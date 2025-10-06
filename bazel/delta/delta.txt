@@ -7438,7 +7438,6 @@ disjunctive
 debatement
 deticker
 detinet
-decriminalizes
 deflagration
 detinues
 dowagerism
@@ -14604,6 +14603,7 @@ demodocus
 dictyostele
 demureness
 denotive
+decriminalizes
 demiurgically
 doorjambs
 disastrousness
