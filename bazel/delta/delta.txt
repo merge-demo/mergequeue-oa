@@ -825,6 +825,7 @@ deniable
 dearths
 dysacousia
 discomposedness
+discoid
 dimmest
 decasyllables
 dulcorate
@@ -16015,7 +16016,6 @@ digraph
 drybeard
 dictate
 degreewise
-discoid
 deota
 dotchin
 decessor
