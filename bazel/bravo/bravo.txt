@@ -5328,7 +5328,6 @@ birefringence
 begray
 barodynamic
 barbarisation
-blickeys
 befile
 burly
 birne
@@ -6866,6 +6865,7 @@ bothropic
 bagoong
 burbark
 booklike
+blickeys
 beshaming
 bibiri
 bootmaker
