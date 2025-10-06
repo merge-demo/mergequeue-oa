@@ -1446,6 +1446,7 @@ algid
 alpinery
 acclimatizer
 aleiptic
+autoluminescence
 anthela
 acclimatizes
 amphipneustic
@@ -24152,7 +24153,6 @@ autological
 astart
 aldeia
 aiwain
-autoluminescence
 alienicolae
 automa
 abbasid
