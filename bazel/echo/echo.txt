@@ -1240,7 +1240,6 @@ epicures
 enjoyable
 enroot
 ethylidyne
-epigrammatise
 eelcake
 exposition
 eelery
@@ -11344,6 +11343,7 @@ electrodesiccation
 evenforth
 excecation
 eryopid
+epigrammatise
 eruciform
 emanatively
 eathly
