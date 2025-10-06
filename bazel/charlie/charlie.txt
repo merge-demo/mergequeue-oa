@@ -2247,6 +2247,7 @@ catchwords
 counterlathing
 centaurus
 canadine
+chlorate
 corresponds
 celiectasia
 conferva
@@ -3810,7 +3811,6 @@ combings
 carbonators
 carbondale
 coinsure
-chlorate
 cincha
 coenotype
 carbonemia
