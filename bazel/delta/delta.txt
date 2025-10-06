@@ -3312,7 +3312,6 @@ dynagraph
 dollin
 dithionate
 defiladed
-discommend
 drumslade
 dreng
 diversifolious
@@ -18477,6 +18476,7 @@ duplicious
 defroster
 duality
 duplicitously
+discommend
 densimetric
 disulphoxid
 duplify
