@@ -7561,7 +7561,6 @@ catholicist
 cerebellorubral
 cerebellum
 creator
-cubonavicular
 casuistic
 cleidarthritis
 covariation
@@ -12869,6 +12868,7 @@ churchway
 churchward
 chairmanned
 cutling
+cubonavicular
 chilliwack
 crustless
 curried
