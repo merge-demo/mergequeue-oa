@@ -1599,6 +1599,7 @@ disposition
 deadlocking
 demodulation
 dipus
+decurion
 duskily
 disspreading
 dynamitical
@@ -2856,7 +2857,6 @@ devotions
 drail
 dronet
 didunculidae
-decurion
 dispensatories
 deprived
 demented
