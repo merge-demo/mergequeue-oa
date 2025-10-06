@@ -4741,7 +4741,6 @@ carpoidea
 convexity
 chalcidid
 collarbone
-clitellus
 corrosibility
 compulsatively
 corynocarpaceae
@@ -7708,6 +7707,7 @@ cerographer
 contracter
 cerographical
 ceroline
+clitellus
 ciliolate
 couldron
 cadbit
