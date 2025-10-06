@@ -7727,6 +7727,7 @@ chastises
 cabas
 cerotypes
 confirmedly
+clade
 collocated
 cerous
 certain
@@ -15119,7 +15120,6 @@ callosomarginal
 conducta
 chlorophyceous
 conidia
-clade
 casabas
 cladocarpous
 cropped
