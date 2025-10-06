@@ -21465,7 +21465,6 @@ aspises
 aloed
 anthesterion
 anisogeny
-antadiform
 ambassiate
 aglucone
 ayurvedas
@@ -22951,6 +22950,7 @@ amblyaphia
 attemptable
 aeolotropism
 arthurian
+antadiform
 acrobats
 anthroponym
 archivolt
