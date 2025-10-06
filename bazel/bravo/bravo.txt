@@ -1505,6 +1505,7 @@ beggar
 boroglycerate
 barras
 bracker
+bedlam
 burseraceous
 backboards
 bogway
@@ -13774,7 +13775,6 @@ blackies
 buffered
 buffet
 blesseder
-bedlam
 brontide
 bambochade
 brachydactyly
