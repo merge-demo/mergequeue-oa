@@ -11562,6 +11562,7 @@ acrocentric
 anaerobion
 anaerobiont
 anaerobiosis
+archdeaconate
 anaerobiotic
 anaerobium
 anaerophyte
@@ -20129,7 +20130,6 @@ alerter
 antagonisable
 arrope
 airwash
-archdeaconate
 alsinaceous
 arrhenotokous
 aroynted
