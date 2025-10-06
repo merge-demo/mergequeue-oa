@@ -13312,7 +13312,6 @@ civetlike
 cyclopaedist
 coquito
 chinning
-cyclope
 caroller
 crisset
 churchwarden
@@ -24115,6 +24114,7 @@ conversing
 conversionary
 campaigning
 conversionism
+cyclope
 cacostomia
 chirping
 croatian
