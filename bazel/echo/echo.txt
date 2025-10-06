@@ -4102,7 +4102,6 @@ eccentring
 empodia
 eclegm
 ethysulphuric
-extracranial
 energids
 expungement
 eczematous
@@ -12519,6 +12518,7 @@ existentialistically
 eupione
 enzymology
 exculpative
+extracranial
 extoolitic
 enactable
 envined
