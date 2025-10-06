@@ -8617,7 +8617,6 @@ equimodal
 ectene
 entoptoscopy
 eunomia
-espantoon
 encirclements
 erythrogonium
 erineum
@@ -8710,6 +8709,7 @@ equisignal
 erethitic
 epigaeous
 extradicting
+espantoon
 eriophyllous
 emulsifies
 equitableness
