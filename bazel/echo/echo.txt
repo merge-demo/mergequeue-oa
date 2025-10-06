@@ -6591,6 +6591,7 @@ enterocleisis
 electrician
 erminois
 enquicken
+expurgation
 equiponderant
 excluding
 enterococcal
@@ -11894,7 +11895,6 @@ ectoderms
 emotionalist
 enragement
 earthenware
-expurgation
 excerebration
 extraphysical
 endemiology
