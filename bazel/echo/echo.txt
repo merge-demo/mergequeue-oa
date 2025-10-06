@@ -6823,6 +6823,7 @@ enl
 ethnogenic
 emmenology
 epicranial
+expressness
 exoticism
 entombs
 eviscerator
@@ -10149,7 +10150,6 @@ emeraldine
 etherially
 eyedropper
 exertion
-expressness
 electrothermally
 endocarpoid
 elenctical
