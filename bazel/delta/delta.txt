@@ -3602,7 +3602,6 @@ disquantity
 deprint
 dermatoxerasia
 decurions
-deglut
 dognaps
 disarrangement
 decubation
@@ -5345,6 +5344,7 @@ distincter
 dialkylamine
 distitle
 disannuls
+deglut
 defiant
 dentatoserrate
 decennary
