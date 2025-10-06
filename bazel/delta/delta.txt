@@ -8571,6 +8571,7 @@ demonomy
 dracontiasis
 druggists
 diaphony
+degasser
 disclosures
 dignification
 diaphysial
@@ -18297,7 +18298,6 @@ demonian
 discipline
 deformedness
 demodulated
-degasser
 dialyzability
 delicts
 digressions
