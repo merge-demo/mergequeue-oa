@@ -5074,7 +5074,6 @@ cascadite
 cascalho
 cascalote
 calenturist
-coagulant
 coparallel
 cascaras
 crosslighted
@@ -18651,6 +18650,7 @@ callitrichidae
 clinching
 churm
 coigue
+coagulant
 coyish
 chrometophobia
 coyishness
