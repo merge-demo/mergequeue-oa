@@ -10692,6 +10692,7 @@ binominous
 bibl
 belap
 blennadenitis
+burinist
 bullets
 blennenteria
 blout
@@ -16756,7 +16757,6 @@ bandleader
 boldheartedness
 burman
 banknotes
-burinist
 bucketman
 black
 basiation
