@@ -5707,6 +5707,7 @@ cabasset
 catclaw
 cate
 cityful
+colon
 coronets
 conduceability
 cottony
@@ -19347,7 +19348,6 @@ claudius
 cetaceum
 coccobacilli
 chuchona
-colon
 colonaded
 cecidomyiidous
 colonate
