@@ -13827,7 +13827,6 @@ cinematographically
 cinematographies
 cinematographist
 chords
-cysticercoid
 carcinophobia
 cinene
 cinenegative
@@ -31181,6 +31180,7 @@ cunningly
 coccygeus
 cuprobismutite
 coaxation
+cysticercoid
 clarendon
 civilisations
 charlatan
