@@ -19503,6 +19503,7 @@ cuffle
 colorfulness
 coveralled
 censorate
+copy
 colorific
 colorifics
 colorimeter
@@ -22453,7 +22454,6 @@ cleoid
 conidioid
 conidiophorous
 conidiospore
-copy
 coniferae
 carried
 castrato
