@@ -953,7 +953,6 @@ equates
 emanatory
 exeresis
 ecuadorian
-ecumenacy
 engraffing
 ecumenicism
 ecus
@@ -4530,6 +4529,7 @@ electing
 embeggar
 erica
 enrol
+ecumenacy
 escuela
 epitomise
 enodation
