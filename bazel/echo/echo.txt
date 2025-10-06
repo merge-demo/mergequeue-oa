@@ -2545,6 +2545,7 @@ extremes
 exploitatively
 emydian
 enchanters
+evaginate
 exaggerative
 etrogs
 electron
@@ -9674,7 +9675,6 @@ eclipsable
 embryotomies
 electrophysiologist
 ectocarpaceae
-evaginate
 extrapulmonary
 espousement
 essenwood
