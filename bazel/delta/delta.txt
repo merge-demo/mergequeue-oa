@@ -10342,7 +10342,6 @@ dioramas
 diophantine
 driftpiece
 dowsing
-dozened
 derelictly
 digress
 dioramic
@@ -11205,6 +11204,7 @@ drivelled
 disbars
 disbrain
 dani
+dozened
 dock
 disbeliefs
 diswit
