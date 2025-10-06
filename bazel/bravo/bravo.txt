@@ -1657,6 +1657,7 @@ balibuntl
 ballotist
 batell
 ballots
+bellowsman
 baronage
 byelorussians
 ballottines
@@ -17930,7 +17931,6 @@ bushwhackers
 blade
 birefracting
 balancing
-bellowsman
 busybody
 busybodyism
 brachystochrone
