@@ -16415,6 +16415,7 @@ brusquest
 boucherize
 beurre
 brussel
+bumboat
 blushing
 bestrode
 brustle
@@ -17177,7 +17178,6 @@ bootlaces
 botanise
 bumbling
 brainwork
-bumboat
 bumclock
 bawdy
 batling
