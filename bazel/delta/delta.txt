@@ -3061,6 +3061,7 @@ doleful
 digraphs
 depleting
 defalcation
+dentalized
 defalk
 defamation
 dingling
@@ -5330,7 +5331,6 @@ droitsman
 dysmorphism
 diancecht
 dynamometer
-dentalized
 delphinapterus
 dentaphone
 duomi
