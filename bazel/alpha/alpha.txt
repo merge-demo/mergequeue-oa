@@ -5222,7 +5222,6 @@ arsinic
 afford
 alkines
 argoletier
-afforested
 afforesting
 anticogitative
 affraying
@@ -23376,6 +23375,7 @@ algaeology
 applyingly
 avianizing
 aerographics
+afforested
 antiprelate
 achroma
 amicus
