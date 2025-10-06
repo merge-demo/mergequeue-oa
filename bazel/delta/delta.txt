@@ -4256,6 +4256,7 @@ delphinoidine
 distaffs
 dropforge
 deprecatoriness
+descriptionless
 deuteride
 damiana
 dermatopsy
@@ -6571,7 +6572,6 @@ divorce
 descries
 dodgers
 descript
-descriptionless
 dangleberry
 distensile
 defeasibility
