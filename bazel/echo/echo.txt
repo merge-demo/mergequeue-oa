@@ -7645,6 +7645,7 @@ eventless
 elapse
 eoliths
 enterohelcosis
+exfiltrate
 embusqu
 epiparodos
 ethmoidal
@@ -12435,7 +12436,6 @@ enlimn
 exhumatory
 emancipations
 explorate
-exfiltrate
 equilibrial
 electrolysing
 egos
