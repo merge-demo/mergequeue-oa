@@ -1804,7 +1804,6 @@ eudemony
 evaginated
 effervescive
 ensouling
-encipherer
 elench
 eurypterida
 ectogeneous
@@ -12317,6 +12316,7 @@ eaning
 eviscerations
 evectant
 exertionless
+encipherer
 estuate
 exertions
 ergate
