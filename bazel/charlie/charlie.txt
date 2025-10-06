@@ -5743,7 +5743,6 @@ choco
 cojoin
 catechizes
 coeldership
-corporalcy
 coyotillo
 catechumenism
 cuttages
@@ -18642,6 +18641,7 @@ caudalward
 catheptic
 canonists
 coigne
+corporalcy
 casketing
 calaththi
 cader
