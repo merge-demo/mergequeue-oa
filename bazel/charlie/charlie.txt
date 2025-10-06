@@ -17783,6 +17783,7 @@ creagh
 caved
 cocoons
 calamites
+cassate
 cocopan
 choup
 cocobolo
@@ -18538,7 +18539,6 @@ celiorrhea
 coheading
 coheads
 claviature
-cassate
 cessations
 cursor
 coheiress
