@@ -623,7 +623,6 @@ aboma
 accomplishable
 abomasum
 anacard
-appetize
 abominably
 abominate
 avifaunal
@@ -1032,6 +1031,7 @@ abterminal
 argemone
 antarctalia
 aerobacteriologically
+appetize
 archreactionary
 aphelion
 apocalyptism
