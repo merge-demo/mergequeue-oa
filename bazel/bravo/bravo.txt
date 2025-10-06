@@ -4369,7 +4369,6 @@ balm
 brandering
 bkcy
 blubberer
-bedrivels
 bookrests
 branchiogenous
 begloom
@@ -11856,6 +11855,7 @@ bodybuilder
 bard
 briareus
 brassic
+bedrivels
 basiradial
 browbeater
 baileys
