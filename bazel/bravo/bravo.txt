@@ -993,7 +993,6 @@ butadiene
 baldness
 bronchiocrisis
 bienniums
-bedewed
 bagpudding
 bayonetted
 bulse
@@ -9221,6 +9220,7 @@ bridger
 birkremite
 broncholithiasis
 beshrewing
+bedewed
 biplane
 bobolink
 biplanes
