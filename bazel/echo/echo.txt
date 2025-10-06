@@ -2012,7 +2012,6 @@ elaeocarpaceae
 effranchisement
 eyeshot
 excussing
-enmist
 evangelican
 embreathement
 eskimo
@@ -11436,6 +11435,7 @@ escapades
 empyreumatize
 expeditor
 electrolytes
+enmist
 eductions
 extrasyllogistic
 erythraeidae
