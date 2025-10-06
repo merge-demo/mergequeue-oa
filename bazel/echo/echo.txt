@@ -3173,6 +3173,7 @@ ethanedial
 else
 esteeming
 evacuee
+endrudge
 electioneers
 epaule
 elseways
@@ -5390,7 +5391,6 @@ endowment
 excantation
 earthtongue
 endpoints
-endrudge
 extrabulbar
 ecderonic
 endseal
