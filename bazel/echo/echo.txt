@@ -8787,7 +8787,6 @@ etherized
 eurylaimi
 expedients
 extime
-enterozoan
 exenteritis
 el
 ectoskeleton
@@ -13098,6 +13097,7 @@ expergefacient
 expergefaction
 embedding
 epistolographic
+enterozoan
 eyeshine
 expediency
 ecoclimate
