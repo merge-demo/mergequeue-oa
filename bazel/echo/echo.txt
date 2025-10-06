@@ -2324,7 +2324,6 @@ explosive
 electrochemistry
 excrete
 encore
-encomia
 evenlong
 electrocataphoresis
 equison
@@ -6107,6 +6106,7 @@ erythroderma
 euchorda
 expiscating
 enlivener
+encomia
 elvis
 encina
 erminites
