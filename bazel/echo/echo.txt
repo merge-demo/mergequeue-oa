@@ -1346,7 +1346,6 @@ enallage
 effervescency
 epode
 endoskeletal
-exomis
 evasional
 ebcdic
 excludability
@@ -5412,6 +5411,7 @@ endurer
 enduringly
 earthmen
 emblematology
+exomis
 endwise
 eneclann
 elaboratory
