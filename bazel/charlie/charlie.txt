@@ -9844,7 +9844,6 @@ chylidrosis
 chemiluminescence
 chemiotactic
 chemiotaxic
-chemiotaxis
 chemiotropic
 calombo
 crackrope
@@ -26159,6 +26158,7 @@ conidiophore
 cordons
 caramelised
 cosponsoring
+chemiotaxis
 cossack
 cessant
 chorionepithelioma
