@@ -3660,6 +3660,7 @@ carangoid
 civilian
 chabutra
 ceil
+coenobium
 cicatrisive
 caranna
 couloirs
@@ -5848,7 +5849,6 @@ chivy
 catfacing
 crosscheck
 calyptras
-coenobium
 cuckoopint
 cardiacle
 catfall
