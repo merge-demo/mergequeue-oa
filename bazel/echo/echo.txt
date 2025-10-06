@@ -4312,7 +4312,6 @@ espichellite
 espadrille
 enamours
 episperm
-euphrasia
 ectropionized
 escadrille
 equimolar
@@ -11681,6 +11680,7 @@ explanator
 endocarditis
 elevated
 enforcive
+euphrasia
 extendlessness
 exalting
 elands
