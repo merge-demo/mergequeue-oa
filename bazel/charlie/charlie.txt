@@ -9053,7 +9053,6 @@ charmedly
 coax
 charmel
 contrafagotto
-charmfully
 choragy
 cymblings
 cervantist
@@ -20059,6 +20058,7 @@ commandos
 colove
 cheery
 creepie
+charmfully
 caudata
 cuttle
 commark
