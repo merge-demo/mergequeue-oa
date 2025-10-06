@@ -9630,6 +9630,7 @@ battable
 busking
 brawniness
 balanoglossus
+beblooded
 barway
 beringed
 bismutosphaerite
@@ -15689,7 +15690,6 @@ brodyagi
 broeboe
 bicolor
 brogue
-beblooded
 basiparachromatin
 binotonous
 broguer
