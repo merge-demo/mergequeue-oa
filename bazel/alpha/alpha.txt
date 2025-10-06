@@ -9484,7 +9484,6 @@ altruists
 altun
 anisomeles
 altus
-aluco
 antipolitical
 alpaca
 antiepiscopist
@@ -20510,6 +20509,7 @@ anencephaly
 afrikaner
 alisphenoidal
 appete
+aluco
 abruptiones
 afterchurch
 arthroplastic
