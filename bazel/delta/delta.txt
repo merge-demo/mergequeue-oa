@@ -4325,6 +4325,7 @@ dragontail
 dermatopathology
 demimillionaire
 delver
+dogwoods
 dibbed
 dodger
 disjunctor
@@ -10670,7 +10671,6 @@ delegati
 deblocking
 drabby
 dinornithoid
-dogwoods
 diplostichous
 diplotaxis
 diisatogen
