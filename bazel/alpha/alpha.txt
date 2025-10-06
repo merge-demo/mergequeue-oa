@@ -1518,6 +1518,7 @@ audiviser
 anhalamine
 abidden
 accomplisht
+antiferromagnetism
 accordancy
 accordatura
 agglutinoid
@@ -15048,7 +15049,6 @@ assentient
 antifelony
 antarctalian
 antifeminist
-antiferromagnetism
 alkalinizes
 antifertility
 accreditation
