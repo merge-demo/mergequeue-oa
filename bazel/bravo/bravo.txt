@@ -7316,7 +7316,6 @@ bise
 blepharism
 bombic
 beclasps
-betony
 banovina
 berkshire
 biophagous
@@ -13141,6 +13140,7 @@ bunsen
 belows
 bardlet
 borneol
+betony
 borneols
 belaced
 bovids
