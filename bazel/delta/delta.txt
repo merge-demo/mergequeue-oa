@@ -1553,7 +1553,6 @@ discoglossid
 distractedly
 dallies
 dartman
-deactivates
 demonetizing
 delphinium
 dicranoid
@@ -17682,6 +17681,7 @@ duads
 dentalmen
 diffusimeter
 devilbird
+deactivates
 demideify
 doolies
 derricking
