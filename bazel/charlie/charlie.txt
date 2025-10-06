@@ -2846,6 +2846,7 @@ carers
 cruciating
 cornbin
 contermine
+counterspies
 cadaverine
 canonised
 canoniser
@@ -27111,7 +27112,6 @@ countersleight
 countersnarl
 counterspy
 cassaba
-counterspies
 coverage
 chromocollography
 counterstand
