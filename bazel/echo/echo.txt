@@ -2918,6 +2918,7 @@ eyewinks
 elicitation
 elicitor
 equivalvular
+estrins
 enricher
 exploiters
 epagomenal
@@ -7496,7 +7497,6 @@ ephraimite
 exocoetidae
 extensively
 ephrathite
-estrins
 estall
 eophytic
 endited
