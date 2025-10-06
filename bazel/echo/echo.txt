@@ -10550,6 +10550,7 @@ endboard
 endopolyploidy
 ensurers
 equational
+els
 elevates
 excursionary
 ethylenic
@@ -12250,7 +12251,6 @@ endarchy
 efflorescency
 enteromegaly
 encephala
-els
 elegises
 everduring
 exemplarism
