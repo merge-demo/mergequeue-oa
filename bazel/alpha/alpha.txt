@@ -17682,6 +17682,7 @@ aspergillales
 appose
 alex
 antiliturgic
+afocal
 asterales
 ancillaries
 arrosion
@@ -20179,7 +20180,6 @@ arrogated
 angus
 allotriuria
 abater
-afocal
 anthracemia
 attitudinizing
 acutangular
