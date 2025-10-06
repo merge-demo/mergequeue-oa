@@ -1494,6 +1494,7 @@ boohooing
 baloo
 bauleah
 balking
+basiglandular
 broadens
 budgy
 billhead
@@ -2541,7 +2542,6 @@ barilla
 benchmar
 blackie
 bilayer
-basiglandular
 baryon
 bookshop
 bynames
