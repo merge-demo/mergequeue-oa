@@ -214,7 +214,6 @@ earthman
 erythritic
 earthslide
 exhumers
-ehuawa
 eyesores
 earthwall
 entte
@@ -2962,6 +2961,7 @@ explait
 emony
 equiprobabilism
 eliminated
+ehuawa
 ectopia
 elymus
 elinguate
