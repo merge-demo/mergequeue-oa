@@ -15411,6 +15411,7 @@ antilapse
 analyzable
 argiopoidea
 antiodont
+anisognathous
 anthropophagi
 aquaplanes
 antimonies
@@ -23060,7 +23061,6 @@ attila
 attingency
 attingent
 acetimetric
-anisognathous
 apple
 anargyros
 adaptors
