@@ -3595,6 +3595,7 @@ exactiveness
 embranchment
 ellick
 evestar
+eidoptometry
 enriching
 equaeval
 expositive
@@ -14157,7 +14158,6 @@ eriobotrya
 ependymoma
 exuberated
 emersonian
-eidoptometry
 extensive
 epiloia
 escamoteur
