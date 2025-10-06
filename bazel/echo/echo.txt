@@ -49,7 +49,6 @@ eardropper
 euchromosome
 earflap
 expender
-enzyms
 excites
 exciton
 electroretinograph
@@ -5939,6 +5938,7 @@ enigmata
 eluvial
 exquisite
 etourderie
+enzyms
 ephphatha
 enigmatist
 echovirus
