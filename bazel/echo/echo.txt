@@ -4844,7 +4844,6 @@ escapable
 exorciser
 epidermatoid
 eserine
-engraven
 eria
 eupepticism
 englished
@@ -7465,6 +7464,7 @@ ephemerid
 ewe
 escobadura
 ephemeridae
+engraven
 egesting
 ephemeroptera
 eigne
