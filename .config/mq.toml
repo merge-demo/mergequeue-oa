@@ -1,4 +1,5 @@
 mode = "parallelqueue"
+build = "bazel"
 
 [trunk]
 api = "api.trunk.io"
@@ -8,28 +9,28 @@ name = "trunk bot"
 email = "bot@trunk.io"
 
 [test]
-flake_rate = 0.25
+flake_rate = 0.05
 # how long test should spin for (can be described as 10s, 7m, 1hr)
-sleep_for = "10m"
+sleep_for = "5m"
 
 [pullrequest]
 labels = ""                     # label to apply to pull request on creation (comma separated list)
 comment = ""
-requests_per_hour = 125          # target number of pull requests per hour
-run_generate_for = "60 minutes"
+requests_per_hour = 250          # target number of pull requests per hour
+run_generate_for = "1h"
 
 # the max number of deps in this repo. setting to 3 for example will cause
 # files in alpha, bravo, charlie deps to be changed
-max_deps = 7
+max_deps = 5
 
 # the max number of deps per PR to edit
-max_impacted_deps = 3
+max_impacted_deps = 2
 
 # rate at which PRs should simulate a logical merge conflict and need to be rejected
-logical_conflict_every = 100
+logical_conflict_every = 200
 logical_conflict_file = "logical-conflict.txt"
 
-close_stale_after = "24 hours"
+close_stale_after = "72 hours"
 
 [merge]
 # what trigger to use to enqueue PRs to the queue
