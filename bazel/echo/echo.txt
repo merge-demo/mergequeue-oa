@@ -11818,7 +11818,6 @@ excalceate
 excalceation
 excalibur
 esophagectasia
-erythrophore
 euconic
 excandescent
 explemental
@@ -12361,6 +12360,7 @@ emendates
 etholide
 embace
 euphemia
+erythrophore
 eelbob
 exhaustive
 evene
