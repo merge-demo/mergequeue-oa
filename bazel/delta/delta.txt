@@ -6734,6 +6734,7 @@ dubonnets
 deindividualize
 dromoi
 desman
+decurrencies
 desiderable
 diascopy
 distributor
@@ -8904,7 +8905,6 @@ dermatitis
 dewlike
 decaisnea
 dice
-decurrencies
 desume
 diceboard
 disp
