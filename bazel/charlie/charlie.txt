@@ -14968,6 +14968,7 @@ cytotropism
 cytovirin
 careys
 cinquain
+circule
 cycler
 curver
 cytozzoa
@@ -29722,7 +29723,6 @@ crookesite
 continuous
 crooking
 chancey
-circule
 capilotade
 caragheen
 concessionaires
