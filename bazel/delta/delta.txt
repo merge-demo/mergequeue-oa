@@ -2781,7 +2781,6 @@ draftees
 democritean
 dichotomising
 dogey
-despumating
 deficience
 desalinization
 deedbote
@@ -2844,6 +2843,7 @@ disposure
 diplodocuses
 disgenius
 dys
+despumating
 denticles
 dictyopteris
 decumbent
