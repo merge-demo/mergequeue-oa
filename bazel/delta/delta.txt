@@ -14682,6 +14682,7 @@ disinvite
 dismantled
 detruncating
 droopier
+deprecatively
 dainchas
 daneweed
 doctrines
@@ -17688,7 +17689,6 @@ derricking
 discomfortable
 drawbacks
 dilogy
-deprecatively
 delivered
 discrowned
 diclinism
