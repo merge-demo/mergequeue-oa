@@ -6748,6 +6748,7 @@ andromedotoxin
 auriphrygiate
 airspace
 airspaces
+aphengoscope
 antifeudalization
 archetypist
 architectonica
@@ -16611,7 +16612,6 @@ ajog
 ambidextrous
 aphemic
 amphithalami
-aphengoscope
 apheresis
 asclepius
 asmile

@@ -8906,7 +8906,6 @@ bloc
 byliner
 bioengineering
 basidiomycetes
-bioethic
 bullishly
 blueberries
 bioethics
@@ -12805,6 +12804,7 @@ bookwards
 byronite
 booting
 basisidia
+bioethic
 booleans
 bombinating
 booly
