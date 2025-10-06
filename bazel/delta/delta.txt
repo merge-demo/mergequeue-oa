@@ -3556,7 +3556,6 @@ diabetics
 degass
 degassed
 disappears
-dodecant
 degaussing
 destituting
 degener
@@ -7294,6 +7293,7 @@ detection
 diamantiferous
 drepanid
 deadlight
+dodecant
 disparatum
 decourt
 dumfounded
