@@ -9985,7 +9985,6 @@ bivoluminous
 bivouaced
 balaphon
 baining
-bushranger
 bedeviled
 battuto
 bodkins
@@ -16792,6 +16791,7 @@ blended
 burhead
 bacteriform
 bichromatic
+bushranger
 bathysophic
 buffoonish
 baret
