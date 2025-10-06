@@ -4904,6 +4904,7 @@ antiwhitism
 apostrophise
 aeroplaner
 aeroplanes
+appomattox
 alcazars
 archboutefeu
 asker
@@ -5845,7 +5846,6 @@ agiel
 affordable
 angor
 attain
-appomattox
 agility
 auxotrophic
 allegedly
