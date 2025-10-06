@@ -32,6 +32,9 @@ logical_conflict_file = "logical-conflict.txt"
 close_stale_after = "24 hours"
 
 [merge]
+# what trigger to use to enqueue PRs to the queue
+trigger = "api"
+
 # label to apply to pull request to queue
 labels = ""
 # comment to post to queue
