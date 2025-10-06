@@ -9206,6 +9206,7 @@ accroides
 alopecic
 antrectomy
 alopeke
+avatara
 alophas
 alacreatine
 alorcinic
@@ -17940,7 +17941,6 @@ aureity
 amazonian
 amorphophyte
 ataentsic
-avatara
 aptychus
 aptitude
 aptitudes
