@@ -10239,7 +10239,6 @@ dinosauria
 dressing
 dermoosseous
 dotish
-dinotherian
 dins
 dislustring
 drawspring
@@ -16377,6 +16376,7 @@ dibbler
 disunite
 disacknowledge
 dainteth
+dinotherian
 deplored
 decanate
 dimmedness
