@@ -11675,6 +11675,7 @@ choloscopy
 cholterheaded
 compeers
 chirrups
+cellulate
 cowling
 creekstuff
 cholum
@@ -27129,7 +27130,6 @@ counterstock
 cindie
 cyclopoid
 clientless
-cellulate
 countersuit
 cubehead
 cosmopolicy
