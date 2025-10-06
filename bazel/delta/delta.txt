@@ -8326,6 +8326,7 @@ disordeine
 dendra
 dicatalexis
 diagonic
+daktylon
 drum
 diagram
 diagrammed
@@ -16175,7 +16176,6 @@ doughiness
 disorganised
 dwindle
 denshire
-daktylon
 declaimed
 dermathemia
 deathbed
