@@ -6634,7 +6634,6 @@ battens
 benedictive
 besra
 bagaudae
-biked
 blurted
 beardom
 brawler
@@ -8346,6 +8345,7 @@ bintangor
 bick
 byliny
 bights
+biked
 blighia
 blackjacks
 bonamano
