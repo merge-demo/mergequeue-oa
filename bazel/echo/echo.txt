@@ -8416,7 +8416,6 @@ endothecate
 epizootology
 enwrought
 epocha
-embaying
 eumitosis
 ethoses
 eponge
@@ -14143,6 +14142,7 @@ extrachromosomal
 encomium
 expromission
 ecoles
+embaying
 enigmatology
 escapists
 episcopising
