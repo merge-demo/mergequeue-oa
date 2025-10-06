@@ -6005,7 +6005,6 @@ becowarded
 benasty
 beholdable
 bedrift
-banners
 bataan
 boarskin
 binauricular
@@ -7071,6 +7070,7 @@ ballyrags
 boxiana
 berhymes
 bawling
+banners
 brambliest
 burbot
 bifoliate
