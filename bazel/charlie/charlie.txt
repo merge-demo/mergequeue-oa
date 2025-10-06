@@ -1947,7 +1947,6 @@ cacogeusia
 camerated
 chalukya
 cacaxte
-cartage
 cosmoscope
 coimplicate
 conduplicate
@@ -27731,6 +27730,7 @@ collingual
 cosmolining
 commulation
 clinochlore
+cartage
 cowpoxes
 consortium
 chuprassi
