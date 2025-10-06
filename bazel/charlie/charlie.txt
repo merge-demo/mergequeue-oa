@@ -5919,6 +5919,7 @@ cathedralesque
 clasp
 cathedras
 cathedratic
+cineast
 cathedraticum
 couths
 cathepsin
@@ -9232,7 +9233,6 @@ chastity
 chastities
 chockstone
 castice
-cineast
 conducer
 chasubled
 categorize

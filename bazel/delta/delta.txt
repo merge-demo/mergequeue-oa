@@ -2465,7 +2465,6 @@ disidentify
 drepane
 deciphering
 demonocracy
-debars
 destrudo
 diphase
 diplodocus
@@ -6836,6 +6835,7 @@ destined
 dermographic
 deslime
 desmachyme
+debars
 dialyzate
 daubery
 docken
