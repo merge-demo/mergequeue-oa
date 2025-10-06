@@ -5170,7 +5170,6 @@ cercis
 cashoo
 cashou
 castory
-cartes
 complimentally
 casimiroa
 curarine
@@ -16279,6 +16278,7 @@ colonisable
 calendal
 carvol
 corkish
+cartes
 clinopinacoid
 circovarian
 cephalin
