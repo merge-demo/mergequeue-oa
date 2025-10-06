@@ -2757,7 +2757,6 @@ exchangeably
 equangular
 explorations
 eurithermophilic
-excecate
 elytrous
 eutropic
 equipartition
@@ -4678,6 +4677,7 @@ endemics
 electromagnets
 encyclopedic
 ebauche
+excecate
 encyclopedical
 etherialisation
 exacerbating
