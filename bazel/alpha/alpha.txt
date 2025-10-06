@@ -10487,6 +10487,7 @@ amylidene
 amylo
 amyloclastic
 acrasias
+anisosepalous
 aponogetonaceae
 antiredeposition
 akwapim
@@ -18358,7 +18359,6 @@ actinocrinus
 arbor
 abomasus
 acrocyst
-anisosepalous
 anthropoidal
 arboraceous
 anticorset
