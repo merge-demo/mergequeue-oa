@@ -1743,7 +1743,6 @@ beseechingness
 biteable
 bruise
 baltetei
-bursitos
 bismutite
 boarish
 balthasar
@@ -8352,6 +8351,7 @@ bankside
 batatilla
 belard
 bywords
+bursitos
 buzukis
 beatster
 briquet
