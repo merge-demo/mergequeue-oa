@@ -4674,7 +4674,6 @@ azygous
 aeriness
 aero
 acetylate
-aeroballistic
 astrosphere
 agrobiologist
 adductive
@@ -23327,6 +23326,7 @@ adendric
 apomict
 augend
 adversity
+aeroballistic
 antiantidote
 aquiform
 aftershafted
