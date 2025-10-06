@@ -8281,7 +8281,6 @@ ebonizes
 epidemicity
 epigrammatized
 enlife
-ecophobia
 empover
 erythrismal
 enroller
@@ -10572,6 +10571,7 @@ euclideanism
 euclidian
 exhalant
 eucnemidae
+ecophobia
 etchant
 eucone
 eucopepoda
