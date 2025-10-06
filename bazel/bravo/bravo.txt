@@ -7479,7 +7479,6 @@ beshower
 bumblefoot
 botflies
 brainworker
-bulkin
 bartended
 breathability
 banagos
@@ -9516,6 +9515,7 @@ boeotia
 bogue
 battlements
 ballhawk
+bulkin
 biscayanism
 burnover
 barbal
