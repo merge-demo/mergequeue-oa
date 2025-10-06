@@ -8588,7 +8588,6 @@ billiards
 billyboy
 bivalved
 brules
-billies
 biostatics
 billyhood
 billiken
@@ -13377,6 +13376,7 @@ biliary
 botchy
 beglitter
 becrimson
+billies
 bedunch
 botella
 bulldoggy
