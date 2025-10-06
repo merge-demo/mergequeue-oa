@@ -4786,7 +4786,6 @@ cavalierish
 concaving
 chem
 chaldaei
-convexes
 crosspost
 cressida
 cultigen
@@ -25705,6 +25704,7 @@ compossibility
 chainbearer
 cumberment
 curassows
+convexes
 citrines
 chatta
 coronal

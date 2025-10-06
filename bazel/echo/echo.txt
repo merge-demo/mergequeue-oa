@@ -5752,7 +5752,6 @@ epigraphy
 expressions
 englobed
 enneahedral
-envelopment
 extirp
 englut
 emhpasizing
@@ -11431,6 +11430,7 @@ ectonephridium
 elasticizes
 erinnic
 effectually
+envelopment
 endomictic
 electrotypist
 escapades
