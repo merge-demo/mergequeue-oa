@@ -4266,6 +4266,7 @@ demast
 djelfa
 diminuendoed
 dislocate
+deodorize
 deltahedra
 dismaler
 diadrome
@@ -14215,7 +14216,6 @@ dangerous
 deirdre
 diswashing
 diswere
-deodorize
 debatable
 debriefings
 duenas
