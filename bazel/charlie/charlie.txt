@@ -3484,6 +3484,7 @@ cognizers
 cheloniid
 capsuliform
 circumcision
+claymores
 capsuling
 clamer
 capsulitis
@@ -18033,7 +18034,6 @@ chipboard
 compiled
 coelococcus
 charioteers
-claymores
 crawlie
 cornerman
 corinthians

@@ -4838,7 +4838,6 @@ aeromedical
 asteroidal
 attacher
 affidare
-acetamidine
 amenite
 argentino
 amphictyonies
@@ -15736,6 +15735,7 @@ antiportable
 aromata
 anthoxanthin
 anglicizing
+acetamidine
 adenoid
 albuminorrhea
 amora
