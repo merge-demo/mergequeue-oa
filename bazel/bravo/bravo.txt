@@ -1805,7 +1805,6 @@ becharm
 brainiest
 bancha
 bonhomie
-beslime
 bialystoker
 bayed
 bandaging
@@ -6279,6 +6278,7 @@ bipedal
 blackbirding
 bleep
 birdwise
+beslime
 blossoming
 beadiness
 blastogranitic
