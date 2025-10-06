@@ -2390,6 +2390,7 @@ entrail
 ecraseur
 emplection
 electrodialyze
+expenditures
 essayical
 excoriates
 epistle
@@ -3403,7 +3404,6 @@ exteriors
 enteropneustan
 embed
 embelic
-expenditures
 electrosynthetic
 epizoites
 equaled
