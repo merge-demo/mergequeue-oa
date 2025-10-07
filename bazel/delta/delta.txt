@@ -5168,7 +5168,6 @@ dextrosinistral
 diadumenus
 dionym
 detonated
-disulphoxide
 detachedly
 dextrously
 dekameters
@@ -11317,6 +11316,7 @@ distributional
 discarded
 drainageway
 diane
+disulphoxide
 dragonet
 discards
 dentals
