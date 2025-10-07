@@ -15960,7 +15960,6 @@ avirulence
 aeromechanics
 acrosphacelus
 antiseismic
-antiselene
 antisemitism
 astrild
 antisensitivity
@@ -17691,6 +17690,7 @@ alida
 acquittal
 arrearage
 aerotropic
+antiselene
 arras
 amedeo
 apposition

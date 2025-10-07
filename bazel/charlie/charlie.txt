@@ -5312,7 +5312,6 @@ coffeehousing
 crawler
 calibered
 castanopsis
-cor
 castanospermum
 casted
 chathamites
@@ -11478,6 +11477,7 @@ chokeberry
 cavalcaded
 certif
 coddling
+cor
 catastrophically
 chokeberries
 chokedamp
