@@ -1758,7 +1758,6 @@ dicentra
 diobol
 densifier
 deterioration
-discantus
 duckpond
 didnt
 dysenteric
@@ -9287,6 +9286,7 @@ dier
 denierage
 deaminize
 dementis
+discantus
 disemic
 decumbiture
 dissentious
