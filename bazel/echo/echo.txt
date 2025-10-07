@@ -6184,6 +6184,7 @@ ennoblements
 euryhaline
 excrescences
 exaspidean
+entourage
 esker
 ennobling
 embarren
@@ -6938,7 +6939,6 @@ eleganter
 extrapolations
 endarteria
 election
-entourage
 empt
 enounces
 entozoologically
