@@ -8564,7 +8564,6 @@ allelotropism
 alleluia
 applesauce
 alleluiah
-amnesiacs
 arcubos
 allemand
 allene
@@ -21447,6 +21446,7 @@ ancylose
 aspirants
 accountancy
 aspiree
+amnesiacs
 aspirer
 aspirers
 alliterator
