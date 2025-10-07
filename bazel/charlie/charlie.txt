@@ -20718,7 +20718,6 @@ cardiemphraxia
 complaint
 counteranswer
 centuple
-complaintiveness
 complaints
 complaisant
 cankerworms
@@ -31909,6 +31908,7 @@ cizar
 chilkat
 cutups
 carcased
+complaintiveness
 cutwater
 cutweed
 cutwork
