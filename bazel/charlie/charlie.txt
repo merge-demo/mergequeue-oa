@@ -8516,7 +8516,6 @@ chanceably
 copolymerous
 compurgatorial
 chemosterilants
-chanced
 circuitable
 comme
 categorical
@@ -25494,6 +25493,7 @@ coronate
 capacitor
 commandeer
 corrosible
+chanced
 calibrators
 coronel
 chamaerrhine
