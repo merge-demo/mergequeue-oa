@@ -17257,7 +17257,6 @@ affixed
 atomising
 aunties
 avoirdupois
-apostrophied
 anticrotalic
 apostrophising
 apostrophize
@@ -19969,6 +19968,7 @@ autobiographical
 accipitral
 arline
 allness
+apostrophied
 annuary
 appeasers
 adneural
