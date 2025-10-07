@@ -9069,7 +9069,6 @@ chekmak
 charnockite
 charnockites
 charnu
-conglomeratic
 culturalist
 charophyta
 capewise
@@ -15464,6 +15463,7 @@ clarion
 chloridella
 circumstantiates
 ciclatoun
+conglomeratic
 clarioning
 cloam
 circuted
