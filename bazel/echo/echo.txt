@@ -5567,7 +5567,6 @@ ectognatha
 equalization
 epidendrum
 elaeopten
-enfold
 ethyl
 exceptionalness
 engendrure
@@ -12298,6 +12297,7 @@ enhydrous
 etymologicon
 exercitation
 elecampane
+enfold
 effortless
 equilin
 extinguish
