@@ -1595,7 +1595,6 @@ dysgenesic
 demand
 decompiler
 diplomata
-diastrophy
 disposition
 deadlocking
 demodulation
@@ -8007,6 +8006,7 @@ dermatagra
 downsteepy
 dowable
 diathermal
+diastrophy
 decimeters
 druidical
 dextroaural
