@@ -11466,6 +11466,7 @@ ekistics
 eventuates
 epizooties
 evidential
+enterfeat
 evidentially
 erin
 etouffe
@@ -11988,7 +11989,6 @@ expensed
 eryngium
 enscrolls
 everyone
-enterfeat
 exampleship
 essentials
 eigenspace
