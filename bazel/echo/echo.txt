@@ -5381,7 +5381,6 @@ esthesiometer
 enfester
 ed
 emigrants
-eightsman
 example
 elsewhither
 epiprecoracoid
@@ -12922,6 +12921,7 @@ expatiates
 expatiating
 electable
 exencephalic
+eightsman
 ethnobotanic
 enworthed
 esses
