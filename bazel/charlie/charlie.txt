@@ -15108,7 +15108,6 @@ condignity
 clackama
 cellblock
 chinsed
-clacker
 clacking
 clacks
 clad
@@ -26185,6 +26184,7 @@ cossic
 cossidae
 cattleman
 cossie
+clacker
 cossnent
 contemn
 citydom
