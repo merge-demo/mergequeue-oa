@@ -7390,7 +7390,6 @@ aurifying
 albuminone
 alepot
 alloxanic
-atheriogaea
 alloplasm
 albuminoscope
 anatole
@@ -11889,6 +11888,7 @@ acetonic
 armorer
 analogions
 arbitratorship
+atheriogaea
 amphitheatrically
 agnosis
 acromiohyoid
