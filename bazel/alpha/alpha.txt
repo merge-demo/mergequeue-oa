@@ -5323,7 +5323,6 @@ agaces
 aerobiological
 afrormosia
 aft
-afteract
 alexin
 afterstorm
 appetitive
@@ -19405,6 +19404,7 @@ argues
 applicancy
 amiantus
 accelerated
+afteract
 achroglobin
 antiplenist
 antepagments
