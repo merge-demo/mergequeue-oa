@@ -5416,6 +5416,7 @@ chilloes
 castorite
 castra
 covertical
+cathodical
 classic
 corollated
 cascaron
@@ -25721,7 +25722,6 @@ counterswing
 continuate
 corroboration
 camarilla
-cathodical
 canterburianism
 cephalotheca
 caddish
