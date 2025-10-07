@@ -4073,7 +4073,6 @@ anaerobies
 adoption
 antedate
 abiotrophic
-anemographic
 astronomic
 adoptional
 archphylarch
@@ -6949,6 +6948,7 @@ andromonoecious
 anre
 aubin
 akinete
+anemographic
 anthecology
 azotes
 acrimoniousness
