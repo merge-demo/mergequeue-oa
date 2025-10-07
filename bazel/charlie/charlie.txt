@@ -4169,7 +4169,6 @@ carbamido
 carnet
 chiron
 carabideous
-carburise
 cardsharp
 cardsharping
 chlorites
@@ -5796,6 +5795,7 @@ catella
 conferruminate
 catena
 catenae
+carburise
 catenane
 cremates
 catenarian
