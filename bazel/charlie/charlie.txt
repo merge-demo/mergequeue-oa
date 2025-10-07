@@ -12172,6 +12172,7 @@ chrysamminic
 chrysamphora
 cheremiss
 culprit
+cointension
 chrysaniline
 cushiony
 chrysaor
@@ -27605,7 +27606,6 @@ crisping
 covine
 cymatium
 coving
-cointension
 covisit
 charioteership
 covisitor
