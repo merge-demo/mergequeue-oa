@@ -11522,7 +11522,6 @@ cholate
 chamberer
 crafting
 calciphile
-cleavingly
 chold
 commiphora
 choleate
@@ -16997,6 +16996,7 @@ colpeo
 caprella
 clerestories
 cymbaleer
+cleavingly
 candela
 clutchingly
 casha
