@@ -29685,7 +29685,6 @@ cigaritos
 communicated
 coachway
 cronies
-cronyisms
 chumar
 cardipaludism
 crooch
@@ -31776,6 +31775,7 @@ customly
 chargeman
 chevisance
 cruentation
+cronyisms
 co
 customs
 customshouse
