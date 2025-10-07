@@ -1674,7 +1674,6 @@ baggit
 braizes
 bambara
 bogtrot
-ballsier
 boycotter
 broderer
 borrowable
@@ -3540,6 +3539,7 @@ batikuling
 barricade
 berkeleyite
 bakula
+ballsier
 bien
 bitsy
 bigmouths
