@@ -6835,6 +6835,7 @@ ectocarpales
 electrostatical
 examiningly
 entomical
+eremic
 empoisoning
 entomol
 eyepopper
@@ -8840,7 +8841,6 @@ encrypt
 emptive
 euonymin
 eavedrop
-eremic
 enterocystoma
 egregiousness
 endocellular
