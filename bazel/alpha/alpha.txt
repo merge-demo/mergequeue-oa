@@ -2300,7 +2300,6 @@ acinaciform
 alkaliferous
 amorism
 acinar
-acouchy
 albardine
 aldopentose
 acinary
@@ -15342,6 +15341,7 @@ alphatoluic
 antimilitary
 amoralism
 antimilitarist
+acouchy
 alienship
 approximativeness
 anelectric
