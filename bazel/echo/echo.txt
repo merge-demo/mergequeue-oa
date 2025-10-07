@@ -1308,7 +1308,6 @@ epimachinae
 entomologists
 extrapolating
 essoin
-episynaloephe
 extortioner
 effectors
 effectress
@@ -6990,6 +6989,7 @@ eomecon
 excavatorial
 enfuddle
 eager
+episynaloephe
 entreats
 entrec
 escalin
