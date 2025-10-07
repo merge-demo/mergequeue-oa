@@ -4688,7 +4688,6 @@ enmuffle
 entrammel
 ensuance
 extroverted
-esteem
 englishism
 enciphering
 enrapture
@@ -5251,6 +5250,7 @@ equity
 esterellite
 efik
 enchest
+esteem
 emulsionize
 engrafting
 ecmnesia
