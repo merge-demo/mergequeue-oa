@@ -319,7 +319,6 @@ commitments
 caninity
 coenosteum
 cacodaemoniac
-cannisters
 cacodaemonial
 chiromys
 coner
@@ -14400,6 +14399,7 @@ cered
 cutleriaceous
 callously
 citrus
+cannisters
 circumvest
 circumvoisin
 chophouse
