@@ -13415,6 +13415,7 @@ defenceless
 disregarded
 drumskin
 disregardfulness
+dissipating
 disregarding
 dingbat
 dramatise
@@ -16496,7 +16497,6 @@ derivately
 defogger
 dwaible
 drabbler
-dissipating
 datum
 dunnesses
 dacoities
