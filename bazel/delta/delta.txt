@@ -8705,6 +8705,7 @@ dichastasis
 decisions
 dactyliomancy
 deathrate
+duodenal
 depolarizing
 diethylethanolamine
 diphenylene
@@ -10270,7 +10271,6 @@ dioecy
 demandingly
 downfold
 disclout
-duodenal
 disagreeance
 dioicousness
 dipleura
