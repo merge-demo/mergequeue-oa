@@ -4189,7 +4189,6 @@ epicenism
 empurpled
 excitedness
 enterochlorophyll
-empuzzle
 eosinophilous
 eerie
 empirically
@@ -10286,6 +10285,7 @@ ectases
 epiphyllous
 ensignment
 ethnicist
+empuzzle
 endymal
 elingued
 erasable
