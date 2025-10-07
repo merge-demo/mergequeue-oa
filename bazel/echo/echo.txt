@@ -3921,7 +3921,6 @@ entitative
 emolument
 elevator
 emotivity
-enragedness
 epileptology
 exorability
 epitases
@@ -8249,6 +8248,7 @@ epistlers
 epistolarian
 elderhood
 ethylin
+enragedness
 epergnes
 escribe
 epopoeia
