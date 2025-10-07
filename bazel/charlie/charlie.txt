@@ -8383,7 +8383,6 @@ chrysolophus
 crivetz
 centroid
 chugged
-chamberleted
 ceratorhine
 camanchaca
 chambers
@@ -16268,6 +16267,7 @@ constringency
 clinology
 clinometry
 chemosynthetically
+chamberleted
 canisters
 colonisable
 calendal

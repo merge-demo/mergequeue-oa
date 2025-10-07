@@ -211,7 +211,6 @@ episkeletal
 epidermolysis
 erinaceous
 elaphure
-earthsets
 earthshaker
 earthman
 erythritic
@@ -10089,6 +10088,7 @@ ensorcelize
 ebb
 erythrosin
 explosives
+earthsets
 etheostominae
 elytroid
 exasperates
