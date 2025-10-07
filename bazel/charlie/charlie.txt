@@ -1266,7 +1266,6 @@ cteniform
 centimes
 cupressinoxylon
 cowtown
-calf
 calfish
 chromophotograph
 calfkill
@@ -8568,6 +8567,7 @@ chanciness
 calthrops
 chinks
 checkrower
+calf
 chancing
 cobbling
 coins
