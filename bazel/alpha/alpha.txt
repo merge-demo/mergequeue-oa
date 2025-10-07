@@ -4120,7 +4120,6 @@ assemblement
 aircraftman
 aetosaur
 adposition
-armorer
 alchornea
 altoist
 adrad
@@ -11882,6 +11881,7 @@ albite
 aegis
 ancile
 acetonic
+armorer
 analogions
 arbitratorship
 amphitheatrically
