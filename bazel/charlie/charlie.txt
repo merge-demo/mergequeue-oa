@@ -4638,7 +4638,6 @@ carousals
 chymaqueous
 centrospermae
 carouse
-carousels
 carp
 carpathian
 careerist
@@ -15734,6 +15733,7 @@ cubbishly
 clawing
 clawk
 colobium
+carousels
 clinks
 couldest
 clunch
