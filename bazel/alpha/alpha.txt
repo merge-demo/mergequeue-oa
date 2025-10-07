@@ -13200,6 +13200,7 @@ archleader
 appliably
 atonality
 anitos
+automatable
 anywhen
 ascill
 anywhence
@@ -24157,7 +24158,6 @@ alienicolae
 automa
 abbasid
 archdean
-automatable
 awash
 aminities
 automates
