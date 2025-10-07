@@ -6249,6 +6249,7 @@ exor
 elongations
 eelcatcher
 elimination
+eons
 electrofishing
 extraepiphyseal
 ecstatica
@@ -8174,7 +8175,6 @@ extracollegiate
 exulting
 enmarbling
 entomophthoraceae
-eons
 eightfold
 empowered
 excalfaction
