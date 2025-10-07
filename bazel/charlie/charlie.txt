@@ -6362,7 +6362,6 @@ cornutus
 cienega
 cerebronic
 cautiones
-canard
 carbarns
 cautiously
 coffeecakes
@@ -6629,6 +6628,7 @@ cedrol
 crochets
 corticiform
 cloisterless
+canard
 cherte
 cedrus
 crioceris

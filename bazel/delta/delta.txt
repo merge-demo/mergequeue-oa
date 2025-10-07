@@ -2565,6 +2565,7 @@ detoured
 dermobranchia
 durable
 decartelized
+depopulating
 dotlet
 declutch
 divise
@@ -5815,7 +5816,6 @@ deponing
 dented
 distributee
 docker
-depopulating
 dital
 deals
 dwindling
