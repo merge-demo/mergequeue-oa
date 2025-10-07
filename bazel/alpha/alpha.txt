@@ -2713,7 +2713,6 @@ antiferromagnetic
 acrologism
 austronesian
 amaxomania
-agraffee
 acquirer
 acromastitis
 antiscience
@@ -13346,6 +13345,7 @@ agnoete
 anniversalily
 anniversary
 anisyl
+agraffee
 arthrorrhagia
 azobenzene
 attributal
