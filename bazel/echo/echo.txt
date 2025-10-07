@@ -1944,7 +1944,6 @@ equals
 energism
 eighth
 expressively
-eppy
 exenterated
 eastland
 eventration
@@ -9697,6 +9696,7 @@ entoptoscopic
 essay
 epistomata
 embargo
+eppy
 erethism
 empyrical
 envapor
