@@ -15773,7 +15773,6 @@ deflorescence
 doppio
 disgage
 dactyloscopy
-decidedness
 dorad
 dernful
 dromon
@@ -17071,6 +17070,7 @@ dayglow
 dreiling
 disjoined
 diacritically
+decidedness
 dregs
 dreynt
 defibrinate
