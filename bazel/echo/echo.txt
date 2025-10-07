@@ -4679,6 +4679,7 @@ electromagnets
 encyclopedic
 ebauche
 encyclopedical
+excepts
 etherialisation
 exacerbating
 egence
@@ -7432,7 +7433,6 @@ exhibitor
 elbowbush
 ephas
 ephebea
-excepts
 employes
 elenctic
 escapers
