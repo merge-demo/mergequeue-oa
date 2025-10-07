@@ -1478,7 +1478,6 @@ burnouses
 brassie
 bowled
 bladderless
-bints
 barvell
 belliferous
 bunrakus
@@ -9239,6 +9238,7 @@ biplane
 bobolink
 biplanes
 beclogging
+bints
 bonavist
 butler
 bantamweights
