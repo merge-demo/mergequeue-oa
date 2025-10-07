@@ -11794,7 +11794,6 @@ cholochrome
 chiricahua
 choora
 contents
-crenelated
 chazzen
 cycloidal
 coaster
@@ -15749,6 +15748,7 @@ chamicuro
 capote
 confectioneries
 clean
+crenelated
 cardiology
 cleaned
 chloramine
