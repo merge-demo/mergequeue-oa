@@ -30,7 +30,6 @@ dachshund
 disaligning
 dural
 diplomat
-dacian
 dyce
 dacite
 deservedly
@@ -8491,6 +8490,7 @@ disclike
 demioctagonal
 danglers
 diametral
+dacian
 disorientates
 diamide
 defacer
