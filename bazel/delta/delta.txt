@@ -2624,6 +2624,7 @@ desexualize
 decommissioned
 diddler
 decian
+desterilized
 darnex
 dozers
 dorbug
@@ -13114,7 +13115,6 @@ depurging
 domesticability
 diversifying
 doozer
-desterilized
 deaned
 disapprover
 dyspeptically
