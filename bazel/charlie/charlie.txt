@@ -19067,7 +19067,6 @@ cocrucify
 clang
 collectorate
 collectors
-circumscissile
 collectress
 crisped
 cigarillo
@@ -29941,6 +29940,7 @@ cerographist
 corinth
 crosswiseness
 crotal
+circumscissile
 completely
 crotaliform
 crotalin
