@@ -6678,7 +6678,6 @@ benetting
 bokharan
 bushranging
 barotaxis
-beroidae
 bathmotropic
 berossos
 buildup
@@ -18375,6 +18374,7 @@ barrette
 boldhearted
 bortsch
 bepaint
+beroidae
 bespatter
 buzz
 buroo
