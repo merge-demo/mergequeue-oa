@@ -5597,7 +5597,6 @@ cataphora
 cataphoretically
 cataphoria
 cataphract
-cosmetology
 centenarian
 cataphracted
 cataphractic
@@ -25611,6 +25610,7 @@ confinedness
 completed
 corpuscularity
 corpusculous
+cosmetology
 contortive
 concedes
 chairlift
