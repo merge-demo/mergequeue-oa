@@ -11542,7 +11542,6 @@ epitrochlea
 errantness
 ennoy
 evocator
-evoe
 ensilaging
 erethizon
 encamped
@@ -12284,6 +12283,7 @@ exerce
 equimultiple
 exceptious
 extramarginal
+evoe
 epanisognathous
 exercising
 endotracheitis
