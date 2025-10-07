@@ -4691,7 +4691,6 @@ birk
 bradding
 brunts
 bruisers
-bordman
 besplit
 bedpost
 blate
@@ -17367,6 +17366,7 @@ blackfellows
 burler
 burgoyne
 balsawood
+bordman
 bewearying
 banksman
 brocage
