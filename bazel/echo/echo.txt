@@ -10046,7 +10046,6 @@ editresses
 energetical
 esculetin
 evolutions
-encastered
 egrets
 ethambutol
 ethmovomerine
@@ -10221,6 +10220,7 @@ embedded
 excavators
 ethyldichloroarsine
 emphraxis
+encastered
 ethylenimine
 enliven
 esperanto
