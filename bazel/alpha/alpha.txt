@@ -8875,6 +8875,7 @@ allothimorph
 allothimorphic
 amphisbaenae
 aisle
+atlantoaxial
 allothogenic
 astrakanite
 allotypes
@@ -12232,7 +12233,6 @@ androgyn
 androgynal
 arillode
 androgyne
-atlantoaxial
 androgynia
 angiostomy
 androgone
