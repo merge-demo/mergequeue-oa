@@ -291,6 +291,7 @@ eatability
 excamb
 enraged
 erythrocytorrhexis
+electrotonus
 emir
 enwwoven
 ecotopic
@@ -3844,7 +3845,6 @@ equivote
 echeneis
 eternal
 entomotomy
-electrotonus
 extraboldface
 eminencies
 evendown
