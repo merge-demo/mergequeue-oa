@@ -9840,7 +9840,6 @@ chemiotaxic
 chemiotropic
 calombo
 crackrope
-cerebropsychosis
 chemise
 coprophyte
 chemism
@@ -27648,6 +27647,7 @@ congener
 codhead
 cowed
 croqueted
+cerebropsychosis
 cowered
 cowerers
 camerlingo
