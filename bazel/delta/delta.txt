@@ -1004,7 +1004,6 @@ dekadarchy
 daringness
 darings
 darius
-doubleprecision
 darked
 dumminess
 darkeys
@@ -16002,6 +16001,7 @@ dentines
 dormition
 devilwood
 deprecable
+doubleprecision
 disozonize
 dossmen
 dissemblies
