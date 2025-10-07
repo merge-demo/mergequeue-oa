@@ -2335,7 +2335,6 @@ evenlong
 electrocataphoresis
 equison
 ephedrine
-electrochronometric
 enfroward
 evanished
 englifier
@@ -7297,6 +7296,7 @@ emigres
 eristics
 etherealize
 emulous
+electrochronometric
 eimeria
 enterpillar
 enregistered
