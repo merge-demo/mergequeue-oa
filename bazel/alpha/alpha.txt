@@ -10409,6 +10409,7 @@ automacy
 agamoid
 abusing
 articled
+apologiae
 armourers
 atmiatrics
 allantoidea
@@ -17064,7 +17065,6 @@ aneurin
 anagrammatised
 apology
 adios
-apologiae
 asarone
 apological
 apologies
