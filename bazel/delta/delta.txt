@@ -643,7 +643,6 @@ damnabilities
 disegno
 dawut
 deadrize
-disintegrating
 drosophyllum
 derelinquendi
 definientia
@@ -1148,6 +1147,7 @@ diazotization
 drummed
 deepwaterman
 drawnet
+disintegrating
 dumpfile
 dreamful
 dasheen
