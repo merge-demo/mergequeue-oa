@@ -12024,7 +12024,6 @@ choroiditis
 cryptanalytic
 coronene
 choroidocyclitis
-choroids
 cocottes
 chorology
 cynocrambe
@@ -22560,6 +22559,7 @@ chemosterilant
 collingly
 conjugales
 conjugality
+choroids
 cv
 conjugatae
 cyprinine
