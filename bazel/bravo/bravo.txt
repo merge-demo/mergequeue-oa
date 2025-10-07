@@ -3854,6 +3854,7 @@ bodock
 boiling
 buriable
 bawl
+burdensome
 bevelment
 bawler
 brutalitarian
@@ -17472,7 +17473,6 @@ bulbocapnine
 bides
 bee
 burro
-burdensome
 bemuddy
 begats
 beslushed
