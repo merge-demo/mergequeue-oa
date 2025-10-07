@@ -1588,7 +1588,6 @@ diagenetic
 deadheartedness
 disagreeability
 drawback
-dipterocarpous
 decoic
 defilades
 dibbles
@@ -16819,6 +16818,7 @@ draughtboard
 daub
 draughtier
 depersonalised
+dipterocarpous
 divulsive
 delphinoidea
 decastylos
