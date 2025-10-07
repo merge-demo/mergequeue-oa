@@ -12045,7 +12045,6 @@ elflike
 exotoxins
 expurgatorial
 exomphalus
-embalmed
 excortication
 excremental
 eschewals
@@ -13730,6 +13729,7 @@ epicalyxes
 encephalomeningitis
 extinctions
 enantiopathic
+embalmed
 euphorbia
 extinctor
 ententophil
