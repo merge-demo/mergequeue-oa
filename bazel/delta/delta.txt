@@ -2281,7 +2281,6 @@ debase
 deceiving
 defuzes
 disdain
-disthroning
 deflex
 durian
 demnition
@@ -4772,6 +4771,7 @@ density
 dewaxed
 drifting
 discommunity
+disthroning
 dispreading
 drydenism
 ducklar
