@@ -8751,7 +8751,6 @@ barterer
 bisiliquous
 beggars
 banjos
-broker
 belabouring
 binding
 bookkeep
@@ -18194,6 +18193,7 @@ bibliothecary
 bremely
 busycon
 brigbote
+broker
 burgages
 butteraceous
 boredness

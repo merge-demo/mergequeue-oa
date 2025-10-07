@@ -2860,6 +2860,7 @@ endew
 empark
 eleutherozoan
 ental
+ellipsoid
 elevable
 electrionic
 echoizing
@@ -6205,7 +6206,6 @@ enological
 enols
 enterclose
 execs
-ellipsoid
 erasure
 exodist
 enophthalmus
