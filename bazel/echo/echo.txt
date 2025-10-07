@@ -82,6 +82,7 @@ equitation
 earmuff
 earnable
 essayer
+entail
 ecclesiology
 earned
 effectualness
@@ -6505,7 +6506,6 @@ execration
 ephemeric
 endosarc
 englishes
-entail
 ephemeris
 egomaniacal
 enrollment
