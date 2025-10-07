@@ -312,6 +312,7 @@ enterolobium
 enantiosis
 endark
 espousage
+epichirema
 excusator
 exserting
 extortionate
@@ -10984,7 +10985,6 @@ excludes
 electrizing
 eurhythmic
 eudemons
-epichirema
 echeloot
 eoside
 eigenfrequency
