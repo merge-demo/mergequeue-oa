@@ -227,7 +227,6 @@ boottop
 banditries
 beslimed
 bostons
-biofog
 bandlimits
 baccy
 braidings
@@ -2818,6 +2817,7 @@ beebread
 blow
 blowsiest
 bioscopies
+biofog
 barbery
 ballers
 birders

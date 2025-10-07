@@ -5725,7 +5725,6 @@ ephorus
 enticers
 englacial
 expose
-embossments
 emaciation
 eddying
 emceing
@@ -9533,6 +9532,7 @@ ergastoplasmic
 earmindedness
 enchytraeidae
 emigree
+embossments
 euchromatic
 emasculated
 embarrassed
