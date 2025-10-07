@@ -975,6 +975,7 @@ eidolology
 effluviable
 ethmolachrymal
 embryulci
+epiphysary
 eddied
 eponymic
 edits
@@ -13765,7 +13766,6 @@ extoling
 epitympanum
 edingtonite
 edestosaurus
-epiphysary
 enserfing
 ecorch
 extolling
