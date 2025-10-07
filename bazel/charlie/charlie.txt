@@ -21352,6 +21352,7 @@ conch
 concha
 corniches
 couponed
+copemate
 conchae
 conchal
 chelidon
@@ -24534,7 +24535,6 @@ copeia
 copelata
 corrupable
 copeman
-copemate
 centration
 copending
 colonialist
