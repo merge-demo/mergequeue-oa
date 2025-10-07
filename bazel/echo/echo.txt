@@ -2500,7 +2500,6 @@ electrolytically
 exuviates
 ephemeromorph
 epanorthotic
-ensete
 establishment
 entozoic
 euphausiidae
@@ -6754,6 +6753,7 @@ enthusiasms
 elaborator
 exhibits
 entrechat
+ensete
 endoceratitic
 eta
 enthusiastly

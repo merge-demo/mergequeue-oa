@@ -6895,7 +6895,6 @@ althorns
 avick
 aphyllous
 autoist
-attiring
 akees
 anaphalis
 akehorne
@@ -22568,6 +22567,7 @@ athrough
 arrondissement
 aeronef
 athwartship
+attiring
 athwartships
 actian
 ablating
