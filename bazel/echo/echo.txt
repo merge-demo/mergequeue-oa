@@ -2232,6 +2232,7 @@ extemporizes
 endoplasma
 elector
 excavation
+emotionize
 exhume
 elks
 ethnarchs
@@ -3917,7 +3918,6 @@ emotionalize
 euskara
 extremistic
 emotioned
-emotionize
 entitative
 emolument
 elevator
