@@ -7798,7 +7798,6 @@ chaffiest
 ceaselessly
 choosing
 cervantite
-coruscation
 choledochitis
 cabrie
 creosote
@@ -14835,6 +14834,7 @@ cytogeny
 cornsack
 cytogenic
 cahill
+coruscation
 cropplecrown
 cytoglobin
 cortinae
