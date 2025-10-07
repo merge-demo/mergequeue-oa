@@ -5153,7 +5153,6 @@ anthomedusae
 aspen
 alemanni
 aggerate
-affinities
 affinitive
 affirmable
 asiaticism
@@ -18353,6 +18352,7 @@ appendant
 arboloco
 amalgamable
 actinocrinus
+affinities
 arbor
 abomasus
 acrocyst
