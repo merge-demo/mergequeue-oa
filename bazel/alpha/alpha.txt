@@ -6359,7 +6359,6 @@ adactyl
 ahull
 ahum
 amicableness
-arboretum
 ahunt
 antireality
 admonishments
@@ -9018,6 +9017,7 @@ anaspid
 amphiarthrosis
 authenticatable
 afterchance
+arboretum
 arteriostosis
 almanacs
 almander
