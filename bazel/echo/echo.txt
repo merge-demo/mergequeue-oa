@@ -287,7 +287,6 @@ esquired
 extrametropolitan
 effeminisation
 easterners
-eatability
 excamb
 enraged
 erythrocytorrhexis
@@ -12369,6 +12368,7 @@ exhaustive
 evene
 eryon
 exhaustiveness
+eatability
 earlock
 elegances
 electrotonicity
