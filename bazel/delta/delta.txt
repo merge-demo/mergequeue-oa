@@ -1273,6 +1273,7 @@ diabolification
 dates
 datil
 doat
+drinkproof
 darker
 dating
 datisca
@@ -9073,7 +9074,6 @@ demerara
 dictaen
 disenchanting
 drophead
-drinkproof
 depectible
 doping
 dictatingly
