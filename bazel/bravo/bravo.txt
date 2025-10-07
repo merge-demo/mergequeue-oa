@@ -10,6 +10,7 @@ buddhi
 bowstringing
 bistratose
 bifurcate
+bauson
 babacoote
 babaylanes
 branch
@@ -9898,7 +9899,6 @@ blackleg
 bellyflaught
 borghese
 bedticking
-bauson
 bilipurpurin
 bepraise
 bastardice
