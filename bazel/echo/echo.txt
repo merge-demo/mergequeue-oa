@@ -515,6 +515,7 @@ effeminated
 ecdysone
 ecesic
 ectropometer
+encipherment
 ecgonin
 evenhandedness
 emballonurid
@@ -11420,7 +11421,6 @@ expdt
 elided
 evetide
 extirpating
-encipherment
 ethanim
 elucidation
 engraving

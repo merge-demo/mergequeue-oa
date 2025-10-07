@@ -6264,6 +6264,7 @@ cetiosauria
 clarinda
 caus
 councillors
+cleanest
 causa
 causae
 chilectropion
@@ -15755,7 +15756,6 @@ clean
 cardiology
 cleaned
 chloramine
-cleanest
 coddle
 choreguses
 cholesteryl
