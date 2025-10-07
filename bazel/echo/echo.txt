@@ -4070,7 +4070,6 @@ engarrison
 eighthes
 earlships
 ecardinal
-endosarc
 electrorefine
 emplecton
 exuberancy
@@ -6504,6 +6503,7 @@ excludable
 estimative
 execration
 ephemeric
+endosarc
 englishes
 entail
 ephemeris
