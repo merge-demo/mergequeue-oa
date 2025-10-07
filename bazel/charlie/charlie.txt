@@ -12411,6 +12411,7 @@ chromhidrosis
 chromy
 chromide
 chapfallenly
+crinoidal
 chiffchaff
 chromides
 chromididae
@@ -24230,7 +24231,6 @@ callbacks
 convolutedly
 circumambagious
 colemouse
-crinoidal
 convoluting
 convolution
 convolutive
