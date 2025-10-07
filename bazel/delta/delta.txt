@@ -4463,6 +4463,7 @@ dematerialisation
 disfavor
 dragsmen
 dendroica
+dioptomiter
 dematerialised
 dioeciousness
 dematerializing
@@ -11866,7 +11867,6 @@ dissociates
 donatress
 discussions
 dogmeat
-dioptomiter
 disdained
 disdainer
 deterrable
