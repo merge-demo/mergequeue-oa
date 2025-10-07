@@ -12682,6 +12682,7 @@ bane
 brazilwood
 blattoid
 bellical
+bulkhead
 bullwort
 buhrs
 bestraddling
@@ -16964,7 +16965,6 @@ barometz
 bishoping
 boldfaces
 burt
-bulkhead
 bulkheading
 bulky
 boscage
