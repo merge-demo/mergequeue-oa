@@ -5700,6 +5700,7 @@ eau
 educabilia
 engirdle
 extraversive
+element
 ebullient
 engrege
 engirdled
@@ -9238,7 +9239,6 @@ eloquential
 educationalist
 extrapleural
 extrapolative
-element
 embryoid
 eyestrain
 erotogenesis
