@@ -9371,6 +9371,7 @@ apyrene
 alteration
 abettals
 amphophil
+anterodorsal
 abbot
 adopt
 abstersive
@@ -14044,7 +14045,6 @@ appliableness
 admissible
 adversities
 adhort
-anterodorsal
 aedeagal
 anteroexternal
 anterofixation
