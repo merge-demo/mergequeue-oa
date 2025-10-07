@@ -6084,6 +6084,7 @@ breadstuffs
 benedictinism
 briolet
 blenniiform
+bubbles
 benedictively
 bitolyl
 biggonet
@@ -9114,7 +9115,6 @@ ballgown
 biotechnologically
 bowl
 botanists
-bubbles
 becalmment
 biotelemetries
 bardiness
