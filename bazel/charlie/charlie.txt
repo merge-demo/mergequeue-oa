@@ -3488,7 +3488,6 @@ circumcision
 claymores
 capsuling
 clamer
-capsulitis
 capsulizing
 cabman
 capsulogenous
@@ -23954,6 +23953,7 @@ chartist
 couthier
 crude
 comminuate
+capsulitis
 conularia
 conumerous
 conundrums
