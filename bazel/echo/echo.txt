@@ -4749,7 +4749,6 @@ endosmosic
 excircle
 epistler
 entomophytous
-equidifferent
 episcopally
 establishments
 exploratory
@@ -10008,6 +10007,7 @@ elemicin
 edgrew
 eterminable
 eyeballs
+equidifferent
 eroticism
 epinician
 euptelea
