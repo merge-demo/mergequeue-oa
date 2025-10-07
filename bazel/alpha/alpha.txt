@@ -14333,7 +14333,6 @@ anthropolith
 affinage
 anthropology
 apostrophised
-adapis
 anthropologists
 arctalia
 adolescent
@@ -21691,6 +21690,7 @@ atoningly
 assignats
 ambiparous
 aerophilous
+adapis
 amebas
 assigns
 affloof
