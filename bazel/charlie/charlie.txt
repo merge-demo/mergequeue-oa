@@ -7181,7 +7181,6 @@ centred
 centreless
 centrepiece
 canephoroe
-centrer
 closely
 craniometrically
 chol
@@ -25931,6 +25930,7 @@ coeloplanula
 crustiest
 conelet
 corvees
+centrer
 curlicued
 corven
 calotte
