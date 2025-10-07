@@ -6730,7 +6730,6 @@ ectosomal
 extratarsal
 esthesioneurosis
 exsuperate
-exhilarate
 enthral
 eschewers
 enthralldom
@@ -8138,6 +8137,7 @@ escritoires
 erudit
 echeveria
 episcopate
+exhilarate
 exedra
 enliveningly
 expulsions
