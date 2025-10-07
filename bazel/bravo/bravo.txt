@@ -10423,6 +10423,7 @@ baritone
 bribetaking
 beachboy
 beneficium
+blearness
 boghole
 bimuscular
 barytostrontianite
@@ -10639,7 +10640,6 @@ barrelhead
 begarnish
 blearing
 boselaphus
-blearness
 bleated
 butcherdom
 bluejoint
