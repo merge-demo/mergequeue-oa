@@ -1683,7 +1683,6 @@ calosoma
 calothrix
 calotype
 cyclodiolefine
-calotypist
 congratulated
 cryptovalency
 cuddlier
@@ -26288,6 +26287,7 @@ costumey
 costumer
 cooker
 costumes
+calotypist
 costumic
 cabstand
 costumiere
