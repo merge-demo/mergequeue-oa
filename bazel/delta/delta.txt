@@ -339,6 +339,7 @@ dayanim
 directories
 daybed
 degami
+disadvantage
 disembowelment
 dissuasiveness
 dollfaced
@@ -14871,7 +14872,6 @@ diethylenediamine
 daylight
 dispensating
 demo
-disadvantage
 disadjust
 deipnosophism
 doctoring
