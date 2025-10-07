@@ -6676,7 +6676,6 @@ existents
 enterorrhagia
 enterorrhaphy
 eutychianism
-electromotiv
 enchelycephali
 enterosepsis
 enterotome
@@ -8167,6 +8166,7 @@ euchromatin
 expedientist
 evelong
 eyl
+electromotiv
 essayette
 eurythmies
 estadio
