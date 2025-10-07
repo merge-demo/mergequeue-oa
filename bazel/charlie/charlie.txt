@@ -1224,7 +1224,6 @@ calefy
 calelectric
 caprice
 cumulostratus
-contender
 cauliferous
 calenda
 counterfaller
@@ -6903,6 +6902,7 @@ canch
 chymosins
 coaugment
 calorimetric
+contender
 calypsonian
 cementatory
 castrati

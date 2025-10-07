@@ -9724,6 +9724,7 @@ beknights
 bradylexia
 boedromion
 beetler
+bop
 bascunan
 baronetage
 basiating
@@ -16057,7 +16058,6 @@ befret
 billowing
 bitesheep
 bullfight
-bop
 booksy
 balbuties
 butleress
