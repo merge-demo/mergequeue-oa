@@ -2310,7 +2310,6 @@ entrapper
 electroballistics
 emetatrophia
 encrypted
-electrobath
 epicenity
 epically
 effulge
@@ -9234,6 +9233,7 @@ enweaved
 entrant
 extirpate
 epizzoa
+electrobath
 eloquential
 educationalist
 extrapleural
