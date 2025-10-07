@@ -5551,7 +5551,6 @@ catallactic
 cladocerans
 catalo
 cataloged
-character
 cornetists
 cariousness
 centi
@@ -14357,6 +14356,7 @@ circumstantiality
 circumstantialities
 coazervation
 comparsa
+character
 catacumba
 circumstantiate
 circumstantiating
