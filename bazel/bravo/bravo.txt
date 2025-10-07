@@ -13958,6 +13958,7 @@ bowsie
 bacteriuria
 boxful
 bushmaking
+barbermonger
 blackboys
 boxcar
 brussels
@@ -18369,7 +18370,6 @@ biotelemetric
 bethought
 bolsterers
 buzane
-barbermonger
 blawort
 barrette
 boldhearted
