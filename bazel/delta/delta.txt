@@ -5240,7 +5240,6 @@ dolmens
 denizenation
 diquats
 dyscrased
-dolina
 dellenite
 dsp
 dryopes
@@ -9936,6 +9935,7 @@ dentins
 ductilely
 dermatoptic
 drear
+dolina
 direly
 densimetry
 dysthymia

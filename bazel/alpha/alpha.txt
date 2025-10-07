@@ -16809,7 +16809,6 @@ apyrotype
 arenig
 apishamore
 alfa
-anoure
 amatorian
 aphagia
 awarded
@@ -24055,6 +24054,7 @@ anapodeictic
 anagogics
 autographometer
 autographs
+anoure
 awarrant
 apographal
 autoheader
