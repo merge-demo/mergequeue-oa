@@ -12145,7 +12145,6 @@ burbler
 boldly
 blackmail
 brahminic
-boldnesses
 bedamp
 boldo
 benzalethylamine
@@ -15166,6 +15165,7 @@ brickbatting
 ballistocardiography
 billhook
 brickel
+boldnesses
 blolly
 biometrically
 bacchar
