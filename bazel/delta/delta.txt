@@ -8107,7 +8107,6 @@ decoratively
 druxey
 dharma
 deuterons
-durra
 dero
 dichas
 dharmas
@@ -17542,6 +17541,7 @@ ditheists
 deriver
 dispope
 domanial
+durra
 dicasts
 donuts
 dianil

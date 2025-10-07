@@ -787,6 +787,7 @@ equiponderance
 encaged
 exadverso
 endosulfan
+erythrite
 exodus
 epeira
 eurytopic
@@ -9007,7 +9008,6 @@ erythric
 eteocretes
 edriophthalma
 eupatrid
-erythrite
 emaciating
 enfeeblement
 echappee
