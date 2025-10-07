@@ -8161,7 +8161,6 @@ bullyboy
 bateaux
 bieldy
 ballistite
-bossa
 bathylite
 bielding
 benzopinacone
@@ -11076,6 +11075,7 @@ bifanged
 bettina
 buccinae
 boyfriend
+bossa
 budgero
 bullit
 byssaceous

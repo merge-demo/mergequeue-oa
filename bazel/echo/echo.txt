@@ -589,7 +589,6 @@ eisteddfod
 epigynum
 excision
 eurypelma
-ecclesiastes
 electrostatically
 excommunicates
 electromeric
@@ -13854,6 +13853,7 @@ eggcups
 earliness
 engagingness
 euphenic
+ecclesiastes
 emandibulate
 extraparental
 epinglette
