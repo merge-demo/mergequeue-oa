@@ -5784,7 +5784,6 @@ depolarization
 daydreamlike
 dernly
 depressions
-depolarize
 dextrorsal
 demicylinder
 demersal
@@ -12746,6 +12745,7 @@ dehydratase
 doggrels
 dorsilateral
 dislocating
+depolarize
 drawbars
 dissemblingly
 drivecap
