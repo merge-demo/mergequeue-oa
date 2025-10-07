@@ -7933,6 +7933,7 @@ dewaters
 drofland
 disard
 desmocyte
+discompanied
 dispenser
 drysalter
 dihydrogen
@@ -11568,7 +11569,6 @@ denationalised
 diplocaulescent
 downland
 docity
-discompanied
 disavowing
 deepmouthed
 dimethyls
