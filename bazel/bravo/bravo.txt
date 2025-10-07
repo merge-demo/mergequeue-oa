@@ -485,6 +485,7 @@ backspier
 bluebells
 beseeched
 betatron
+bancales
 besottingly
 battarismus
 bromios
@@ -3968,7 +3969,6 @@ bugbeardom
 berchta
 bounteousness
 beaconless
-bancales
 bicycles
 buoyancy
 beader
