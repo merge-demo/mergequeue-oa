@@ -9190,7 +9190,6 @@ afflate
 along
 ataxiameter
 alongships
-alemana
 aristolochine
 accidental
 absentment
@@ -11908,6 +11907,7 @@ autodestruction
 aletris
 abstractors
 anastasian
+alemana
 alveus
 aerogen
 anastasimon
