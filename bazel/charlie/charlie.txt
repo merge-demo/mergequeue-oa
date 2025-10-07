@@ -6539,7 +6539,6 @@ ccitt
 custodial
 commentation
 contributions
-calamitoid
 cdf
 cesspool
 celibates
@@ -31147,6 +31146,7 @@ cupidities
 congealment
 cupidon
 cupiuba
+calamitoid
 cupless
 commandable
 cavities
