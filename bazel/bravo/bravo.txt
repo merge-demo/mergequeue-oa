@@ -15687,6 +15687,7 @@ bylines
 brownian
 bavaroise
 brocolis
+babylonite
 bedman
 basicities
 brionine
@@ -17001,7 +17002,6 @@ baloghia
 baetylus
 byronic
 bigamistic
-babylonite
 brooke
 bopped
 bifidate
