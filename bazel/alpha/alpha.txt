@@ -1933,7 +1933,6 @@ anurias
 abrogations
 astel
 acerin
-agacante
 alligators
 archshepherd
 acetosalicylic
@@ -5765,6 +5764,7 @@ atrocha
 anthropopithecus
 ayatollah
 auge
+agacante
 aggrading
 arsenical
 aggrammatism
