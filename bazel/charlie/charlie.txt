@@ -9943,6 +9943,7 @@ confluences
 cylindrelloid
 chemotrophic
 chemotropically
+clamourous
 chempaduk
 claughting
 chemurgical
@@ -15294,7 +15295,6 @@ clamourist
 coadmired
 cellaret
 congous
-clamourous
 checkrow
 clamoursome
 clamped
