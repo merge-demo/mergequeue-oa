@@ -7573,6 +7573,7 @@ carus
 confutator
 cava
 citrulline
+crotesco
 cosmolabe
 cardioarterial
 corydaline
@@ -29966,7 +29967,6 @@ crenature
 cancerization
 cermet
 confutation
-crotesco
 chimerism
 croton
 covent
