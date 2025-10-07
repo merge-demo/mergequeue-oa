@@ -10047,6 +10047,7 @@ dimplier
 dibrom
 denudement
 defilements
+desubstantialize
 downgyved
 dynactinometer
 deratize
@@ -17878,7 +17879,6 @@ drafting
 derogation
 dudgen
 duole
-desubstantialize
 disfellowship
 despatcher
 discomedusoid
