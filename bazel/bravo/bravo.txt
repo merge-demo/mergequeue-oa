@@ -6836,6 +6836,7 @@ brazilite
 bitumed
 besetment
 bund
+bum
 bozo
 besetters
 bricklayer
@@ -10586,7 +10587,6 @@ brinny
 brodie
 boundingly
 brethren
-bum
 besayle
 blawn
 bentonitic
