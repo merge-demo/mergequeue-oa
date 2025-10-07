@@ -1108,7 +1108,6 @@ calciobiotite
 calcioferrite
 calcioscheelite
 calciphylactic
-calciphylaxis
 conceivableness
 cabecera
 calciphilia
@@ -25378,6 +25377,7 @@ crine
 cogences
 common
 cornicles
+calciphylaxis
 corniculer
 corniferous
 centesimally
