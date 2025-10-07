@@ -11106,6 +11106,7 @@ collating
 chivarra
 chive
 cinecamera
+cofferdams
 chivey
 chiliadal
 coronitis
@@ -19972,7 +19973,6 @@ cognominal
 cienaga
 completive
 commolition
-cofferdams
 comicocratic
 comicography
 calcemia
