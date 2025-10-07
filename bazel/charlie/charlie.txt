@@ -2014,7 +2014,6 @@ camorristi
 cruelize
 camoudie
 camouflage
-camouflageable
 crossgrainedness
 chirimoya
 contradictorily
@@ -19663,6 +19662,7 @@ cobblestones
 cankerous
 costula
 columbiformes
+camouflageable
 condemned
 colonizing
 creophagist
