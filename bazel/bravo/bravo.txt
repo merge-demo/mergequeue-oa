@@ -14018,7 +14018,6 @@ bindwood
 batonist
 beevish
 bristlecone
-blendor
 bracae
 blandly
 bilaciniate
@@ -15789,6 +15788,7 @@ brekky
 boubou
 bunkerage
 bioplasmic
+blendor
 bluntly
 butyls
 beno

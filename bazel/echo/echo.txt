@@ -9167,6 +9167,7 @@ everts
 exhorted
 eusuchia
 erythrulose
+excretion
 erosiveness
 esoneural
 erotema
@@ -10071,7 +10072,6 @@ ethanolamine
 egests
 equidense
 ethanolysis
-excretion
 ensepulcher
 ethnologists
 epipolize
