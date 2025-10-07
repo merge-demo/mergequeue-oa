@@ -5330,7 +5330,6 @@ enwingly
 erpetology
 excarnate
 enmagazine
-epanody
 economiser
 endothecal
 estrade
@@ -10620,6 +10619,7 @@ evilproof
 enmoss
 excavate
 endozoa
+epanody
 eques
 enchilada
 eyass
