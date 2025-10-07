@@ -7973,7 +7973,6 @@ evolutionary
 epineuria
 epineurium
 enclaving
-ergotinine
 endostea
 eczematization
 eupraxia
@@ -10298,6 +10297,7 @@ ethnocracy
 energising
 expendable
 excogitating
+ergotinine
 equipostile
 epifocal
 electuaries
