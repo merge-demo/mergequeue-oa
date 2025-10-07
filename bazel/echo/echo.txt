@@ -3512,6 +3512,7 @@ enfoeffment
 exanthematous
 entozoon
 emboweled
+eskimauan
 epithecial
 ethanamide
 eschewance
@@ -8550,7 +8551,6 @@ ectomeric
 equestrian
 epigeous
 exceptant
-eskimauan
 extraparenchymal
 equiaxed
 edificable

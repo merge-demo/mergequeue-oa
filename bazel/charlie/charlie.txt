@@ -13146,7 +13146,6 @@ cicatrising
 cystoflagellata
 cicatrizate
 conamarin
-caudicle
 canalize
 craniographer
 cicatrization
@@ -25338,6 +25337,7 @@ cornettino
 coroutine
 cornetto
 caviares
+caudicle
 committent
 causticization
 cottaged
