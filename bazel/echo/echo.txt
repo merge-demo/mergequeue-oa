@@ -2174,7 +2174,6 @@ examination
 elderberries
 erythemic
 emissitious
-elderliness
 exponentiated
 expect
 enchurch
@@ -9458,6 +9457,7 @@ evulgate
 ethylsulphuric
 embanks
 entocoel
+elderliness
 eliquation
 electronic
 escortage
