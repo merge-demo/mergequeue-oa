@@ -6042,7 +6042,6 @@ aparithmesis
 agoniada
 antiparabema
 atellan
-avirulent
 activable
 audile
 alchemise
@@ -12679,6 +12678,7 @@ angle
 angled
 alcohol
 archoplasm
+avirulent
 argenol
 archencephalic
 anglepods
