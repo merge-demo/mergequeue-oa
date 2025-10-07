@@ -5742,7 +5742,6 @@ bywalker
 bromisation
 bigthatch
 bountihead
-bonhommie
 bradyseismal
 boxers
 bromocyanide
@@ -18060,6 +18059,7 @@ bepiece
 butadiyne
 beetfly
 beshout
+bonhommie
 berthierite
 blazing
 butanoic
