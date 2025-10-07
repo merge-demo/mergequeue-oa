@@ -14523,7 +14523,6 @@ aortographies
 adelges
 antiaristocratically
 addis
-antiarthritic
 amphicondylous
 arcs
 acraze
@@ -16259,6 +16258,7 @@ antlia
 accroached
 antlid
 archerfish
+antiarthritic
 antre
 antling
 antlophobia
