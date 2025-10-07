@@ -11713,6 +11713,7 @@ equivocacies
 examinatorial
 echopraxia
 ethoxyls
+ecrus
 explanations
 envision
 esc
@@ -13650,7 +13651,6 @@ elevon
 elizabethanism
 exteriorisation
 exteriorised
-ecrus
 entapophysis
 epithem
 exteriority
