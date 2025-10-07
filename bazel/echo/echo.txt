@@ -4797,6 +4797,7 @@ enduro
 epidosite
 eccoproticophoric
 escape
+epidemicity
 erugate
 estrogenicity
 embrangle
@@ -8276,7 +8277,6 @@ epigraphic
 epitaxies
 epitaxis
 ebonizes
-epidemicity
 epigrammatized
 enlife
 empover
