@@ -4164,7 +4164,6 @@ exhorter
 echolalic
 electroetching
 enghle
-emeutes
 elektra
 egoize
 enwound
@@ -11263,6 +11262,7 @@ evanishes
 enterostenosis
 elapine
 exsolved
+emeutes
 estrogens
 enmass
 eschewal
