@@ -3355,6 +3355,7 @@ equivocally
 exotism
 exurbanite
 exacters
+ectocrine
 emphase
 egoist
 embargoes
@@ -7671,7 +7672,6 @@ enemylike
 epithalamus
 enringed
 engagingly
-ectocrine
 espece
 epicuticle
 elephanticide
