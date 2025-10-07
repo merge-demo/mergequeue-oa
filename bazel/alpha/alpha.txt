@@ -8549,7 +8549,6 @@ applyment
 anoxidative
 anthropophagize
 anemology
-allelic
 allelism
 almes
 allelomorphic
@@ -11593,6 +11592,7 @@ arbalester
 alban
 amos
 appraisal
+allelic
 anagyrine
 anagyris
 annulism
