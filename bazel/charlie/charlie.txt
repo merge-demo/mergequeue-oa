@@ -5603,6 +5603,7 @@ crook
 cataphrenic
 cataphrygian
 caulicle
+crasser
 cataphrygianism
 cataplane
 cataplasia
@@ -17144,7 +17145,6 @@ coadjutorship
 coadjutress
 coadjutrix
 coadjuvate
-crasser
 crenelating
 coadminister
 civic
