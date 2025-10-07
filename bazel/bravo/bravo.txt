@@ -5229,7 +5229,6 @@ banksian
 badder
 bastes
 bothsided
-buddleia
 begazing
 borderer
 bedabbling
@@ -5804,6 +5803,7 @@ bellyman
 balloonet
 biogenetical
 bunty
+buddleia
 beavery
 banquo
 backlashed
