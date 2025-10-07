@@ -28909,7 +28909,6 @@ crimmy
 cricetids
 cricetus
 cricked
-cricket
 charlatanries
 cricketer
 cricketers
@@ -29199,6 +29198,7 @@ cutlas
 choices
 cryptobranchiate
 collides
+cricket
 ciphered
 cryptobranchus
 crossbows
