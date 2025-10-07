@@ -8251,7 +8251,6 @@ cogman
 chalcomenite
 chalcone
 contradictiously
-chalcopyrite
 chalcosiderite
 coween
 canadianisms
@@ -13048,6 +13047,7 @@ cyanotic
 chatting
 cyanotype
 cyanuramide
+chalcopyrite
 coefficiently
 cyanuric
 cyanurin
