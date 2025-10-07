@@ -6408,6 +6408,7 @@ dorsiventral
 derodidymus
 demeanour
 derogate
+deil
 denuclearization
 derogates
 disarranges
@@ -9628,7 +9629,6 @@ diguanide
 deboning
 dihalide
 diakinetic
-deil
 drayed
 differentiating
 dihdroxycholecalciferol
