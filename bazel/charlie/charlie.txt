@@ -15117,7 +15117,6 @@ callosomarginal
 conducta
 chlorophyceous
 conidia
-casabas
 cladocarpous
 cropped
 cladocera
@@ -25668,6 +25667,7 @@ circocele
 cauk
 crotalic
 cistophoric
+casabas
 coppiced
 circumrotating
 correspond
