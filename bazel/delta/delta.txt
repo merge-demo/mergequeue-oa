@@ -7628,7 +7628,6 @@ daedalean
 drawout
 derner
 desilverization
-deuterosy
 degage
 deoxidised
 deuterostoma
@@ -9537,6 +9536,7 @@ delfts
 dialysers
 derivation
 dights
+deuterosy
 dextrocular
 deraigned
 disastrously
