@@ -4811,7 +4811,6 @@ episiotomy
 echard
 embosks
 encores
-enemas
 excitive
 engrail
 encoronal
@@ -7911,6 +7910,7 @@ excoriable
 enneastylar
 engender
 enframes
+enemas
 ecclesiography
 ensiferi
 entreater

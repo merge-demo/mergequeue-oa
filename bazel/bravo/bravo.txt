@@ -1903,7 +1903,6 @@ bodiced
 blackguardry
 bubonalgia
 besmirches
-bandanas
 bergama
 barken
 bandoleer
@@ -4599,6 +4598,7 @@ bleeze
 brunhild
 beltmaking
 bedfellows
+bandanas
 buildable
 barlows
 bescorn
