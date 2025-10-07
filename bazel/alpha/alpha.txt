@@ -14350,6 +14350,7 @@ anthropometric
 acrocarpi
 allan
 anthropometrist
+ascidioidea
 anagalactic
 anthropomophitism
 archangels
@@ -20888,7 +20889,6 @@ ascidioid
 assation
 ascidioida
 archipelago
-ascidioidea
 attesting
 arroya
 ascyphous
