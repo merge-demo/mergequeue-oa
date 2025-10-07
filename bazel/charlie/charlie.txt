@@ -8217,7 +8217,6 @@ curatical
 cellulomonas
 causewayed
 chalazoidite
-cryptorrhetic
 cercarias
 chalazoin
 charvet
@@ -9383,6 +9382,7 @@ chaw
 chawbacon
 chawbuck
 cornerwise
+cryptorrhetic
 cancellation
 cpl
 chawers
