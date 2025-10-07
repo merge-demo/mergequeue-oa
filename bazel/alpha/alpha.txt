@@ -2255,7 +2255,6 @@ acidurias
 arteriole
 aulacodus
 acierate
-androcles
 acierated
 amphoriloquy
 americophobe
@@ -22111,6 +22110,7 @@ acoemetic
 astragalotibial
 anomalism
 archaeolith
+androcles
 adiamorphism
 arhat
 antimissile
