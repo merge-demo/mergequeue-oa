@@ -8113,6 +8113,7 @@ binocularity
 bourbon
 bug
 bellboys
+bushboy
 byrlaw
 beltmaker
 bloodhound
@@ -8826,7 +8827,6 @@ bedeck
 blastomyces
 boilerman
 blackfishes
-bushboy
 binturong
 binukau
 bleariness

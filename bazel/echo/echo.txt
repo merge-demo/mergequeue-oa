@@ -3627,7 +3627,6 @@ euploids
 exscinded
 endocrinopathic
 entangling
-embryogenesis
 eunomy
 extravert
 exomion
@@ -10665,6 +10664,7 @@ exclaimer
 erioglaucine
 eurystheus
 effetmen
+embryogenesis
 eugenolate
 enterpriser
 expectoration
