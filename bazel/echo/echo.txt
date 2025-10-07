@@ -4984,7 +4984,6 @@ escalop
 encapsule
 enfoncee
 expurgations
-encamp
 erogeneity
 eggplants
 epithelioblastoma
@@ -14166,6 +14165,7 @@ enaena
 exuding
 exul
 ethane
+encamp
 equalled
 envenomization
 exulcerating
