@@ -23452,6 +23452,7 @@ apneumona
 alforjas
 amply
 allelomorph
+auganite
 andaqui
 antignostic
 amperemeter
@@ -23756,7 +23757,6 @@ antipleuritic
 armariolum
 authenticates
 authentication
-auganite
 appositively
 angularization
 alumbrado
