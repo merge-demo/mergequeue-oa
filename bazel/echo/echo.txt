@@ -6046,6 +6046,7 @@ ecumenopolis
 escroll
 endognath
 eolith
+eeten
 exhusband
 elastin
 endotheliotoxin
@@ -8202,7 +8203,6 @@ enddamaging
 equidominant
 equidistantly
 euthenic
-eeten
 earlobe
 electrotechnologist
 ethnomaniac
