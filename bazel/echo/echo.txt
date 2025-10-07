@@ -4226,6 +4226,7 @@ exemplifiable
 exopathic
 esotrope
 excruciatingly
+enveigle
 eremital
 encephaloscopy
 emulsions
@@ -9348,7 +9349,6 @@ emotionally
 emane
 enrobement
 effecter
-enveigle
 epilimnionia
 educable
 escalades
