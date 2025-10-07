@@ -20077,7 +20077,6 @@ alyssum
 abstricts
 alc
 arrasene
-actless
 aplectrum
 arrases
 arrastra
@@ -25281,6 +25280,7 @@ amylophosphoric
 akmudar
 avell
 articulateness
+actless
 aftercooler
 archaistic
 arvicola

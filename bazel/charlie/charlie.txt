@@ -4954,7 +4954,6 @@ cartographical
 cartographically
 carton
 cartoner
-closers
 covinously
 cartons
 cartoonist
@@ -16454,6 +16453,7 @@ cloaklet
 cathodic
 culbert
 cowichan
+closers
 corncobs
 costumist
 chaunt
