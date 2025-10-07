@@ -5164,7 +5164,6 @@ cytidines
 clearest
 calden
 cashmere
-cashmeres
 cercis
 cashoo
 cashou
@@ -13253,6 +13252,7 @@ comstock
 cyclograph
 cerises
 collineate
+cashmeres
 coadapt
 cyclohexadienyl
 cindy
