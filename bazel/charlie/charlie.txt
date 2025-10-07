@@ -21100,7 +21100,6 @@ clerkery
 computativeness
 comsat
 computer
-computerise
 computerization
 commercialised
 computerizes
@@ -24629,6 +24628,7 @@ copolymer
 copolymerize
 cossas
 copolymerized
+computerise
 commemorators
 circumcission
 coley
