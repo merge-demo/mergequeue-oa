@@ -5576,7 +5576,6 @@ driveline
 dilemmas
 dealation
 departmentalised
-demihague
 diversities
 diffusiometer
 dimmock
@@ -14467,6 +14466,7 @@ directives
 decarbonizer
 discomforting
 decane
+demihague
 deregulate
 denarcotize
 drunkensome

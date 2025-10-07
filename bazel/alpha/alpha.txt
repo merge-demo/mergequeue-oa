@@ -117,6 +117,7 @@ anthood
 antiheroes
 assertive
 antiphrasis
+apomicts
 activist
 asialia
 abasic
@@ -1265,7 +1266,6 @@ amitrole
 acanthurus
 anocarpous
 acatalectic
-apomicts
 anterevolutional
 acatalepsy
 acatalepsia
