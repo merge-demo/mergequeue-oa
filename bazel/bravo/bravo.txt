@@ -5836,7 +5836,6 @@ begaudy
 bedaze
 bellweed
 brachiosaurus
-beggardom
 balopticon
 bilboa
 butterbur
@@ -17166,6 +17165,7 @@ bumbelo
 beclouding
 borley
 basseting
+beggardom
 bumblepuppy
 ballerine
 bespecklement
