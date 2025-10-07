@@ -6365,7 +6365,6 @@ cautiously
 coffeecakes
 cloister
 cav
-ceratites
 ciboules
 cavayard
 cavalcades
@@ -21646,6 +21645,7 @@ concussed
 cringers
 clarkeite
 cheerless
+ceratites
 compactedly
 cady
 cobbly
