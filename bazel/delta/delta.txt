@@ -2626,7 +2626,6 @@ diddler
 decian
 darnex
 dozers
-dorbug
 drainless
 decompensations
 dasylirion
@@ -12133,6 +12132,7 @@ disparager
 dysesthesia
 disestimation
 dunness
+dorbug
 defuzing
 deforms
 darvon
