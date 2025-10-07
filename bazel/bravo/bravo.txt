@@ -7332,6 +7332,7 @@ busky
 blankard
 buhlwork
 barrace
+bregma
 beton
 bise
 blepharism
@@ -12279,7 +12280,6 @@ beggarism
 borating
 bolt
 boasters
-bregma
 brightness
 brindles
 bulak
