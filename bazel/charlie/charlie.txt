@@ -5295,7 +5295,6 @@ castable
 confederationist
 castalides
 chertier
-castane
 crinel
 castanea
 chewy
@@ -10301,6 +10300,7 @@ cachoeira
 clactonian
 cyanidation
 comfortable
+castane
 chickamauga
 chickasaw
 cangue
