@@ -7870,6 +7870,7 @@ copperplate
 cyclorrhaphous
 cession
 cataloguist
+ciliform
 caenostylic
 culteranismo
 clapotis
@@ -12463,7 +12464,6 @@ clarioned
 chromolith
 cluff
 colent
-ciliform
 chromolithic
 concanavalin
 cellulated
