@@ -2925,6 +2925,7 @@ droil
 deducibility
 dielectrically
 downcastness
+disclosure
 deducibly
 debunking
 deductible
@@ -11447,7 +11448,6 @@ disponge
 definitional
 diluvial
 disclosive
-disclosure
 diplomaed
 duplicitous
 discloud
