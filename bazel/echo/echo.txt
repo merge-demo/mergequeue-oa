@@ -2753,7 +2753,6 @@ evergreenite
 exchangeably
 equangular
 explorations
-eurithermophilic
 excecate
 elytrous
 eutropic
@@ -5293,6 +5292,7 @@ equivocalities
 eradicators
 egeran
 endoscopies
+eurithermophilic
 epipodia
 endoskeletons
 endosmic
