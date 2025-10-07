@@ -5877,7 +5877,6 @@ dasyure
 deprave
 disanagrammatize
 duddies
-depravedness
 doxologizing
 dreidel
 dimagnesic
@@ -11360,6 +11359,7 @@ dutchman
 deftly
 dupioni
 discerped
+depravedness
 dissemble
 davens
 displeasurable
