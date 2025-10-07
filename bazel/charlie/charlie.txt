@@ -13208,6 +13208,7 @@ champaca
 convectional
 convoying
 cavia
+costumiere
 cyclesmith
 cyclic
 cyclical
@@ -26289,7 +26290,6 @@ costumes
 calotypist
 costumic
 cabstand
-costumiere
 costumiers
 cinematize
 choreomania
