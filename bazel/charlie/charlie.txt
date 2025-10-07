@@ -2890,6 +2890,7 @@ canonic
 cantillation
 curatively
 cacaos
+coincide
 cantabile
 clothesmonger
 cardial
@@ -18665,7 +18666,6 @@ connex
 clanless
 coyn
 creative
-coincide
 clemming
 cervelliere
 coincided
