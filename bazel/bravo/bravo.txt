@@ -4736,7 +4736,6 @@ bedrugs
 blattoidea
 brakesman
 bondages
-bedside
 bedsonia
 braggish
 blottesque
@@ -13394,6 +13393,7 @@ becobweb
 botels
 bradyphagia
 buhlbuhl
+bedside
 brightish
 bothersome
 banderol

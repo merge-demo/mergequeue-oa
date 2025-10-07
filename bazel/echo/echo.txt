@@ -10329,7 +10329,6 @@ echium
 existently
 euornithic
 ethnohistoric
-equinox
 elephantine
 enquired
 explain
@@ -12147,6 +12146,7 @@ ethaldehyde
 estrado
 excusefully
 exostome
+equinox
 embergoose
 excuser
 elytron
