@@ -4336,7 +4336,6 @@ enoughs
 euornithes
 enapt
 ethnog
-elemi
 elatinaceae
 enarched
 eurypygidae
@@ -12250,6 +12249,7 @@ evilwishing
 endarchy
 efflorescency
 enteromegaly
+elemi
 encephala
 elegises
 everduring
