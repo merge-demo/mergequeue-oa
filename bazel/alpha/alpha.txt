@@ -13714,6 +13714,7 @@ ashrams
 allophane
 androgenetic
 adhara
+aculeiform
 avicularium
 abdomina
 apocyneous
@@ -19540,7 +19541,6 @@ arrowless
 ariot
 antimonium
 anglophilia
-aculeiform
 arising
 amidone
 alterius
