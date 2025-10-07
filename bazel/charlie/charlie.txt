@@ -14751,7 +14751,6 @@ cithers
 cithren
 condign
 city
-cesura
 cyclonometer
 citicorp
 culler
@@ -29358,6 +29357,7 @@ cinemese
 cyrtostyle
 chairperson
 caserns
+cesura
 crisic
 crispated
 crispbread

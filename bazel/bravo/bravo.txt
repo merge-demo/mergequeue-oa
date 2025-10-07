@@ -4460,6 +4460,7 @@ borocalcite
 brutifies
 bhakti
 becudgeling
+beautifiers
 bloodworm
 bryony
 bastardise
@@ -8938,7 +8939,6 @@ biogases
 behowling
 bruises
 bleachground
-beautifiers
 blepharochalasis
 biogenesist
 bloodflower
