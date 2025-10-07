@@ -3001,7 +3001,6 @@ euglandina
 elytrostenosis
 elytrotomy
 emeer
-elix
 eggfish
 elixir
 ecblastesis
@@ -12481,6 +12480,7 @@ exasperated
 eximidus
 eximious
 ense
+elix
 etiogenic
 eluviates
 exaggeration
