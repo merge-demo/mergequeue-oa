@@ -2116,7 +2116,6 @@ bloodlessness
 bantery
 balneologic
 boxfishes
-bantering
 banteringly
 beaugregories
 beerishly
@@ -6038,6 +6037,7 @@ bhd
 bowne
 barricader
 blurred
+bantering
 bushlet
 banished
 bend
