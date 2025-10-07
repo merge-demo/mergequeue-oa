@@ -835,6 +835,7 @@ clydesdale
 chidingness
 caliph
 cainian
+cumulativeness
 cathedrae
 couteau
 cainish
@@ -31053,7 +31054,6 @@ chaui
 cumulative
 cumulatively
 chervonets
-cumulativeness
 countersunk
 caphtor
 chattels
