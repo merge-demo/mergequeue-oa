@@ -677,7 +677,6 @@ epilogate
 eubasidii
 enhance
 envier
-excide
 eclogic
 extraocular
 eclogite
@@ -4940,6 +4939,7 @@ exilable
 emulsifiable
 embole
 expertly
+excide
 entopical
 epineurial
 enthronise
