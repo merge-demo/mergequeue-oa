@@ -639,7 +639,6 @@ agorae
 abominators
 abomine
 attainer
-antiempiricism
 albopannin
 adjacent
 abondance
@@ -14075,6 +14074,7 @@ autocystoplasty
 adulterators
 aupaka
 antesignanus
+antiempiricism
 amnesic
 antesternal
 antesternum
