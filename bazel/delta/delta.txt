@@ -5157,7 +5157,6 @@ dendrology
 digastric
 daubes
 derivatives
-dahabeahs
 dextrosinistral
 diadumenus
 dionym
@@ -10446,6 +10445,7 @@ dow
 demency
 disobliging
 douzainier
+dahabeahs
 definienda
 duenna
 dictums
