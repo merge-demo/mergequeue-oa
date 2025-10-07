@@ -15675,6 +15675,7 @@ bananaquit
 broche
 burble
 bigfoot
+bises
 brambly
 bordelaise
 beclogged
@@ -16392,7 +16393,6 @@ bejazz
 besmell
 broidery
 boigid
-bises
 bullhorn
 bellwood
 butterers
