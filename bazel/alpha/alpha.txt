@@ -21860,7 +21860,6 @@ assureds
 arthropodan
 assurer
 amreetas
-arabesque
 asterisking
 aplasia
 annotinous
@@ -25392,6 +25391,7 @@ acervatim
 alarmable
 alumbloom
 adopter
+arabesque
 azurean
 amalgamations
 autecisms

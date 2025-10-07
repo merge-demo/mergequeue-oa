@@ -6753,7 +6753,6 @@ elaborator
 exhibits
 entrechat
 endoceratitic
-enthusiastically
 eta
 enthusiastly
 emydosaurian
@@ -12616,6 +12615,7 @@ extramurally
 emeus
 elephantidae
 equiaxial
+enthusiastically
 epexegeses
 exodic
 equipped
