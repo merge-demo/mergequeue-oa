@@ -1261,6 +1261,7 @@ augitic
 acarus
 aeromedicine
 andantino
+amitrole
 acanthurus
 anocarpous
 acatalectic
@@ -10652,7 +10653,6 @@ amities
 amitotic
 amitriptyline
 aerotherapy
-amitrole
 amitular
 aged
 amyxorrhea
