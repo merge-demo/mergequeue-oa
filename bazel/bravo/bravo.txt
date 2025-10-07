@@ -5707,7 +5707,6 @@ balaghat
 biophysics
 busying
 briarberry
-bellbinder
 bellbine
 bromacetanilide
 budgeree
@@ -10126,6 +10125,7 @@ blues
 blackdamp
 blazer
 bahoe
+bellbinder
 bismuthous
 belonesite
 backfatter
