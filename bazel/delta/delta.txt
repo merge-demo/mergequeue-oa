@@ -2187,7 +2187,6 @@ decapitations
 disassemble
 dehydrogenation
 downfall
-decostate
 dicecup
 decapodal
 depayse
@@ -10843,6 +10842,7 @@ deboist
 daedaleous
 dianetics
 desugared
+decostate
 deposable
 dissilience
 deificatory
