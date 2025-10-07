@@ -9369,7 +9369,6 @@ esseda
 escalloped
 ethylates
 excerptible
-escalope
 erlking
 enchiladas
 engraced
@@ -11761,6 +11760,7 @@ euripidean
 ekphore
 epimerise
 exareolate
+escalope
 extrospective
 exorcises
 epirot
