@@ -11311,6 +11311,7 @@ bluegill
 bibliographic
 backups
 basify
+bauk
 brigandage
 bushidos
 belage
@@ -12530,7 +12531,6 @@ ballasted
 bonetail
 bowker
 bonewort
-bauk
 backdoor
 burliness
 bradoon
