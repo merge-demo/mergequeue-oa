@@ -9107,6 +9107,7 @@ antiknock
 almury
 alnage
 autosymbiontic
+alisphenoid
 acnida
 awest
 authenticating
@@ -15872,7 +15873,6 @@ actinomorphous
 antirealism
 adjuring
 antirealist
-alisphenoid
 askoye
 arbitrageur
 akepiros
