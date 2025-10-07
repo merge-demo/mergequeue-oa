@@ -23109,7 +23109,6 @@ chirology
 cestoi
 conspecific
 conspection
-conspectus
 chamecephalous
 cullying
 colias
@@ -25719,6 +25718,7 @@ cephalotheca
 caddish
 conciliating
 cataleptize
+conspectus
 corroborative
 chrism
 chewet

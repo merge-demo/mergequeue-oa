@@ -6722,6 +6722,7 @@ exhumed
 exstill
 entete
 eurytherm
+endocranial
 epistrophy
 etherate
 enthelminthic
@@ -13436,7 +13437,6 @@ etas
 expressway
 existentialists
 exencephalous
-endocranial
 euprepia
 echinosphaeritidae
 expropriable
