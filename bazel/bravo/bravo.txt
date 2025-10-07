@@ -9233,7 +9233,6 @@ basimesostasis
 brasero
 bullfrogs
 bridger
-birkremite
 broncholithiasis
 beshrewing
 bedewed
@@ -11614,6 +11613,7 @@ buda
 bode
 budgeted
 boanergism
+birkremite
 bisontine
 board
 beliers
