@@ -11882,7 +11882,6 @@ bodice
 blendcorn
 believing
 brushlike
-brandishers
 bestowals
 bismuthiferous
 bodicemaking
@@ -13152,6 +13151,7 @@ bornean
 bunsen
 belows
 bardlet
+brandishers
 borneol
 betony
 borneols
