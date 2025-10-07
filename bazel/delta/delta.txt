@@ -5981,6 +5981,7 @@ dices
 dispossessed
 disentraced
 defeatee
+dardaol
 depreter
 deprivable
 dissuasory
@@ -15274,7 +15275,6 @@ dolcemente
 dimyarian
 decollete
 dolciano
-dardaol
 droopingly
 dolcino
 dididae
