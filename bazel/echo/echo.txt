@@ -11694,7 +11694,6 @@ expunge
 enclasped
 epicrises
 examen
-elementals
 exurban
 elasticizing
 exobiology
@@ -12716,6 +12715,7 @@ epha
 espressivo
 englishman
 exorable
+elementals
 estoil
 exactingness
 etiolin
