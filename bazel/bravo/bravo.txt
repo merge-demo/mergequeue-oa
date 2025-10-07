@@ -1218,7 +1218,6 @@ bakersfield
 bakes
 belis
 brevicomis
-bakingly
 belles
 biomagnetism
 benzazimide
@@ -6229,6 +6228,7 @@ bentonite
 bents
 benu
 benumbed
+bakingly
 benumbs
 brigalow
 benzalacetone
