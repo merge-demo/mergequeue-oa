@@ -16284,7 +16284,6 @@ agglutinability
 appointed
 antonomasia
 anaplastic
-antonomastic
 antonomastical
 antonomastically
 antonovics
@@ -19931,6 +19930,7 @@ affirmed
 apprehensively
 aphizog
 asparaginic
+antonomastic
 agar
 andesinite
 acicularly
