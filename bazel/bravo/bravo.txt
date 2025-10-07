@@ -4233,6 +4233,7 @@ bosnian
 beaverskin
 branded
 basaree
+biomes
 bebay
 bogotana
 barretter
@@ -8988,7 +8989,6 @@ biomedicine
 bondieuserie
 bees
 bobsled
-biomes
 babelike
 boruca
 besmuts
