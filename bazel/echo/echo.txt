@@ -648,6 +648,7 @@ etwees
 elocute
 eclegma
 ehrman
+enlarged
 equisufficiency
 esophagocele
 estonians
@@ -6054,7 +6055,6 @@ eigenvectors
 echinorhinus
 eoanthropus
 enlargeableness
-enlarged
 eupepsias
 exoclinal
 emydinae
