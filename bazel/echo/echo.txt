@@ -3336,7 +3336,6 @@ essentialities
 equus
 esquirearchy
 enregistration
-egal
 explorator
 echinospermum
 excursioner
@@ -10107,6 +10106,7 @@ eutopia
 euphausiacea
 ethereality
 epiboly
+egal
 etherealization
 earthlike
 extrusible
