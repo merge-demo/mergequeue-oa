@@ -7908,7 +7908,6 @@ acquiesce
 alrune
 airworthy
 arithmetically
-amphide
 alforja
 antimonarchal
 apathus
@@ -10869,6 +10868,7 @@ autodialers
 asbestine
 amoebobacter
 anglomaniac
+amphide
 appreciates
 accolated
 apulse
