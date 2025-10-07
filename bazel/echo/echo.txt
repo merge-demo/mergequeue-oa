@@ -8705,7 +8705,6 @@ electroencephalograph
 equisided
 equisignal
 erethitic
-epigaeous
 espantoon
 eriophyllous
 emulsifies
@@ -12605,6 +12604,7 @@ excoriate
 exoculate
 expostulates
 ecclesiasticalness
+epigaeous
 exoculation
 entailment
 electrophore
