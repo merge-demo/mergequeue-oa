@@ -9877,7 +9877,6 @@ dispapalize
 doorsills
 downside
 deozonizer
-decorated
 disclander
 dinars
 diluvianism
@@ -17665,6 +17664,7 @@ delatinize
 dispossessory
 dromornis
 dtd
+decorated
 dielectrical
 detract
 dicranterian
