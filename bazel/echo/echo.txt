@@ -2152,6 +2152,7 @@ entrances
 epizoan
 endocyclic
 evanescently
+exoderm
 elbowy
 elbowpiece
 elbows
@@ -12606,7 +12607,6 @@ expostulates
 ecclesiasticalness
 exoculation
 entailment
-exoderm
 electrophore
 eranthemum
 extramurally
