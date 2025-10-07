@@ -3877,7 +3877,6 @@ dekagram
 damone
 denouncers
 deityship
-diduce
 disrepair
 defenseman
 daphnite
@@ -5303,6 +5302,7 @@ diductor
 dilatometry
 distylar
 displosion
+diduce
 doctrinairism
 disscepter
 debat

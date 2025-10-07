@@ -5457,7 +5457,6 @@ curls
 codgers
 catabatic
 catabibazon
-catabolically
 chickenheartedly
 ceremonialism
 cabler
@@ -8457,6 +8456,7 @@ champagnize
 charterage
 cardiogenic
 cesurae
+catabolically
 champak
 chordee
 crinum
