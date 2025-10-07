@@ -5214,6 +5214,7 @@ bandeng
 bandos
 begarlanded
 basaltic
+bonnie
 boxwork
 bicentenary
 bimastoid
@@ -17437,7 +17438,6 @@ babirusas
 blessedest
 backstopping
 battlefields
-bonnie
 boring
 bantling
 bacitracin

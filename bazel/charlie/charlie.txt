@@ -4493,7 +4493,6 @@ corupay
 convallariaceous
 cordialize
 carnation
-carnations
 chamaebatia
 carnauba
 carnaubas
@@ -8872,6 +8871,7 @@ characterization
 characterizing
 courtier
 contratenor
+carnations
 characterlessness
 characterology
 coffle
