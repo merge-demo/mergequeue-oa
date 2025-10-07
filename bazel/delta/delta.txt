@@ -8613,7 +8613,6 @@ dibatis
 dystaxia
 diphenylaminechlorarsine
 diapsida
-dashiest
 discolored
 deathin
 douanier
@@ -11335,6 +11334,7 @@ dumontia
 devaraja
 detector
 dost
+dashiest
 diamondbacked
 dinichthys
 dinner
