@@ -13668,7 +13668,6 @@ antiparalytic
 anorthitic
 anorthographic
 antecedaneously
-ala
 anorthophyre
 anorthopia
 adrenocorticotrophin
@@ -21648,6 +21647,7 @@ acroteric
 anionics
 antifertilizer
 anagogically
+ala
 agrope
 assessed
 assession
