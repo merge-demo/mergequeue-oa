@@ -886,6 +886,7 @@ diagnostication
 dori
 diplococcoid
 dermotherm
+dentil
 dripproof
 dieting
 daguerreotypes
@@ -5379,7 +5380,6 @@ diagnostically
 displaced
 denticle
 dentification
-dentil
 discussional
 deconcatenate
 delivery
