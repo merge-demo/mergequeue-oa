@@ -3987,7 +3987,6 @@ bostryx
 baylet
 beadwork
 beadworks
-bemaddened
 baetuli
 butcheries
 brevier
@@ -18296,6 +18295,7 @@ bullockite
 button
 basaltoid
 buttonbush
+bemaddened
 borealis
 bivalve
 brushy
