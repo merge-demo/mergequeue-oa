@@ -9565,6 +9565,7 @@ expressing
 emigrated
 emptory
 expediente
+executrixship
 excurse
 esculent
 enchasers
@@ -12487,7 +12488,6 @@ erythrophage
 envisages
 epicentral
 embosture
-executrixship
 expertize
 exine
 escapology
