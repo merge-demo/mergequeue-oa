@@ -3502,6 +3502,7 @@ chromospheres
 cuirie
 capsulorrhaphy
 capsulotomy
+coacceptor
 coccoid
 cosmotheistic
 captacula
@@ -17055,7 +17056,6 @@ colliquative
 cynogale
 coabound
 coabsume
-coacceptor
 coacervate
 censuring
 coachbuilder
