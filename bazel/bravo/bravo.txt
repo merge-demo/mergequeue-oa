@@ -5420,6 +5420,7 @@ boardmanship
 boatable
 beetling
 behenic
+bumpkin
 brule
 beans
 bribeable
@@ -17230,7 +17231,6 @@ backlog
 bumpers
 baths
 blazons
-bumpkin
 balmoral
 bumpkins
 bumptious
