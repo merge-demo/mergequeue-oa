@@ -2049,7 +2049,6 @@ betatter
 banlieu
 basquine
 backseats
-babai
 barefooted
 bradykinesis
 bollixing
@@ -2949,6 +2948,7 @@ barophobia
 barricoes
 bushiness
 benzidino
+babai
 blubber
 biuniqueness
 bicarpellate
