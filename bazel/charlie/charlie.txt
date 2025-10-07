@@ -7796,7 +7796,6 @@ chararas
 counterdrive
 conceived
 cerussite
-cervantic
 chaffiest
 ceaselessly
 choosing
@@ -19085,6 +19084,7 @@ collegiation
 czarinas
 concorporating
 cotylosauria
+cervantic
 craniometric
 cardiometer
 coonjine
