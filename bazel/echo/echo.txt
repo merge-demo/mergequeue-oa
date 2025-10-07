@@ -2227,6 +2227,7 @@ effluve
 extemporizes
 endoplasma
 elector
+excavation
 exhume
 elks
 ethnarchs
@@ -12813,7 +12814,6 @@ evangelicity
 ensepulchered
 ecanda
 edgeways
-excavation
 empacket
 eroticization
 expansive
