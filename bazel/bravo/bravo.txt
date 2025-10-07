@@ -2877,7 +2877,6 @@ bookend
 batuque
 botanical
 bethumped
-beaconed
 bebuttoned
 barbers
 beglew
@@ -7496,6 +7495,7 @@ beloam
 befringes
 begirding
 beweary
+beaconed
 beshower
 bumblefoot
 botflies
