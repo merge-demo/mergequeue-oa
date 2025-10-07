@@ -7857,6 +7857,7 @@ bulten
 biker
 baptises
 bibliomanist
+bargeboard
 bogwoods
 bloodthirsty
 buckthorn
@@ -9302,7 +9303,6 @@ brines
 birdbaths
 budgetful
 broomroot
-bargeboard
 blethers
 brabbles
 besogne
