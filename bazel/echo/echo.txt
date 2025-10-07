@@ -4494,7 +4494,6 @@ easement
 encephalomyelitis
 entalent
 eery
-enrange
 entrepreneurial
 erythromycin
 ectotheca
@@ -8022,6 +8021,7 @@ entoconid
 epidendron
 enstatitic
 easements
+enrange
 escapingly
 evident
 eject
