@@ -2992,7 +2992,6 @@ canty
 chicer
 coyest
 canticle
-carne
 centillionth
 campesino
 canticles
@@ -25114,6 +25113,7 @@ corevolve
 cryometer
 cradleman
 chlorophyllaceous
+carne
 cardmaking
 cathartae
 crampoons
