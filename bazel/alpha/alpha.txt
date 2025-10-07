@@ -2920,6 +2920,7 @@ actinomeric
 aruncus
 amphinucleus
 agnatha
+agadic
 axseed
 actinometrical
 aviculture
@@ -4749,7 +4750,6 @@ aerodynamics
 agonium
 ambitionist
 allochirally
-agadic
 aerodyne
 apastron
 astonisher
