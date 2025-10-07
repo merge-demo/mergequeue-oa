@@ -198,6 +198,7 @@ baroques
 bdrm
 bedin
 bristleless
+bleachery
 bipartition
 balneum
 brachiolaria
@@ -13842,7 +13843,6 @@ biocides
 babajaga
 buttery
 babesias
-bleachery
 bowdlerizing
 bowe
 bowelled
