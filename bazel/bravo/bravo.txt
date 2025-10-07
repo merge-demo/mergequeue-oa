@@ -3430,7 +3430,6 @@ butylate
 boden
 berginization
 brushfire
-bankrolling
 brigade
 biserially
 basto
@@ -9772,6 +9771,7 @@ bocca
 bitable
 bidialectal
 broguing
+bankrolling
 boomboxes
 bytalks
 bitanhol
