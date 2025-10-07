@@ -9993,6 +9993,7 @@ escopette
 etapes
 exorhason
 endangers
+electromechanics
 esmeraldite
 enterprises
 externality
@@ -11647,7 +11648,6 @@ extrapunitive
 equimomental
 elasmobranch
 ediya
-electromechanics
 ethnical
 exaestuate
 etymologizing
