@@ -13532,6 +13532,7 @@ cicatriculae
 centare
 cafe
 caribous
+copastor
 colament
 cymaise
 cort
@@ -24508,7 +24509,6 @@ countermotion
 clampdown
 cameist
 coradical
-copastor
 councillor
 copastors
 counterbrand
