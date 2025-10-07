@@ -10841,6 +10841,7 @@ directorate
 dispartment
 dissave
 deviates
+doghouses
 deistically
 departing
 directors
@@ -15225,7 +15226,6 @@ dagbamba
 dohickey
 diprotodont
 disked
-doghouses
 dartars
 dashboards
 deduction
