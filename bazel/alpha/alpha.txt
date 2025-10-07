@@ -1229,7 +1229,6 @@ acarapis
 asaphic
 acarari
 antaphrodisiac
-acarian
 acariasis
 acarid
 accord
@@ -5126,6 +5125,7 @@ affies
 addio
 anagrams
 affiliating
+acarian
 atramentous
 apery
 aeoline

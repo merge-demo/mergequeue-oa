@@ -3286,6 +3286,7 @@ endoneurial
 epical
 emanativ
 erupt
+echiurid
 enwreath
 emasculates
 endoesophagitis
@@ -10962,7 +10963,6 @@ epidermatic
 eupotamic
 esparcet
 equivocalness
-echiurid
 erythematous
 embrittlement
 euproctis
