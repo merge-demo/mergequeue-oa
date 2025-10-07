@@ -6866,7 +6866,6 @@ arolium
 apasttra
 ajuga
 ajutment
-akal
 akalimba
 akamai
 akan
@@ -21590,6 +21589,7 @@ assentatory
 aventure
 assented
 assenter
+akal
 arquerite
 arthroplasty
 alewife
