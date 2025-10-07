@@ -2652,7 +2652,6 @@ chapah
 chalet
 conclusiveness
 cyprid
-canfield
 counterstatement
 cantillating
 clumsiness
@@ -24116,6 +24115,7 @@ chylocele
 converters
 convertibility
 chorioretinal
+canfield
 converting
 compromisable
 chude
