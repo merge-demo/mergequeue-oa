@@ -8304,7 +8304,6 @@ bigemina
 bennettitales
 bronchophonic
 broommaking
-babite
 berberian
 blauwbok
 bigeminated
@@ -14533,6 +14532,7 @@ boutons
 blackcurrant
 bilboas
 branchiomere
+babite
 biopsychologist
 bicycloheptane
 bibliogony
