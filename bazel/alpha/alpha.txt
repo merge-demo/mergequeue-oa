@@ -1990,6 +1990,7 @@ altitudinal
 acheiria
 acidulousness
 antidromic
+activates
 ammoniums
 astrobiology
 achenes
@@ -3034,7 +3035,6 @@ activate
 autocatalytically
 amphogenic
 ableptical
-activates
 appealers
 advolution
 anisogametes
