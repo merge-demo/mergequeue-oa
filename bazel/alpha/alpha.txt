@@ -4055,6 +4055,7 @@ archmock
 adoptedly
 adoptee
 autozooid
+achromatocyte
 abiosis
 attributiveness
 autocarpous
@@ -18623,7 +18624,6 @@ aerography
 albania
 archegonial
 amative
-achromatocyte
 archegosaurus
 anorak
 atavistically
