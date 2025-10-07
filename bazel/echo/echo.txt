@@ -847,7 +847,6 @@ electrolyser
 excrementous
 enchair
 exocarps
-elong
 ectodermosis
 ennuyante
 erastianize
@@ -12821,6 +12820,7 @@ exothermal
 exothermically
 eloignment
 erythrolysis
+elong
 exciter
 ern
 ecphorization
