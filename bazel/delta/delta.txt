@@ -9052,6 +9052,7 @@ disowns
 drivable
 dern
 distortive
+delirate
 disa
 desegmented
 debel
@@ -16499,7 +16500,6 @@ decidement
 derivately
 defogger
 dwaible
-delirate
 drabbler
 dissipating
 datum
