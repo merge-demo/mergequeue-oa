@@ -9115,7 +9115,6 @@ botanists
 bubbles
 becalmment
 biotelemetries
-biotical
 bardiness
 bespreads
 beerpull
@@ -13912,6 +13911,7 @@ balwarra
 breastworks
 bowline
 budbreak
+biotical
 baptizee
 benchmarked
 barehead
