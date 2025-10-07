@@ -1294,7 +1294,6 @@ dative
 dorking
 datively
 dreamlore
-dimouts
 drouthier
 dusted
 diazoic
@@ -8720,6 +8719,7 @@ devility
 dimeride
 decors
 disordered
+dimouts
 diastrophically
 decatize
 dipter
