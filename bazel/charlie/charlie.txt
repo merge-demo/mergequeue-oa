@@ -6454,6 +6454,7 @@ capstans
 cuprocyanide
 calve
 catalogues
+capon
 cavicornia
 cercarian
 conversely
@@ -13365,7 +13366,6 @@ crotchwood
 cyclostoma
 chasers
 cytinus
-capon
 carnivores
 czarism
 coraciidae
