@@ -17328,7 +17328,6 @@ aggressively
 anthomedusan
 anaesthatic
 abstracter
-athenor
 apoxesis
 apoxyomenos
 apozem
@@ -20157,6 +20156,7 @@ aphides
 akasha
 animalcula
 arrivals
+athenor
 atracheate
 achras
 arrivism

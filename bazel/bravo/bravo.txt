@@ -1251,7 +1251,6 @@ birdlet
 barkers
 brachiopode
 balabos
-bayards
 bashfully
 barrabkie
 balachong
@@ -2032,6 +2031,7 @@ brainstone
 balmy
 bankruptcy
 boltel
+bayards
 bravadoism
 bleacherite
 bespake
