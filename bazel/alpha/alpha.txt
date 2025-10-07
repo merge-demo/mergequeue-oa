@@ -6297,6 +6297,7 @@ agujon
 arnold
 apostrophic
 akov
+apogaeic
 allosyndetic
 aristoi
 acquitting
@@ -16970,7 +16971,6 @@ azotizing
 antipriesthood
 ataraxies
 apofenchene
-apogaeic
 antipopulism
 adrenosterone
 ameliorator
