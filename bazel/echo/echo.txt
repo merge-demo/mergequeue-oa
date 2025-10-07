@@ -1781,6 +1781,7 @@ elliott
 earplugs
 edwardsia
 excrement
+elastance
 enfranch
 eyespots
 epexegetically
@@ -10798,7 +10799,6 @@ encumber
 enureses
 embracer
 eucrystalline
-elastance
 eurodollar
 eleanor
 expurgatory
