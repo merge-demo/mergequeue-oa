@@ -5969,6 +5969,7 @@ bemoan
 buncal
 bookie
 baccarats
+bombardment
 bowenite
 bradyphasia
 benchfellow
@@ -15428,7 +15429,6 @@ brineless
 bodgie
 berate
 beefy
-bombardment
 bakery
 bratstva
 bibliopegistic
