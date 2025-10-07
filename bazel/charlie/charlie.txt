@@ -14559,7 +14559,6 @@ cnidophore
 cysted
 cysteinic
 cysteins
-cyclolith
 curling
 cosmologic
 cistercian
@@ -18047,6 +18046,7 @@ ceraceous
 chyluria
 colonelcy
 confutative
+cyclolith
 crumbier
 cephalothecal
 chartreuse
