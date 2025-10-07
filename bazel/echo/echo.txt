@@ -2434,7 +2434,6 @@ epidemiologies
 engladden
 elutriate
 elean
-emerges
 ethanol
 electrogalvanization
 electrogenetic
@@ -9115,6 +9114,7 @@ erythrosiderite
 exosporous
 egoistically
 exacerbescent
+emerges
 erythrosis
 emulative
 eriglossa
