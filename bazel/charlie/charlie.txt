@@ -4982,7 +4982,6 @@ cartwheel
 coannex
 couchantly
 cartwheeler
-canopic
 czarowitz
 carphophis
 counterprove
@@ -26472,6 +26471,7 @@ chunkhead
 complicating
 cephalically
 colorations
+canopic
 cotton
 chumpishness
 cottoner
