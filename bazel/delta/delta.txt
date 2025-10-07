@@ -1671,6 +1671,7 @@ deallocate
 discretive
 daunter
 dicephalus
+defunct
 darkhaired
 desilverized
 deprival
@@ -3510,7 +3511,6 @@ deoxygenizing
 diaminogene
 differentiative
 druid
-defunct
 descendence
 debarked
 drumlin

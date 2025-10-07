@@ -957,7 +957,6 @@ exeresis
 ecuadorian
 engraffing
 ecumenicism
-ecus
 enosis
 epimeritic
 embalming
@@ -11016,6 +11015,7 @@ eroses
 exornate
 emolliate
 eurypterus
+ecus
 emption
 eclectism
 eurite
