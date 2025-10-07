@@ -4367,6 +4367,7 @@ bovenland
 briskness
 bromoil
 bakeboard
+bolster
 bonzian
 bareheadedness
 bloodstanch
@@ -13074,7 +13075,6 @@ bz
 bordering
 buckwheatlike
 balangay
-bolster
 betted
 borders
 bolognan
