@@ -3070,7 +3070,6 @@ admonished
 acropathy
 actualistic
 actuality
-alcayde
 actualness
 allochromatic
 aplomb
@@ -20910,6 +20909,7 @@ ascitical
 asclepiad
 asclepiadaceae
 asclepiadae
+alcayde
 acerbating
 aircheck
 arraignment

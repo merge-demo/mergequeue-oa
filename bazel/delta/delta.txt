@@ -2031,7 +2031,6 @@ decadary
 dimethylcarbinol
 deploration
 dismemberments
-dolichocephal
 documentalist
 decadic
 decriminalized
@@ -16921,6 +16920,7 @@ depreciations
 drawoff
 decadent
 doeskins
+dolichocephal
 dispersible
 demicaponier
 distomatosis
