@@ -17901,7 +17901,6 @@ conchuela
 codiaceae
 chondrotome
 codical
-chlamys
 cryptanalytics
 confidentially
 camas
@@ -21368,6 +21367,7 @@ cocowort
 chummy
 conchfishes
 conchy
+chlamys
 conchies
 confederatize
 circummigration
