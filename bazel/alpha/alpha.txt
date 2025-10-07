@@ -7190,7 +7190,6 @@ atwitch
 attrite
 actualization
 albatas
-alkaid
 alcoved
 apologize
 awmbrie
@@ -7783,6 +7782,7 @@ autotropically
 alerting
 ales
 anion
+alkaid
 alesan
 arraigns
 alestake
