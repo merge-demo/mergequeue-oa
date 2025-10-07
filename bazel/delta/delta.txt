@@ -8742,7 +8742,6 @@ danke
 dirl
 diatoma
 diapase
-deems
 diastase
 din
 doorframe
@@ -11240,6 +11239,7 @@ dowdiest
 decarbonylation
 dispair
 digitigrada
+deems
 decurved
 deploredness
 disprizing
