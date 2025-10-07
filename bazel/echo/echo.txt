@@ -2781,6 +2781,7 @@ ergatandromorphic
 ecthyma
 ephebeibeia
 ennoblingly
+epihyal
 egyptological
 ensnarling
 elenchi
@@ -7864,7 +7865,6 @@ enablement
 eireannach
 extincts
 executioner
-epihyal
 exogonium
 entogastric
 egis
