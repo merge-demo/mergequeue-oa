@@ -1936,6 +1936,7 @@ doura
 debriefing
 dowser
 daiquiris
+dastardliness
 dabchicks
 danzig
 dustbins
@@ -6388,7 +6389,6 @@ dejeune
 damnum
 dominiums
 dermotropic
-dastardliness
 defined
 dissceptered
 drepanis
