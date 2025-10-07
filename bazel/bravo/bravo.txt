@@ -5657,6 +5657,7 @@ bemuzzles
 boilingly
 beery
 beliefless
+bootful
 botanophile
 badman
 buzzardly
@@ -12526,7 +12527,6 @@ bonetail
 bowker
 bonewort
 bauk
-bootful
 backdoor
 burliness
 bradoon
