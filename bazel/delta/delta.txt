@@ -7682,7 +7682,6 @@ doggier
 disassembly
 dancingly
 decalcomaniac
-devastation
 devastative
 devata
 devaul
@@ -9469,6 +9468,7 @@ doomfulness
 doppelganger
 davidsonite
 dozener
+devastation
 digeneous
 decubitus
 duchan
