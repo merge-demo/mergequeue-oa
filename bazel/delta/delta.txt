@@ -6262,7 +6262,6 @@ dedolomitizing
 delimited
 dippy
 dermasurgery
-dermatagra
 dermatophagus
 dermatotropic
 desiccator
@@ -8007,6 +8006,7 @@ dubitatively
 drogerman
 dovetailing
 defunctive
+dermatagra
 downsteepy
 dowable
 diathermal
