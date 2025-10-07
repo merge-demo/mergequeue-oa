@@ -3235,7 +3235,6 @@ eluvies
 ethopoeia
 ellwand
 ermitophobia
-eluviums
 emboldening
 empathizes
 empiriological
@@ -13763,6 +13762,7 @@ extispicious
 extoling
 epitympanum
 edingtonite
+eluviums
 edestosaurus
 enserfing
 ecorch
