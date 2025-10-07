@@ -1093,6 +1093,7 @@ crossbarred
 cirrated
 calcinate
 calcine
+conjunction
 coherently
 cytherea
 cheeser
@@ -12343,7 +12344,6 @@ chromas
 cenote
 claimless
 chromate
-conjunction
 chromates
 cacciatora
 chrysomonadine
