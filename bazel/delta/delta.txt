@@ -5390,6 +5390,7 @@ dawned
 denting
 demagogically
 duotype
+delimitate
 dimorphotheca
 drumbeating
 dribbler
@@ -7755,7 +7756,6 @@ deviationism
 diting
 deking
 deviatory
-delimitate
 digenous
 drawcut
 disciplinary
