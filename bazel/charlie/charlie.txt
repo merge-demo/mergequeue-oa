@@ -9877,6 +9877,7 @@ cicero
 chemolyze
 conquinamine
 carded
+calcaneonavicular
 clamp
 chemophysiology
 chemoprophyalctic
@@ -13601,7 +13602,6 @@ compressure
 cimicoid
 conformableness
 curmudgeonery
-calcaneonavicular
 cimier
 cymiferous
 cymlin
