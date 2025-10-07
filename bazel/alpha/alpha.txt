@@ -4962,7 +4962,6 @@ aplacophora
 aesir
 almightiness
 aesop
-aesopian
 astigmat
 aesthesodic
 allaeanthus
@@ -8853,6 +8852,7 @@ allophonically
 alloplastic
 allopolyploidy
 attainably
+aesopian
 appetisse
 aveny
 allorhythmia
