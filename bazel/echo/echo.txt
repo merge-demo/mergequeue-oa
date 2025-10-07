@@ -551,7 +551,6 @@ epedaphic
 epithelioceptor
 edgy
 enciphered
-exopterygotous
 enclitically
 echinodermatous
 exquisitely
@@ -3205,6 +3204,7 @@ enfollow
 eluents
 elul
 epidemic
+exopterygotous
 erects
 enclitical
 encephalotomy
