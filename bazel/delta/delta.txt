@@ -15639,7 +15639,6 @@ diazoles
 discriminatingly
 donovan
 dons
-deltahedron
 dolus
 deflocculent
 donsky
@@ -17664,6 +17663,7 @@ delatinize
 dispossessory
 dromornis
 dtd
+deltahedron
 dielectrical
 detract
 dicranterian
