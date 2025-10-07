@@ -4152,6 +4152,7 @@ adrenin
 anthropodeoxycholic
 addu
 adrenochrome
+alcali
 adrenocorticotrophic
 ammonolysis
 anaspida
@@ -22721,7 +22722,6 @@ atonalistic
 awacs
 atone
 atoned
-alcali
 atones
 antipatriarchally
 acotyledon
