@@ -914,6 +914,7 @@ cakette
 chaptalization
 cakewalked
 cakewalking
+cicurate
 caressant
 carnotite
 clientelage
@@ -13388,7 +13389,6 @@ camerate
 ciconiiformes
 ciconine
 cicorees
-cicurate
 coffered
 cicuta
 competitress
