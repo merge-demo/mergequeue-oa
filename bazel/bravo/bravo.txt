@@ -2050,7 +2050,6 @@ banlieu
 basquine
 backseats
 babai
-barefooted
 bradykinesis
 bollixing
 bathetically
@@ -15841,6 +15840,7 @@ brionies
 boyism
 beice
 brandies
+barefooted
 bodysurfing
 broomball
 bansela
