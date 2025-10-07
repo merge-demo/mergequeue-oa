@@ -5659,7 +5659,6 @@ extras
 episcopalism
 egotisticalness
 emerson
-epistapedial
 engallant
 enlargedly
 exomorphism
@@ -7200,6 +7199,7 @@ enzootically
 evenlight
 exposed
 endodontium
+epistapedial
 ejidos
 earthshock
 enderon
