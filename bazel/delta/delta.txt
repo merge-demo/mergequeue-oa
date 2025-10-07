@@ -4869,6 +4869,7 @@ darg
 dadouchos
 diemaker
 dentalizing
+diphyletic
 disenslave
 denigrations
 degerminator
@@ -16928,7 +16929,6 @@ diameters
 diarrhoeic
 donnishness
 dribbet
-diphyletic
 deadlock
 durwan
 dsname
