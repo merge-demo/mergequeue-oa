@@ -6800,7 +6800,6 @@ diathermic
 decapetalous
 diotocardia
 disbursing
-demultiplex
 demonlike
 dendroceratina
 drafts
@@ -11936,6 +11935,7 @@ dramatizes
 disdein
 denseness
 downrange
+demultiplex
 discoglossoid
 domes
 derailleur
