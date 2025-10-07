@@ -2082,7 +2082,6 @@ banquet
 bundist
 besteer
 boguing
-boraciferous
 bulker
 botoyan
 bemas
@@ -9438,6 +9437,7 @@ basaltine
 beglue
 bernoo
 biggins
+boraciferous
 blepharophryplasty
 bipunctal
 barbarian
