@@ -14452,7 +14452,6 @@ conservable
 cirripedial
 cooba
 centiare
-carate
 citrul
 charades
 cirrocumulative
@@ -24855,6 +24854,7 @@ corallic
 corallidae
 corallidomous
 chestful
+carate
 cardiagra
 coralliform
 cobreathe
