@@ -5658,6 +5658,7 @@ dogate
 disembargoed
 dentinoblast
 dephycercal
+decoys
 deteriorated
 diminutal
 daimiote
@@ -13276,7 +13277,6 @@ demogenic
 deuteranomal
 deleerit
 decrees
-decoys
 dispossession
 djellabas
 diphylleia
