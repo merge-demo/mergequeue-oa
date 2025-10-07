@@ -1385,7 +1385,6 @@ confisk
 combust
 clochards
 carfuls
-calinut
 chrismatories
 caliologist
 calipashes
@@ -4380,6 +4379,7 @@ chaperoned
 cuvies
 caryophyllin
 consecutiveness
+calinut
 ceruloplasmin
 caingua
 cytogenetics
