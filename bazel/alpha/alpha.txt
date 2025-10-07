@@ -8179,7 +8179,6 @@ aberrometer
 alimentic
 autobahnen
 alabandite
-automatical
 alimony
 alymphia
 archduxe
@@ -8655,6 +8654,7 @@ ansation
 allylthiourea
 allineation
 archaeohippus
+automatical
 anukabiet
 allionia
 aspace
