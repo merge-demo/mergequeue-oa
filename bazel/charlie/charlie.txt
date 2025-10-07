@@ -15927,7 +15927,6 @@ carbamino
 clenched
 clencher
 clarshech
-clenches
 cleomes
 chimbs
 clep
@@ -21262,6 +21261,7 @@ crawfishes
 cynthius
 chitterlings
 crooning
+clenches
 clachan
 counterplease
 conceptualism
