@@ -6457,7 +6457,6 @@ acker
 abide
 apogalacteum
 anarcestean
-antipersonnel
 anukit
 asperates
 afterburner
@@ -11205,6 +11204,7 @@ amphisbaenas
 amphisbaenoid
 antimasks
 amphiscians
+antipersonnel
 aerodontic
 amphisilidae
 amphisporangiate
