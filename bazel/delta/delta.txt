@@ -2087,7 +2087,6 @@ decahedrons
 dominical
 decahydronaphthalene
 drooled
-disaccommodate
 downhanging
 dramas
 dauphiness
@@ -8869,6 +8868,7 @@ daughterless
 demobilized
 declivities
 dentiscalp
+disaccommodate
 didelphid
 dibranch
 defiguration
