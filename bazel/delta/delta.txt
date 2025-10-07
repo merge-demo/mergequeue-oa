@@ -5060,7 +5060,6 @@ discussant
 disprofess
 defecation
 diversionary
-distinguish
 derk
 demultiplexer
 distichal
@@ -14625,6 +14624,7 @@ druery
 dystrophic
 developmentary
 datana
+distinguish
 decupling
 dietal
 dissyllabizing
