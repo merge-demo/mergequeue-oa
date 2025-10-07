@@ -6641,7 +6641,6 @@ amyctic
 afterlives
 airfares
 airfield
-airflow
 airflows
 antimoralist
 airfoil
@@ -15692,6 +15691,7 @@ alert
 antipyretics
 agravic
 athlothetes
+airflow
 antipyrin
 accustomedness
 antipyrine
