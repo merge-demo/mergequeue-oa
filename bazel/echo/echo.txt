@@ -4177,7 +4177,6 @@ emptiness
 emptio
 externship
 emptor
-eggeater
 evagination
 emprizes
 exits
@@ -9647,6 +9646,7 @@ electrogalvanic
 expressmen
 enters
 epilogize
+eggeater
 excitable
 ensearcher
 espingole
