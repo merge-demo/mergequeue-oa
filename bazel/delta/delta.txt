@@ -11461,6 +11461,7 @@ degummer
 documentation
 deviations
 dogra
+declaratively
 deedeed
 drungar
 dehaites
@@ -16472,7 +16473,6 @@ disobeyer
 distad
 dhoora
 dismortgage
-declaratively
 doxography
 divestible
 decolourise
