@@ -799,6 +799,7 @@ electrophotography
 ectasis
 endothia
 ectatic
+endocardial
 enoil
 exequies
 expulsed
@@ -7009,7 +7010,6 @@ entrepreneur
 enrobers
 entrer
 entresols
-endocardial
 extractors
 embladder
 electrotitration
