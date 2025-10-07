@@ -8064,7 +8064,6 @@ bicornous
 bagroom
 belligerents
 bicornuate
-bicornute
 beshadow
 bookery
 baboonery
@@ -9429,6 +9428,7 @@ billiardly
 batule
 bioinstrumentation
 bestowable
+bicornute
 bronchodilatation
 bathymeter
 bacteriorhodopsin
