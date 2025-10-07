@@ -1392,7 +1392,6 @@ accessive
 ata
 anoplocephalic
 awardment
-awlessness
 anticlockwise
 atka
 annotating
@@ -2273,6 +2272,7 @@ amourist
 acyetic
 abstractions
 aciform
+awlessness
 abet
 aftercare
 artifact
