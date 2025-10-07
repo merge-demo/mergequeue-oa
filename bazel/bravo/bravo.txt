@@ -14421,6 +14421,7 @@ bisley
 bacterioscopic
 blighting
 bearer
+bashful
 behoving
 barnstorm
 belieffulness
@@ -15988,7 +15989,6 @@ barrels
 bemoaned
 byous
 bleareyed
-bashful
 brontephobia
 bronze
 bhotia
