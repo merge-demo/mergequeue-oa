@@ -1914,7 +1914,6 @@ amphidisk
 acetol
 acetometry
 accroachment
-abettors
 aleurites
 acetomorphin
 acetonaemia
@@ -25072,6 +25071,7 @@ alumstone
 apothegms
 autoradiography
 abaptistum
+abettors
 assorting
 amissness
 axilemmas
