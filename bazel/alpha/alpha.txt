@@ -1617,6 +1617,7 @@ assailers
 abnet
 accroaching
 automata
+ashir
 affirm
 anaclitic
 adventurish
@@ -21079,7 +21080,6 @@ apostacy
 ashing
 acanthous
 ashipboard
-ashir
 archoplasma
 ashkey
 anticriticalness

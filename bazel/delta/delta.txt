@@ -2487,7 +2487,6 @@ decivilize
 deckel
 ditchdown
 dispondaic
-dictaphones
 deckhand
 dovekies
 deckle
@@ -17260,6 +17259,7 @@ director
 deergrass
 diaphoresis
 depletory
+dictaphones
 disapproving
 deermeat
 disgustingness
