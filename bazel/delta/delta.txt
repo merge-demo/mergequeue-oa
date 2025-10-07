@@ -5463,7 +5463,6 @@ detd
 dauk
 disprover
 divagational
-detachable
 deodorisation
 dividualism
 deodorised
@@ -8463,6 +8462,7 @@ doorway
 droplet
 discommodes
 deconcentrator
+detachable
 droukan
 devastate
 diabolizing
