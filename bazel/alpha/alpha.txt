@@ -2937,7 +2937,6 @@ analcime
 actinomycosistic
 agglomerator
 actinomyxidia
-actinomyxidiida
 aliyos
 adfreeze
 ammochaetae
@@ -4854,6 +4853,7 @@ archibald
 aeronomy
 aeronomic
 aeronomical
+actinomyxidiida
 anisogametic
 antisymmetric
 armrest
