@@ -7274,7 +7274,6 @@ albines
 antelegal
 albiness
 antithrombic
-aureus
 albinic
 adipyl
 antiphrastical
@@ -22053,6 +22052,7 @@ aphotic
 anusim
 astonishedly
 asterismal
+aureus
 anaphia
 apologetic
 aerier
