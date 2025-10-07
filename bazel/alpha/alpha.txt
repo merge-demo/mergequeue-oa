@@ -9808,7 +9808,6 @@ amazedly
 amazeful
 anatomise
 accented
-antihelixes
 amazilia
 aplome
 antizymotic
@@ -19813,6 +19812,7 @@ allocute
 armlock
 armonicas
 advoke
+antihelixes
 armor
 akuammin
 adonises
