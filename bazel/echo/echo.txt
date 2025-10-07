@@ -2517,6 +2517,7 @@ excepting
 engines
 epithelilia
 echoist
+enantiomorphic
 electromagnetism
 elaborations
 endosmose
@@ -9257,7 +9258,6 @@ elayl
 erratas
 erratic
 erratically
-enantiomorphic
 elite
 eulogist
 endosmos
