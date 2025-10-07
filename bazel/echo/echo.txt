@@ -9439,6 +9439,7 @@ eschewed
 extenuates
 expand
 echocardiogram
+explanator
 ecbolics
 embedment
 erysiphe
@@ -11683,7 +11684,6 @@ enfolding
 eventualities
 exaltation
 extract
-explanator
 endocarditis
 elevated
 enforcive
