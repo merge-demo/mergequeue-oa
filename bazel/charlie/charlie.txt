@@ -15118,6 +15118,7 @@ couplet
 callosomarginal
 conducta
 chlorophyceous
+cloverlay
 conidia
 cladocarpous
 cropped
@@ -16808,7 +16809,6 @@ criophoros
 clover
 clovered
 chiloplasty
-cloverlay
 citizen
 checkstrap
 clupeidae
