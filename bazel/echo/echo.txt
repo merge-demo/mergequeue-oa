@@ -216,6 +216,7 @@ earthman
 erythritic
 earthslide
 exhumers
+endarterium
 eyesores
 earthwall
 entte
@@ -3047,7 +3048,6 @@ excreters
 eardrop
 ellfish
 esthetes
-endarterium
 entellus
 escar
 et
