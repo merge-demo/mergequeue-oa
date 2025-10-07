@@ -469,7 +469,6 @@ evector
 ecclesia
 enumerable
 eucommia
-ecclesiarch
 ecclesiarchy
 extoll
 ecclesiast
@@ -5711,6 +5710,7 @@ engirds
 eyeglance
 extraverted
 extemporised
+ecclesiarch
 endofaradism
 enolases
 elementality
