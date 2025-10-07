@@ -85,6 +85,7 @@ earnable
 essayer
 ecclesiology
 earned
+effectualness
 earnest
 eusporangiate
 eccrine
@@ -12599,7 +12600,6 @@ echidnidae
 extraformal
 enriches
 etheostoma
-effectualness
 epigenetically
 eagless
 encirclement
