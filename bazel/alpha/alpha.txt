@@ -23975,6 +23975,7 @@ alcoholmetric
 antiblack
 approaching
 antiman
+antivivisection
 ambe
 ascidiozooid
 amadis
@@ -24331,7 +24332,6 @@ autoscopic
 arawa
 atrabiliar
 agathis
-antivivisection
 ablaut
 antagonise
 albuminuric
