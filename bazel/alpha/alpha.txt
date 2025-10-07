@@ -12282,6 +12282,7 @@ axisymmetry
 ajowan
 anecdote
 anecdotes
+assumptionist
 anecdotic
 anova
 anecdotically
@@ -22279,7 +22280,6 @@ astrophil
 archaisms
 acrisia
 anteal
-assumptionist
 autolytus
 anamnestically
 amateur
