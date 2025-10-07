@@ -12614,7 +12614,6 @@ angioleucitis
 angiolith
 angiomalacia
 angiomas
-anoestrous
 angiomyosarcoma
 amuletic
 astakiwi
@@ -17801,6 +17800,7 @@ augurous
 appropinquate
 appropinquation
 animalistic
+anoestrous
 arrayals
 amalgamation
 appropinquity
