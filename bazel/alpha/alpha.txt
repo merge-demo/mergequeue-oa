@@ -4990,7 +4990,6 @@ acquainting
 amenia
 adventuresome
 alphamerical
-arrantly
 aestuate
 arriding
 aestuation
@@ -17404,6 +17403,7 @@ acanthodea
 appealing
 appealingly
 agruif
+arrantly
 ambidextrousness
 appearer
 appearers
