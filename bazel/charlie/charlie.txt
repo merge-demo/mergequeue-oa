@@ -4605,6 +4605,7 @@ cutout
 coucher
 caroms
 cathetometer
+clockhouse
 carone
 caronic
 cliffless
@@ -26938,7 +26939,6 @@ cricketings
 curmudgeons
 chromeplated
 conceded
-clockhouse
 calabaza
 ciceronianism
 counterobjection
