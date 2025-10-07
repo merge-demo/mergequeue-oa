@@ -7944,6 +7944,7 @@ bodymaker
 bibulously
 bicameralism
 blandiloquious
+bhikku
 borderside
 bedunced
 bibliopegic
@@ -10835,7 +10836,6 @@ bristliest
 blessingly
 bandala
 bider
-bhikku
 borassus
 blethe
 buttals
