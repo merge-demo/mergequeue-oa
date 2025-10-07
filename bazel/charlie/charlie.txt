@@ -4465,7 +4465,6 @@ caoutchouc
 consented
 carnages
 congoes
-cossette
 culverin
 carnalize
 counterexposition
@@ -15049,6 +15048,7 @@ cipollino
 crup
 compunctive
 civilizationally
+cossette
 chawan
 contemns
 civilizee
