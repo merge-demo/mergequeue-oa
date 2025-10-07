@@ -5159,7 +5159,6 @@ eponymies
 eastings
 electroballistician
 epilithic
-endogenae
 efference
 euchres
 echeloning
@@ -12572,6 +12571,7 @@ euphon
 ethion
 exocoelar
 exocoele
+endogenae
 excusing
 electrophoreses
 exocoelic
