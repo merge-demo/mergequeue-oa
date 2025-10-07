@@ -7503,6 +7503,7 @@ archership
 alchemizing
 alkalescence
 amphicarpic
+axisymmetrically
 acrocephalous
 assument
 acetary
@@ -8982,7 +8983,6 @@ ardu
 antiabrasion
 alluringly
 alluringness
-axisymmetrically
 achetidae
 allusions
 allusive

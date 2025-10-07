@@ -6580,7 +6580,6 @@ exolemma
 emove
 eligenda
 ergothioneine
-exodontia
 eruditional
 elocution
 enwrapment
@@ -13421,6 +13420,7 @@ erupted
 eikones
 ebionitic
 excitingly
+exodontia
 expressionists
 eventuality
 expressionlessness
