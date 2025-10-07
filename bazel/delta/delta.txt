@@ -1246,7 +1246,6 @@ divorcers
 datasetname
 datcha
 disparison
-demiassignation
 deciliter
 dragooner
 deleads
@@ -10012,6 +10011,7 @@ decisiveness
 dysacousma
 deuteroscopic
 debriefs
+demiassignation
 disopinion
 decennal
 dimoric
