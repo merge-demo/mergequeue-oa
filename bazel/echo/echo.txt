@@ -101,6 +101,7 @@ ephydridae
 epithelioma
 enumerate
 embroche
+establismentarian
 earpick
 elastician
 enchisel
@@ -10282,7 +10283,6 @@ ethnicist
 endymal
 elingued
 erasable
-establismentarian
 entoolitic
 enlink
 email
