@@ -2786,6 +2786,7 @@ banting
 barosmin
 backwashed
 biquadrate
+bibulous
 bleaker
 baroswitch
 bloat
@@ -10194,7 +10195,6 @@ bemuslined
 bachelorwise
 blackjack
 bryaceous
-bibulous
 bracers
 besague
 britany
