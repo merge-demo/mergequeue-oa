@@ -2516,7 +2516,6 @@ epithelilia
 echoist
 enantiomorphic
 electromagnetism
-elaborations
 endosmose
 egremoigne
 encomiologic
@@ -4973,6 +4972,7 @@ enschedule
 exomphalous
 endemicity
 electrofused
+elaborations
 endemism
 eco
 estipulate
