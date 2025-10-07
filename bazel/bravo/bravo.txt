@@ -2375,7 +2375,6 @@ bearhound
 bowdlerised
 bardings
 breeding
-becalms
 bardlike
 barkiest
 bilaterality
@@ -11200,6 +11199,7 @@ balloters
 barters
 befrilled
 buhrstone
+becalms
 bloodthirster
 beliquors
 bacillariaceous
