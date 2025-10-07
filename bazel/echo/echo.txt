@@ -8301,6 +8301,7 @@ embryonated
 eluxate
 ependytes
 embrown
+exogenae
 epistemic
 epitheliolytic
 epitheliomas
@@ -12635,7 +12636,6 @@ emissarium
 exogen
 exercent
 earldom
-exogenae
 esophagostomy
 encratism
 exogenously
