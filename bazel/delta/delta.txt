@@ -2623,7 +2623,6 @@ duress
 drugged
 demasculinised
 disulphonic
-desulphurising
 decolourizer
 dumpcarts
 desexualize
@@ -4679,6 +4678,7 @@ dustlike
 dolichocrany
 demiox
 daimio
+desulphurising
 dithematic
 disenthrall
 dysporomorph
