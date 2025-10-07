@@ -7425,6 +7425,7 @@ ajar
 amphipodal
 apertion
 alcaics
+anormal
 alcaid
 acrosarca
 amorphozoa
@@ -20214,7 +20215,6 @@ archipelagic
 arrowlet
 adermine
 andia
-anormal
 arrowlike
 aminoazobenzene
 anasazi
