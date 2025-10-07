@@ -7432,7 +7432,6 @@ deticker
 detinet
 deflagration
 detinues
-dowagerism
 dwine
 demilunes
 deselect
@@ -18667,6 +18666,7 @@ desquamate
 dvigu
 debarks
 descendance
+dowagerism
 diligently
 disobey
 dioptral
