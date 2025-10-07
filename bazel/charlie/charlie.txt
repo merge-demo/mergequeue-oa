@@ -12937,6 +12937,7 @@ cydonian
 cocurrent
 chutnees
 chuttie
+confused
 chutzpa
 carbanion
 chutzpanik
@@ -30258,7 +30259,6 @@ chorten
 cargoose
 crumps
 coulomb
-confused
 cepolidae
 codfishery
 crunched
