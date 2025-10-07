@@ -12454,7 +12454,6 @@ dishonor
 dishonorer
 disangularize
 decrescendo
-deresinize
 detestability
 disciplined
 dishonors
@@ -15189,6 +15188,7 @@ desalter
 dogsbodies
 decalcifying
 diureses
+deresinize
 doudle
 deleniate
 damningness
