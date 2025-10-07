@@ -9590,7 +9590,6 @@ behaviourism
 bioastronautical
 bummer
 backbeats
-browningesque
 bonete
 bishopdom
 blathers
@@ -13412,6 +13411,7 @@ blamed
 beholds
 baggers
 briefcase
+browningesque
 bitangential
 bunder
 bothnian
