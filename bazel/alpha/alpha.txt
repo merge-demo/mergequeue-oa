@@ -246,6 +246,7 @@ aba
 aggraded
 angiospermic
 abdat
+anthroxan
 anthranoyl
 abashing
 admonition
@@ -10734,7 +10735,6 @@ academicians
 acater
 ammonifies
 ammonifying
-anthroxan
 arctiidae
 acromegaly
 ammonitess

@@ -11209,6 +11209,7 @@ dozened
 dock
 disbeliefs
 diswit
+dielectrics
 dodgiest
 diagonalizable
 dreggish
@@ -12378,7 +12379,6 @@ datable
 distrained
 dithyrambically
 dromaeognathous
-dielectrics
 discharged
 disclaimed
 digestor
