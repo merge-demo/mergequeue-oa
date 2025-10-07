@@ -6829,7 +6829,6 @@ cellules
 cellulifugal
 crevasse
 clamor
-cellulin
 contangoes
 chauldron
 cosignitary
@@ -24877,6 +24876,7 @@ conchfish
 corallina
 cinema
 corallinaceous
+cellulin
 contrariwise
 coralline
 cuichunchulli
