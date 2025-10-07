@@ -2455,7 +2455,6 @@ eurythmical
 enstatite
 electrogasdynamics
 electroharmonic
-empanelment
 electrohemostasis
 endearing
 ebony
@@ -8522,6 +8521,7 @@ equate
 ecclesiasticize
 essentializing
 echinated
+empanelment
 embezzling
 eastlin
 ergographic
