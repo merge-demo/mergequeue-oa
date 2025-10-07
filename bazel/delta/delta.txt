@@ -582,6 +582,7 @@ delectating
 devove
 damars
 decoratory
+dorsoventrad
 dandydom
 devocate
 doesnt
@@ -7774,7 +7775,6 @@ defuse
 devilfish
 djalmaite
 darkeners
-dorsoventrad
 decelerators
 devily
 detail
