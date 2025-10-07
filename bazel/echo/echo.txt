@@ -5396,7 +5396,6 @@ endrudge
 extrabulbar
 ecderonic
 endseal
-endshake
 elfishly
 egretta
 easterly
@@ -13881,6 +13880,7 @@ ectobronchium
 eucalyptus
 enviers
 extraessential
+endshake
 extrafine
 espied
 extragalactic
