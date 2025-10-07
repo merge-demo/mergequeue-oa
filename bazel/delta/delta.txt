@@ -15637,6 +15637,7 @@ deprecators
 desmachymatous
 diazoles
 discriminatingly
+dikaryophyte
 donovan
 dons
 deltahedron
@@ -17173,7 +17174,6 @@ dryfoot
 dribber
 dysacousis
 disimpassioned
-dikaryophyte
 drift
 dyssystole
 danaidae
