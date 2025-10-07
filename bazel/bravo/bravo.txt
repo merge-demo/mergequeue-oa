@@ -11447,7 +11447,6 @@ bewelter
 boatheader
 bairnliest
 bronchiarctia
-bluepoint
 bluepoints
 blazingly
 blameably
@@ -16773,6 +16772,7 @@ banya
 buffiest
 blighties
 birdcalls
+bluepoint
 battak
 butut
 betas
