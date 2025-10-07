@@ -11646,7 +11646,6 @@ disburgeon
 divell
 dismemberer
 discordable
-diametrally
 dayberry
 discordancy
 deregulating
@@ -12316,6 +12315,7 @@ demigrate
 diazotizable
 deossify
 desynchronize
+diametrally
 diaphonies
 diphosphate
 diaconia
