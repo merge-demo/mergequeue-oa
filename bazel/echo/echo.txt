@@ -18,7 +18,6 @@ excoriator
 erythrophobia
 eadios
 emblem
-enravished
 electrobiologist
 eagerness
 ephraitic
@@ -702,6 +701,7 @@ ecraseurs
 esocyclic
 ened
 ecology
+enravished
 eromania
 encephalolith
 employing
