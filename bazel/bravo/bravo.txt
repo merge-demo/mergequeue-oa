@@ -2568,7 +2568,6 @@ barberry
 bucerotinae
 brandle
 bilbies
-borides
 bulletined
 bedevils
 barytocelestite
@@ -7720,6 +7719,7 @@ bhumij
 borsch
 bhungi
 blameableness
+borides
 boulangerite
 baldpated
 banca
