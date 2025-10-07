@@ -7405,7 +7405,6 @@ enskied
 electoral
 echinochloa
 everglade
-ensculpture
 elasmothere
 englishness
 entasia
@@ -9674,6 +9673,7 @@ espousement
 essenwood
 elms
 ectoblast
+ensculpture
 enshielded
 espouser
 espouses
