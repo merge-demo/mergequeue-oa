@@ -1961,6 +1961,7 @@ dacryd
 deferments
 despotes
 dehisced
+dispromise
 desire
 dawsonite
 deaccession
@@ -16654,7 +16655,6 @@ deperming
 decorations
 disassociates
 drosophilae
-dispromise
 dragonesque
 davach
 distr
