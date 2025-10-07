@@ -10280,7 +10280,6 @@ carnalities
 cnidocyst
 committer
 cantharidin
-cophouse
 chicest
 coccidioidomycosis
 coenoby
@@ -28079,6 +28078,7 @@ craniocele
 congii
 calligraphist
 cranioclast
+cophouse
 cussos
 celebrities
 cranioclasty

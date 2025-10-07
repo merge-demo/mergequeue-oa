@@ -5315,7 +5315,6 @@ atharvan
 arrange
 angiokinesis
 afrit
-armary
 adored
 agaces
 aerobiological
@@ -14794,6 +14793,7 @@ antimagnetic
 anticommunistical
 aphthongia
 antimetropic
+armary
 apportioned
 anovular
 alemite
