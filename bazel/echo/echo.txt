@@ -7751,6 +7751,7 @@ epidiascope
 escallops
 engraff
 ecce
+envapour
 epichilia
 embrocating
 embosom
@@ -8006,7 +8007,6 @@ ehtanethial
 enoplion
 employers
 emetin
-envapour
 emigating
 epipanies
 erase
