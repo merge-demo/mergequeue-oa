@@ -3539,7 +3539,6 @@ degames
 deadworks
 deganglionate
 dystome
-degasify
 dilatometric
 discontinued
 duco
@@ -6561,6 +6560,7 @@ diacritic
 daubries
 dockman
 degradedness
+degasify
 disharmonise
 described
 dolous
