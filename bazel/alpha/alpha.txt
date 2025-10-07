@@ -19315,7 +19315,6 @@ argyle
 ascendable
 aseptate
 alypine
-antimeric
 automatons
 archaecraniate
 attraction
@@ -19772,6 +19771,7 @@ armillaria
 aphrodisiomaniac
 annist
 adenopharyngitis
+antimeric
 armine
 arrogating
 arsenobenzene
