@@ -1048,6 +1048,7 @@ edeomania
 enhamper
 emberizinae
 enslavedness
+euda
 epipleura
 elberta
 expeditions
@@ -7495,7 +7496,6 @@ epidiascopic
 effluency
 ephor
 ekphory
-euda
 ephraimite
 exocoetidae
 extensively
