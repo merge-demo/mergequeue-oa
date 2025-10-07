@@ -1142,6 +1142,7 @@ cranioclasis
 canephori
 calcspar
 calcspars
+cyanopsia
 cotwal
 chlamydophore
 chilopoda
@@ -20773,7 +20774,6 @@ complexer
 cuinfo
 chapin
 chylify
-cyanopsia
 crengle
 chelidonate
 cheloid

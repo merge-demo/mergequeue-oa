@@ -3661,6 +3661,7 @@ adiathetic
 aiguelle
 adiation
 adib
+allowancing
 adicea
 adicity
 arcato
@@ -12743,7 +12744,6 @@ antholyza
 ango
 angoise
 angola
-allowancing
 assertoric
 angora
 aztecs
