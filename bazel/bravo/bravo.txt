@@ -1851,6 +1851,7 @@ bandfile
 bandfiled
 bandh
 burdon
+batched
 brownism
 brython
 birken
@@ -10987,7 +10988,6 @@ blintzes
 bravi
 backstage
 brachygrapher
-batched
 besoothes
 biolite
 blips
