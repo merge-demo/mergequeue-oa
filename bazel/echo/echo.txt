@@ -7614,6 +7614,7 @@ epicoeloma
 euchymous
 emeraude
 epicoelous
+evolutoid
 epicondyle
 epicondylian
 exspuition
@@ -11564,7 +11565,6 @@ elaeocarpus
 extorted
 earringed
 encephalosepsis
-evolutoid
 elegize
 enchiridion
 evolvable
