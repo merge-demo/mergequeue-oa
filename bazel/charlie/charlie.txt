@@ -21810,7 +21810,6 @@ condominiums
 consistorial
 condoms
 cyanoethylate
-cadastral
 condonable
 condonance
 condone
@@ -28278,6 +28277,7 @@ conilurus
 craunching
 craunchingly
 cravat
+cadastral
 capmaker
 cravats
 cloning
