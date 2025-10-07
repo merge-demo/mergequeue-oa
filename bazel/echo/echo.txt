@@ -2954,7 +2954,6 @@ encephalopsychesis
 electrothermometer
 exister
 extraovate
-eliminable
 expurgative
 eradiation
 eliminate
@@ -5769,6 +5768,7 @@ enray
 ephoi
 effluvia
 environing
+eliminable
 elephant
 electroencephalograms
 egyptologer
