@@ -4755,6 +4755,7 @@ denationalizing
 disconformities
 diseducate
 dowf
+deorganize
 dewaterer
 demitoilet
 dicatalectic
@@ -11612,7 +11613,6 @@ discriminantal
 dotting
 dognaped
 discontenting
-deorganize
 disboweled
 discontents
 discontiguity
