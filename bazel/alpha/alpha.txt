@@ -9056,6 +9056,7 @@ almida
 apatite
 almner
 archfriend
+antiship
 almohad
 anticlimactical
 autoallogamous
@@ -15990,7 +15991,6 @@ autolyzing
 argumentatious
 annealing
 antisexist
-antiship
 antisialagogue
 azazel
 absorbance
