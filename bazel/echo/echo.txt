@@ -3269,7 +3269,6 @@ ectopic
 ethnos
 exegetically
 eridanid
-envisions
 enclose
 euplastic
 emanational
@@ -6510,6 +6509,7 @@ execration
 ephemeric
 endosarc
 englishes
+envisions
 ephemeris
 egomaniacal
 enrollment
