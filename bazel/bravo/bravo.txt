@@ -13481,6 +13481,7 @@ balloon
 berk
 bloodguiltless
 buyback
+bactritoid
 biographer
 believeth
 baggage
@@ -13944,7 +13945,6 @@ bowstring
 bacteriotropic
 binoculate
 bowstringed
-bactritoid
 birdmen
 behavior
 bowtell
