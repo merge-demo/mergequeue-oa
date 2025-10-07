@@ -3102,6 +3102,7 @@ defaults
 dayworker
 detritus
 denumberment
+dactylioglyphic
 defeasanced
 deerstalkers
 dialings
@@ -4617,7 +4618,6 @@ distraughted
 datums
 drabbled
 daedalus
-dactylioglyphic
 delegacy
 dotier
 demihagbut
