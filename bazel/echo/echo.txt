@@ -1127,6 +1127,7 @@ epitrichial
 esoterics
 exsanguinated
 encatarrhaphy
+encradle
 ejectee
 enarm
 endopterygotic
@@ -3120,7 +3121,6 @@ eloiner
 eloiners
 essentiate
 eburated
-encradle
 eskimoes
 euryphage
 eloining
