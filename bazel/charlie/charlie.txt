@@ -6465,7 +6465,6 @@ compellent
 canmaker
 conciliarism
 cirrhosed
-cavilers
 cavilingly
 craftsmen
 ceraunogram
@@ -24254,6 +24253,7 @@ convolvulinic
 certiorari
 constraining
 curval
+cavilers
 comr
 coercively
 conventionist
