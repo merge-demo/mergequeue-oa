@@ -13138,7 +13138,6 @@ combinableness
 cicatriser
 cratchens
 cacan
-corniculum
 chorda
 cortins
 crackability
@@ -16471,6 +16470,7 @@ cloamen
 christliness
 celebrious
 chimane
+corniculum
 cursores
 clobber
 charneco
