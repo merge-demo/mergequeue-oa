@@ -14721,7 +14721,6 @@ attendancy
 antibibliolatry
 antilogs
 arling
-anticipations
 anticipative
 attensity
 anglers
@@ -16562,6 +16561,7 @@ aphacic
 aphaeresis
 accompaniment
 allowedly
+anticipations
 archtyrant
 aphagias
 afterswell
