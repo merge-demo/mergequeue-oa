@@ -17972,7 +17972,6 @@ contractibility
 coeff
 coefficients
 coelacanth
-chew
 coelacanthous
 coelar
 coelastraceous
@@ -18738,6 +18737,7 @@ cointerring
 coinvolve
 coyo
 coyol
+chew
 coccoloba
 coyotillos
 caucusing
