@@ -4018,6 +4018,7 @@ encyclopaedism
 epitheca
 enamelers
 exterminated
+extraviolet
 empiricalness
 epibolism
 engorgement
@@ -12492,7 +12493,6 @@ embosture
 expertize
 exine
 escapology
-extraviolet
 electicism
 everyway
 embarrel
