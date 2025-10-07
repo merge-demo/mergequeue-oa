@@ -5584,6 +5584,7 @@ deoxygenized
 datafile
 deuteronomy
 drusean
+disendowment
 disrepute
 deformational
 depasture
@@ -11353,7 +11354,6 @@ dingdonging
 diamminonitrate
 dutchman
 deftly
-disendowment
 dupioni
 discerped
 dissemble
