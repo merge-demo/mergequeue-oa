@@ -5031,6 +5031,7 @@ demote
 demotes
 disomus
 deutoxide
+disinfeudation
 dysmeromorph
 delicious
 discreated
@@ -14598,7 +14599,6 @@ deeming
 darkle
 diatomine
 dedoggerelize
-disinfeudation
 dentalman
 daunders
 draggily
