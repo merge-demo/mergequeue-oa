@@ -7243,7 +7243,6 @@ compulsative
 centronote
 couth
 countians
-centrosymmetrical
 centrosomic
 chondroma
 centrosphere
@@ -25126,6 +25125,7 @@ coria
 cynipoidea
 cryptomeria
 ceptor
+centrosymmetrical
 coriaceous
 canichana
 coriamyrtin
