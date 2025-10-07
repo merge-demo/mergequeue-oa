@@ -5258,7 +5258,6 @@ deputy
 dismisses
 desired
 dhurna
-dicty
 dine
 duncery
 deafer
@@ -10393,6 +10392,7 @@ drabler
 doleance
 disfavors
 dioxides
+dicty
 dioxids
 donald
 discoursively
