@@ -7940,6 +7940,7 @@ dewclaws
 dianthus
 dioestrus
 dewdropper
+dendrocoelous
 dhaura
 drank
 distractile
@@ -16210,7 +16211,6 @@ dour
 dourah
 drochuil
 domify
-dendrocoelous
 dourer
 daedal
 dournesses
