@@ -7807,7 +7807,6 @@ archidium
 alethoscope
 anthogenous
 aletocyte
-autochromy
 appliers
 aldehydrol
 anoplotherium
@@ -19783,6 +19782,7 @@ arminianize
 acupuncturists
 atabals
 antiseptically
+autochromy
 arminianizer
 asterial
 armipotence
