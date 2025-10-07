@@ -10010,6 +10010,7 @@ archenteron
 ambrain
 antehuman
 acidimetry
+aethered
 apolog
 ambreic
 arthroneuralgia
@@ -23653,7 +23654,6 @@ austral
 arabine
 auxetical
 acetabulous
-aethered
 avianization
 achieved
 alcogel

@@ -8635,6 +8635,7 @@ emergently
 equinate
 enameller
 educed
+enalite
 emerging
 excretions
 equinumerally
@@ -10354,7 +10355,6 @@ eloign
 ethylamime
 elytra
 ethnopsychology
-enalite
 ethnoses
 enthuses
 epistolary
