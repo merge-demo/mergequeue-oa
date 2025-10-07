@@ -9359,6 +9359,7 @@ adjusts
 altars
 armbone
 anemones
+agrege
 assagais
 angiosclerotic
 altazimuth
@@ -11651,7 +11652,6 @@ analemmas
 aconitum
 analemmata
 analepses
-agrege
 analeptic
 analgesics
 amylogens
