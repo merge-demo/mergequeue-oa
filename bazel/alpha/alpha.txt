@@ -3874,7 +3874,6 @@ acoin
 amphiprotic
 archit
 angulometer
-adminicula
 akolouthia
 arghoul
 adminicular
@@ -8264,6 +8263,7 @@ apathistical
 alivincular
 alizarate
 anesthesiant
+adminicula
 ant
 afterloss
 anthrathiophene
