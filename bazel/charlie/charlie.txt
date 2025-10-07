@@ -10978,6 +10978,7 @@ chirotherium
 chastacosta
 consubstantiality
 cablets
+crystallomagnetic
 comessation
 counterinsurgencies
 crutcher
@@ -29431,7 +29432,6 @@ crystalloid
 cloven
 concretism
 crystalloidal
-crystallomagnetic
 comet
 cravers
 cuban
