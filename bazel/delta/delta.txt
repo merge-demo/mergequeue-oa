@@ -353,7 +353,6 @@ desquamative
 demobs
 dermopterous
 dichlorodiphenyltrichloroethane
-dunstable
 dupatta
 dimeran
 dummyweed
@@ -11587,6 +11586,7 @@ diandrous
 dipt
 disconectae
 dosology
+dunstable
 danaro
 disconjure
 drinkless
