@@ -8201,6 +8201,7 @@ bifaces
 bedrabble
 bifacial
 bifara
+belonosphaerite
 bootleger
 bedress
 befiddle
@@ -11413,7 +11414,6 @@ bazars
 baht
 blaseness
 birminghamize
-belonosphaerite
 barmkin
 beclasping
 bluffy
