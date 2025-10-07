@@ -3527,6 +3527,7 @@ apanthropia
 attempre
 antidiphtheritic
 approachless
+approximants
 adenotome
 adonian
 acknow
@@ -17853,7 +17854,6 @@ athreptic
 apochromatic
 achromoderma
 aglipayano
-approximants
 avifaunae
 acridly
 allodiaries
