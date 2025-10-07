@@ -1368,7 +1368,6 @@ caliginously
 cyanin
 cunctipotent
 cylindrical
-cabbling
 caligrapher
 condiments
 caligulism
@@ -18676,6 +18675,7 @@ choicy
 coincidents
 coinciding
 cadillacs
+cabbling
 cystomata
 coachability
 ceint
