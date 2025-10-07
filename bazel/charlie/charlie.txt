@@ -4925,6 +4925,7 @@ chirotes
 cleeked
 conduct
 cartilagines
+conscript
 cartilaginoid
 cellarway
 corkscrewed
@@ -22820,7 +22821,6 @@ coapostate
 cloisterliness
 chronogenesis
 conscribing
-conscript
 counterfeiters
 conscripting
 clambering
