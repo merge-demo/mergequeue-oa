@@ -405,7 +405,6 @@ cacothansia
 cacotheline
 cacothymia
 colymbion
-cacotype
 cacotopia
 cacotrophia
 coombs
@@ -1663,6 +1662,7 @@ curlicuing
 cleistogene
 circ
 counterdiscipline
+cacotype
 calorifical
 calorification
 cardiograph

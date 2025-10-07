@@ -5945,6 +5945,7 @@ broquery
 bekko
 bemaul
 bipinnarias
+bijou
 bitterbark
 bemean
 bementite
@@ -8405,7 +8406,6 @@ bijasal
 bijections
 bree
 brush
-bijou
 bookism
 bhandar
 bijwoner
