@@ -12471,7 +12471,6 @@ algosis
 aneurisms
 anfract
 anarithia
-anfractuose
 antirationalism
 authentications
 albuminiform
@@ -19097,6 +19096,7 @@ ardour
 ardours
 aerosiderolite
 amygdophenin
+anfractuose
 acetonaphthone
 awabi
 arduousness
