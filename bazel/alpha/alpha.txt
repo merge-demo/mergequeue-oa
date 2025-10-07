@@ -4326,7 +4326,6 @@ acroneurosis
 amends
 advantageously
 advantageousness
-antipruritic
 annonaceae
 afghani
 acculturate
@@ -12173,6 +12172,7 @@ andirons
 annulose
 amalett
 autotoxemia
+antipruritic
 alienating
 affranchising
 andorite
