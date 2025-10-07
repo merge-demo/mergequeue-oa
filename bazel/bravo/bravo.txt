@@ -13508,6 +13508,7 @@ bogeying
 burgs
 bayness
 beer
+bitty
 bought
 bottleman
 benzin
@@ -14568,7 +14569,6 @@ birdwoman
 barouches
 bawdstrot
 biri
-bitty
 brandied
 brandiron
 buddle
