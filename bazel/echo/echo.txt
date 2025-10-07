@@ -2214,7 +2214,6 @@ eulogy
 endocytic
 elecives
 emplectite
-electant
 epitheliulia
 electary
 engrailing
@@ -7455,6 +7454,7 @@ extraterrestrial
 encyclicals
 ephelcystic
 eunuchizing
+electant
 extinguishant
 ephemeralities
 effluvial
