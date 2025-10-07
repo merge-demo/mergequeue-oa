@@ -6473,6 +6473,7 @@ aile
 ambulatorium
 agrestian
 ailed
+ardour
 adradius
 airier
 anatolian
@@ -19090,7 +19091,6 @@ ardors
 asparagin
 adrent
 agriotype
-ardour
 ardours
 aerosiderolite
 amygdophenin
