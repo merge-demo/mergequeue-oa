@@ -17114,7 +17114,6 @@ coaction
 coactive
 coactively
 coacts
-coadamite
 cavings
 coadaptations
 californium
@@ -27657,6 +27656,7 @@ cowhand
 curtays
 cowherb
 cowherds
+coadamite
 contubernium
 cwo
 clavicornate
