@@ -18244,7 +18244,6 @@ aruspice
 arank
 aranzada
 acceding
-ankylotia
 attempered
 arapaho
 araphorostic
@@ -24271,6 +24270,7 @@ acaulescence
 autopsychosis
 algologies
 angulating
+ankylotia
 applecart
 autopsies
 ambrose
