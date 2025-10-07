@@ -19110,7 +19110,6 @@ ammunition
 autotypes
 armado
 areal
-atuami
 areawide
 animisms
 arecain
@@ -25290,6 +25289,7 @@ autobasidium
 alligating
 astrochemist
 archetypally
+atuami
 arteriorrhaphy
 atmospheric
 anesthetist

@@ -2764,6 +2764,7 @@ estrangements
 elementalize
 ephori
 elementaloid
+euphemistic
 emperil
 essang
 encoronate
@@ -7901,7 +7902,6 @@ expired
 eidola
 enlargement
 ethonone
-euphemistic
 eclampsia
 enclavement
 excoriable
