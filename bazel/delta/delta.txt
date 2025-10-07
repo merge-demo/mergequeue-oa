@@ -4516,6 +4516,7 @@ dependant
 delftware
 demerit
 dotonidae
+detrains
 disreputable
 demiluster
 demoralize
@@ -5590,7 +5591,6 @@ deformational
 depasture
 desireable
 depatriate
-detrains
 dkm
 depeinct
 dependabilities
