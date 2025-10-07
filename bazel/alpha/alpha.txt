@@ -3336,7 +3336,6 @@ addle
 arthritic
 adenosis
 antonymic
-apposing
 anatomicophysiologic
 addlebrained
 arisaema
@@ -16997,6 +16996,7 @@ apogees
 apogeic
 acceptor
 antimarian
+apposing
 allotropism
 achiever
 away
