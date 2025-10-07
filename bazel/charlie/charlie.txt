@@ -4535,6 +4535,7 @@ colonel
 croisad
 cnidocell
 consummatory
+cosmonauts
 chukar
 carnitine
 collie
@@ -26110,7 +26111,6 @@ creekside
 comers
 cervelat
 craniums
-cosmonauts
 cosmoplastic
 cesarolite
 cosmopoietic
