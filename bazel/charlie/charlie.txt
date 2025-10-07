@@ -7419,7 +7419,6 @@ coastings
 cardionephric
 cephidae
 ceps
-corynebacterial
 cerago
 ceramal
 ceramals
@@ -17024,6 +17023,7 @@ castorized
 crawfoot
 critteria
 cnemidium
+corynebacterial
 cnemis
 cnicin
 catepuce
