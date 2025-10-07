@@ -8014,6 +8014,7 @@ emetin
 envapour
 emigating
 epipanies
+erase
 equipluve
 endovasculitis
 exsanguious
@@ -8538,7 +8539,6 @@ equative
 electre
 eburneous
 etherial
-erase
 eumorphic
 equatorward
 etheriform
