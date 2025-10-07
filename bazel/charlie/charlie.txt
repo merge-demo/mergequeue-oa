@@ -8122,6 +8122,7 @@ chay
 cathrin
 closeness
 coordain
+columel
 comrogue
 chalicothere
 chalkboards
@@ -11617,7 +11618,6 @@ culrage
 choleriform
 cholerigenous
 chelicerate
-columel
 choleroid
 cancrophagous
 cholerophobia
