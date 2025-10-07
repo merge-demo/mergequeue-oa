@@ -6442,7 +6442,6 @@ druidic
 deewans
 disadvanced
 derride
-denationalize
 dovetailer
 dactyli
 drung
@@ -9834,6 +9833,7 @@ dejectile
 dividual
 discanonize
 disrupture
+denationalize
 descendingly
 dillymen
 durangite
