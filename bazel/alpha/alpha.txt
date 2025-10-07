@@ -9374,6 +9374,7 @@ abettals
 amphophil
 abbot
 adopt
+abstersive
 alterative
 altercated
 algebraization
@@ -13439,7 +13440,6 @@ apostasis
 annulosa
 apparency
 annuls
-abstersive
 acyloin
 addresser
 annumerate
