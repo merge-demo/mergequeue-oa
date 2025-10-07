@@ -13712,7 +13712,6 @@ brashly
 bridged
 bullcart
 bindery
-besmottered
 bourree
 bided
 billyo
@@ -15284,6 +15283,7 @@ bierstuben
 bosthoon
 blaeness
 briered
+besmottered
 blunders
 brandless
 bagatelles
