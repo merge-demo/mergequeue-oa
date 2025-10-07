@@ -4388,6 +4388,7 @@ essence
 eternized
 electrophototherapy
 electrophysiologic
+endogenetic
 excentrical
 endenizen
 extispices
@@ -8357,7 +8358,6 @@ eastlins
 epicontinental
 erosive
 exportation
-endogenetic
 electrobiology
 ecch
 euphrasies
