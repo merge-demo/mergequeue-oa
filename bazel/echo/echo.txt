@@ -2439,7 +2439,6 @@ epidemiologies
 engladden
 elutriate
 elean
-ethanol
 electrogalvanization
 electrogenetic
 equivalence
@@ -10692,6 +10691,7 @@ euglenoid
 evenworthy
 ecossaise
 egosyntonic
+ethanol
 etiquet
 endfile
 ellan
