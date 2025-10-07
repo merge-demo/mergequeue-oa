@@ -6896,6 +6896,7 @@ epispore
 ectocardia
 endometria
 evaporable
+exhausting
 equipments
 embelif
 emmental
@@ -8083,7 +8084,6 @@ extraordinaries
 expressable
 epiplasmic
 epiplectic
-exhausting
 epiploce
 exacum
 epiplocele
