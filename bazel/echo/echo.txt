@@ -8097,6 +8097,7 @@ expenseful
 extrude
 elegant
 epipterous
+enchondrosis
 epipubis
 expostulations
 esterifying
@@ -10910,7 +10911,6 @@ encephalocoele
 epibaterium
 euktolite
 euphory
-enchondrosis
 euphoriant
 eaglewood
 extroversively
