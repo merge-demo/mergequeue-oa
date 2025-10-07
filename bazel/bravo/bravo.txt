@@ -17258,6 +17258,7 @@ bobolinks
 bunches
 bunchily
 bunchiness
+backstroked
 buncoing
 brickfield
 berthing
@@ -17771,7 +17772,6 @@ bambini
 bursae
 bursary
 botrydium
-backstroked
 bazzite
 bacterizing
 brave

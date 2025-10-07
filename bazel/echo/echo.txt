@@ -4138,6 +4138,7 @@ emporiums
 eyewink
 ethynyls
 emporte
+espinos
 ecstasy
 exegeses
 enhydra
@@ -7607,7 +7608,6 @@ ecstaticize
 epicoele
 elkesaite
 extolment
-espinos
 epicoeloma
 euchymous
 emeraude
