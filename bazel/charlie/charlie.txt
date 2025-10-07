@@ -7048,6 +7048,7 @@ condonations
 cack
 centennial
 centennially
+cozies
 corroborant
 centennials
 caribes
@@ -11545,7 +11546,6 @@ cholecystgastrostomy
 carburisation
 complimenting
 cholecystitis
-cozies
 cacographer
 christophany
 cupellation
