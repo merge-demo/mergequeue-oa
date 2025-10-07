@@ -6306,7 +6306,6 @@ echinosphaerites
 enharmonically
 earnful
 emodin
-embrocation
 ejusd
 enrolls
 eumycetes
@@ -13495,6 +13494,7 @@ ectocondyloid
 editing
 etruscologist
 evaporite
+embrocation
 eristic
 endangeitis
 epitomic
