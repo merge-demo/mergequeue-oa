@@ -17028,7 +17028,6 @@ acuminous
 apoidea
 astucity
 apoious
-adiposity
 apojove
 antihistorical
 apokatastasis
@@ -21297,6 +21296,7 @@ amnesties
 autotriploidy
 amenage
 alluvia
+adiposity
 aliso
 asperate
 archinformer
