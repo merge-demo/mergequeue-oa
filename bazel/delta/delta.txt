@@ -4801,7 +4801,6 @@ disrelish
 devi
 disremember
 dilettant
-demobilising
 diploneural
 denominated
 democracies
@@ -6822,6 +6821,7 @@ dihedrons
 desirous
 droh
 desirousness
+demobilising
 diaconate
 decompositional
 desklike
