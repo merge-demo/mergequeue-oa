@@ -20318,6 +20318,7 @@ antitypes
 acceptableness
 asynchrony
 asplanchnic
+archetypally
 adaptively
 anaglyphoscope
 autosymnoia
@@ -25288,7 +25289,6 @@ adenofibroma
 autobasidium
 alligating
 astrochemist
-archetypally
 atuami
 arteriorrhaphy
 atmospheric
