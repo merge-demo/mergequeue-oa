@@ -732,6 +732,7 @@ conductorship
 cagework
 coordinators
 consonantising
+cubation
 calliphorine
 conjurors
 cagy
@@ -12655,7 +12656,6 @@ convinces
 chucky
 chuckie
 chuckies
-cubation
 cretics
 cecidology
 contracted
