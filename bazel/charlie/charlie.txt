@@ -9615,7 +9615,6 @@ cheerleader
 caesareanize
 cheerleaders
 clarifies
-cheerleading
 cystorrhaphy
 cyathaspis
 calcipexy
@@ -18451,6 +18450,7 @@ cognition
 cucullated
 clavicembali
 caddle
+cheerleading
 conclude
 canmaking
 camelopardus
