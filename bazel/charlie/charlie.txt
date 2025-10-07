@@ -3121,7 +3121,6 @@ cenotaphies
 commanders
 counterjumper
 cyclopes
-capacitor
 chalker
 clone
 capanna
@@ -25492,6 +25491,7 @@ coronalled
 coronals
 coronamen
 coronate
+capacitor
 commandeer
 corrosible
 calibrators
