@@ -4384,7 +4384,6 @@ encapsuled
 estimators
 enure
 effectively
-encapsuling
 encaptivate
 essence
 eternized
@@ -9908,6 +9907,7 @@ epideictical
 extensionist
 electromagnetics
 exude
+encapsuling
 exoculated
 enskies
 extravertive
