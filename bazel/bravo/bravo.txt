@@ -1999,6 +1999,7 @@ borofluorin
 begetting
 bluntish
 bondhold
+brushability
 brachycranial
 betty
 bronzer
@@ -14156,7 +14157,6 @@ belemnitidae
 brachium
 brachyuran
 brotherton
-brushability
 bour
 backs
 bracked
