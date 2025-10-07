@@ -112,7 +112,6 @@ butyrinase
 bladderwrack
 battements
 blackcoat
-balanophore
 baroclinity
 banditry
 biforine
@@ -4471,6 +4470,7 @@ basellaceous
 burree
 befleaing
 basaltware
+balanophore
 bocci
 bosons
 becuiba
