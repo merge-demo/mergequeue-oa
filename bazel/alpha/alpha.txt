@@ -11273,6 +11273,7 @@ amplexicaul
 aeciostage
 amplexicauline
 aliturgical
+antiscolic
 artels
 abstinence
 antifoaming
@@ -15955,7 +15956,6 @@ antimonial
 alcoholate
 auto
 aper
-antiscolic
 aposporic
 antagonizable
 abigei
