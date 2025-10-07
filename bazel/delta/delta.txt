@@ -1232,7 +1232,6 @@ dancettee
 dermatosiophobia
 doormat
 devilhood
-datana
 discounting
 denasalizing
 datapac
@@ -14619,6 +14618,7 @@ demosthenic
 druery
 dystrophic
 developmentary
+datana
 decupling
 dietal
 dissyllabizing
