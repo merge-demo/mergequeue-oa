@@ -5867,7 +5867,6 @@ belostomidae
 bruta
 boroughmongery
 broadening
-benzalcyanhydrin
 beden
 backswordmen
 bulwark
@@ -11657,6 +11656,7 @@ beshell
 bryologist
 bosket
 breakfasts
+benzalcyanhydrin
 bacterioscopical
 barspoon
 bronchium
