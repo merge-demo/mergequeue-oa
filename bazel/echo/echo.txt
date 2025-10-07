@@ -4414,6 +4414,7 @@ eurasia
 echards
 edifices
 encarnalized
+enflaming
 exalts
 epidermal
 embreach
@@ -5553,7 +5554,6 @@ estimably
 enrichment
 endogens
 ethologist
-enflaming
 epiklesis
 equuleus
 embryulcus
