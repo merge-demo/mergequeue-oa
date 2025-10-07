@@ -272,7 +272,6 @@ appurtenances
 accuracy
 arteriopathy
 aguamas
-abdominals
 acrospire
 abdominocystic
 ailuro
@@ -15760,6 +15759,7 @@ antelopine
 antiprelatic
 arbitrations
 archils
+abdominals
 astrophotometry
 anno
 arni
