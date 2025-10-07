@@ -9334,7 +9334,6 @@ alsmekill
 alstonia
 absurds
 anchylotic
-amphiblastic
 alstonite
 alstroemeria
 alsweill
@@ -19338,6 +19337,7 @@ apperception
 archoptoma
 aridest
 aelurophobe
+amphiblastic
 augmenting
 adrenocorticosteroid
 aworry
