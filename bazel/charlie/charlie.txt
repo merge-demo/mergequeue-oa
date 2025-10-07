@@ -4087,7 +4087,6 @@ cardinalities
 cardinally
 citriculturist
 cardinalship
-cardioarterial
 chequerwork
 cardiocarpum
 cephalothorax
@@ -7581,6 +7580,7 @@ confutator
 cava
 citrulline
 cosmolabe
+cardioarterial
 corydaline
 cerebrifugal
 campshed
