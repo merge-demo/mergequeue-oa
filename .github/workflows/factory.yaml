@@ -35,12 +35,12 @@ jobs:
       - name: run mq
         id: edits
         run: ./mq generate --gh-token=${{ secrets.ELI_MQ }} --gh-token=${{ secrets.PHIL_MQ }} 
-        # env:
-        #   GH_TOKEN: ${{ secrets.ELI_MQ }}
+        env:
+          TRUNK_TOKEN: ${{ secrets.TRUNK_PROD_ORG_API_TOKEN }}
 
       - name: run mq
         if: always()
         id: clean
         run: ./mq housekeeping --gh-token=${{ secrets.ELI_MQ }}
-        # env:
-        #   GH_TOKEN: ${{ secrets.ELI_MQ }}
+        env:
+          TRUNK_TOKEN: ${{ secrets.TRUNK_PROD_ORG_API_TOKEN }}
