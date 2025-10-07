@@ -193,7 +193,6 @@ bibliopolism
 boh
 bayous
 baccalaureate
-baccara
 baroques
 bdrm
 bedin
@@ -14935,6 +14934,7 @@ blennophlogisma
 breathes
 boarstaff
 bonyfish
+baccara
 boogerman
 breathiness
 bookishly
