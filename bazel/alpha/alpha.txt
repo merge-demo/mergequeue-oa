@@ -7098,6 +7098,7 @@ alantic
 alantin
 aquabib
 alantolactone
+alumian
 antityphoid
 assimilability
 appleroot
@@ -7669,7 +7670,6 @@ anglicism
 advocatess
 adequative
 aldus
-alumian
 alchemically
 aortosclerosis
 amphibia
