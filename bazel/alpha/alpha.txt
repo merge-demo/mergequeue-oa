@@ -12275,7 +12275,6 @@ admensuration
 anecdysis
 antianaphylactogen
 algesis
-armchairs
 autonomical
 atomiferous
 axisymmetry
@@ -12811,6 +12810,7 @@ assurance
 antipatriotically
 apologist
 angulus
+armchairs
 antepone
 anticomplementary
 angust
