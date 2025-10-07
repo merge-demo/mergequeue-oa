@@ -11707,6 +11707,7 @@ eglateres
 examinant
 eschewer
 enscrolled
+eglamore
 examinatory
 endochrome
 encumbering
@@ -12600,7 +12601,6 @@ etheostoma
 effectualness
 epigenetically
 eagless
-eglamore
 encirclement
 eyeletted
 excoriate
