@@ -2166,7 +2166,6 @@ deperditely
 discrepate
 dromedary
 decanery
-decanes
 diabolify
 deraigns
 decently
@@ -13627,6 +13626,7 @@ durity
 degases
 dissymmetric
 degender
+decanes
 dampy
 dynamis
 disturbances
