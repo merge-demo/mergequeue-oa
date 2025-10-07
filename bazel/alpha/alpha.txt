@@ -1750,6 +1750,7 @@ adulce
 acellular
 acemila
 antilepton
+geronimo
 ahaaina
 acerb
 acromioscapular
@@ -9549,7 +9550,6 @@ alumohydrocalcite
 alundum
 artiphyllous
 appendices
-geronimo
 arcadic
 agitpunkt
 antisiccative
