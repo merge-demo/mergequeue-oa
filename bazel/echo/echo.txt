@@ -1467,7 +1467,6 @@ exposal
 embolium
 embarrased
 ethicists
-epicene
 empathic
 etui
 epizootically
@@ -6260,6 +6259,7 @@ ecstatica
 enrapt
 eurygaean
 enrapted
+epicene
 equisonant
 enrapts
 ethynyl
