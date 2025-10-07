@@ -4563,6 +4563,7 @@ branchial
 brachelytrous
 bedstand
 balances
+brocard
 blader
 bouts
 bucklered
@@ -7695,7 +7696,6 @@ brakehand
 bourder
 babhan
 bullan
-brocard
 bitriseptate
 burntly
 burr
