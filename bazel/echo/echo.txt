@@ -1776,7 +1776,6 @@ epigenic
 eparchs
 erinose
 entericoid
-epigraphical
 engravers
 embankments
 encompasser
@@ -8558,6 +8557,7 @@ eburnification
 enharmonic
 equibalanced
 electrodialitic
+epigraphical
 equicohesive
 equicontinuous
 engagements
