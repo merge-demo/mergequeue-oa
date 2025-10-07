@@ -10133,6 +10133,7 @@ afforestation
 arytenoid
 aliened
 anemophile
+augean
 ameiosis
 angiolymphitis
 alloying
@@ -23693,7 +23694,6 @@ anthozoan
 abled
 antimonarchically
 arduinite
-augean
 arborary
 aphetic
 antiphrastically
