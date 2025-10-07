@@ -1511,7 +1511,6 @@ burseraceous
 backboards
 bogway
 ball
-brachycnemic
 biunique
 binbashi
 ballad
@@ -9305,6 +9304,7 @@ barman
 backarrow
 baccaras
 bindweb
+brachycnemic
 brendice
 bodes
 besmother
