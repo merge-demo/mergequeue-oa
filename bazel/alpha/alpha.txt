@@ -6318,7 +6318,6 @@ apprises
 aheight
 abstricted
 arabicism
-anthropophysite
 abashedly
 alapa
 anzanian
@@ -18210,6 +18209,7 @@ araguane
 anilopyrin
 araguato
 airlike
+anthropophysite
 almicore
 arains
 accessioned
