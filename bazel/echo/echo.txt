@@ -6874,6 +6874,7 @@ entomophila
 elapids
 entomophobia
 earwaxes
+eucrite
 esthesiography
 essentialize
 electrochemical
@@ -10594,7 +10595,6 @@ epiplopexy
 eyewaters
 educate
 egoizer
-eucrite
 esophagoplication
 enthusiasticalness
 electroendosmose
