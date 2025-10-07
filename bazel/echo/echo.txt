@@ -6708,7 +6708,6 @@ entertainingly
 entertainingness
 electrophysics
 entertainment
-endosepsis
 echimys
 epicenters
 equines
@@ -12214,6 +12213,7 @@ extralateral
 elevener
 entally
 erodable
+endosepsis
 edriasteroidea
 ergotine
 eskuara

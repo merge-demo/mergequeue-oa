@@ -565,6 +565,7 @@ confort
 caduac
 cruiseway
 commilitant
+cuculi
 caducean
 catechistic
 catechesis
@@ -5303,7 +5304,6 @@ castanea
 chewy
 crescentic
 cylindroconical
-cuculi
 chrestomathics
 castanean
 cyrillaceous
