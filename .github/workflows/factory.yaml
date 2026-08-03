@@ -24,11 +24,11 @@ jobs:
         with:
           tools: gh
 
-      - uses: robinraju/release-downloader@v1.9
+      - uses: robinraju/release-downloader@v1.13
         with:
           repository: trunk-io/mergequeue-tool
           latest: true
-          tarBall: true
+          fileName: mq-*-x86_64-unknown-linux-gnu.tar.gz
           preRelease: true
           extract: true
 
