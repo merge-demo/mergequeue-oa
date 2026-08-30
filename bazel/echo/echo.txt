@@ -6181,6 +6181,7 @@ ennoblement
 estuant
 epenetic
 endrins
+epistolary
 ennoblements
 euryhaline
 excrescences
@@ -10358,7 +10359,6 @@ ethnopsychology
 enalite
 ethnoses
 enthuses
-epistolary
 elkoshite
 ethnozoology
 ethography
