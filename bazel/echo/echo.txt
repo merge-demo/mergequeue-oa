@@ -7,7 +7,6 @@ endecha
 eutropous
 electrochronograph
 engirding
-epidermoid
 evaporometer
 escamotage
 euchologion
@@ -2807,6 +2806,7 @@ eleoptene
 embden
 erratuta
 etatism
+epidermoid
 empathize
 exostracize
 eucharistized
