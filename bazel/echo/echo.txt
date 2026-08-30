@@ -749,7 +749,6 @@ endermatic
 effascinate
 ecotype
 ecotypes
-ecotipically
 epigeic
 ecotypically
 engulfs
@@ -7462,6 +7461,7 @@ ephemeralities
 effluvial
 embattling
 ellerian
+ecotipically
 eavesdroppers
 ephemeralness
 ephemerid
